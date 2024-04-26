@@ -1,0 +1,23 @@
+{
+  "name": "bioladder-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saparate_data.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylethayer/bioladder-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylethayer/bioladder-data/issues"
+  },
+  "homepage": "https://github.com/kylethayer/bioladder-data#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
