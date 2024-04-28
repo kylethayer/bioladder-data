@@ -29,8 +29,8 @@ for taxonName in taxaInfo:
 # Output all files
 for taxonName in taxaInfo:
     print("saving " + taxonName)
-    taxonInfoString = json.dumps(taxonInfo[taxonName])
-    f = open("taxa_processed/" + taxonName.lower + ".json", "w", encoding="utf-8")
+    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'))
+    f = open("taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
     f.write(taxonInfoString)
     f.close()
 
