@@ -50,6 +50,12 @@ Object.keys(all_taxon).forEach(taxon_name => {
 
     taxon_parent_summary[capitalizedTaxonName] = taxon_info["parentTaxon"]
     taxon_list.push(capitalizedTaxonName)
+
+    // delete calculated fields to make the new "source" version of the files
+    delete taxon_info.popularSubtaxa
+    delete taxon_info.popularAncestors
+
+    fs.writeFile("taxa_source/" + taxon_file_name,  JSON.stringify(taxon_info))
 })
 
 fs.writeFile("taxon_parent_summary.json", JSON.stringify(taxon_parent_summary))
