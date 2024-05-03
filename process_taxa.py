@@ -5,7 +5,6 @@ import json, os
 taxaSourceFiles = os.listdir("taxa_source")
 
 for taxonSourceFile in taxaSourceFiles:
-    print("copying source from " + taxonSourceFile)
     f = open("taxa_source/" + taxonSourceFile, encoding="utf-8")
     taxonSourceInfo = json.loads(f.read())
 
