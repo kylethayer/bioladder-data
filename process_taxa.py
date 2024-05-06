@@ -92,3 +92,117 @@ for taxonName in taxaForSaving.keys():
     f.close()
 
 # TODO: update taxon_list.json and taxon_parent_summary.json
+
+
+
+#### Relevant ruby code
+
+# maxEntriesToProcess = 25
+# WeightAgainstBranchFraction = 0.7
+# AncestorPopWeight = 0.85
+
+
+#########################
+# given parent popular ancestors and parent popularity, does parent go into the current taxon's popular ancestor list?
+
+#     parentPopularity = getEntryFieldValue(parentTaxonEntry, "Has Popularity").to_f
+    
+#     #Now see if it deserves a spot on the list
+#     #Using pAncestor, pAncestorPop, parentTaxonName, parentPopularity
+#     if(  parentPopularity > ancestorPop[0] * (AncestorPopWeight ** 3) ||
+# 	     parentPopularity > ancestorPop[1] * (AncestorPopWeight ** 2) ||
+#          parentPopularity > ancestorPop[2] * (AncestorPopWeight ** 1) ||	   
+# 	     parentPopularity > ancestorPop[3] || ancestor[3] == "")
+#       #We now will put parent in the ancestor[0] spot. 
+#       #See if Ancestor[0] should go into Ancestor[1] (each level works similarly)
+#       if(  ancestorPop[0] > ancestorPop[1] * (AncestorPopWeight ** 2) ||
+# 	       ancestorPop[0] > ancestorPop[2] * (AncestorPopWeight ** 1) ||
+# 	       ancestorPop[0] > ancestorPop[3] || ancestor[3] == "")
+		  
+#         if(  ancestorPop[1] > ancestorPop[2] * (AncestorPopWeight ** 1) ||
+# 		     ancestorPop[1] > ancestorPop[3] || ancestor[3] == "")
+			
+#           if(ancestorPop[2] > ancestorPop[3] || ancestor[3] == "")
+#             ancestor[3] = ancestor[2]
+#             ancestorPop[3] = ancestorPop[2]
+#           end
+#           ancestor[2] = ancestor[1]
+#           ancestorPop[2] = ancestorPop[1]
+#         end
+#           ancestor[1] = ancestor[0]
+#           ancestorPop[1] = ancestorPop[0]
+#       end
+#       ancestor[0] = parentTaxonName
+#       ancestorPop[0] = parentPopularity
+#     end
+#   end
+
+#   if(anyChanges)
+#     currentTaxonText = markChildrenNeedUpdateInText(currentTaxonText)
+#   end
+  
+################################################33
+# Popular subtaxa
+
+# popularityEntries = [] #options for popular subtaxa
+
+    # Put descendants in pupularEntries (with branch, which is themselves)
+#   descendants.each do |descendant| (inlcuding branch)
+#     descendantName = getEntryName(descendant)
+#     if(getEntryFieldValue(descendant, "Has Popularity"))
+#         descendantPopularity = getEntryFieldValue(descendant, "Has Popularity").to_f
+
+#         puts "#{descendantName}:#{descendantPopularity}"
+#         popularityEntries.push({
+#           :name => descendantName,
+#           :popularity => descendantPopularity,
+#           :orignal_popularity => descendantPopularity,
+#           :branch => descendantName
+#         })
+#     end
+    
+    #Popular subtaxa of each descendant (with branch)
+#     #Get PopularSubtaxa w/ popularity and add to hash under current branch
+#     subPopularSubtaxa = getEntryField(descendant, "Has Popular Subtaxa").to_a
+#     subPopularSubtaxa.each do |subDescendant|
+#       subDescendantName = getEntryName(subDescendant)
+#       subQueryResults = $mw.semantic_query("[[#{subDescendantName}]]", ['?Has Popularity'])
+#       subDescendantResult = subQueryResults.elements["query"].elements["results"].first
+#       if(getEntryFieldValue(subDescendantResult, "Has Popularity"))
+#         subDescendantPopularity = getEntryFieldValue(subDescendantResult, "Has Popularity").to_f
+        
+#         puts "#{subDescendantName}:#{subDescendantPopularity}"
+#         popularityEntries.push({
+#           :name => subDescendantName,
+#           :popularity => subDescendantPopularity,
+#           :orignal_popularity => subDescendantPopularity,
+#           :branch => descendantName
+#         })
+#       end
+#     end
+#   end
+  
+
+#   newPopularSubtaxa = []
+  
+    # Get top three, one at a time, choose one, and then weigh down popularity of entries in that
+    # branch
+#   (1..3).each do |i|
+#     #get most popular entry
+#     popularityEntries = popularityEntries.sort_by{|a| [a[:popularity], a[:name]]}
+#     newPopular = popularityEntries.last
+#     if(newPopular)
+#       newPopularSubtaxa.push({:name => newPopular[:name], :popularity => newPopular[:orignal_popularity]})
+#     end
+#     popularityEntries.delete(newPopular)
+  
+#     # weigh against the remaining in that same branch
+#     popularityEntries.each do |popularityHash|
+#       if(popularityHash[:branch] == newPopular[:branch])
+#         popularityHash[:popularity] = popularityHash[:popularity] * WeightAgainstBranchFraction
+#       end
+#     end
+#   end
+  
+#   newPopularSubtaxaString = newPopularSubtaxa.map{|pd| "#{pd[:name]}]](#{pd[:popularity]})"}.join(",")
+#   return newPopularSubtaxaString
