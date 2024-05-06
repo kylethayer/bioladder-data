@@ -1,7 +1,7 @@
 import json
 from flask import Flask, render_template, Response, request, jsonify
 # run with: python -m flask --app editor_server run
-# Note: You will have to install flask (e.g., run "pip inistall flask")
+# Note: You will have to install flask (e.g., run "pip install flask")
 app = Flask(__name__)
 
 @app.route("/")
@@ -26,7 +26,7 @@ def getTaxon():
         return jsonify({"error": "file not found"})
     
 @app.route("/getProcessedTaxon")
-def getTaxon():
+def getProcessedTaxon():
     taxonName = request.args.get('taxonName')
     lowCaseTaxonName = taxonName.lower()
     try:
