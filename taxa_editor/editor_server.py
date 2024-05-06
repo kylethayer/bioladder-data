@@ -22,8 +22,8 @@ def getTaxon():
         print("loading " + "../docs/taxa_source/" + lowCaseTaxonName + ".json")
         f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json")
         return jsonify(json.loads(f.read()))
-    except:
-        return jsonify({"error": "file not found"})
+    except Exception as e:
+        return jsonify({"error": e, "taxonName": lowCaseTaxonName})
     
 @app.route("/getProcessedTaxon")
 def getProcessedTaxon():
@@ -33,8 +33,8 @@ def getProcessedTaxon():
         print("loading " + "../docs/taxa_processed/" + lowCaseTaxonName + ".json")
         f = open("../docs/taxa_processed/" + lowCaseTaxonName + ".json")
         return jsonify(json.loads(f.read()))
-    except:
-        return jsonify({"error": "file not found"})
+    except Exception as e:
+        return jsonify({"error": e, "taxonName": lowCaseTaxonName})
 
 
 @app.route("/saveTaxon", methods = ["POST"])
@@ -47,7 +47,7 @@ def postProcessedTaxon():
     f.write(taxonInfoString)
     f.close()
     
-    return jsonify({"error": "file not found"})
+    return jsonify({"status": "success"})
 
 
 

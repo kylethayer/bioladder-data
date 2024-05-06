@@ -65,7 +65,7 @@ async function loadTaxon(taxonName){
     document.getElementById("scientificName_input").value=resultJSON.scientificName
     document.getElementById("otherNames_input").value=resultJSON.otherNames
     document.getElementById("popularity_input").value=resultJSON.popularity
-    document.getElementById("extinct_input").value=resultJSON.extinct
+    document.getElementById("extinct_input").checked=resultJSON.extinct
     document.getElementById("exampleMember_input").value=resultJSON.exampleMember
     document.getElementById("exampleMember_link").setAttribute("href", "#"+ resultJSON.exampleMember)
     document.getElementById("exampleMember_link").innerText = resultJSON.exampleMember
@@ -135,7 +135,7 @@ async function saveTaxon(){
         scientificName: document.getElementById("scientificName_input").value,
         otherNames: document.getElementById("otherNames_input").value ? document.getElementById("otherNames_input").value.split(",") : [],
         popularity: document.getElementById("popularity_input").value,
-        extinct: document.getElementById("extinct_input").value,
+        extinct: document.getElementById("extinct_input").checked,
         exampleMember: document.getElementById("exampleMember_input").value,
         exampleMemberType: document.getElementById("exampleMemberType_input").value,
         wikipediaImg: document.getElementById("wikipediaImg_input").value,
@@ -147,6 +147,10 @@ async function saveTaxon(){
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify(taxonJSON)
     })
+    let responseText = await response.text()
+    if(response.status >= 400 || responseText.includes("error")){
+        alert(responseText)
+    }
 
     if(currentTaxon == taxonName){
         loadTaxon(taxonName)
