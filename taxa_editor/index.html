@@ -1,17 +1,65 @@
 <html>
     <header>
         <script src="index.js"></script>
+        <style>
+            #view_edit_taxon_box p{
+                margin-top:5px;
+                margin-bottom:5px;
+            }
+            #searchTaxon_results{
+                max-height: 400px;
+            }
+        </style>
     </header>
     <body onload="init()">
         <h1>taxa editor</h1>
+        <p>This is only intended as an aide to create, edit, and process the taxa locally. 
+            It is not secure and not intended to be run as a public website.</p>
         <h2>View/Edit Taxon</h2>
-        <div id="view_edit_taxon">Loading...</div>
+        <h3><div id="view_edit_taxon_message">Loading...</div></h3>
+        <div id="view_edit_taxon_box" hidden="true">
+            <p> <label for "name"> Name</label>
+                <input id="name_input" name="name" type="text"/></p>
+            <p> <label for "parentTaxon">parentTaxon</label>
+                <input id="parentTaxon_input" name="parentTaxon" type="text"/>
+                <a href="#" id="parentTaxon_link"></a></p>
+            <p> <label for "description">description</label>
+                <input id="description_input" name="description" type="text"/></p>
+            <p> <label for "taxonomicRank">taxonomicRank</label>
+                <input id="taxonomicRank_input" name="taxonomicRank" type="text"/></p>
+            <p> <label for "scientificName">taxonomicRank</label>
+                <input id="scientificName_input" name="scientificName" type="text"/></p>
+            <p> <label for "otherNames">taxonomicRank</label>
+                <input id="otherNames_input" name="otherNames" type="text"/></p>
+            <p> <label for "popularity">popularity</label>
+                <input id="popularity_input" name="popularity" type="number"/></p>
+            <p> <label for "extinct">extinct</label>
+                <input id="extinct_input" name="extinct" type="checkbox"/></p>
+            <p> <label for "exampleMember">exampleMember</label>
+                <input id="exampleMember_input" name="exampleMember" type="text"/>
+                <a href="#" id="exampleMember_link"></a></p>  
+            <p> <label for "exampleMemberType">exampleMemberType</label>
+                <input id="exampleMemberType_input" name="exampleMemberType" type="checkbox"/></p>
+            <p> <label for "wikipediaImg">wikipediaImg</label>
+                <input id="wikipediaImg_input" name="wikipediaImg" type="checkbox"/></p>
+            <p> <label for "wikipediaPage">wikipediaPage</label>
+                <input id="wikipediaPage_input" name="wikipediaPage" type="checkbox"/></p>
+            <h3>Processed fields</h3>
+            <p><strong>Subtaxa</strong><span id="subtaxa"></span></p>
+            <p><strong>popularSubtaxa</strong><span id="popularSubtaxa"></span></p>
+            <p><strong>popularAncestors</strong><span id="popularAncestors"></span></p>
+        </div>
         <hr>
         <h2>New Taxon</h2>
         <input id="new_taxon_name" />
         <button onclick="createNewTaxon()">Create New Taxon</button>
         <hr>
         <h2>Search Taxon</h2>
+        <p>
+            <label for "searchTaxon">Search</label>
+            <input id="searchTaxon_input" name="searchTaxon" type="checkbox"/>
+            <div id="searchTaxon_results"></div>
+        </p>
         <div></div>
         <hr>
         <h2>Process Taxa</h2>

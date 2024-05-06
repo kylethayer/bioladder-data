@@ -66,3 +66,4 @@ for taxonName in taxaInfo:
     f.write(taxonInfoString)
     f.close()
 
+# TODO: update taxon_list.json and taxon_parent_summary.json
