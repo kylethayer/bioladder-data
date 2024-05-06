@@ -1,3 +1,5 @@
+let currentTaxon
+
 
 function isTaxonNameValid(taxonName){
     return /^[-_\w\s'ñ]+$/.test(taxonName)
@@ -35,8 +37,13 @@ async function loadTaxon(taxonName){
         alert("Invalid taxon name:" + taxonName)
         return
     }
+    currentTaxon = taxonName
     let response = await fetch("getTaxon?taxonName="+taxonName)
     let resultJSON = await response.json();
+
+    if(currentTaxon != taxonName){
+        return
+    }
 
 
 
@@ -64,11 +71,86 @@ async function loadTaxon(taxonName){
     document.getElementById("exampleMember_link").innerText = resultJSON.exampleMember
     document.getElementById("exampleMemberType_input").value=resultJSON.exampleMemberType
     document.getElementById("wikipediaImg_input").value=resultJSON.wikipediaImg
+    document.getElementById("wikipediaImg_preview").src=resultJSON.wikipediaImg
     document.getElementById("wikipediaPage_input").value=resultJSON.wikipediaPage
+    document.getElementById("wikipediaPage_link").href=resultJSON.wikipediaPage
+    document.getElementById("wikipediaPage_link").innerText=resultJSON.wikipediaPage
 
+    document.getElementById("subtaxa").innerHTML = ""
+    document.getElementById("popularSubtaxa").innerHTML = ""
+    document.getElementById("popularAncestors").innerHTML = ""
 
 
     document.getElementById("view_edit_taxon_box").removeAttribute("hidden")
+    loadTaxonProcessedFields(taxonName)
+}
+
+
+async function loadTaxonProcessedFields(taxonName){
+    let response = await fetch("getProcessedTaxon?taxonName="+taxonName)
+    let resultJSON = await response.json();
+
+    if(currentTaxon != taxonName){
+        return
+    }
+
+    if(resultJSON.subtaxa){
+        resultJSON.subtaxa.forEach(subtaxon => {
+            let subtaxonDom = document.createElement("a")
+            subtaxonDom.setAttribute("href", "#"+ subtaxon)
+            subtaxonDom.innerText = subtaxon
+            document.getElementById("subtaxa").append(subtaxonDom)
+            document.getElementById("subtaxa").innerHTML += ", "
+        })
+    }
+
+    if(resultJSON.popularSubtaxa){
+        resultJSON.popularSubtaxa.forEach(subtaxon => {
+            let subtaxonDom = document.createElement("a")
+            subtaxonDom.setAttribute("href", "#"+ subtaxon)
+            subtaxonDom.innerText = subtaxon
+            document.getElementById("popularSubtaxa").append(subtaxonDom)
+            document.getElementById("popularSubtaxa").innerHTML += ", "
+        })
+    }
+
+    if(resultJSON.popularAncestors){
+        resultJSON.popularAncestors.forEach(ancestor => {
+            let ancestorDom = document.createElement("a")
+            ancestorDom.setAttribute("href", "#"+ ancestor)
+            ancestorDom.innerText = ancestor
+            document.getElementById("popularAncestors").append(ancestorDom)
+            document.getElementById("popularAncestors").innerHTML += ", "
+        })
+    }
+}
+
+async function saveTaxon(){
+    let taxonName = document.getElementById("name_input").value
+    let taxonJSON = {
+        name: document.getElementById("name_input").value,
+        parentTaxon: document.getElementById("parentTaxon_input").value,
+        description: document.getElementById("description_input").value,
+        taxonomicRank: document.getElementById("taxonomicRank_input").value,
+        scientificName: document.getElementById("scientificName_input").value,
+        otherNames: document.getElementById("otherNames_input").value ? document.getElementById("otherNames_input").value.split(",") : [],
+        popularity: document.getElementById("popularity_input").value,
+        extinct: document.getElementById("extinct_input").value,
+        exampleMember: document.getElementById("exampleMember_input").value,
+        exampleMemberType: document.getElementById("exampleMemberType_input").value,
+        wikipediaImg: document.getElementById("wikipediaImg_input").value,
+        wikipediaPage: document.getElementById("wikipediaPage_input").value
+    }
+
+    let response = await fetch("saveTaxon", {
+        method: "POST",
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(taxonJSON)
+    })
+
+    if(currentTaxon == taxonName){
+        loadTaxon(taxonName)
+    }
 }
 
 function createNewTaxon(){

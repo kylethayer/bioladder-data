@@ -35,7 +35,19 @@ def getProcessedTaxon():
         return jsonify(json.loads(f.read()))
     except:
         return jsonify({"error": "file not found"})
+
+
+@app.route("/saveTaxon", methods = ["POST"])
+def postProcessedTaxon():
+    taxonData = request.json
+    lowCaseTaxonName = taxonData["name"].lower()
+
+    taxonInfoString = json.dumps(taxonData, separators=(',', ':'))
+    f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json", "w", encoding="utf-8")
+    f.write(taxonInfoString)
+    f.close()
     
+    return jsonify({"error": "file not found"})
 
 
 
