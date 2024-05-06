@@ -5,12 +5,12 @@ import json, os
 taxaSourceFiles = os.listdir("taxa_source")
 
 for taxonSourceFile in taxaSourceFiles:
-    f = open("taxa_source/" + taxonSourceFile, encoding="utf-8")
+    f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
     taxonSourceInfo = json.loads(f.read())
 
     taxonProcessedInfo = {}
-    if(os.path.isfile("taxa_processed/"+ taxonSourceFile)):
-        f = open("taxa_processed/"+ taxonSourceFile, encoding="utf-8")
+    if(os.path.isfile("docs/taxa_processed/"+ taxonSourceFile)):
+        f = open("docs/taxa_processed/"+ taxonSourceFile, encoding="utf-8")
         taxonProcessedInfo = json.loads(f.read())
 
     anyChanges = False
@@ -24,7 +24,7 @@ for taxonSourceFile in taxaSourceFiles:
 
         print("saving updated version of file " + taxonSourceFile)
         taxonInfoString = json.dumps(taxonSourceInfo, separators=(',', ':'))
-        f = open("taxa_processed/" + taxonSourceFile, "w", encoding="utf-8")
+        f = open("docs/taxa_processed/" + taxonSourceFile, "w", encoding="utf-8")
         f.write(taxonInfoString)
         f.close()
 
@@ -35,11 +35,11 @@ for taxonSourceFile in taxaSourceFiles:
 
 taxaInfo = {}
 
-taxaFiles = os.listdir("taxa_processed")
+taxaFiles = os.listdir("docs/taxa_processed")
 
 for taxonFile in taxaFiles:
     print("loading " + taxonFile)
-    f = open("taxa_processed/" + taxonFile, encoding="utf-8")
+    f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
     taxonInfo = json.loads(f.read())
     taxaInfo[taxonInfo["name"]] = taxonInfo 
 
@@ -62,7 +62,7 @@ for taxonName in taxaInfo:
 for taxonName in taxaInfo:
     print("saving " + taxonName)
     taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'))
-    f = open("taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
+    f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
     f.write(taxonInfoString)
     f.close()
 
