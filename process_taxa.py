@@ -58,7 +58,7 @@ for taxonFile in taxaFiles:
     taxonInfo = json.loads(f.read())
     taxaInfo[taxonInfo["name"]] = taxonInfo 
     if taxonInfo.get("needs_to_be_processed"):
-        taxaForProcessing[taxonInfo["name"]] = True
+        taxaForProcessing[taxonInfo["name"].lower()] = True
 
 counter = 0
 # Find all subtaxa
@@ -79,8 +79,8 @@ for taxonName in taxaInfo:
     if "subtaxa" in taxonInfo and taxonInfo["subtaxa"].sort() != subtaxa.sort():
         print("**Updating subtaxa for " + taxonName)
         taxonInfo["subtaxa"] = subtaxa
-        taxaForProcessing[taxonName] = True
-        taxaForSaving[taxonName] = True
+        taxaForProcessing[taxonName.lower()] = True
+        taxaForSaving[taxonName.lower()] = True
 
 #######################################
 ## process popularSubtaxa and popularAncestors
@@ -147,19 +147,20 @@ while len(taxaForProcessing.keys() > 0):
     # are different from what is currently saved
     if(popAncestorNames != taxonInfo["popularAncestors"] or
        popAncestorPops != taxonInfo["popularAncestorPops"] ):
-        taxaForSaving[taxonName] = True
+        taxaForSaving[taxonName.lower()] = True
         
         # mark children as needing update if there was a change
 
         if("subtaxa" in taxonInfo):
             for subtaxonName in taxonInfo["subtaxa"]:
-                taxaForProcessing[subtaxonName] = True
+                taxaForProcessing[subtaxonName.lower()] = True
 
 
     #####
     # Popular Subtaxa
 
     possiblePopSubtaxa = []
+    newPopSubtaxa = []
 
     # Add children as possibilities (self as branch)
     # Add children's popular subtaxa as possibilities (the child we got them from as the branch)
@@ -169,14 +170,40 @@ while len(taxaForProcessing.keys() > 0):
             possiblePopSubtaxa.append({
                 "name": childPopSubTaxon,
                 "popularity": taxonInfo[childPopSubTaxon]["popularity"],
+                "relative_popularity": taxonInfo[childPopSubTaxon]["popularity"], #will change as we choose children from different branches
                 "branch": childTaxon
             })
 
-    # Find what should be the subtaxa
-    
+    # Find what should be the three popular subtaxa
+    for i in range(3):
+        #sort possible popSubtaxa to get most popular entry
+        if(len(possiblePopSubtaxa) > 0):
+            print("going to sort ",  str(possiblePopSubtaxa))
+            possiblePopSubtaxa = sorted(possiblePopSubtaxa, key=lambda x: x['relative_popularity'], reverse=True)
+            print("sorted ",  str(possiblePopSubtaxa))
 
-    #mark parent as needing update if there was a change
+            newPopSubtaxon = possiblePopSubtaxa.pop()
 
+            newPopSubtaxa.append(newPopSubtaxon)
+
+            # weigh against the remaining possiblePopSubtaxa in that same branch
+            for popSubtaxon in possiblePopSubtaxa:
+                if(popSubtaxon['branch'] == newPopSubtaxon['branch']):
+                    popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
+
+
+    # check if there was a change that needs to be saved
+    # and mark parent as needing update if there was a change
+    if(newPopSubtaxa != taxonInfo["popularSubtaxa"]):
+        taxaForSaving[taxonName.lower()] = True
+        
+        # mark parent as needing update if there was a change
+
+        if(taxonInfo["parentTaxon"]):
+            taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+
+
+    # We are done processing this taxon, mark as complete
     del taxonInfo["needs_to_be_processed"]
     del taxaForProcessing[taxonName]
     
@@ -186,122 +213,11 @@ while len(taxaForProcessing.keys() > 0):
 # Output all files
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
-    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'))
-    f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
-    f.write(taxonInfoString)
-    f.close()
+    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'), indent=0)
+    print("prentending: ")
+    #f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
+    #f.write(taxonInfoString)
+    #f.close()
 
 # TODO: update taxon_list.json and taxon_parent_summary.json
 # Note: Taxon search could use a csv that has taxon name, other names, scientific name, and popularity
-
-#### Relevant ruby code
-
-# maxEntriesToProcess = 25
-# WeightAgainstBranchFraction = 0.7
-# AncestorPopWeight = 0.85
-
-
-#########################
-# given parent popular ancestors and parent popularity, does parent go into the current taxon's popular ancestor list?
-
-#     parentPopularity = getEntryFieldValue(parentTaxonEntry, "Has Popularity").to_f
-    
-#     #Now see if it deserves a spot on the list
-#     #Using pAncestor, pAncestorPop, parentTaxonName, parentPopularity
-#     if(  parentPopularity > ancestorPop[0] * (AncestorPopWeight ** 3) ||
-# 	     parentPopularity > ancestorPop[1] * (AncestorPopWeight ** 2) ||
-#          parentPopularity > ancestorPop[2] * (AncestorPopWeight ** 1) ||	   
-# 	     parentPopularity > ancestorPop[3] || ancestor[3] == "")
-#       #We now will put parent in the ancestor[0] spot. 
-#       #See if Ancestor[0] should go into Ancestor[1] (each level works similarly)
-#       if(  ancestorPop[0] > ancestorPop[1] * (AncestorPopWeight ** 2) ||
-# 	       ancestorPop[0] > ancestorPop[2] * (AncestorPopWeight ** 1) ||
-# 	       ancestorPop[0] > ancestorPop[3] || ancestor[3] == "")
-		  
-#         if(  ancestorPop[1] > ancestorPop[2] * (AncestorPopWeight ** 1) ||
-# 		     ancestorPop[1] > ancestorPop[3] || ancestor[3] == "")
-			
-#           if(ancestorPop[2] > ancestorPop[3] || ancestor[3] == "")
-#             ancestor[3] = ancestor[2]
-#             ancestorPop[3] = ancestorPop[2]
-#           end
-#           ancestor[2] = ancestor[1]
-#           ancestorPop[2] = ancestorPop[1]
-#         end
-#           ancestor[1] = ancestor[0]
-#           ancestorPop[1] = ancestorPop[0]
-#       end
-#       ancestor[0] = parentTaxonName
-#       ancestorPop[0] = parentPopularity
-#     end
-#   end
-
-#   if(anyChanges)
-#     currentTaxonText = markChildrenNeedUpdateInText(currentTaxonText)
-#   end
-  
-################################################33
-# Popular subtaxa
-
-# popularityEntries = [] #options for popular subtaxa
-
-    # Put descendants in pupularEntries (with branch, which is themselves)
-#   descendants.each do |descendant| (inlcuding branch)
-#     descendantName = getEntryName(descendant)
-#     if(getEntryFieldValue(descendant, "Has Popularity"))
-#         descendantPopularity = getEntryFieldValue(descendant, "Has Popularity").to_f
-
-#         puts "#{descendantName}:#{descendantPopularity}"
-#         popularityEntries.push({
-#           :name => descendantName,
-#           :popularity => descendantPopularity,
-#           :orignal_popularity => descendantPopularity,
-#           :branch => descendantName
-#         })
-#     end
-    
-    #Popular subtaxa of each descendant (with branch)
-#     #Get PopularSubtaxa w/ popularity and add to hash under current branch
-#     subPopularSubtaxa = getEntryField(descendant, "Has Popular Subtaxa").to_a
-#     subPopularSubtaxa.each do |subDescendant|
-#       subDescendantName = getEntryName(subDescendant)
-#       subQueryResults = $mw.semantic_query("[[#{subDescendantName}]]", ['?Has Popularity'])
-#       subDescendantResult = subQueryResults.elements["query"].elements["results"].first
-#       if(getEntryFieldValue(subDescendantResult, "Has Popularity"))
-#         subDescendantPopularity = getEntryFieldValue(subDescendantResult, "Has Popularity").to_f
-        
-#         puts "#{subDescendantName}:#{subDescendantPopularity}"
-#         popularityEntries.push({
-#           :name => subDescendantName,
-#           :popularity => subDescendantPopularity,
-#           :orignal_popularity => subDescendantPopularity,
-#           :branch => descendantName
-#         })
-#       end
-#     end
-#   end
-  
-
-#   newPopularSubtaxa = []
-  
-    # Get top three, one at a time, choose one, and then weigh down popularity of entries in that
-    # branch
-#   (1..3).each do |i|
-#     #get most popular entry
-#     popularityEntries = popularityEntries.sort_by{|a| [a[:popularity], a[:name]]}
-#     newPopular = popularityEntries.last
-#     if(newPopular)
-#       newPopularSubtaxa.push({:name => newPopular[:name], :popularity => newPopular[:orignal_popularity]})
-#     end
-#     popularityEntries.delete(newPopular)
-  
-#     # weigh against the remaining in that same branch
-#     popularityEntries.each do |popularityHash|
-#       if(popularityHash[:branch] == newPopular[:branch])
-#         popularityHash[:popularity] = popularityHash[:popularity] * WeightAgainstBranchFraction
-#       end
-#     end
-#   end
-  
-#   newPopularSubtaxaString = newPopularSubtaxa.map{|pd| "#{pd[:name]}]](#{pd[:popularity]})"}.join(",")
-#   return newPopularSubtaxaString
