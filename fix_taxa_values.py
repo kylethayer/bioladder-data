@@ -34,7 +34,7 @@ for taxonName in taxaInfo.keys():
     
     taxonInfo["popularSubtaxaPops"] = popularSubtaxaPops
 
-    with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w') as f:
+    with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
         json.dump(taxonInfo, f, indent=0)
 
 # ####################################3
@@ -74,7 +74,7 @@ for taxonName in taxaInfo.keys():
     
 #     taxonInfo["popularAncestorPops"] = popularAncestorPops
 
-#     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w') as f:
+#     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
 #         json.dump(taxonInfo, f, indent=0)
 
 
@@ -96,7 +96,7 @@ for taxonName in taxaInfo.keys():
 #     if("http://" in taxonSourceInfo["wikipediaImg"]):
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
-#     with open("docs/taxa_source/" + taxonSourceFile, 'w') as f:
+#     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
 #         json.dump(taxonSourceInfo, f, indent=0)
 
 # counter = 0
@@ -112,7 +112,7 @@ for taxonName in taxaInfo.keys():
 #     if("http://" in taxonSourceInfo["wikipediaImg"]):
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
-#     with open("docs/taxa_processed/" + taxonSourceFile, 'w') as f:
+#     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
 #         json.dump(taxonSourceInfo, f, indent=0)
 
 
@@ -131,7 +131,7 @@ for taxonName in taxaInfo.keys():
 #     f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
 #     taxonSourceInfo = json.loads(f.read())
 
-#     with open("docs/taxa_source/" + taxonSourceFile, 'w') as f:
+#     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
 #         json.dump(taxonSourceInfo, f, indent=0)
 
 
@@ -144,7 +144,7 @@ for taxonName in taxaInfo.keys():
 #     f = open("docs/taxa_processed/" + taxonSourceFile, encoding="utf-8")
 #     taxonSourceInfo = json.loads(f.read())
 
-#     with open("docs/taxa_processed/" + taxonSourceFile, 'w') as f:
+#     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
 #         json.dump(taxonSourceInfo, f, indent=0)
 
 
