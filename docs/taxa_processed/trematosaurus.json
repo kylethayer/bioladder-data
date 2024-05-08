@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Trematosaurus",
-"parentTaxon": "trematosauroidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trematosaurus1DB.jpg/220px-Trematosaurus1DB.jpg",
-"wikipediaPage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trematosaurus1DB.jpg/330px-Trematosaurus1DB.jpg",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Trematosaurus",
+"parentTaxon":"trematosauroidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trematosaurus1DB.jpg/220px-Trematosaurus1DB.jpg",
+"wikipediaPage":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trematosaurus1DB.jpg/330px-Trematosaurus1DB.jpg",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

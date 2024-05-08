@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Herrerasauridae",
-"parentTaxon": "theropoda",
-"exampleMember": "staurikosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Herrerasauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Herrerasauridae",
+"parentTaxon":"theropoda",
+"exampleMember":"staurikosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Herrerasauridae"
 }

@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ctenophora",
-"parentTaxon": "radiata",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ctenophora",
+"parentTaxon":"radiata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[
 "Comb jellies"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Haeckel_Ctenophorae.jpg/220px-Haeckel_Ctenophorae.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ctenophora"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Haeckel_Ctenophorae.jpg/220px-Haeckel_Ctenophorae.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ctenophora"
 }

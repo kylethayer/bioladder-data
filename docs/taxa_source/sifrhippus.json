@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sifrhippus",
-"parentTaxon": "equidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sifrhippus_sp..JPG/220px-Sifrhippus_sp..JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sifrhippus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sifrhippus",
+"parentTaxon":"equidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sifrhippus_sp..JPG/220px-Sifrhippus_sp..JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sifrhippus"
 }

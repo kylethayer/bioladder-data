@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Caseidae",
-"parentTaxon": "caseasauria",
-"exampleMember": "casea",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Caseidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Caseidae",
+"parentTaxon":"caseasauria",
+"exampleMember":"casea",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caseidae"
 }

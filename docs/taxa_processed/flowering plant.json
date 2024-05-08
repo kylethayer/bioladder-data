@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Flowering plant",
-"parentTaxon": "seed plants subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Flowering plant",
+"parentTaxon":"seed plants subclade 1",
+"popularSubtaxa":[
 "amborella",
 "grass",
 "onion"
 ],
-"exampleMember": "amborella",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "Angiosperms",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Flowering_plant",
-"popularAncestors": [
+"exampleMember":"amborella",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"Angiosperms",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Flowering_plant",
+"popularAncestors":[
 "seed plants",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "amborella",
 "flowering plant subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 80,
 80

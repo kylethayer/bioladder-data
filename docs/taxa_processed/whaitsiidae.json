@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Whaitsiidae",
-"parentTaxon": "eutherocephalia subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Whaitsiidae",
+"parentTaxon":"eutherocephalia subclade 3",
+"popularSubtaxa":[
 "viatkosuchus",
 "moschowhaitsia"
 ],
-"exampleMember": "viatkosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Whaitsiidae",
-"popularAncestors": [
+"exampleMember":"viatkosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Whaitsiidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "moschowhaitsia",
 "viatkosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

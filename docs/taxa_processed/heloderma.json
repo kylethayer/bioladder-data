@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Heloderma",
-"parentTaxon": "neoanguimorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Heloderma",
+"parentTaxon":"neoanguimorpha",
+"popularSubtaxa":[
 "guatemalan beaded lizard",
 "mexican beaded lizard",
 "gila monster"
 ],
-"exampleMember": "mexican beaded lizard",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Heloderma",
-"popularAncestors": [
+"exampleMember":"mexican beaded lizard",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Heloderma",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "gila monster",
 "guatemalan beaded lizard",
 "mexican beaded lizard"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 60

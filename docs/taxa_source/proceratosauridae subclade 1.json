@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Proceratosauridae subclade 1",
-"parentTaxon": "proceratosauridae",
-"exampleMember": "proceratosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Proceratosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Proceratosauridae subclade 1",
+"parentTaxon":"proceratosauridae",
+"exampleMember":"proceratosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Proceratosauridae"
 }

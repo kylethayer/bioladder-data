@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Allium",
-"parentTaxon": "allioideae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Allium",
+"parentTaxon":"allioideae",
+"popularSubtaxa":[
 "korean wild chive",
 "garlic",
 "onion"
 ],
-"exampleMember": "canada onion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Allium",
-"popularAncestors": [
+"exampleMember":"canada onion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Allium",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "allium subclade 1",
 "allium subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 70,
 80

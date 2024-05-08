@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Lorisidae",
-"parentTaxon": "lorisoidea",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Lorisidae",
+"parentTaxon":"lorisoidea",
+"popularSubtaxa":[
 "loris",
 "angwantibo",
 "potto"
 ],
-"exampleMember": "loris",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lorisidae",
-"popularAncestors": [
+"exampleMember":"loris",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lorisidae",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "loris",
 "perodicticinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Simosthenurus",
-"parentTaxon": "sthenurinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Simosthenurus_BW.jpg/230px-Simosthenurus_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Simosthenurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Simosthenurus",
+"parentTaxon":"sthenurinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Simosthenurus_BW.jpg/230px-Simosthenurus_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Simosthenurus",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

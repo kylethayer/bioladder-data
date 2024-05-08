@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Gualicho",
-"parentTaxon": "neovenatoridae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gualicho_NT_small.jpg/220px-Gualicho_NT_small.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gualicho"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Gualicho",
+"parentTaxon":"neovenatoridae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gualicho_NT_small.jpg/220px-Gualicho_NT_small.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gualicho"
 }

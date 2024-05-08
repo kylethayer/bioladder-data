@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Armadillo girdled lizard",
-"parentTaxon": "cordylidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Ouroborus cataphractus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Armadillo_girdle-tailed_lizard.jpg/220px-Armadillo_girdle-tailed_lizard.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Armadillo_girdled_lizard"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Armadillo girdled lizard",
+"parentTaxon":"cordylidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Ouroborus cataphractus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Armadillo_girdle-tailed_lizard.jpg/220px-Armadillo_girdle-tailed_lizard.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Armadillo_girdled_lizard"
 }

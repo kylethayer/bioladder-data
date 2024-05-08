@@ -1,14 +1,14 @@
 {
-"description": "Gnathostomata are the jawed vertebrates. Gnathostome diversity comprises roughly 60,000 species, which accounts for 99% of all living vertebrates. In addition to opposing jaws, living gnathostomes also have teeth, paired appendages, and a horizontal semicircular canal of the inner ear, along with physiological and cellular anatomical characters such as the myelin sheathes of neurons.",
-"popularity": "",
-"extinct": false,
-"name": "Gnathostomata",
-"parentTaxon": "vertebrate subclade 4",
-"exampleMember": "coccosteus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Infraphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Gnathostomata"
+"description":"Gnathostomata are the jawed vertebrates. Gnathostome diversity comprises roughly 60,000 species, which accounts for 99% of all living vertebrates. In addition to opposing jaws, living gnathostomes also have teeth, paired appendages, and a horizontal semicircular canal of the inner ear, along with physiological and cellular anatomical characters such as the myelin sheathes of neurons.",
+"popularity":"",
+"extinct":false,
+"name":"Gnathostomata",
+"parentTaxon":"vertebrate subclade 4",
+"exampleMember":"coccosteus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Infraphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Gnathostomata"
 }

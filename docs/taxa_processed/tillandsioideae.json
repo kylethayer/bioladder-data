@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Tillandsioideae",
-"parentTaxon": "bromeliaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tillandsia_fasciculata.JPG/220px-Tillandsia_fasciculata.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tillandsioideae",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Tillandsioideae",
+"parentTaxon":"bromeliaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tillandsia_fasciculata.JPG/220px-Tillandsia_fasciculata.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tillandsioideae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

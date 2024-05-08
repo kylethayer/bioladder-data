@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Lapillopsis",
-"parentTaxon": "stereospondyli subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lapillopsis_nana.jpg/220px-Lapillopsis_nana.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lapillopsis",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Lapillopsis",
+"parentTaxon":"stereospondyli subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lapillopsis_nana.jpg/220px-Lapillopsis_nana.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lapillopsis",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

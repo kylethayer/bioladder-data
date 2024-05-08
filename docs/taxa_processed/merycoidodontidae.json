@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Merycoidodontidae",
-"parentTaxon": "tylopoda",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oreodonts.jpg/220px-Oreodonts.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Merycoidodontidae",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Merycoidodontidae",
+"parentTaxon":"tylopoda",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oreodonts.jpg/220px-Oreodonts.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Merycoidodontidae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

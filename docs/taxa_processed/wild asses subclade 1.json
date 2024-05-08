@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Wild asses subclade 1",
-"parentTaxon": "wild asses",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Wild asses subclade 1",
+"parentTaxon":"wild asses",
+"popularSubtaxa":[
 "kiang",
 "persian onager",
 "turkmenian kulan"
 ],
-"exampleMember": "kiang",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Asinus",
-"popularAncestors": [
+"exampleMember":"kiang",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Asinus",
+"popularAncestors":[
 "wild asses",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "kiang",
 "wild asses subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 50,
 50

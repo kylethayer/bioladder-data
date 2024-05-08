@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Albertosaurinae",
-"parentTaxon": "tyrannosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Albertosaurinae",
+"parentTaxon":"tyrannosauridae",
+"popularSubtaxa":[
 "albertosaurus",
 "gorgosaurus"
 ],
-"exampleMember": "albertosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauridae#Phylogeny",
-"popularAncestors": [
+"exampleMember":"albertosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauridae#Phylogeny",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "albertosaurus",
 "gorgosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

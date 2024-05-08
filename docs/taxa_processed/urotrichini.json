@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Urotrichini",
-"parentTaxon": "talpinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Urotrichus_talpoides_-_Berjeau.jpg/220px-Urotrichus_talpoides_-_Berjeau.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Urotrichini",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Urotrichini",
+"parentTaxon":"talpinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Urotrichus_talpoides_-_Berjeau.jpg/220px-Urotrichus_talpoides_-_Berjeau.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Urotrichini",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

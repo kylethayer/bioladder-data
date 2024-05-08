@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Brontotherioidea",
-"parentTaxon": "hippomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Brontotherioidea",
+"parentTaxon":"hippomorpha",
+"popularSubtaxa":[
 "sphenocoelus",
 "protitanops",
 "lambdotherium"
 ],
-"exampleMember": "lambdotherium",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Odd-toed_ungulate",
-"popularAncestors": [
+"exampleMember":"lambdotherium",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Odd-toed_ungulate",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brontotheriidae",
 "lambdotherium"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Right whale",
-"parentTaxon": "balaenidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Eubalaena",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eubalaena_glacialis_with_calf.jpg/220px-Eubalaena_glacialis_with_calf.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Right_whale",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Right whale",
+"parentTaxon":"balaenidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Eubalaena",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eubalaena_glacialis_with_calf.jpg/220px-Eubalaena_glacialis_with_calf.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Right_whale",
+"popularAncestors":[
 "baleen whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

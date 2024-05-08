@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Amaryllidoideae",
-"parentTaxon": "amaryllidaceae sl subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amaryllis_belladonna_sfbg_2.jpg/220px-Amaryllis_belladonna_sfbg_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Amaryllidoideae",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Amaryllidoideae",
+"parentTaxon":"amaryllidaceae sl subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amaryllis_belladonna_sfbg_2.jpg/220px-Amaryllis_belladonna_sfbg_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Amaryllidoideae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Dacentrurus",
-"parentTaxon": "stegosauria subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dacentrurus.png/220px-Dacentrurus.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dacentrurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Dacentrurus",
+"parentTaxon":"stegosauria subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dacentrurus.png/220px-Dacentrurus.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dacentrurus"
 }

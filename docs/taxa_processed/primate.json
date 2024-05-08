@@ -1,38 +1,38 @@
 {
-"description": "Primates arose from ancestors that lived in the trees of tropical forests; many primate characteristics represent adaptations to life in this challenging three-dimensional environment. Most primate species remain at least partly arboreal.",
-"popularity": 50,
-"extinct": false,
-"name": "Primate",
-"parentTaxon": "primatomorpha",
-"popularSubtaxa": [
+"description":"Primates arose from ancestors that lived in the trees of tropical forests; many primate characteristics represent adaptations to life in this challenging three-dimensional environment. Most primate species remain at least partly arboreal.",
+"popularity":50,
+"extinct":false,
+"name":"Primate",
+"parentTaxon":"primatomorpha",
+"popularSubtaxa":[
 "lemur",
 "human",
 "gorilla"
 ],
-"exampleMember": "darwinius",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Primate",
-"popularAncestors": [
+"exampleMember":"darwinius",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Primate",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "haplorhini",
 "strepsirrhini"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 100,
 80

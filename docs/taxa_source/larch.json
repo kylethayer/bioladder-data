@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Larch",
-"parentTaxon": "laricoideae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/M%C3%A9l%C3%A8ze_en_Automne.JPG/220px-M%C3%A9l%C3%A8ze_en_Automne.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Larch"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Larch",
+"parentTaxon":"laricoideae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/M%C3%A9l%C3%A8ze_en_Automne.JPG/220px-M%C3%A9l%C3%A8ze_en_Automne.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Larch"
 }

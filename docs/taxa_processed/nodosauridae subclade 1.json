@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Nodosauridae subclade 1",
-"parentTaxon": "nodosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Nodosauridae subclade 1",
+"parentTaxon":"nodosauridae",
+"popularSubtaxa":[
 "polacanthus",
 "gastonia",
 "sauropelta"
 ],
-"exampleMember": "gargoyleosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nodosauridae",
-"popularAncestors": [
+"exampleMember":"gargoyleosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nodosauridae",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "nodosauridae subclade 2",
 "polacanthinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

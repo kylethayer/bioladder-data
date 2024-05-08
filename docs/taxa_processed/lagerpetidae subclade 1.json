@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Lagerpetidae subclade 1",
-"parentTaxon": "lagerpetidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Lagerpetidae subclade 1",
+"parentTaxon":"lagerpetidae",
+"popularSubtaxa":[
 "dromomeron",
 "ixalerpeton"
 ],
-"exampleMember": "dromomeron",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lagerpetidae",
-"popularAncestors": [
+"exampleMember":"dromomeron",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lagerpetidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dromomeron",
 "ixalerpeton"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

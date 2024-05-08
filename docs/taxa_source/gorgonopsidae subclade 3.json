@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Gorgonopsidae subclade 3",
-"parentTaxon": "gorgonopsidae subclade 2",
-"exampleMember": "arctognathus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gorgonopsia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Gorgonopsidae subclade 3",
+"parentTaxon":"gorgonopsidae subclade 2",
+"exampleMember":"arctognathus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gorgonopsia"
 }

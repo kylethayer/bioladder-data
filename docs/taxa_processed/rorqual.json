@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Rorqual",
-"parentTaxon": "baleen whale",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Rorqual",
+"parentTaxon":"baleen whale",
+"popularSubtaxa":[
 "blue whale",
 "humpback whale"
 ],
-"exampleMember": "humpback whale",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Balaenopteridae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Balaenopteridae",
-"popularAncestors": [
+"exampleMember":"humpback whale",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Balaenopteridae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Balaenopteridae",
+"popularAncestors":[
 "baleen whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "balaenoptera",
 "humpback whale"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 60
 ]

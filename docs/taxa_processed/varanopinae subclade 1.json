@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Varanopinae subclade 1",
-"parentTaxon": "varanopinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Varanopinae subclade 1",
+"parentTaxon":"varanopinae",
+"popularSubtaxa":[
 "varanops",
 "watongia",
 "varanodon"
 ],
-"exampleMember": "varanops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Varanopidae",
-"popularAncestors": [
+"exampleMember":"varanops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Varanopidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "varanopinae subclade 2",
 "varanops"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

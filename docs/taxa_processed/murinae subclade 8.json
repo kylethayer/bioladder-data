@@ -1,35 +1,35 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Murinae subclade 8",
-"parentTaxon": "murinae subclade 7",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Murinae subclade 8",
+"parentTaxon":"murinae subclade 7",
+"popularSubtaxa":[
 "woodland thicket rat"
 ],
-"exampleMember": "four-striped grass mouse",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Murinae",
-"popularAncestors": [
+"exampleMember":"four-striped grass mouse",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Murinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "woodland thicket rat"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50
 ]
 }

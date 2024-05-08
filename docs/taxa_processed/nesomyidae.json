@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Nesomyidae",
-"parentTaxon": "eumuroida",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Nesomyidae",
+"parentTaxon":"eumuroida",
+"popularSubtaxa":[
 "pouched rat",
 "climbing mice",
 "malagasy rats and mice"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nesomyidae",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nesomyidae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "climbing mice",
 "malagasy rats and mice",
 "pouched rat"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

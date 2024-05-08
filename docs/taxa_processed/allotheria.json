@@ -1,38 +1,38 @@
 {
-"description": "Allotheria is an extinct branch of successful Mesozoic mammals. The most important characteristic was the presence of lower molariform teeth equipped with two longitudinal rows of cusps. Allotheres also had a narrow pelvis, indicating that they gave birth to tiny helpless young like marsupials do. This is a feature of all non-placental mammals.",
-"popularity": "",
-"extinct": true,
-"name": "Allotheria",
-"parentTaxon": "trechnotheria",
-"popularSubtaxa": [
+"description":"Allotheria is an extinct branch of successful Mesozoic mammals. The most important characteristic was the presence of lower molariform teeth equipped with two longitudinal rows of cusps. Allotheres also had a narrow pelvis, indicating that they gave birth to tiny helpless young like marsupials do. This is a feature of all non-placental mammals.",
+"popularity":"",
+"extinct":true,
+"name":"Allotheria",
+"parentTaxon":"trechnotheria",
+"popularSubtaxa":[
 "vintana",
 "sunnyodon",
 "taeniolabis"
 ],
-"exampleMember": "vintana",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraclass",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Allotheria",
-"popularAncestors": [
+"exampleMember":"vintana",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraclass",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Allotheria",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "multituberculata",
 "sudamericidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

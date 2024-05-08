@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 85,
-"extinct": false,
-"name": "African elephant",
-"parentTaxon": "elephantidae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Loxodonta",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/220px-African_Bush_Elephant.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/African_elephant",
-"popularAncestors": [
+"description":"",
+"popularity":85,
+"extinct":false,
+"name":"African elephant",
+"parentTaxon":"elephantidae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Loxodonta",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/220px-African_Bush_Elephant.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/African_elephant",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

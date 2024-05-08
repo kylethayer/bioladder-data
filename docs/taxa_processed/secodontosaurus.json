@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Secodontosaurus",
-"parentTaxon": "sphenacodontinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Secodontosaurus_BW.jpg/220px-Secodontosaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Secodontosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Secodontosaurus",
+"parentTaxon":"sphenacodontinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Secodontosaurus_BW.jpg/220px-Secodontosaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Secodontosaurus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

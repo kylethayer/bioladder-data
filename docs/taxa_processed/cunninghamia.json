@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Cunninghamia",
-"parentTaxon": "cupressaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cunninghamia.jpg/220px-Cunninghamia.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cunninghamia",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Cunninghamia",
+"parentTaxon":"cupressaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cunninghamia.jpg/220px-Cunninghamia.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cunninghamia",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

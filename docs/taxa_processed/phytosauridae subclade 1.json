@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Phytosauridae subclade 1",
-"parentTaxon": "phytosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Phytosauridae subclade 1",
+"parentTaxon":"phytosauridae",
+"popularSubtaxa":[
 "protome",
 "rutiodon",
 "smilosuchus"
 ],
-"exampleMember": "rutiodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Phytosaur",
-"popularAncestors": [
+"exampleMember":"rutiodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Phytosaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "leptosuchomorpha",
 "machaeroprosopus",
 "protome",
 "rutiodon"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

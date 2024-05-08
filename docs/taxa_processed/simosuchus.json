@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": "",
-"name": "Simosuchus",
-"parentTaxon": "notosuchia subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Simosuchus.jpg/220px-Simosuchus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Simosuchus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":"",
+"name":"Simosuchus",
+"parentTaxon":"notosuchia subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Simosuchus.jpg/220px-Simosuchus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Simosuchus",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Terrestrisuchus",
-"parentTaxon": "crocodylomorpha subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Terrestrisuchus_BW.jpg/220px-Terrestrisuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Terrestrisuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Terrestrisuchus",
+"parentTaxon":"crocodylomorpha subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Terrestrisuchus_BW.jpg/220px-Terrestrisuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Terrestrisuchus"
 }

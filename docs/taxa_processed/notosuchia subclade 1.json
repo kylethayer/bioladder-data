@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": "",
-"name": "Notosuchia subclade 1",
-"parentTaxon": "notosuchus",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":"",
+"name":"Notosuchia subclade 1",
+"parentTaxon":"notosuchus",
+"popularSubtaxa":[
 "notosuchus",
 "uruguaysuchus",
 "simosuchus"
 ],
-"exampleMember": "uruguaysuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Metasuchia",
-"popularAncestors": [
+"exampleMember":"uruguaysuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Metasuchia",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [
+"subtaxa":[
 "notosuchia subclade 2",
 "uruguaysuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 20

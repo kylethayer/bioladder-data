@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Shonisaurus",
-"parentTaxon": "merriamosauria subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Shonisaurus_popularisDB.jpg/220px-Shonisaurus_popularisDB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Shonisaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Shonisaurus",
+"parentTaxon":"merriamosauria subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Shonisaurus_popularisDB.jpg/220px-Shonisaurus_popularisDB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Shonisaurus",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

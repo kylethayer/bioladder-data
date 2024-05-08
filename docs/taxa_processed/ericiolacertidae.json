@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ericiolacertidae",
-"parentTaxon": "baurioidea subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ericiolacertidae",
+"parentTaxon":"baurioidea subclade 4",
+"popularSubtaxa":[
 "ericiolacerta",
 "silphedosuchus"
 ],
-"exampleMember": "ericiolacerta",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therocephalia",
-"popularAncestors": [
+"exampleMember":"ericiolacerta",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therocephalia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ericiolacerta",
 "silphedosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

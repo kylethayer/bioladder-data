@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Vampire squid",
-"parentTaxon": "octopodiformes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Vampyroteuthis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/220px-Vampire_des_abysses.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Vampire_squid",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Vampire squid",
+"parentTaxon":"octopodiformes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Vampyroteuthis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/220px-Vampire_des_abysses.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vampire_squid",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

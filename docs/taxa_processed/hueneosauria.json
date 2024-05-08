@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hueneosauria",
-"parentTaxon": "ichthyosaur",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hueneosauria",
+"parentTaxon":"ichthyosaur",
+"popularSubtaxa":[
 "phalarodon",
 "ichthyosaurus",
 "stenopterygius"
 ],
-"exampleMember": "mixosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hueneosauria",
-"popularAncestors": [
+"exampleMember":"mixosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hueneosauria",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "mixosauria",
 "toretocnemidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 60,
 30

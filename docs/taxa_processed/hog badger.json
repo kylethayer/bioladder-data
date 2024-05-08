@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Hog badger",
-"parentTaxon": "melinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Arctonyx collaris",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arctonyx_collaris_-_Sterndale.jpg/220px-Arctonyx_collaris_-_Sterndale.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hog_badger",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Hog badger",
+"parentTaxon":"melinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Arctonyx collaris",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arctonyx_collaris_-_Sterndale.jpg/220px-Arctonyx_collaris_-_Sterndale.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hog_badger",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Allosauroidea",
-"parentTaxon": "carnosauria",
-"exampleMember": "yangchuanosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Allosauroidea"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Allosauroidea",
+"parentTaxon":"carnosauria",
+"exampleMember":"yangchuanosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Allosauroidea"
 }

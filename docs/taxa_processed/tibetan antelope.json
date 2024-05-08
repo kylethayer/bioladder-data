@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tibetan antelope",
-"parentTaxon": "saigini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Pantholops hodgsonii",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tibetan antelope",
+"parentTaxon":"saigini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Pantholops hodgsonii",
+"otherNames":[
 "Chiru"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png/220px-The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tibetan_antelope",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png/220px-The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tibetan_antelope",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

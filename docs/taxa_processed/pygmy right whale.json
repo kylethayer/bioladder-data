@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pygmy right whale",
-"parentTaxon": "cetotheriidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Caperea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Caperea_marginata_3.jpg/220px-Caperea_marginata_3.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pygmy_right_whale",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pygmy right whale",
+"parentTaxon":"cetotheriidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Caperea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Caperea_marginata_3.jpg/220px-Caperea_marginata_3.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pygmy_right_whale",
+"popularAncestors":[
 "baleen whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

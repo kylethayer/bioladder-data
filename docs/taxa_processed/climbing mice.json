@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Climbing mice",
-"parentTaxon": "nesomyidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "Dendromurinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klatre08.jpg/220px-Klatre08.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dendromurinae",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Climbing mice",
+"parentTaxon":"nesomyidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"Dendromurinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klatre08.jpg/220px-Klatre08.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dendromurinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Parvicursorinae subclade 1",
-"parentTaxon": "parvicursorinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Parvicursorinae subclade 1",
+"parentTaxon":"parvicursorinae",
+"popularSubtaxa":[
 "albertonykus",
 "shuvuuia"
 ],
-"exampleMember": "albertonykus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alvarezsauridae",
-"popularAncestors": [
+"exampleMember":"albertonykus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alvarezsauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "albertonykus",
 "shuvuuia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Murinae subclade 7",
-"parentTaxon": "murinae subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Murinae subclade 7",
+"parentTaxon":"murinae subclade 6",
+"popularSubtaxa":[
 "namaqua rock rat",
 "rhabdomys dilectus",
 "woodland thicket rat"
 ],
-"exampleMember": "namaqua rock rat",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Murinae",
-"popularAncestors": [
+"exampleMember":"namaqua rock rat",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Murinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "murinae subclade 8",
 "namaqua rock rat",
 "rhabdomys"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

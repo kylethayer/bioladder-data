@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Delphinapterinae",
-"parentTaxon": "monodontidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Delphinapterinae",
+"parentTaxon":"monodontidae",
+"popularSubtaxa":[
 "denebola",
 "beluga whale"
 ],
-"exampleMember": "denebola",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Monodontidae",
-"popularAncestors": [
+"exampleMember":"denebola",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Monodontidae",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "beluga whale",
 "denebola"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 60
 ]

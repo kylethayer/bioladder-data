@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Peccary",
-"parentTaxon": "suina",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Tayassuidae",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Peccary",
+"parentTaxon":"suina",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Tayassuidae",
+"otherNames":[
 "javelina",
 "skunk pig"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Collared_peccary02_-_melbourne_zoo.jpg/220px-Collared_peccary02_-_melbourne_zoo.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Peccary",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Collared_peccary02_-_melbourne_zoo.jpg/220px-Collared_peccary02_-_melbourne_zoo.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Peccary",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

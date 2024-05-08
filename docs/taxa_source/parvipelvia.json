@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Parvipelvia",
-"parentTaxon": "merriamosauria subclade 3",
-"exampleMember": "hudsonelpidia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Parvipelvia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Parvipelvia",
+"parentTaxon":"merriamosauria subclade 3",
+"exampleMember":"hudsonelpidia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Parvipelvia"
 }

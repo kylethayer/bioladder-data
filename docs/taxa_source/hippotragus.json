@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Hippotragus",
-"parentTaxon": "grazing antelope",
-"exampleMember": "bluebuck",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hippotragus"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Hippotragus",
+"parentTaxon":"grazing antelope",
+"exampleMember":"bluebuck",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hippotragus"
 }

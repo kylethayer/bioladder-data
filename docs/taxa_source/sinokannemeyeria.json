@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sinokannemeyeria",
-"parentTaxon": "kannemeyeriiformes subclade 5",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sinokannemeyeria1db.jpg/220px-Sinokannemeyeria1db.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sinokannemeyeria"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sinokannemeyeria",
+"parentTaxon":"kannemeyeriiformes subclade 5",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sinokannemeyeria1db.jpg/220px-Sinokannemeyeria1db.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sinokannemeyeria"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Thuja",
-"parentTaxon": "cupressoideae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thuja_standishii.jpg/220px-Thuja_standishii.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Thuja"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Thuja",
+"parentTaxon":"cupressoideae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thuja_standishii.jpg/220px-Thuja_standishii.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Thuja"
 }

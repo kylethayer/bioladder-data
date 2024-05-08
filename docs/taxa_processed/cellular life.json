@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Cellular life",
-"parentTaxon": "life",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Cellular life",
+"parentTaxon":"life",
+"popularSubtaxa":[
 "land plant",
 "bacteria",
 "human"
 ],
-"exampleMember": "bacteria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cellular_life",
-"popularAncestors": [
+"exampleMember":"bacteria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cellular_life",
+"popularAncestors":[
 "life",
 null,
 null,
 null
 ],
-"subtaxa": [
+"subtaxa":[
 "archaea",
 "bacteria",
 "eukaryote"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 100,
 null,
 null,
 null
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 70,
 100

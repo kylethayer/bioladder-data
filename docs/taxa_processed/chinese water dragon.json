@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Chinese water dragon",
-"parentTaxon": "physignathus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wasseragame.jpg/220px-Wasseragame.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chinese_water_dragon",
-"popularAncestors": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Chinese water dragon",
+"parentTaxon":"physignathus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wasseragame.jpg/220px-Wasseragame.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chinese_water_dragon",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

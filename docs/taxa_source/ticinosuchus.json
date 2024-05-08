@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Ticinosuchus",
-"parentTaxon": "suchia subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ticinosuchus_BW.jpg/220px-Ticinosuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ticinosuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Ticinosuchus",
+"parentTaxon":"suchia subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ticinosuchus_BW.jpg/220px-Ticinosuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ticinosuchus"
 }

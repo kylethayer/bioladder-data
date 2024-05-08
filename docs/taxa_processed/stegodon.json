@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Stegodon",
-"parentTaxon": "elephantidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ExtinctElephant-SiwalikHills.JPG/220px-ExtinctElephant-SiwalikHills.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Stegodon",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Stegodon",
+"parentTaxon":"elephantidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ExtinctElephant-SiwalikHills.JPG/220px-ExtinctElephant-SiwalikHills.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Stegodon",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

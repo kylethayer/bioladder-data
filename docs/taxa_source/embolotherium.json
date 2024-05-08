@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Embolotherium",
-"parentTaxon": "brontotheriini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Embolotherium_andrewsi.JPG/220px-Embolotherium_andrewsi.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Embolotherium"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Embolotherium",
+"parentTaxon":"brontotheriini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Embolotherium_andrewsi.JPG/220px-Embolotherium_andrewsi.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Embolotherium"
 }

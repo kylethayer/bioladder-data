@@ -1,35 +1,35 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Notosuchia",
-"parentTaxon": "metasuchia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Notosuchia",
+"parentTaxon":"metasuchia",
+"popularSubtaxa":[
 "araripesuchus"
 ],
-"exampleMember": "araripesuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Notosuchia",
-"popularAncestors": [
+"exampleMember":"araripesuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Notosuchia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "araripesuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10
 ]
 }

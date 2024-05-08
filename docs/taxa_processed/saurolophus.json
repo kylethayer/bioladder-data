@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Saurolophus",
-"parentTaxon": "saurolophini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Saurolophus_scalation.png/220px-Saurolophus_scalation.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Saurolophus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Saurolophus",
+"parentTaxon":"saurolophini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Saurolophus_scalation.png/220px-Saurolophus_scalation.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Saurolophus",
+"popularAncestors":[
 "hadrosaurid",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

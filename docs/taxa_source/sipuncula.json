@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Sipuncula",
-"parentTaxon": "annelid",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Sipuncula",
+"parentTaxon":"annelid",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[
 "sipunculid worms",
 "peanut worms"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sipuncula.jpg/220px-Sipuncula.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sipuncula"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sipuncula.jpg/220px-Sipuncula.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sipuncula"
 }

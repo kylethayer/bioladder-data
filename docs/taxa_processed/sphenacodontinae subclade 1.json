@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sphenacodontinae subclade 1",
-"parentTaxon": "sphenacodontinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sphenacodontinae subclade 1",
+"parentTaxon":"sphenacodontinae",
+"popularSubtaxa":[
 "dimetrodon",
 "ctenospondylus",
 "sphenacodon"
 ],
-"exampleMember": "dimetrodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae",
-"popularAncestors": [
+"exampleMember":"dimetrodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dimetrodon",
 "sphenacodontinae subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 10,
 10

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bromeliad clade",
-"parentTaxon": "poales",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bromeliad clade",
+"parentTaxon":"poales",
+"popularSubtaxa":[
 "bur-reed",
 "typha",
 "pineapple"
 ],
-"exampleMember": "bur-reed",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Poales",
-"popularAncestors": [
+"exampleMember":"bur-reed",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Poales",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bromeliaceae",
 "typhaceae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 55,
 50,
 75

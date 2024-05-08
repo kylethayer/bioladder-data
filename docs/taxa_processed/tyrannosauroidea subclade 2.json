@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tyrannosauroidea subclade 2",
-"parentTaxon": "tyrannosauroidea subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tyrannosauroidea subclade 2",
+"parentTaxon":"tyrannosauroidea subclade 1",
+"popularSubtaxa":[
 "zhuchengtyrannus",
 "dryptosaurus",
 "tyrannosaurus"
 ],
-"exampleMember": "dryptosaurus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
-"popularAncestors": [
+"exampleMember":"dryptosaurus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dryptosaurus",
 "tyrannosauroidea subclade 3"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Stormbergia",
-"parentTaxon": "neornithischia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stormbergia_%26_Othnielosaurus.jpg/250px-Stormbergia_%26_Othnielosaurus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Stormbergia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Stormbergia",
+"parentTaxon":"neornithischia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stormbergia_%26_Othnielosaurus.jpg/250px-Stormbergia_%26_Othnielosaurus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Stormbergia",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

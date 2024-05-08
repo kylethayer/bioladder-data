@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Tulbaghieae",
-"parentTaxon": "allioideae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tulbaghia_%28Society_Garlic%29.jpg/220px-Tulbaghia_%28Society_Garlic%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tulbaghieae",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Tulbaghieae",
+"parentTaxon":"allioideae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tulbaghia_%28Society_Garlic%29.jpg/220px-Tulbaghia_%28Society_Garlic%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tulbaghieae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

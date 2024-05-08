@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Llama",
-"parentTaxon": "lama",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Lama glama",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/250px-Llama_lying_down.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Llama"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Llama",
+"parentTaxon":"lama",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Lama glama",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/250px-Llama_lying_down.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Llama"
 }

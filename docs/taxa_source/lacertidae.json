@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Lacertidae",
-"parentTaxon": "lacertibaenia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Lacertidae",
+"parentTaxon":"lacertibaenia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
 "Wall lizards",
 "True lizards"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jaszczurka-Lacerta_agilis.jpg/220px-Jaszczurka-Lacerta_agilis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lacertidae"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Jaszczurka-Lacerta_agilis.jpg/220px-Jaszczurka-Lacerta_agilis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lacertidae"
 }

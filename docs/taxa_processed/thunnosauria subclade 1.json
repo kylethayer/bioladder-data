@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Thunnosauria subclade 1",
-"parentTaxon": "thunnosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Thunnosauria subclade 1",
+"parentTaxon":"thunnosauria",
+"popularSubtaxa":[
 "stenopterygius",
 "ophthalmosaurinae",
 "platypterygius"
 ],
-"exampleMember": "stenopterygius",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Thunnosauria",
-"popularAncestors": [
+"exampleMember":"stenopterygius",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Thunnosauria",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "stenopterygius",
 "thunnosauria subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 30,
 10

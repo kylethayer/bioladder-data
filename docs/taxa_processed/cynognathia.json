@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cynognathia",
-"parentTaxon": "eucynodontia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cynognathia",
+"parentTaxon":"eucynodontia",
+"popularSubtaxa":[
 "trirachodon",
 "massetognathus",
 "cynognathus"
 ],
-"exampleMember": "cynognathus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cynognathia",
-"popularAncestors": [
+"exampleMember":"cynognathus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cynognathia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cynognathus",
 "gomphodontia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Saurolophidae",
-"parentTaxon": "hadrosaurid",
-"exampleMember": "maiasaura",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Saurolophidae",
+"parentTaxon":"hadrosaurid",
+"exampleMember":"maiasaura",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[
 "Euhadrosauria"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosaurid"
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosaurid"
 }

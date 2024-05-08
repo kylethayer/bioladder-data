@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sauropodiformes subclade 1",
-"parentTaxon": "sauropodiformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sauropodiformes subclade 1",
+"parentTaxon":"sauropodiformes",
+"popularSubtaxa":[
 "brontosaurus",
 "diplodocus",
 "brachiosaurus"
 ],
-"exampleMember": "jingshanosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Massopoda",
-"popularAncestors": [
+"exampleMember":"jingshanosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Massopoda",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anchisauria",
 "sauropodiformes subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 60,
 60

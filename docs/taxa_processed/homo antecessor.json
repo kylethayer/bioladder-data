@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Homo antecessor",
-"parentTaxon": "homo subclade 2",
-"exampleMember": "",
-"exampleMemberType": "None",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg/175px-Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Homo_antecessor",
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Homo antecessor",
+"parentTaxon":"homo subclade 2",
+"exampleMember":"",
+"exampleMemberType":"None",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg/175px-Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Homo_antecessor",
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 null,
 null,
 null,
 null
 ],
-"popularAncestors": [
+"popularAncestors":[
 null,
 null,
 null,
 null
 ],
-"popularSubtaxa": [],
-"popularSubtaxaPops": []
+"popularSubtaxa":[],
+"popularSubtaxaPops":[]
 }

@@ -1,35 +1,35 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Basilosauridae",
-"parentTaxon": "cetacea subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Basilosauridae",
+"parentTaxon":"cetacea subclade 4",
+"popularSubtaxa":[
 "basilosaurus"
 ],
-"exampleMember": "basilosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Basilosauridae",
-"popularAncestors": [
+"exampleMember":"basilosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Basilosauridae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "basilosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20
 ]
 }

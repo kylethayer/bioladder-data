@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Merriamosauria subclade 2",
-"parentTaxon": "merriamosauria subclade 1",
-"exampleMember": "shonisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Merriamosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Merriamosauria subclade 2",
+"parentTaxon":"merriamosauria subclade 1",
+"exampleMember":"shonisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Merriamosauria"
 }

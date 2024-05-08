@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Elmisaurinae",
-"parentTaxon": "caenagnathidae subclade 3",
-"exampleMember": "caenagnathasia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Caenagnathidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Elmisaurinae",
+"parentTaxon":"caenagnathidae subclade 3",
+"exampleMember":"caenagnathasia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caenagnathidae"
 }

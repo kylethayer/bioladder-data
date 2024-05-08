@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "American shrew mole",
-"parentTaxon": "talpinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Neurotrichus gibbsii",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/a/a6/AmericanShrewMole23.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/American_shrew-mole",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"American shrew mole",
+"parentTaxon":"talpinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Neurotrichus gibbsii",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/a/a6/AmericanShrewMole23.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/American_shrew-mole",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

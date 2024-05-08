@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Strepsicerotini",
-"parentTaxon": "bovinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Strepsicerotini",
+"parentTaxon":"bovinae",
+"popularSubtaxa":[
 "lesser kudu",
 "nyala",
 "sitatunga"
 ],
-"exampleMember": "lesser kudu",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
-"popularAncestors": [
+"exampleMember":"lesser kudu",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "lesser kudu",
 "strepsicerotini subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

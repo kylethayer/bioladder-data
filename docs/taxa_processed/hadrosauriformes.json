@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hadrosauriformes",
-"parentTaxon": "styracosterna subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hadrosauriformes",
+"parentTaxon":"styracosterna subclade 2",
+"popularSubtaxa":[
 "iguanodon",
 "hadrosaurus",
 "parasaurolophus"
 ],
-"exampleMember": "iguanodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ankylopollexia",
-"popularAncestors": [
+"exampleMember":"iguanodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ankylopollexia",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hadrosauroidea",
 "iguanodontidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 60,
 60

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Musky rat-kangaroo",
-"parentTaxon": "hypsiprymnodontidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hypsiprymnodon moschatus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Musky_rat-kangaroo.JPG/300px-Musky_rat-kangaroo.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Musky_rat-kangaroo",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Musky rat-kangaroo",
+"parentTaxon":"hypsiprymnodontidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hypsiprymnodon moschatus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Musky_rat-kangaroo.JPG/300px-Musky_rat-kangaroo.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Musky_rat-kangaroo",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

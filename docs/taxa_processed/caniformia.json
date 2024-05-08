@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Caniformia",
-"parentTaxon": "carnivora",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Caniformia",
+"parentTaxon":"carnivora",
+"popularSubtaxa":[
 "dog",
 "walrus",
 "bear"
 ],
-"exampleMember": "bear dog",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"bear dog",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[
 "Canoidea"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Caniformia",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Caniformia",
+"popularAncestors":[
 "carnivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arctoidea",
 "bear dog",
 "canidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 91,
 80,
 80

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Cuttlefish",
-"parentTaxon": "decapodiformes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Sepiida",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HPIM1795.JPG/220px-HPIM1795.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cuttlefish",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Cuttlefish",
+"parentTaxon":"decapodiformes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Sepiida",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HPIM1795.JPG/220px-HPIM1795.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cuttlefish",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

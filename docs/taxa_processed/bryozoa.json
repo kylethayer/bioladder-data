@@ -1,33 +1,33 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Bryozoa",
-"parentTaxon": "lophotrochozoa subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Bryozoa",
+"parentTaxon":"lophotrochozoa subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[
 "Polyzoa",
 "Ectoprocta",
 "moss animals"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tubulipora_flabellaris_001.png/220px-Tubulipora_flabellaris_001.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bryozoa",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tubulipora_flabellaris_001.png/220px-Tubulipora_flabellaris_001.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bryozoa",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

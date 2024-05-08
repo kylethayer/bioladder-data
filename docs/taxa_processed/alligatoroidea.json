@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Alligatoroidea",
-"parentTaxon": "brevirostres",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Alligatoroidea",
+"parentTaxon":"brevirostres",
+"popularSubtaxa":[
 "deinosuchus",
 "alligator",
 "caiman"
 ],
-"exampleMember": "deinosuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alligatoroidea",
-"popularAncestors": [
+"exampleMember":"deinosuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alligatoroidea",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "baryphracta",
 "deinosuchus",
 "globidonta"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 85,
 50

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Matgrass",
-"parentTaxon": "pooideae subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nardus_stricta_mountain_medow.JPG/220px-Nardus_stricta_mountain_medow.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nardus",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Matgrass",
+"parentTaxon":"pooideae subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nardus_stricta_mountain_medow.JPG/220px-Nardus_stricta_mountain_medow.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nardus",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

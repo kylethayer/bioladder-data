@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Flowering plant subclade 1",
-"parentTaxon": "flowering plant",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Flowering plant subclade 1",
+"parentTaxon":"flowering plant",
+"popularSubtaxa":[
 "water lily",
 "grass",
 "onion"
 ],
-"exampleMember": "water lily",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Flowering_plant",
-"popularAncestors": [
+"exampleMember":"water lily",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Flowering_plant",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "flowering plant subclade 2",
 "nymphaeales"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 80,
 80

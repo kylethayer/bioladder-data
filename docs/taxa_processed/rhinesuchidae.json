@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Rhinesuchidae",
-"parentTaxon": "stereospondyli subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Rhinesuchidae",
+"parentTaxon":"stereospondyli subclade 2",
+"popularSubtaxa":[
 "rhinesuchus",
 "rhineceps",
 "uranocentrodon"
 ],
-"exampleMember": "rhinesuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rhinesuchidae",
-"popularAncestors": [
+"exampleMember":"rhinesuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rhinesuchidae",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "broomistega",
 "muchocephalus",
 "rhineceps",
 "rhinesuchus",
 "uranocentrodon"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

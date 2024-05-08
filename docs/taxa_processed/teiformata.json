@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Teiformata",
-"parentTaxon": "lacertoidea",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Teiformata",
+"parentTaxon":"lacertoidea",
+"popularSubtaxa":[
 "spectacled lizards",
 "teiidae"
 ],
-"exampleMember": "spectacled lizards",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Squamata",
-"popularAncestors": [
+"exampleMember":"spectacled lizards",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Squamata",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "spectacled lizards",
 "teiidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

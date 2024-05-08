@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Echinoderm",
-"parentTaxon": "deuterostome",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "Echinodermata",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Echinoderm",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Echinoderm",
+"parentTaxon":"deuterostome",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"Echinodermata",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Echinoderm",
+"popularAncestors":[
 "deuterostome",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 30,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tyrannosaurinae subclade 1",
-"parentTaxon": "tyrannosaurinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tyrannosaurinae subclade 1",
+"parentTaxon":"tyrannosaurinae",
+"popularSubtaxa":[
 "zhuchengtyrannus",
 "teratophoneus",
 "tyrannosaurus"
 ],
-"exampleMember": "teratophoneus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
-"popularAncestors": [
+"exampleMember":"teratophoneus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "teratophoneus",
 "tyrannosaurinae subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

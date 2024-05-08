@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Thunnosauria",
-"parentTaxon": "neoichthyosauria subclade 1",
-"exampleMember": "ichthyosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Thunnosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Thunnosauria",
+"parentTaxon":"neoichthyosauria subclade 1",
+"exampleMember":"ichthyosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Thunnosauria"
 }

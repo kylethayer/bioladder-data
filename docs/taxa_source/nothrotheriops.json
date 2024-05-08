@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Nothrotheriops",
-"parentTaxon": "nothrotheriidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nothrotheriops.jpg/220px-Nothrotheriops.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Nothrotheriops"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Nothrotheriops",
+"parentTaxon":"nothrotheriidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nothrotheriops.jpg/220px-Nothrotheriops.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Nothrotheriops"
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Gorgonopsidae",
-"parentTaxon": "gorgonopsia subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Gorgonopsidae",
+"parentTaxon":"gorgonopsia subclade 2",
+"popularSubtaxa":[
 "eriphostoma",
 "lycaenops",
 "rubidgea"
 ],
-"exampleMember": "eriphostoma",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gorgonopsia",
-"popularAncestors": [
+"exampleMember":"eriphostoma",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gorgonopsia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eriphostoma",
 "gorgonopsidae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20,
 20

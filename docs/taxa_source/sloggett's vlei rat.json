@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Sloggett's vlei rat",
-"parentTaxon": "otomys",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Otomys sloggetti",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Sloggett's vlei rat",
+"parentTaxon":"otomys",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Otomys sloggetti",
+"otherNames":[
 "Ice rat"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Otomys_sloggetti.png/220px-Otomys_sloggetti.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sloggett%27s_vlei_rat"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Otomys_sloggetti.png/220px-Otomys_sloggetti.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sloggett%27s_vlei_rat"
 }

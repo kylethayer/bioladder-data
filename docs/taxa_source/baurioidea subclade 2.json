@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Baurioidea subclade 2",
-"parentTaxon": "baurioidea subclade 1",
-"exampleMember": "karenites",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Baurioidea"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Baurioidea subclade 2",
+"parentTaxon":"baurioidea subclade 1",
+"exampleMember":"karenites",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Baurioidea"
 }

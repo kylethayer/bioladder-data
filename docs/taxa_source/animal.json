@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 95,
-"extinct": false,
-"name": "Animal",
-"parentTaxon": "filozoa",
-"exampleMember": "parazoa",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Kingdom",
-"scientificName": "Animalia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Animal"
+"description":"",
+"popularity":95,
+"extinct":false,
+"name":"Animal",
+"parentTaxon":"filozoa",
+"exampleMember":"parazoa",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Kingdom",
+"scientificName":"Animalia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Animal"
 }

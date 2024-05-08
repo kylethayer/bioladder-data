@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Tick",
-"parentTaxon": "parasitiformes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Metastigmata=Ixodida",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amblyomma_americanum_tick.jpg/220px-Amblyomma_americanum_tick.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tick",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Tick",
+"parentTaxon":"parasitiformes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Metastigmata=Ixodida",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amblyomma_americanum_tick.jpg/220px-Amblyomma_americanum_tick.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tick",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

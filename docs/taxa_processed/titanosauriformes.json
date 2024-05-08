@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Titanosauriformes",
-"parentTaxon": "macronaria subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Titanosauriformes",
+"parentTaxon":"macronaria subclade 1",
+"popularSubtaxa":[
 "giraffatitan",
 "brachiosaurus",
 "titanosaur"
 ],
-"exampleMember": "brachiosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Macronaria",
-"popularAncestors": [
+"exampleMember":"brachiosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Macronaria",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brachiosauridae",
 "somphospondyli"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 60,
 20

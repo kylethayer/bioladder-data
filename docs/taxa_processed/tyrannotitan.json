@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Tyrannotitan",
-"parentTaxon": "giganotosaurini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tyrannotitan.jpg/220px-Tyrannotitan.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tyrannotitan",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Tyrannotitan",
+"parentTaxon":"giganotosaurini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tyrannotitan.jpg/220px-Tyrannotitan.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tyrannotitan",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

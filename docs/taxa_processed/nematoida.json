@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Nematoida",
-"parentTaxon": "ecdysozoa",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paragordius_tricuspidatus.jpeg/220px-Paragordius_tricuspidatus.jpeg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Nematoida",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Nematoida",
+"parentTaxon":"ecdysozoa",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paragordius_tricuspidatus.jpeg/220px-Paragordius_tricuspidatus.jpeg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Nematoida",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

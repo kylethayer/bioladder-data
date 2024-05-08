@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Brachylophosaurus",
-"parentTaxon": "brachylophosaurini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brachylophosaurus-v4.jpg/220px-Brachylophosaurus-v4.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Brachylophosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Brachylophosaurus",
+"parentTaxon":"brachylophosaurini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brachylophosaurus-v4.jpg/220px-Brachylophosaurus-v4.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Brachylophosaurus",
+"popularAncestors":[
 "hadrosaurid",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

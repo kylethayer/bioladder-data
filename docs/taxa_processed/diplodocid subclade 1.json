@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Diplodocid subclade 1",
-"parentTaxon": "diplodocid",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Diplodocid subclade 1",
+"parentTaxon":"diplodocid",
+"popularSubtaxa":[
 "apatosaurus",
 "brontosaurus",
 "diplodocus"
 ],
-"exampleMember": "apatosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Diplodocid",
-"popularAncestors": [
+"exampleMember":"apatosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Diplodocid",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "apatosaurinae",
 "diplodocinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 80,
 60

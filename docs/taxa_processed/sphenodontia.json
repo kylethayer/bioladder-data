@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Sphenodontia",
-"parentTaxon": "rhynchocephalia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Sphenodontia",
+"parentTaxon":"rhynchocephalia",
+"popularSubtaxa":[
 "brachyrhinodon",
 "pleurosaurus",
 "tuatara"
 ],
-"exampleMember": "brachyrhinodon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rhynchocephalia",
-"popularAncestors": [
+"exampleMember":"brachyrhinodon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rhynchocephalia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brachyrhinodon",
 "pleurosauridae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 50

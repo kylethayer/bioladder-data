@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Plesiadapiformes",
-"parentTaxon": "primatomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Plesiadapiformes",
+"parentTaxon":"primatomorpha",
+"popularSubtaxa":[
 "plesiadapis",
 "carpolestes"
 ],
-"exampleMember": "plesiadapis",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Plesiadapiformes",
-"popularAncestors": [
+"exampleMember":"plesiadapis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Plesiadapiformes",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "carpolestes",
 "plesiadapis"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

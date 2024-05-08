@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Common yew",
-"parentTaxon": "taxaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Taxus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yew_1r.jpg/220px-Yew_1r.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Taxus",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Common yew",
+"parentTaxon":"taxaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Taxus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yew_1r.jpg/220px-Yew_1r.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Taxus",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

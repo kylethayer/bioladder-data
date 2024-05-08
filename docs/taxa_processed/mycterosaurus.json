@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Mycterosaurus",
-"parentTaxon": "mycterosaurinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mycterosaurus.jpg/220px-Mycterosaurus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mycterosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Mycterosaurus",
+"parentTaxon":"mycterosaurinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mycterosaurus.jpg/220px-Mycterosaurus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mycterosaurus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

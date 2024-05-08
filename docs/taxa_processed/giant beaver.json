@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Giant beaver",
-"parentTaxon": "castoridae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Castoroides",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castoroides_Knight.jpg/220px-Castoroides_Knight.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Castoroides",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Giant beaver",
+"parentTaxon":"castoridae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Castoroides",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castoroides_Knight.jpg/220px-Castoroides_Knight.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Castoroides",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

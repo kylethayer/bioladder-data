@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Arctoidea",
-"parentTaxon": "caniformia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Arctoidea",
+"parentTaxon":"caniformia",
+"popularSubtaxa":[
 "walrus",
 "bear",
 "skunk"
 ],
-"exampleMember": "hemicyonidae",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Arctoidea",
-"popularAncestors": [
+"exampleMember":"hemicyonidae",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Arctoidea",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arctoidea subclade 1",
 "bear",
 "hemicyonidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 80,
 70

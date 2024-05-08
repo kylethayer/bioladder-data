@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Whatcheeriidae",
-"parentTaxon": "stegocephalia subclade 5",
-"exampleMember": "pederpes",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Whatcheeriidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Whatcheeriidae",
+"parentTaxon":"stegocephalia subclade 5",
+"exampleMember":"pederpes",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Whatcheeriidae"
 }

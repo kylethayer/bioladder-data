@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Platypterygiinae",
-"parentTaxon": "ophthalmosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Platypterygiinae",
+"parentTaxon":"ophthalmosauridae",
+"popularSubtaxa":[
 "brachypterygius",
 "platypterygius",
 "caypullisaurus"
 ],
-"exampleMember": "brachypterygius",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Platypterygiinae",
-"popularAncestors": [
+"exampleMember":"brachypterygius",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Platypterygiinae",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brachypterygius",
 "platypterygiinae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Przewalski's gazelle",
-"parentTaxon": "procapra",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_book_of_antelopes_%281894%29_Procapra_przewalskii.jpg/220px-The_book_of_antelopes_%281894%29_Procapra_przewalskii.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Przewalski%27s_gazelle",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Przewalski's gazelle",
+"parentTaxon":"procapra",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_book_of_antelopes_%281894%29_Procapra_przewalskii.jpg/220px-The_book_of_antelopes_%281894%29_Procapra_przewalskii.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Przewalski%27s_gazelle",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

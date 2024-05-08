@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Australian water dragon",
-"parentTaxon": "physignathus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Intellagama lesueurii",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Physignathus_lesueurii_howittii.jpg/220px-Physignathus_lesueurii_howittii.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Australian_water_dragon"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Australian water dragon",
+"parentTaxon":"physignathus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Intellagama lesueurii",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Physignathus_lesueurii_howittii.jpg/220px-Physignathus_lesueurii_howittii.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Australian_water_dragon"
 }

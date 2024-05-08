@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Spinops",
-"parentTaxon": "centrosaurinae subclade 6",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Spinops_NT.jpg/220px-Spinops_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Spinops",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Spinops",
+"parentTaxon":"centrosaurinae subclade 6",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Spinops_NT.jpg/220px-Spinops_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Spinops",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

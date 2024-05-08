@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Promegatherium",
-"parentTaxon": "megatheriina",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Promegatherium_nanum.JPG/220px-Promegatherium_nanum.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Promegatherium",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Promegatherium",
+"parentTaxon":"megatheriina",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Promegatherium_nanum.JPG/220px-Promegatherium_nanum.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Promegatherium",
+"popularAncestors":[
 "sloth",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

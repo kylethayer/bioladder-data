@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Kistecephalia",
-"parentTaxon": "diictodontia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Kistecephalia",
+"parentTaxon":"diictodontia",
+"popularSubtaxa":[
 "dicynodontoides",
 "myosaurus",
 "cistecephalus"
 ],
-"exampleMember": "dicynodontoides",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subkingdom",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Kistecephalia",
-"popularAncestors": [
+"exampleMember":"dicynodontoides",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subkingdom",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kistecephalia",
+"popularAncestors":[
 "dicynodont",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dicynodontoides",
 "kistecephalia subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 35,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

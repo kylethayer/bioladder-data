@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Orchid",
-"parentTaxon": "asparagales",
-"popularSubtaxa": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Orchid",
+"parentTaxon":"asparagales",
+"popularSubtaxa":[
 "lady's slipper orchids",
 "pseudovanilla",
 "vanilla"
 ],
-"exampleMember": "apostasioideae",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Orchidaceae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Orchidaceae",
-"popularAncestors": [
+"exampleMember":"apostasioideae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Orchidaceae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orchidaceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "apostasioideae",
 "orchid subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 30,
 70

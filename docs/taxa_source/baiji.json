@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Baiji",
-"parentTaxon": "lipotoidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Lipotes vexillifer",
-"otherNames": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Baiji",
+"parentTaxon":"lipotoidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Lipotes vexillifer",
+"otherNames":[
 "Chinese river dolphin",
 "Yangtze River dolphin"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lipotes_vexillifer.png/220px-Lipotes_vexillifer.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lipotidae"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lipotes_vexillifer.png/220px-Lipotes_vexillifer.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lipotidae"
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Alpinioideae",
-"parentTaxon": "zingiberaceae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Alpinioideae",
+"parentTaxon":"zingiberaceae",
+"popularSubtaxa":[
 "burbidgea",
 "alpinieae"
 ],
-"exampleMember": "burbidgea",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zingiberaceae",
-"popularAncestors": [
+"exampleMember":"burbidgea",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zingiberaceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "alpinieae",
 "burbidgea"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 10
 ]

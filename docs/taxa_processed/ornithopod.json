@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Ornithopod",
-"parentTaxon": "cerapoda",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Ornithopod",
+"parentTaxon":"cerapoda",
+"popularSubtaxa":[
 "iguanodon",
 "hadrosaurus",
 "parasaurolophus"
 ],
-"exampleMember": "hypsilophodon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "Ornithopoda",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ornithopoda",
-"popularAncestors": [
+"exampleMember":"hypsilophodon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"Ornithopoda",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ornithopoda",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hypsilophodon",
 "ornithopod subclade 1",
 "orodromeus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 60,
 60

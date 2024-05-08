@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Edmontosaurini",
-"parentTaxon": "saurolophinae subclade 1",
-"exampleMember": "shantungosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Edmontosaurini"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Edmontosaurini",
+"parentTaxon":"saurolophinae subclade 1",
+"exampleMember":"shantungosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Edmontosaurini"
 }

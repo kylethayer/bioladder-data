@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Chamaecyparis",
-"parentTaxon": "cupressoideae subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Chamaecyparis",
+"parentTaxon":"cupressoideae subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "cypress",
 "false cypress"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sawara.jpg/220px-Sawara.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chamaecyparis"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sawara.jpg/220px-Sawara.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chamaecyparis"
 }

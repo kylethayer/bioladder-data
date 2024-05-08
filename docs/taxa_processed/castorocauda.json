@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Castorocauda",
-"parentTaxon": "mammaliaformes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castorocauda_BW.jpg/220px-Castorocauda_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Castorocauda",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Castorocauda",
+"parentTaxon":"mammaliaformes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castorocauda_BW.jpg/220px-Castorocauda_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Castorocauda",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

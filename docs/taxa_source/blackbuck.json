@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Blackbuck",
-"parentTaxon": "antilopini subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Antilope cervicapra",
-"otherNames": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Blackbuck",
+"parentTaxon":"antilopini subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Antilope cervicapra",
+"otherNames":[
 "Indian antelope"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Antilope_cervicapra_from_velavadar.JPG/220px-Antilope_cervicapra_from_velavadar.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Blackbuck"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Antilope_cervicapra_from_velavadar.JPG/220px-Antilope_cervicapra_from_velavadar.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Blackbuck"
 }

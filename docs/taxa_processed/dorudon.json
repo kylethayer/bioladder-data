@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Dorudon",
-"parentTaxon": "dorudontinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dorudon_BW.jpg/220px-Dorudon_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dorudon",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Dorudon",
+"parentTaxon":"dorudontinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dorudon_BW.jpg/220px-Dorudon_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dorudon",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

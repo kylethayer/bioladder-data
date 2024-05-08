@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Lamini",
-"parentTaxon": "camelinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Lamini",
+"parentTaxon":"camelinae",
+"popularSubtaxa":[
 "llama",
 "vicugna",
 "vicuña"
 ],
-"exampleMember": "llama",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lamini",
-"popularAncestors": [
+"exampleMember":"llama",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lamini",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "lama",
 "vicugna"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 50,
 40

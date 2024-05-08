@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Iguanodontidae",
-"parentTaxon": "hadrosauriformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Iguanodontidae",
+"parentTaxon":"hadrosauriformes",
+"popularSubtaxa":[
 "iguanodon",
 "mantellisaurus",
 "ouranosaurus"
 ],
-"exampleMember": "iguanodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanodontidae",
-"popularAncestors": [
+"exampleMember":"iguanodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanodontidae",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "iguanodon",
 "iguanodontidae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 10,
 10

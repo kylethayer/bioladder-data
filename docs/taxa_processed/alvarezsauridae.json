@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Alvarezsauridae",
-"parentTaxon": "alvarezsaur",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Alvarezsauridae",
+"parentTaxon":"alvarezsaur",
+"popularSubtaxa":[
 "achillesaurus",
 "alvarezsaurus",
 "shuvuuia"
 ],
-"exampleMember": "achillesaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alvarezsauridae",
-"popularAncestors": [
+"exampleMember":"achillesaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alvarezsauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "achillesaurus",
 "alvarezsauridae subclade 1",
 "alvarezsaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

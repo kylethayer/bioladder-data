@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Chinese crocodile lizard",
-"parentTaxon": "palaeoanguimorpha",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Chin-krokodilschwanzechse-01.jpg/220px-Chin-krokodilschwanzechse-01.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chinese_crocodile_lizard"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Chinese crocodile lizard",
+"parentTaxon":"palaeoanguimorpha",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Chin-krokodilschwanzechse-01.jpg/220px-Chin-krokodilschwanzechse-01.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chinese_crocodile_lizard"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Shastasaurus",
-"parentTaxon": "merriamosauria subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shastasaurus_chartDB15_2.jpg/220px-Shastasaurus_chartDB15_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Shastasaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Shastasaurus",
+"parentTaxon":"merriamosauria subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shastasaurus_chartDB15_2.jpg/220px-Shastasaurus_chartDB15_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Shastasaurus",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

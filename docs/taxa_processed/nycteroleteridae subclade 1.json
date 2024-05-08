@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Nycteroleteridae subclade 1",
-"parentTaxon": "nycteroleteridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Nycteroleteridae subclade 1",
+"parentTaxon":"nycteroleteridae",
+"popularSubtaxa":[
 "emeroleter",
 "rhipaeosaurus",
 "nycteroleter"
 ],
-"exampleMember": "emeroleter",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nycteroleteridae",
-"popularAncestors": [
+"exampleMember":"emeroleter",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nycteroleteridae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "emeroleter",
 "nycteroleter",
 "rhipaeosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

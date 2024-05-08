@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hueneosauria",
-"parentTaxon": "ichthyosaur",
-"exampleMember": "mixosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hueneosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hueneosauria",
+"parentTaxon":"ichthyosaur",
+"exampleMember":"mixosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hueneosauria"
 }

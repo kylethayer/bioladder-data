@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Sperm whale",
-"parentTaxon": "physeteridae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Physeter macrocephalus",
-"otherNames": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Sperm whale",
+"parentTaxon":"physeteridae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Physeter macrocephalus",
+"otherNames":[
 "Cachalot"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/250px-Mother_and_baby_sperm_whale.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Sperm_whale",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/250px-Mother_and_baby_sperm_whale.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Sperm_whale",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Echimyinae",
-"parentTaxon": "echimyidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Echimyinae",
+"parentTaxon":"echimyidae",
+"popularSubtaxa":[
 "colombian soft-furred spiny rat",
 "rufous soft-furred spiny rat",
 "red-crested tree rat"
 ],
-"exampleMember": "colombian soft-furred spiny rat",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Echimyidae",
-"popularAncestors": [
+"exampleMember":"colombian soft-furred spiny rat",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Echimyidae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "diplomys",
 "red-crested tree rat"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

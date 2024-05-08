@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Bushpig",
-"parentTaxon": "potamochoerus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Potamochoerus larvatus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Southern_Bush_Pig.jpg/220px-Southern_Bush_Pig.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bushpig"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Bushpig",
+"parentTaxon":"potamochoerus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Potamochoerus larvatus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Southern_Bush_Pig.jpg/220px-Southern_Bush_Pig.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bushpig"
 }

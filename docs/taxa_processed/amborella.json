@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Amborella",
-"parentTaxon": "flowering plant",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amborella_trichopoda.jpg/220px-Amborella_trichopoda.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Amborella",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Amborella",
+"parentTaxon":"flowering plant",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amborella_trichopoda.jpg/220px-Amborella_trichopoda.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Amborella",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Black garlic",
-"parentTaxon": "melanocrommyum",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Allium nigrum",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Black garlic",
+"parentTaxon":"melanocrommyum",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Allium nigrum",
+"otherNames":[
 "broad-leaved leek",
 "broadleaf garlic"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Allium_nigrum_%28Allium_magicum%29_Bot._Mag._29._1148._1809.jpg/220px-Allium_nigrum_%28Allium_magicum%29_Bot._Mag._29._1148._1809.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Allium_nigrum",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Allium_nigrum_%28Allium_magicum%29_Bot._Mag._29._1148._1809.jpg/220px-Allium_nigrum_%28Allium_magicum%29_Bot._Mag._29._1148._1809.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Allium_nigrum",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

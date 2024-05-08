@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Homalocephale",
-"parentTaxon": "pachycephalosauria subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Homalocephale_body.jpg/275px-Homalocephale_body.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Homalocephale"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Homalocephale",
+"parentTaxon":"pachycephalosauria subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Homalocephale_body.jpg/275px-Homalocephale_body.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Homalocephale"
 }

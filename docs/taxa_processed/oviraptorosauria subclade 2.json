@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Oviraptorosauria subclade 2",
-"parentTaxon": "oviraptorosauria subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Oviraptorosauria subclade 2",
+"parentTaxon":"oviraptorosauria subclade 1",
+"popularSubtaxa":[
 "avimimus",
 "gigantoraptor",
 "oviraptor"
 ],
-"exampleMember": "avimimus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oviraptorosauria",
-"popularAncestors": [
+"exampleMember":"avimimus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oviraptorosauria",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "avimimus",
 "caenagnathoidea"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 40,
 50

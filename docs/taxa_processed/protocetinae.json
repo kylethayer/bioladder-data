@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Protocetinae",
-"parentTaxon": "protocetidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Protocetinae",
+"parentTaxon":"protocetidae",
+"popularSubtaxa":[
 "rodhocetus",
 "protocetus",
 "maiacetus"
 ],
-"exampleMember": "rodhocetus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Protocetidae",
-"popularAncestors": [
+"exampleMember":"rodhocetus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Protocetidae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "maiacetus",
 "protocetus",
 "rodhocetus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 10

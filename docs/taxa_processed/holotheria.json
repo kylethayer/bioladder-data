@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Holotheria",
-"parentTaxon": "mammal",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Holotheria",
+"parentTaxon":"mammal",
+"popularSubtaxa":[
 "human",
 "dog",
 "red kangaroo"
 ],
-"exampleMember": "repenomamus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Infraclass",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Holotheria",
-"popularAncestors": [
+"exampleMember":"repenomamus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Infraclass",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Holotheria",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "gobiconodonta",
 "trechnotheria"
 ],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 100,
 91,
 80

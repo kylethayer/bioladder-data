@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Taxaceae",
-"parentTaxon": "conifer subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Taxaceae",
+"parentTaxon":"conifer subclade 6",
+"popularSubtaxa":[
 "new caledonia yew",
 "common yew"
 ],
-"exampleMember": "new caledonia yew",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Taxaceae",
-"popularAncestors": [
+"exampleMember":"new caledonia yew",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Taxaceae",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "common yew",
 "new caledonia yew"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 60
 ]

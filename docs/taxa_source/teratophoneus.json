@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Teratophoneus",
-"parentTaxon": "tyrannosaurinae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Teratophoneus_NT.jpg/220px-Teratophoneus_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Teratophoneus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Teratophoneus",
+"parentTaxon":"tyrannosaurinae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Teratophoneus_NT.jpg/220px-Teratophoneus_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Teratophoneus"
 }

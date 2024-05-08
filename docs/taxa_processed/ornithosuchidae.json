@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ornithosuchidae",
-"parentTaxon": "pseudosuchia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ornithosuchidae",
+"parentTaxon":"pseudosuchia",
+"popularSubtaxa":[
 "ornithosuchus",
 "riojasuchus",
 "venaticosuchus"
 ],
-"exampleMember": "ornithosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ornithosuchidae",
-"popularAncestors": [
+"exampleMember":"ornithosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ornithosuchidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ornithosuchus",
 "riojasuchus",
 "venaticosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 10

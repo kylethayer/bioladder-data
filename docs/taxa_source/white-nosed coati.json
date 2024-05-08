@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "White-nosed coati",
-"parentTaxon": "coatis subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Nasua narica",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"White-nosed coati",
+"parentTaxon":"coatis subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Nasua narica",
+"otherNames":[
 "Coatimundi"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nasua_narica_-Costa_Rica-8.jpg/220px-Nasua_narica_-Costa_Rica-8.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Nasua_narica"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nasua_narica_-Costa_Rica-8.jpg/220px-Nasua_narica_-Costa_Rica-8.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Nasua_narica"
 }

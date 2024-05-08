@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Nautilaceae",
-"parentTaxon": "nautilitoidea",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Nautilaceae",
+"parentTaxon":"nautilitoidea",
+"popularSubtaxa":[
 "aturia",
 "nautilus"
 ],
-"exampleMember": "aturia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nautilida",
-"popularAncestors": [
+"exampleMember":"aturia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nautilida",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "aturia",
 "nautilus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 55
 ]

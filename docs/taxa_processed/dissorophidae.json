@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dissorophidae",
-"parentTaxon": "olsoniformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dissorophidae",
+"parentTaxon":"olsoniformes",
+"popularSubtaxa":[
 "platyhystrix",
 "kamacops",
 "zygosaurus"
 ],
-"exampleMember": "platyhystrix",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "",
-"popularAncestors": [
+"exampleMember":"platyhystrix",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dissorophidae subclade 1",
 "platyhystrix"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 10,
 10

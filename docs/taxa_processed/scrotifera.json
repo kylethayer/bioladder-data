@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Scrotifera",
-"parentTaxon": "laurasiatheria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Scrotifera",
+"parentTaxon":"laurasiatheria",
+"popularSubtaxa":[
 "sheep",
 "dog",
 "bat"
 ],
-"exampleMember": "agriochoerus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Scrotifera",
-"popularAncestors": [
+"exampleMember":"agriochoerus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Scrotifera",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bat",
 "fereuungulata"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 91,
 70

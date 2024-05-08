@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Crab-eating raccoon",
-"parentTaxon": "procyon",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Procyon cancrivorus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Procyon_cancrivorus_3%2C_Costa_Rica.JPG/220px-Procyon_cancrivorus_3%2C_Costa_Rica.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Procyon_cancrivorus"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Crab-eating raccoon",
+"parentTaxon":"procyon",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Procyon cancrivorus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Procyon_cancrivorus_3%2C_Costa_Rica.JPG/220px-Procyon_cancrivorus_3%2C_Costa_Rica.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Procyon_cancrivorus"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Insectivora",
-"parentTaxon": "laurasiatheria",
-"exampleMember": "nesophontes",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "Eulipotyphla",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Insectivora"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Insectivora",
+"parentTaxon":"laurasiatheria",
+"exampleMember":"nesophontes",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"Eulipotyphla",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Insectivora"
 }

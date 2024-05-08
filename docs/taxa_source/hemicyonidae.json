@@ -1,17 +1,17 @@
 {
-"name": "Hemicyonidae",
-"parentTaxon": "arctoidea",
-"description": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [
+"name":"Hemicyonidae",
+"parentTaxon":"arctoidea",
+"description":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
 "Hemicyoninae",
 "dog-bear"
 ],
-"popularity": "",
-"extinct": true,
-"exampleMember": "",
-"exampleMemberType": "",
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hemicyon_sansaniensis.JPG/250px-Hemicyon_sansaniensis.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hemicyonidae"
+"popularity":"",
+"extinct":true,
+"exampleMember":"",
+"exampleMemberType":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hemicyon_sansaniensis.JPG/250px-Hemicyon_sansaniensis.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hemicyonidae"
 }

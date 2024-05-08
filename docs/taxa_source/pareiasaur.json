@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Pareiasaur",
-"parentTaxon": "pareiasauromorpha",
-"exampleMember": "bradysaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Pareiasauridae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pareiasaur"
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Pareiasaur",
+"parentTaxon":"pareiasauromorpha",
+"exampleMember":"bradysaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Pareiasauridae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pareiasaur"
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 95,
-"extinct": false,
-"name": "Dinosaur",
-"parentTaxon": "dinosauriformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":95,
+"extinct":false,
+"name":"Dinosaur",
+"parentTaxon":"dinosauriformes",
+"popularSubtaxa":[
 "bird",
 "tyrannosaurus",
 "triceratops"
 ],
-"exampleMember": "alwalkeria",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "Dinosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dinosaur",
-"popularAncestors": [
+"exampleMember":"alwalkeria",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"Dinosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dinosaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ornithischia",
 "saurischia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 85,
 85

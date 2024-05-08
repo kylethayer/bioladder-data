@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eoraptor",
-"parentTaxon": "theropoda subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eoraptor_resto._01.png/220px-Eoraptor_resto._01.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Eoraptor"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eoraptor",
+"parentTaxon":"theropoda subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eoraptor_resto._01.png/220px-Eoraptor_resto._01.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Eoraptor"
 }

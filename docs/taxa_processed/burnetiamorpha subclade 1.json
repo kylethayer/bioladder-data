@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Burnetiamorpha subclade 1",
-"parentTaxon": "burnetiamorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Burnetiamorpha subclade 1",
+"parentTaxon":"burnetiamorpha",
+"popularSubtaxa":[
 "lobalopex",
 "lophorhinus",
 "proburnetia"
 ],
-"exampleMember": "lobalopex",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Burnetiamorpha",
-"popularAncestors": [
+"exampleMember":"lobalopex",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Burnetiamorpha",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "burnetiidae",
 "lobalopex",
 "lophorhinus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

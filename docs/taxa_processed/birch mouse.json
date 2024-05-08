@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Birch mouse",
-"parentTaxon": "dipodidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sicista_betulina_03.JPG/220px-Sicista_betulina_03.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Birch_mouse",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Birch mouse",
+"parentTaxon":"dipodidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sicista_betulina_03.JPG/220px-Sicista_betulina_03.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Birch_mouse",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

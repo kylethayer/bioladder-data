@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Clubmoss",
-"parentTaxon": "lycopodiales",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Lycopodiaceae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lycopodium_annotinum1.jpg/220px-Lycopodium_annotinum1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lycopodiaceae",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Clubmoss",
+"parentTaxon":"lycopodiales",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Lycopodiaceae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lycopodium_annotinum1.jpg/220px-Lycopodium_annotinum1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lycopodiaceae",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Garlic",
-"parentTaxon": "allium subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Allium sativum",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Allium_sativum_Woodwill_1793.jpg/220px-Allium_sativum_Woodwill_1793.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Garlic",
-"popularAncestors": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Garlic",
+"parentTaxon":"allium subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Allium sativum",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Allium_sativum_Woodwill_1793.jpg/220px-Allium_sativum_Woodwill_1793.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Garlic",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

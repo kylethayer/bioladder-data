@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Eriodaphne",
-"parentTaxon": "persea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subgenus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persea_indica.jpg/220px-Persea_indica.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Persea",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Eriodaphne",
+"parentTaxon":"persea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subgenus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persea_indica.jpg/220px-Persea_indica.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Persea",
+"popularAncestors":[
 "laurel",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

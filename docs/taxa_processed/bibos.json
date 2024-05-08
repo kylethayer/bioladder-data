@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bibos",
-"parentTaxon": "bos",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bibos",
+"parentTaxon":"bos",
+"popularSubtaxa":[
 "gaur",
 "gayal",
 "banteng"
 ],
-"exampleMember": "gaur",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subgenus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bos",
-"popularAncestors": [
+"exampleMember":"gaur",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subgenus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bos",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "banteng",
 "gaur",
 "gayal"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

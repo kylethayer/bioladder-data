@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Nodosauridae subclade 3",
-"parentTaxon": "nodosauridae subclade 2",
-"exampleMember": "sauropelta",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nodosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Nodosauridae subclade 3",
+"parentTaxon":"nodosauridae subclade 2",
+"exampleMember":"sauropelta",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nodosauridae"
 }

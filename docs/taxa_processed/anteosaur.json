@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Anteosaur",
-"parentTaxon": "dinocephalia",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Anteosaur",
+"parentTaxon":"dinocephalia",
+"popularSubtaxa":[
 "anteosaurus",
 "syodon",
 "deuterosaurus"
 ],
-"exampleMember": "deuterosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "Anteosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anteosaur",
-"popularAncestors": [
+"exampleMember":"deuterosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"Anteosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anteosaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anteosauridae",
 "deuterosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 10

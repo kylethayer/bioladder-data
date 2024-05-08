@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Venaticosuchus",
-"parentTaxon": "ornithosuchidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venaticosuchus_BW.jpg/375px-Venaticosuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Venaticosuchus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Venaticosuchus",
+"parentTaxon":"ornithosuchidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Venaticosuchus_BW.jpg/375px-Venaticosuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Venaticosuchus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

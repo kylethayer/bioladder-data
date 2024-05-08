@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Lissamphibia",
-"parentTaxon": "amphibamidae subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Lissamphibia",
+"parentTaxon":"amphibamidae subclade 2",
+"popularSubtaxa":[
 "salamander",
 "frog",
 "caecilian"
 ],
-"exampleMember": "albanerpeton",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subclass",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lissamphibia",
-"popularAncestors": [
+"exampleMember":"albanerpeton",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subclass",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lissamphibia",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "batrachia",
 "gymnophiona"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 85,
 50

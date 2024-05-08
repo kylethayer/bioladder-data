@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Rhinesuchidae",
-"parentTaxon": "stereospondyli subclade 2",
-"exampleMember": "rhinesuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rhinesuchidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Rhinesuchidae",
+"parentTaxon":"stereospondyli subclade 2",
+"exampleMember":"rhinesuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rhinesuchidae"
 }

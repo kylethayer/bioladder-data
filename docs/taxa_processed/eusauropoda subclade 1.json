@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eusauropoda subclade 1",
-"parentTaxon": "eusauropoda",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eusauropoda subclade 1",
+"parentTaxon":"eusauropoda",
+"popularSubtaxa":[
 "brontosaurus",
 "diplodocus",
 "brachiosaurus"
 ],
-"exampleMember": "barapasaurus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eusauropoda",
-"popularAncestors": [
+"exampleMember":"barapasaurus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eusauropoda",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "barapasaurus",
 "eusauropoda subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 60,
 60

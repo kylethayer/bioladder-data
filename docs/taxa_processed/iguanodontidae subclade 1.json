@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Iguanodontidae subclade 1",
-"parentTaxon": "iguanodontidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Iguanodontidae subclade 1",
+"parentTaxon":"iguanodontidae",
+"popularSubtaxa":[
 "mantellisaurus",
 "ouranosaurus"
 ],
-"exampleMember": "mantellisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanodontidae",
-"popularAncestors": [
+"exampleMember":"mantellisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanodontidae",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "mantellisaurus",
 "ouranosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

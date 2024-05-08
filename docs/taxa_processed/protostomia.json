@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Protostomia",
-"parentTaxon": "bilateria",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Protostomia",
+"parentTaxon":"bilateria",
+"popularSubtaxa":[
 "insect",
 "spider",
 "octopus"
 ],
-"exampleMember": "bryozoa",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Protostomia",
-"popularAncestors": [
+"exampleMember":"bryozoa",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Protostomia",
+"popularAncestors":[
 "bilateria",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ecdysozoa",
 "lophotrochozoa"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 30,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 80,
 75

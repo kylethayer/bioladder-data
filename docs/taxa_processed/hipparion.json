@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Hipparion",
-"parentTaxon": "hipparionini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hipparion3.jpg/220px-Hipparion3.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hipparion",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Hipparion",
+"parentTaxon":"hipparionini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hipparion3.jpg/220px-Hipparion3.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hipparion",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

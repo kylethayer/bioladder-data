@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Florida mouse",
-"parentTaxon": "reithrodontomyini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DiGangi-Deermouse.jpg/220px-DiGangi-Deermouse.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Florida_mouse",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Florida mouse",
+"parentTaxon":"reithrodontomyini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DiGangi-Deermouse.jpg/220px-DiGangi-Deermouse.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Florida_mouse",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

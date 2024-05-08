@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Lacertoidea",
-"parentTaxon": "episquamata",
-"exampleMember": "spectacled lizards",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lacertoidea"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Lacertoidea",
+"parentTaxon":"episquamata",
+"exampleMember":"spectacled lizards",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lacertoidea"
 }

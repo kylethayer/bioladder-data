@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Anaspida",
-"parentTaxon": "vertebrate subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "birkenia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Anaspida",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Anaspida",
+"parentTaxon":"vertebrate subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"birkenia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Anaspida",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "birkenia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ananas macrodontes",
-"parentTaxon": "ananas",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg/220px-Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ananas_macrodontes",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ananas macrodontes",
+"parentTaxon":"ananas",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg/220px-Ananas_macrodontes_in_a_botanical_garden_in_M%C3%BCnster%2C_Germany.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ananas_macrodontes",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

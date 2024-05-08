@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Tacca",
-"parentTaxon": "dioscoreaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/White_bat_flower.jpg/220px-White_bat_flower.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tacca"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Tacca",
+"parentTaxon":"dioscoreaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/White_bat_flower.jpg/220px-White_bat_flower.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tacca"
 }

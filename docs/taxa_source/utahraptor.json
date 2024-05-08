@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": true,
-"name": "Utahraptor",
-"parentTaxon": "dromaeosaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Utahraptor_ostrommaysorum_update2.png/250px-Utahraptor_ostrommaysorum_update2.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Utahraptor"
+"description":"",
+"popularity":50,
+"extinct":true,
+"name":"Utahraptor",
+"parentTaxon":"dromaeosaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Utahraptor_ostrommaysorum_update2.png/250px-Utahraptor_ostrommaysorum_update2.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Utahraptor"
 }

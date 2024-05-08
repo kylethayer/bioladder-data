@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sauropodomorpha subclade 2",
-"parentTaxon": "sauropodomorpha subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sauropodomorpha subclade 2",
+"parentTaxon":"sauropodomorpha subclade 1",
+"popularSubtaxa":[
 "brontosaurus",
 "diplodocus",
 "brachiosaurus"
 ],
-"exampleMember": "thecodontosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sauropodomorpha",
-"popularAncestors": [
+"exampleMember":"thecodontosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sauropodomorpha",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "plateosauria",
 "thecodontosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 60,
 60

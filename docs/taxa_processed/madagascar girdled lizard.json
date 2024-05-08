@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Madagascar girdled lizard",
-"parentTaxon": "zonosaurinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG/220px-Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Madagascar_girdled_lizard",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Madagascar girdled lizard",
+"parentTaxon":"zonosaurinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG/220px-Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Madagascar_girdled_lizard",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

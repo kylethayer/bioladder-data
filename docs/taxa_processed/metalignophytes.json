@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Metalignophytes",
-"parentTaxon": "radiatopses",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Metalignophytes",
+"parentTaxon":"radiatopses",
+"popularSubtaxa":[
 "pine",
 "grass",
 "onion"
 ],
-"exampleMember": "archaeopteris",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Euphyllophyte",
-"popularAncestors": [
+"exampleMember":"archaeopteris",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Euphyllophyte",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "archaeopteris",
 "seed plants"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 80,
 80

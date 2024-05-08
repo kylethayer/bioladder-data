@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Guatemalan beaded lizard",
-"parentTaxon": "heloderma",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Heloderma charlesbogerti",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HelodermaHCharlesbogerti.JPG/220px-HelodermaHCharlesbogerti.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Heloderma_charlesbogerti",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Guatemalan beaded lizard",
+"parentTaxon":"heloderma",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Heloderma charlesbogerti",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HelodermaHCharlesbogerti.JPG/220px-HelodermaHCharlesbogerti.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Heloderma_charlesbogerti",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

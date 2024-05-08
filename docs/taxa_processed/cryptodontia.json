@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cryptodontia",
-"parentTaxon": "bidentalia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cryptodontia",
+"parentTaxon":"bidentalia",
+"popularSubtaxa":[
 "oudenodon",
 "australobarbarus",
 "geikia"
 ],
-"exampleMember": "aulacocephalodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cryptodontia",
-"popularAncestors": [
+"exampleMember":"aulacocephalodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cryptodontia",
+"popularAncestors":[
 "dicynodont",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "geikiinae",
 "oudenodontidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 35,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

@@ -1,33 +1,33 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Galago",
-"parentTaxon": "lorisoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Galagidae",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Galago",
+"parentTaxon":"lorisoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Galagidae",
+"otherNames":[
 "Bushbabies",
 "Bush babies",
 "or Nagapie"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brown_Greater_Galago.jpg/220px-Brown_Greater_Galago.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Galago",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brown_Greater_Galago.jpg/220px-Brown_Greater_Galago.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Galago",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

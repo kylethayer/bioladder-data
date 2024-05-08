@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Arachnid subclade 2",
-"parentTaxon": "arachnid subclade 1",
-"exampleMember": "ricinulei",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Arachnid"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Arachnid subclade 2",
+"parentTaxon":"arachnid subclade 1",
+"exampleMember":"ricinulei",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Arachnid"
 }

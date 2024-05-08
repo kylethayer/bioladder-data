@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Lambeosaurini subclade 3",
-"parentTaxon": "lambeosaurini subclade 2",
-"exampleMember": "magnapaulia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lambeosaurinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Lambeosaurini subclade 3",
+"parentTaxon":"lambeosaurini subclade 2",
+"exampleMember":"magnapaulia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lambeosaurinae"
 }

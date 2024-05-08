@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Anchisaurus",
-"parentTaxon": "anchisauria",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Anchisaurus_NT.jpg/220px-Anchisaurus_NT.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anchisaurus"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Anchisaurus",
+"parentTaxon":"anchisauria",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Anchisaurus_NT.jpg/220px-Anchisaurus_NT.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anchisaurus"
 }

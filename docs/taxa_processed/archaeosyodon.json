@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Archaeosyodon",
-"parentTaxon": "anteosauridae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Archaeosyodon_DB.jpg/220px-Archaeosyodon_DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Archaeosyodon",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Archaeosyodon",
+"parentTaxon":"anteosauridae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Archaeosyodon_DB.jpg/220px-Archaeosyodon_DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Archaeosyodon",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

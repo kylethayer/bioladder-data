@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Apatosaurinae",
-"parentTaxon": "diplodocid subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Apatosaurinae",
+"parentTaxon":"diplodocid subclade 1",
+"popularSubtaxa":[
 "apatosaurus",
 "brontosaurus"
 ],
-"exampleMember": "apatosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "",
-"popularAncestors": [
+"exampleMember":"apatosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "apatosaurus",
 "brontosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 80
 ]

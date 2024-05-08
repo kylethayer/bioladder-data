@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Musk deer",
-"parentTaxon": "pecora",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Moschus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Moschus_moschiferus_in_Plzen_zoo_%2812.02.2011%29.jpg/220px-Moschus_moschiferus_in_Plzen_zoo_%2812.02.2011%29.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Musk_deer",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Musk deer",
+"parentTaxon":"pecora",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Moschus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Moschus_moschiferus_in_Plzen_zoo_%2812.02.2011%29.jpg/220px-Moschus_moschiferus_in_Plzen_zoo_%2812.02.2011%29.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Musk_deer",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

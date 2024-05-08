@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Mixosauria",
-"parentTaxon": "hueneosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Mixosauria",
+"parentTaxon":"hueneosauria",
+"popularSubtaxa":[
 "mixosaurus",
 "contectopalatus",
 "phalarodon"
 ],
-"exampleMember": "mixosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mixosauria",
-"popularAncestors": [
+"exampleMember":"mixosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mixosauria",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "mixosaurus",
 "phalarodontinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

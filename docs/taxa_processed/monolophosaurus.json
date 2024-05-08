@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Monolophosaurus",
-"parentTaxon": "tetanurae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Monolophosaurus_jiangi_jmallon.jpg/220px-Monolophosaurus_jiangi_jmallon.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Monolophosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Monolophosaurus",
+"parentTaxon":"tetanurae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Monolophosaurus_jiangi_jmallon.jpg/220px-Monolophosaurus_jiangi_jmallon.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Monolophosaurus",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

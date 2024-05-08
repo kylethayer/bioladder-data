@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Monocot",
-"parentTaxon": "flowering plant subclade 5",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Monocot",
+"parentTaxon":"flowering plant subclade 5",
+"popularSubtaxa":[
 "acorus",
 "grass",
 "onion"
 ],
-"exampleMember": "acorus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"acorus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[
 "Monocotyledons"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Monocotyledon",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Monocotyledon",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "acorus",
 "monocot subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 80,
 80

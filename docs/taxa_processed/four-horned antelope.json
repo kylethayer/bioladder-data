@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Four-horned antelope",
-"parentTaxon": "boselaphini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Tetracerus quadricornis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Four-horned_Antelope.JPG/220px-Four-horned_Antelope.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Four-horned_antelope",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Four-horned antelope",
+"parentTaxon":"boselaphini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Tetracerus quadricornis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Four-horned_Antelope.JPG/220px-Four-horned_Antelope.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Four-horned_antelope",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cimolesta",
-"parentTaxon": "ferae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Barylambda_BW.jpg/220px-Barylambda_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cimolesta",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cimolesta",
+"parentTaxon":"ferae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Barylambda_BW.jpg/220px-Barylambda_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cimolesta",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cryptodontia",
-"parentTaxon": "bidentalia",
-"exampleMember": "aulacocephalodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cryptodontia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cryptodontia",
+"parentTaxon":"bidentalia",
+"exampleMember":"aulacocephalodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cryptodontia"
 }

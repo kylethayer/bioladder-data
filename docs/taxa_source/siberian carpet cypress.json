@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Siberian carpet cypress",
-"parentTaxon": "cupressoideae subclade 7",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Microbiota decussata",
-"otherNames": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Siberian carpet cypress",
+"parentTaxon":"cupressoideae subclade 7",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Microbiota decussata",
+"otherNames":[
 "Russian arbor-vitae"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Microbiota_decussata_PAN.JPG/220px-Microbiota_decussata_PAN.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Microbiota_decussata"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Microbiota_decussata_PAN.JPG/220px-Microbiota_decussata_PAN.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Microbiota_decussata"
 }

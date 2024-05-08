@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Phytosauridae subclade 1",
-"parentTaxon": "phytosauridae",
-"exampleMember": "rutiodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Phytosaur"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Phytosauridae subclade 1",
+"parentTaxon":"phytosauridae",
+"exampleMember":"rutiodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Phytosaur"
 }

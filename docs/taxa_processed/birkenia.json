@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Birkenia",
-"parentTaxon": "anaspida",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Birkenia_elegans.jpg/220px-Birkenia_elegans.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Birkenia",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Birkenia",
+"parentTaxon":"anaspida",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Birkenia_elegans.jpg/220px-Birkenia_elegans.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Birkenia",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

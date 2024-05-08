@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Neoichthyosauria subclade 1",
-"parentTaxon": "neoichthyosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Neoichthyosauria subclade 1",
+"parentTaxon":"neoichthyosauria",
+"popularSubtaxa":[
 "ichthyosaurus",
 "stenopterygius",
 "ophthalmosaurinae"
 ],
-"exampleMember": "eurhinosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "",
-"popularAncestors": [
+"exampleMember":"eurhinosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "leptonectidae",
 "thunnosauria"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 30,
 30

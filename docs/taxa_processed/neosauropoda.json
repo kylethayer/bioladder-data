@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Neosauropoda",
-"parentTaxon": "eusauropoda subclade 5",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Neosauropoda",
+"parentTaxon":"eusauropoda subclade 5",
+"popularSubtaxa":[
 "brontosaurus",
 "diplodocus",
 "brachiosaurus"
 ],
-"exampleMember": "haplocanthosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Neosauropoda",
-"popularAncestors": [
+"exampleMember":"haplocanthosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Neosauropoda",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "diplodocimorpha",
 "haplocanthosaurus",
 "macronaria"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 60,
 60

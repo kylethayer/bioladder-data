@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Iguana",
-"parentTaxon": "terraiguana subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Thomas_Marriott_Iguana_9_cropped.jpg/220px-St_Thomas_Marriott_Iguana_9_cropped.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanidae"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Iguana",
+"parentTaxon":"terraiguana subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Thomas_Marriott_Iguana_9_cropped.jpg/220px-St_Thomas_Marriott_Iguana_9_cropped.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanidae"
 }

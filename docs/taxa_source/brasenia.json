@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Brasenia",
-"parentTaxon": "cabombaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BraseniaAlt.jpg/220px-BraseniaAlt.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Brasenia"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Brasenia",
+"parentTaxon":"cabombaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BraseniaAlt.jpg/220px-BraseniaAlt.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Brasenia"
 }

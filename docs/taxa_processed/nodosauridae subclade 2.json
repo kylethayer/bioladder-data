@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Nodosauridae subclade 2",
-"parentTaxon": "nodosauridae subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Nodosauridae subclade 2",
+"parentTaxon":"nodosauridae subclade 1",
+"popularSubtaxa":[
 "animantarx",
 "sauropelta",
 "edmontonia"
 ],
-"exampleMember": "animantarx",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nodosauridae",
-"popularAncestors": [
+"exampleMember":"animantarx",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nodosauridae",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "animantarx",
 "nodosauridae subclade 3"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

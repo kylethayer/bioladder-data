@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Alwalkeria",
-"parentTaxon": "saurischia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alwalkeria_maleriensis.jpg/220px-Alwalkeria_maleriensis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alwalkeria",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Alwalkeria",
+"parentTaxon":"saurischia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alwalkeria_maleriensis.jpg/220px-Alwalkeria_maleriensis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alwalkeria",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

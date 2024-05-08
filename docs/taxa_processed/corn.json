@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Corn",
-"parentTaxon": "andropogoneae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Zea mays",
-"otherNames": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Corn",
+"parentTaxon":"andropogoneae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Zea mays",
+"otherNames":[
 "maize",
 "Indian corn"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Klip_kukuruza_uzgojen_u_Me%C4%91imurju_%28Croatia%29.JPG/2220px-Klip_kukuruza_uzgojen_u_Me%C4%91imurju_%28Croatia%29.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Maize",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Klip_kukuruza_uzgojen_u_Me%C4%91imurju_%28Croatia%29.JPG/2220px-Klip_kukuruza_uzgojen_u_Me%C4%91imurju_%28Croatia%29.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Maize",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

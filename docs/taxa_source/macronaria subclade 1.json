@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Macronaria subclade 1",
-"parentTaxon": "macronaria",
-"exampleMember": "tehuelchesaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Macronaria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Macronaria subclade 1",
+"parentTaxon":"macronaria",
+"exampleMember":"tehuelchesaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Macronaria"
 }

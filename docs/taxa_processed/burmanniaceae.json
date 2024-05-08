@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Burmanniaceae",
-"parentTaxon": "dioscoreales subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burmanniaceae_family.jpg/220px-Burmanniaceae_family.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Burmanniaceae",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Burmanniaceae",
+"parentTaxon":"dioscoreales subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burmanniaceae_family.jpg/220px-Burmanniaceae_family.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Burmanniaceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

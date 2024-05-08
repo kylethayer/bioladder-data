@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tyrannosaurinae",
-"parentTaxon": "tyrannosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tyrannosaurinae",
+"parentTaxon":"tyrannosauridae",
+"popularSubtaxa":[
 "zhuchengtyrannus",
 "daspletosaurus",
 "tyrannosaurus"
 ],
-"exampleMember": "daspletosaurus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
-"popularAncestors": [
+"exampleMember":"daspletosaurus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "daspletosaurus",
 "tyrannosaurinae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

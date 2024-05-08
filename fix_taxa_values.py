@@ -6,23 +6,23 @@ import json, os
 #################################3
 # Make sure all popularities are numbers or ""
 
-taxaSourceFiles = os.listdir("docs/taxa_source")
-counter = 0
+# taxaSourceFiles = os.listdir("docs/taxa_source")
+# counter = 0
 
-for taxonSourceFile in taxaSourceFiles:
+# for taxonSourceFile in taxaSourceFiles:
     
-    if(counter % 1000 == 0):
-        print("copying over info for taxon " + taxonSourceFile)
-    counter += 1
+#     if(counter % 1000 == 0):
+#         print("copying over info for taxon " + taxonSourceFile)
+#     counter += 1
 
-    f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
-    taxonSourceInfo = json.loads(f.read())
+#     f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
+#     taxonSourceInfo = json.loads(f.read())
 
-    if(taxonSourceInfo["popularity"]):
-        taxonSourceInfo["popularity"] = int(taxonSourceInfo["popularity"])
+#     if(taxonSourceInfo["popularity"]):
+#         taxonSourceInfo["popularity"] = int(taxonSourceInfo["popularity"])
 
-    with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-        json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+#     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
+#         json.dump(taxonSourceInfo, f, separators=(',', ':'), indent=0, separators=(',', ':'), ensure_ascii=False)
 
 
 
@@ -57,7 +57,7 @@ for taxonSourceFile in taxaSourceFiles:
 #     taxonInfo["popularSubtaxaPops"] = popularSubtaxaPops
 
 #     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
-#         json.dump(taxonInfo, f, indent=0, ensure_ascii=False)
+#         json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 # ####################################3
 # # Add popularAncestorPops
@@ -97,7 +97,7 @@ for taxonSourceFile in taxaSourceFiles:
 #     taxonInfo["popularAncestorPops"] = popularAncestorPops
 
 #     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
-#         json.dump(taxonInfo, f, indent=0, ensure_ascii=False)
+#         json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 
 ##############################
@@ -119,7 +119,7 @@ for taxonSourceFile in taxaSourceFiles:
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
 #     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+#         json.dump(taxonSourceInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 # counter = 0
 # for taxonSourceFile in taxaSourceFiles:
@@ -135,40 +135,40 @@ for taxonSourceFile in taxaSourceFiles:
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
 #     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+#         json.dump(taxonSourceInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 
 #######################################33
 # make all json files have newlines (for checking value changes in git commits easier)
-# taxaSourceFiles = os.listdir("docs/taxa_source")
+taxaSourceFiles = os.listdir("docs/taxa_source")
 
-# taxaSourceFiles = os.listdir("docs/taxa_source")
-# counter = 0
+taxaSourceFiles = os.listdir("docs/taxa_source")
+counter = 0
 
-# for taxonSourceFile in taxaSourceFiles:
+for taxonSourceFile in taxaSourceFiles:
     
-#     if(counter % 1000 == 0):
-#         print("copying over info for taxon " + taxonSourceFile)
-#     counter += 1
+    if(counter % 1000 == 0):
+        print("copying over info for taxon " + taxonSourceFile)
+    counter += 1
 
-#     f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
-#     taxonSourceInfo = json.loads(f.read())
+    f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
+    taxonSourceInfo = json.loads(f.read())
 
-#     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+    with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
+        json.dump(taxonSourceInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 
-# for taxonSourceFile in taxaSourceFiles:
+for taxonSourceFile in taxaSourceFiles:
     
-#     if(counter % 1000 == 0):
-#         print("copying over info for taxon " + taxonSourceFile)
-#     counter += 1
+    if(counter % 1000 == 0):
+        print("copying over info for taxon " + taxonSourceFile)
+    counter += 1
 
-#     f = open("docs/taxa_processed/" + taxonSourceFile, encoding="utf-8")
-#     taxonSourceInfo = json.loads(f.read())
+    f = open("docs/taxa_processed/" + taxonSourceFile, encoding="utf-8")
+    taxonSourceInfo = json.loads(f.read())
 
-#     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+    with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
+        json.dump(taxonSourceInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
 
 
 

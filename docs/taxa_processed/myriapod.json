@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Myriapod",
-"parentTaxon": "mandibulata",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Myriapod",
+"parentTaxon":"mandibulata",
+"popularSubtaxa":[
 "centipede",
 "millipede",
 "symphyla"
 ],
-"exampleMember": "symphyla",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Myriapod",
-"popularAncestors": [
+"exampleMember":"symphyla",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Myriapod",
+"popularAncestors":[
 "arthropod",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "centipede",
 "millipede",
 "pauropoda",
 "symphyla"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 65,
 50

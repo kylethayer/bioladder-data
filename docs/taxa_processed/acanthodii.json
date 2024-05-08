@@ -1,33 +1,33 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Acanthodii",
-"parentTaxon": "teleostomi",
-"popularSubtaxa": [],
-"exampleMember": "acanthodes",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Acanthodii",
+"parentTaxon":"teleostomi",
+"popularSubtaxa":[],
+"exampleMember":"acanthodes",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[
 "Spiny sharks"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Acanthodii",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Acanthodii",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "acanthodes"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

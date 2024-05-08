@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Cephalopod",
-"parentTaxon": "conchifera subclade 1",
-"exampleMember": "ammonoidea",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cephalopod"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Cephalopod",
+"parentTaxon":"conchifera subclade 1",
+"exampleMember":"ammonoidea",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cephalopod"
 }

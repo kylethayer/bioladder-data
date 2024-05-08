@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Red algae",
-"parentTaxon": "archaeplastida",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Division",
-"scientificName": "Rhodophyta",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Laurencia.jpg/240px-Laurencia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Red_algae"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Red algae",
+"parentTaxon":"archaeplastida",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Division",
+"scientificName":"Rhodophyta",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Laurencia.jpg/240px-Laurencia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Red_algae"
 }

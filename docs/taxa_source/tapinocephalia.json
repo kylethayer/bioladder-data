@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tapinocephalia",
-"parentTaxon": "dinocephalia",
-"exampleMember": "styracocephalus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tapinocephalia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tapinocephalia",
+"parentTaxon":"dinocephalia",
+"exampleMember":"styracocephalus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tapinocephalia"
 }

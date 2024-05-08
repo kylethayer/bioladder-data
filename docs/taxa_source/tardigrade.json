@@ -1,17 +1,17 @@
 {
-"description": "Tardigrades are water-dwelling, segmented micro-animals, with eight legs.\n\nTardigrades are classified as extremophiles, organisms that can thrive in a physically or geochemically extreme condition that would be detrimental to most life on Earth. For example, tardigrades can withstand temperatures from just above absolute zero to well above the boiling point of water, pressures about six times stronger than pressures found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a person, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce.",
-"popularity": "",
-"extinct": false,
-"name": "Tardigrade",
-"parentTaxon": "panarthropoda",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [
+"description":"Tardigrades are water-dwelling, segmented micro-animals, with eight legs.\n\nTardigrades are classified as extremophiles, organisms that can thrive in a physically or geochemically extreme condition that would be detrimental to most life on Earth. For example, tardigrades can withstand temperatures from just above absolute zero to well above the boiling point of water, pressures about six times stronger than pressures found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a person, and the vacuum of outer space. They can go without food or water for more than 10 years, drying out to the point where they are 3% or less water, only to rehydrate, forage, and reproduce.",
+"popularity":"",
+"extinct":false,
+"name":"Tardigrade",
+"parentTaxon":"panarthropoda",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[
 "Waterbear",
 "Moss piglet"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Waterbear.jpg/220px-Waterbear.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tardigrade"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Waterbear.jpg/220px-Waterbear.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tardigrade"
 }

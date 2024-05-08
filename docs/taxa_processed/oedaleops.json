@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Oedaleops",
-"parentTaxon": "eothyrididae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Oedaleops22.jpg/220px-Oedaleops22.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oedaleops",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Oedaleops",
+"parentTaxon":"eothyrididae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Oedaleops22.jpg/220px-Oedaleops22.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oedaleops",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

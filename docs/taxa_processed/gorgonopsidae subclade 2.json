@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Gorgonopsidae subclade 2",
-"parentTaxon": "gorgonopsidae subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Gorgonopsidae subclade 2",
+"parentTaxon":"gorgonopsidae subclade 1",
+"popularSubtaxa":[
 "lycaenops",
 "sycosaurus",
 "rubidgea"
 ],
-"exampleMember": "lycaenops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gorgonopsia",
-"popularAncestors": [
+"exampleMember":"lycaenops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gorgonopsia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "gorgonopsidae subclade 3",
 "lycaenops"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 20

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Stereospondylomorpha",
-"parentTaxon": "eryopiformes",
-"exampleMember": "sclerocephalus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stereospondylomorpha"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Stereospondylomorpha",
+"parentTaxon":"eryopiformes",
+"exampleMember":"sclerocephalus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stereospondylomorpha"
 }

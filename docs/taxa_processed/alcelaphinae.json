@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Alcelaphinae",
-"parentTaxon": "aegodontia subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Alcelaphinae",
+"parentTaxon":"aegodontia subclade 2",
+"popularSubtaxa":[
 "topi",
 "hartebeest",
 "blue wildebeest"
 ],
-"exampleMember": "hirola",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alcelaphinae",
-"popularAncestors": [
+"exampleMember":"hirola",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alcelaphinae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "alcelaphus",
 "connochaetes",
 "damaliscus",
 "hirola"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 60,
 70

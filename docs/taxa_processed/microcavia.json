@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Microcavia",
-"parentTaxon": "caviinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Microcavia",
+"parentTaxon":"caviinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "Mountain cavies"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Microcavia_Australis.jpg/360px-Microcavia_Australis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Microcavia",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Microcavia_Australis.jpg/360px-Microcavia_Australis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Microcavia",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

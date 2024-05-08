@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pilot whale",
-"parentTaxon": "oceanic dolphin",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Globicephala",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pilot_whale_spyhop.jpg/250px-Pilot_whale_spyhop.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Globicephala",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pilot whale",
+"parentTaxon":"oceanic dolphin",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Globicephala",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pilot_whale_spyhop.jpg/250px-Pilot_whale_spyhop.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Globicephala",
+"popularAncestors":[
 "oceanic dolphin",
 "toothed whale",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

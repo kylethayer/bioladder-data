@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Whiptail wallaby",
-"parentTaxon": "notamacropus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Macropus parryi",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Whiptail_Wallaby_Side.JPG/220px-Whiptail_Wallaby_Side.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Whiptail_wallaby"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Whiptail wallaby",
+"parentTaxon":"notamacropus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Macropus parryi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Whiptail_Wallaby_Side.JPG/220px-Whiptail_Wallaby_Side.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Whiptail_wallaby"
 }

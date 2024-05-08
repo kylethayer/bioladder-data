@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Gymnophiona",
-"parentTaxon": "lissamphibia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Gymnophiona",
+"parentTaxon":"lissamphibia",
+"popularSubtaxa":[
 "eocaecilia",
 "rubricacaecilia",
 "caecilian"
 ],
-"exampleMember": "eocaecilia",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gymnophiona",
-"popularAncestors": [
+"exampleMember":"eocaecilia",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gymnophiona",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eocaecilia",
 "gymnophiona subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 50

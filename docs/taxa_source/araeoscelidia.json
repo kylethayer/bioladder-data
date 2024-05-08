@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Araeoscelidia",
-"parentTaxon": "diapsida",
-"exampleMember": "spinoaequalis",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Araeoscelidia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Araeoscelidia",
+"parentTaxon":"diapsida",
+"exampleMember":"spinoaequalis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Araeoscelidia"
 }

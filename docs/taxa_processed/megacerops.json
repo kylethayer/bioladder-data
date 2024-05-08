@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Megacerops",
-"parentTaxon": "brontotheriina",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Megacerops_10.jpg/220px-Megacerops_10.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Megacerops",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Megacerops",
+"parentTaxon":"brontotheriina",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Megacerops_10.jpg/220px-Megacerops_10.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Megacerops",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

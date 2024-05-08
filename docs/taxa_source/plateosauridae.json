@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Plateosauridae",
-"parentTaxon": "plateosauria",
-"exampleMember": "unaysaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Plateosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Plateosauridae",
+"parentTaxon":"plateosauria",
+"exampleMember":"unaysaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Plateosauridae"
 }

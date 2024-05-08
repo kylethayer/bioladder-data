@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Coronosauria subclade 2",
-"parentTaxon": "coronosauria subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Coronosauria subclade 2",
+"parentTaxon":"coronosauria subclade 1",
+"popularSubtaxa":[
 "protoceratops",
 "pachyrhinosaurus",
 "triceratops"
 ],
-"exampleMember": "protoceratops",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny",
-"popularAncestors": [
+"exampleMember":"protoceratops",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "coronosauria subclade 3",
 "protoceratopsid"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 20,
 85

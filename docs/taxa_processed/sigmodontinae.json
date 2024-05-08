@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Sigmodontinae",
-"parentTaxon": "cricetidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Sigmodontinae",
+"parentTaxon":"cricetidae",
+"popularSubtaxa":[
 "crab-eating rat",
 "white-footed climbing mouse",
 "yellow-rumped leaf-eared mouse"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sigmodontinae",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sigmodontinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "oryzomyalia",
 "sigmodontalia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

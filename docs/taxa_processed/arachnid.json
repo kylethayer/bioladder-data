@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Arachnid",
-"parentTaxon": "chelicerata",
-"popularSubtaxa": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Arachnid",
+"parentTaxon":"chelicerata",
+"popularSubtaxa":[
 "tick",
 "opiliones",
 "spider"
 ],
-"exampleMember": "acariformes",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "Arachnida",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Arachnid",
-"popularAncestors": [
+"exampleMember":"acariformes",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"Arachnida",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Arachnid",
+"popularAncestors":[
 "arthropod",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "acariformes",
 "arachnid subclade 1",
 "arachnid subclade 3",
 "parasitiformes"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 50,
 80

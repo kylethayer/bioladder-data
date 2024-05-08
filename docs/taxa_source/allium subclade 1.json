@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Allium subclade 1",
-"parentTaxon": "allium",
-"exampleMember": "canada onion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Allium"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Allium subclade 1",
+"parentTaxon":"allium",
+"exampleMember":"canada onion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Allium"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Royal antelope",
-"parentTaxon": "neotragini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Neotragus pygmaeus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antilope_Royale.JPG/220px-Antilope_Royale.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Royal_antelope"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Royal antelope",
+"parentTaxon":"neotragini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Neotragus pygmaeus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antilope_Royale.JPG/220px-Antilope_Royale.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Royal_antelope"
 }

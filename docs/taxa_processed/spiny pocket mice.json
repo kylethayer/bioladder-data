@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Spiny pocket mice",
-"parentTaxon": "heteromyidae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Heteromys",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MyoxomysSalviniWolf.jpg/220px-MyoxomysSalviniWolf.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Heteromys",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Spiny pocket mice",
+"parentTaxon":"heteromyidae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Heteromys",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MyoxomysSalviniWolf.jpg/220px-MyoxomysSalviniWolf.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Heteromys",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

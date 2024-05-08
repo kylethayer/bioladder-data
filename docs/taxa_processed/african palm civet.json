@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "African palm civet",
-"parentTaxon": "feliformia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Nandiniidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nandinia_binotata%2C_Manchester_Museum.jpg/250px-Nandinia_binotata%2C_Manchester_Museum.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/African_palm_civet",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"African palm civet",
+"parentTaxon":"feliformia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Nandiniidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nandinia_binotata%2C_Manchester_Museum.jpg/250px-Nandinia_binotata%2C_Manchester_Museum.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/African_palm_civet",
+"popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Eurasian cave lion",
-"parentTaxon": "panthera subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Panthera leo spelaea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hoehlenloewe_CaveLion_hharder.jpg/220px-Hoehlenloewe_CaveLion_hharder.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Panthera_spelaea"
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Eurasian cave lion",
+"parentTaxon":"panthera subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Panthera leo spelaea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hoehlenloewe_CaveLion_hharder.jpg/220px-Hoehlenloewe_CaveLion_hharder.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Panthera_spelaea"
 }

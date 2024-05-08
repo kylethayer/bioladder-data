@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Equini",
-"parentTaxon": "equinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Equini",
+"parentTaxon":"equinae",
+"popularSubtaxa":[
 "horse",
 "donkey",
 "zebra"
 ],
-"exampleMember": "hippidion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Equini",
-"popularAncestors": [
+"exampleMember":"hippidion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Equini",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "equus",
 "hippidion",
 "onohippidium"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 80,
 80

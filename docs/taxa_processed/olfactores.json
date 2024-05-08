@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Olfactores",
-"parentTaxon": "chordate",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Olfactores",
+"parentTaxon":"chordate",
+"popularSubtaxa":[
 "hagfish",
 "human",
 "dinosaur"
 ],
-"exampleMember": "haikouella",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Chordate#Phylogeny",
-"popularAncestors": [
+"exampleMember":"haikouella",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Chordate#Phylogeny",
+"popularAncestors":[
 "chordate",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "craniata",
 "haikouella",
 "tunicate"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 100,
 95

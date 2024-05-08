@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hadrosauroidea subclade 2",
-"parentTaxon": "hadrosauroidea subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hadrosauroidea subclade 2",
+"parentTaxon":"hadrosauroidea subclade 1",
+"popularSubtaxa":[
 "hadrosaurus",
 "edmontosaurus",
 "parasaurolophus"
 ],
-"exampleMember": "telmatosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosauroidea",
-"popularAncestors": [
+"exampleMember":"telmatosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosauroidea",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hadrosaurid",
 "telmatosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 60,
 60

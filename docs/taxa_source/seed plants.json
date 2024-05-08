@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Seed plants",
-"parentTaxon": "metalignophytes",
-"exampleMember": "callospermarion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "Spermatophyte",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spermatophyte"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Seed plants",
+"parentTaxon":"metalignophytes",
+"exampleMember":"callospermarion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"Spermatophyte",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spermatophyte"
 }

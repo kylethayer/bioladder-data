@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Brookesia",
-"parentTaxon": "acrodonta subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brookesia.jpg/220px-Brookesia.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Brookesia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Brookesia",
+"parentTaxon":"acrodonta subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brookesia.jpg/220px-Brookesia.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Brookesia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

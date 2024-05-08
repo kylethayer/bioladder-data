@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Glyptodon",
-"parentTaxon": "glyptodontidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glyptodon_%28Riha2000%29.jpg/220px-Glyptodon_%28Riha2000%29.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Glyptodontidae"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Glyptodon",
+"parentTaxon":"glyptodontidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glyptodon_%28Riha2000%29.jpg/220px-Glyptodon_%28Riha2000%29.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Glyptodontidae"
 }

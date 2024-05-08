@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therizinosauroidea subclade 1",
-"parentTaxon": "therizinosauroidea",
-"exampleMember": "alxasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosaur"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therizinosauroidea subclade 1",
+"parentTaxon":"therizinosauroidea",
+"exampleMember":"alxasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosaur"
 }

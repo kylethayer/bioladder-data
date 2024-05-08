@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Onion",
-"parentTaxon": "allium subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Allium cepa",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ARS_red_onion.jpg/220px-ARS_red_onion.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Onion"
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Onion",
+"parentTaxon":"allium subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Allium cepa",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ARS_red_onion.jpg/220px-ARS_red_onion.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Onion"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Saurolophinae subclade 1",
-"parentTaxon": "saurolophinae",
-"exampleMember": "shantungosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Saurolophinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Saurolophinae subclade 1",
+"parentTaxon":"saurolophinae",
+"exampleMember":"shantungosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Saurolophinae"
 }

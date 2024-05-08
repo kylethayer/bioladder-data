@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Australidelphia",
-"parentTaxon": "marsupial",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Australidelphia",
+"parentTaxon":"marsupial",
+"popularSubtaxa":[
 "monito del monte",
 "red kangaroo",
 "koala"
 ],
-"exampleMember": "monito del monte",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Australidelphia",
-"popularAncestors": [
+"exampleMember":"monito del monte",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Australidelphia",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "australidelphia subclade 1",
 "monito del monte"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 80,
 80

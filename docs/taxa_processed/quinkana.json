@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Quinkana",
-"parentTaxon": "mekosuchinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Quinkana_fortirostrum.JPG/220px-Quinkana_fortirostrum.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Quinkana",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Quinkana",
+"parentTaxon":"mekosuchinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Quinkana_fortirostrum.JPG/220px-Quinkana_fortirostrum.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Quinkana",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

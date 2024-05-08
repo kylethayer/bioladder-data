@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Metasuchia subclade 2",
-"parentTaxon": "metasuchia subclade 1",
-"exampleMember": "mahajangasuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Metasuchia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Metasuchia subclade 2",
+"parentTaxon":"metasuchia subclade 1",
+"exampleMember":"mahajangasuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Metasuchia"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Unenlagia",
-"parentTaxon": "unenlagiinae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Unenlagia_NT.jpg/250px-Unenlagia_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Unenlagia",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Unenlagia",
+"parentTaxon":"unenlagiinae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Unenlagia_NT.jpg/250px-Unenlagia_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Unenlagia",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

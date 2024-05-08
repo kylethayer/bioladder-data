@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "European snow vole",
-"parentTaxon": "arvicolini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microtus_nivalis.jpg/220px-Microtus_nivalis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/European_snow_vole",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"European snow vole",
+"parentTaxon":"arvicolini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microtus_nivalis.jpg/220px-Microtus_nivalis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/European_snow_vole",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

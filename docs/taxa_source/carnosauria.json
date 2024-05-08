@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Carnosauria",
-"parentTaxon": "avetheropoda",
-"exampleMember": "gasosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Carnosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Carnosauria",
+"parentTaxon":"avetheropoda",
+"exampleMember":"gasosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Carnosauria"
 }

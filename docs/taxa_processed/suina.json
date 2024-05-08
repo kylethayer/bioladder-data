@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Suina",
-"parentTaxon": "artiofabula",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Suina",
+"parentTaxon":"artiofabula",
+"popularSubtaxa":[
 "peccary",
 "common warthog",
 "pig"
 ],
-"exampleMember": "peccary",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"peccary",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[
 "Suiformes"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Suina",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Suina",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "peccary",
 "suidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 70,
 85

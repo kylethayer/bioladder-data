@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Strepsicerotini subclade 5",
-"parentTaxon": "strepsicerotini subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Strepsicerotini subclade 5",
+"parentTaxon":"strepsicerotini subclade 4",
+"popularSubtaxa":[
 "mountain nyala",
 "bongo",
 "sitatunga"
 ],
-"exampleMember": "mountain nyala",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
-"popularAncestors": [
+"exampleMember":"mountain nyala",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "mountain nyala",
 "strepsicerotini subclade 6"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

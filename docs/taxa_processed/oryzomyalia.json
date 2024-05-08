@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Oryzomyalia",
-"parentTaxon": "sigmodontinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Oryzomyalia",
+"parentTaxon":"sigmodontinae",
+"popularSubtaxa":[
 "rice rat",
 "white-footed climbing mouse",
 "yellow-rumped leaf-eared mouse"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sigmodontinae",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sigmodontinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "abrothrix",
 "hairy-tailed bolo mouse",
 "phyllotini",
 "rhipidomys",
 "rice rat"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

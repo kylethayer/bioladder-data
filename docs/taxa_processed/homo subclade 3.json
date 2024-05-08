@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Homo subclade 3",
-"parentTaxon": "homo",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Homo subclade 3",
+"parentTaxon":"homo",
+"popularSubtaxa":[
 "human",
 "neanderthal",
 "homo erectus"
 ],
-"exampleMember": "homo erectus",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "",
-"popularAncestors": [
+"exampleMember":"homo erectus",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"popularAncestors":[
 "homo",
 "ape",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "homo erectus",
 "homo ergaster",
 "homo subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 100,
 60,
 50

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tuatara",
-"parentTaxon": "pleurosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Sphenodon",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sphenodon_punctatus_in_Waikanae%2C_New_Zealand.jpg/330px-Sphenodon_punctatus_in_Waikanae%2C_New_Zealand.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tuatara"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tuatara",
+"parentTaxon":"pleurosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Sphenodon",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sphenodon_punctatus_in_Waikanae%2C_New_Zealand.jpg/330px-Sphenodon_punctatus_in_Waikanae%2C_New_Zealand.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tuatara"
 }

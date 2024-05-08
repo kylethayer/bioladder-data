@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Golden mole",
-"parentTaxon": "afrosoricida",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Chrysochloridae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Taupe_doree.jpg/220px-Taupe_doree.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Golden_mole"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Golden mole",
+"parentTaxon":"afrosoricida",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Chrysochloridae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Taupe_doree.jpg/220px-Taupe_doree.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Golden_mole"
 }

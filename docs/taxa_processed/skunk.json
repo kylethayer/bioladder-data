@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Skunk",
-"parentTaxon": "musteloidea subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Mephitidae",
-"otherNames": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Skunk",
+"parentTaxon":"musteloidea subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Mephitidae",
+"otherNames":[
 "Polecat"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Striped_Skunk.jpg/220px-Striped_Skunk.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Skunk",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Striped_Skunk.jpg/220px-Striped_Skunk.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Skunk",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Oviraptorosauria",
-"parentTaxon": "chuniaoae",
-"exampleMember": "protarchaeopteryx",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Oviraptorosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Oviraptorosauria",
+"parentTaxon":"chuniaoae",
+"exampleMember":"protarchaeopteryx",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Oviraptorosauria"
 }

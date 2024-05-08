@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Sciuromorpha",
-"parentTaxon": "rodent subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Sciuromorpha",
+"parentTaxon":"rodent subclade 1",
+"popularSubtaxa":[
 "horned gopher",
 "mountain beaver",
 "dormouse"
 ],
-"exampleMember": "horned gopher",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sciuromorpha",
-"popularAncestors": [
+"exampleMember":"horned gopher",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sciuromorpha",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dormouse",
 "horned gopher",
 "mountain beaver"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 60,
 60

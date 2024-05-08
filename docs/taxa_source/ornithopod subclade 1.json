@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ornithopod subclade 1",
-"parentTaxon": "ornithopod",
-"exampleMember": "parksosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ornithopod"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ornithopod subclade 1",
+"parentTaxon":"ornithopod",
+"exampleMember":"parksosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ornithopod"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ctenosauriscidae",
-"parentTaxon": "poposauroidea",
-"exampleMember": "arizonasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ctenosauriscidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ctenosauriscidae",
+"parentTaxon":"poposauroidea",
+"exampleMember":"arizonasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ctenosauriscidae"
 }

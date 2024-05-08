@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bovini",
-"parentTaxon": "bovinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bovini",
+"parentTaxon":"bovinae",
+"popularSubtaxa":[
 "water buffalo",
 "cattle",
 "bison"
 ],
-"exampleMember": "pelorovis",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bovini",
-"popularAncestors": [
+"exampleMember":"pelorovis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bovini",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "african buffalo",
 "bison",
 "bos",
@@ -30,13 +30,13 @@
 "pelorovis",
 "saola"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 85,
 70

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Yam",
-"parentTaxon": "dioscoreaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MS_1960.JPG/220px-MS_1960.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Yam_%28vegetable%29",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Yam",
+"parentTaxon":"dioscoreaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/MS_1960.JPG/220px-MS_1960.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Yam_%28vegetable%29",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

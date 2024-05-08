@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": true,
-"name": "Utahraptor",
-"parentTaxon": "dromaeosaurinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Utahraptor_ostrommaysorum_update2.png/250px-Utahraptor_ostrommaysorum_update2.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Utahraptor",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":true,
+"name":"Utahraptor",
+"parentTaxon":"dromaeosaurinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Utahraptor_ostrommaysorum_update2.png/250px-Utahraptor_ostrommaysorum_update2.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Utahraptor",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

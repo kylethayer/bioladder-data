@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Carnivora",
-"parentTaxon": "ferae",
-"popularSubtaxa": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Carnivora",
+"parentTaxon":"ferae",
+"popularSubtaxa":[
 "dog",
 "cat",
 "walrus"
 ],
-"exampleMember": "miacids",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Carnivora",
-"popularAncestors": [
+"exampleMember":"miacids",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Carnivora",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "caniformia",
 "feliformia",
 "miacids"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 91,
 90,
 80

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Red-crested tree rat",
-"parentTaxon": "echimyinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Santamartamys rufodorsalis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Santamartamys%2C_David_Valle_Martinez.jpg/330px-Santamartamys%2C_David_Valle_Martinez.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Santamartamys",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Red-crested tree rat",
+"parentTaxon":"echimyinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Santamartamys rufodorsalis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Santamartamys%2C_David_Valle_Martinez.jpg/330px-Santamartamys%2C_David_Valle_Martinez.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Santamartamys",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

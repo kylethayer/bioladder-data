@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Hydnora",
-"parentTaxon": "hydnoroideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HydnoraAfricanaKarasburgDistrictNamibia2002Musselman.jpg/220px-HydnoraAfricanaKarasburgDistrictNamibia2002Musselman.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hydnora",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Hydnora",
+"parentTaxon":"hydnoroideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HydnoraAfricanaKarasburgDistrictNamibia2002Musselman.jpg/220px-HydnoraAfricanaKarasburgDistrictNamibia2002Musselman.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hydnora",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

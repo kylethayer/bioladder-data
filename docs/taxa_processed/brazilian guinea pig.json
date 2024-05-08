@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Brazilian guinea pig",
-"parentTaxon": "cavia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Cavia aperea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wildmeerschweinchen-06.jpg/220px-Wildmeerschweinchen-06.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Brazilian_guinea_pig",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Brazilian guinea pig",
+"parentTaxon":"cavia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Cavia aperea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wildmeerschweinchen-06.jpg/220px-Wildmeerschweinchen-06.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Brazilian_guinea_pig",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

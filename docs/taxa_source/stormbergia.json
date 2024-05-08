@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Stormbergia",
-"parentTaxon": "neornithischia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stormbergia_%26_Othnielosaurus.jpg/250px-Stormbergia_%26_Othnielosaurus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Stormbergia"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Stormbergia",
+"parentTaxon":"neornithischia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stormbergia_%26_Othnielosaurus.jpg/250px-Stormbergia_%26_Othnielosaurus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Stormbergia"
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dryosauridae",
-"parentTaxon": "dryomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dryosauridae",
+"parentTaxon":"dryomorpha",
+"popularSubtaxa":[
 "callovosaurus",
 "dryosaurus"
 ],
-"exampleMember": "callovosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dryosauridae",
-"popularAncestors": [
+"exampleMember":"callovosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dryosauridae",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "callovosaurus",
 "dryosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20
 ]

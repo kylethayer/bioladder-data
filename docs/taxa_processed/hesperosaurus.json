@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Hesperosaurus",
-"parentTaxon": "stegosauria subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hesperosaurus_NT.jpg/220px-Hesperosaurus_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hesperosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Hesperosaurus",
+"parentTaxon":"stegosauria subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hesperosaurus_NT.jpg/220px-Hesperosaurus_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hesperosaurus",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

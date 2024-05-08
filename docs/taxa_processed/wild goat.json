@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Wild goat",
-"parentTaxon": "capra",
-"popularSubtaxa": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Wild goat",
+"parentTaxon":"capra",
+"popularSubtaxa":[
 "bezoar ibex",
 "kri-kri",
 "goat"
 ],
-"exampleMember": "bezoar ibex",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Species",
-"scientificName": "Capra aegagrus",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Wild_goat",
-"popularAncestors": [
+"exampleMember":"bezoar ibex",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Species",
+"scientificName":"Capra aegagrus",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Wild_goat",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bezoar ibex",
 "goat",
 "kri-kri"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 80

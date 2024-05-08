@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Black-striped wallaby",
-"parentTaxon": "notamacropus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Black-striped_wallaby.jpg/220px-Black-striped_wallaby.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Black-striped_wallaby"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Black-striped wallaby",
+"parentTaxon":"notamacropus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Black-striped_wallaby.jpg/220px-Black-striped_wallaby.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Black-striped_wallaby"
 }

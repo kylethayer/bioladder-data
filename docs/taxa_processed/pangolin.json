@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Pangolin",
-"parentTaxon": "ferae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Pholidota",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pangolin_borneo.jpg/170px-Pangolin_borneo.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pangolin",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Pangolin",
+"parentTaxon":"ferae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Pholidota",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pangolin_borneo.jpg/170px-Pangolin_borneo.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pangolin",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

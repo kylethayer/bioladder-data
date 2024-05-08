@@ -1,14 +1,14 @@
 {
-"name": "Hemicyclaspis",
-"parentTaxon": "osteostraci",
-"description": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"popularity": "",
-"extinct": true,
-"exampleMember": "",
-"exampleMemberType": "",
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hemicyclaspis_NT_small.jpg/250px-Hemicyclaspis_NT_small.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hemicyclaspis"
+"name":"Hemicyclaspis",
+"parentTaxon":"osteostraci",
+"description":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"popularity":"",
+"extinct":true,
+"exampleMember":"",
+"exampleMemberType":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hemicyclaspis_NT_small.jpg/250px-Hemicyclaspis_NT_small.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hemicyclaspis"
 }

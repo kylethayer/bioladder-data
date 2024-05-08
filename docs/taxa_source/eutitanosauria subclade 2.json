@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eutitanosauria subclade 2",
-"parentTaxon": "eutitanosauria",
-"exampleMember": "isisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Titanosaur"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eutitanosauria subclade 2",
+"parentTaxon":"eutitanosauria",
+"exampleMember":"isisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Titanosaur"
 }

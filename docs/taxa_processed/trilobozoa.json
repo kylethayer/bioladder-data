@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Trilobozoa",
-"parentTaxon": "radiata",
-"popularSubtaxa": [],
-"exampleMember": "tribrachidium",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Trilobozoa",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Trilobozoa",
+"parentTaxon":"radiata",
+"popularSubtaxa":[],
+"exampleMember":"tribrachidium",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Trilobozoa",
+"popularAncestors":[
 "animal",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "tribrachidium"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 95,
 "",
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Zanabazar",
-"parentTaxon": "troodontidae subclade 3",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zanabazar.jpg/220px-Zanabazar.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zanabazar_%28dinosaur%29",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Zanabazar",
+"parentTaxon":"troodontidae subclade 3",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zanabazar.jpg/220px-Zanabazar.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zanabazar_%28dinosaur%29",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

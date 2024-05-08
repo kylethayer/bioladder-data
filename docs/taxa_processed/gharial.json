@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Gharial",
-"parentTaxon": "crocodilia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Gavialis gangeticus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gavialis_gangeticus%2C_ZOO_Praha_045.jpg/220px-Gavialis_gangeticus%2C_ZOO_Praha_045.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gharial",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Gharial",
+"parentTaxon":"crocodilia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Gavialis gangeticus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gavialis_gangeticus%2C_ZOO_Praha_045.jpg/220px-Gavialis_gangeticus%2C_ZOO_Praha_045.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gharial",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

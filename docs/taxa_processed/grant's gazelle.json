@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Grant's gazelle",
-"parentTaxon": "nanger subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ngorongoro_Grant-Gazelle.jpg/220px-Ngorongoro_Grant-Gazelle.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Grant%27s_gazelle",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Grant's gazelle",
+"parentTaxon":"nanger subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ngorongoro_Grant-Gazelle.jpg/220px-Ngorongoro_Grant-Gazelle.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Grant%27s_gazelle",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

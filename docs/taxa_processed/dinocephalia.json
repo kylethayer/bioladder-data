@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dinocephalia",
-"parentTaxon": "eutherapsida",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dinocephalia",
+"parentTaxon":"eutherapsida",
+"popularSubtaxa":[
 "anteosaur",
 "anteosaurus",
 "ulemosaurus"
 ],
-"exampleMember": "phthinosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dinocephalia",
-"popularAncestors": [
+"exampleMember":"phthinosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dinocephalia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anteosaur",
 "estemmenosuchidae",
 "phthinosuchus",
 "tapinocephalia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 20,
 10

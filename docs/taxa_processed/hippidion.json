@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Hippidion",
-"parentTaxon": "equini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hippidion.jpg/220px-Hippidion.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hippidion",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Hippidion",
+"parentTaxon":"equini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hippidion.jpg/220px-Hippidion.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hippidion",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tarphycerida",
-"parentTaxon": "nautilitoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tarphycerida",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tarphycerida",
+"parentTaxon":"nautilitoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tarphycerida",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

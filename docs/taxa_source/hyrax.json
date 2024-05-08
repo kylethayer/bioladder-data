@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Hyrax",
-"parentTaxon": "paenungulata",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Hyracoidea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Yellow-spotted_Rock_Hyrax.jpg/220px-Yellow-spotted_Rock_Hyrax.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hyrax"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Hyrax",
+"parentTaxon":"paenungulata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Hyracoidea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Yellow-spotted_Rock_Hyrax.jpg/220px-Yellow-spotted_Rock_Hyrax.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hyrax"
 }

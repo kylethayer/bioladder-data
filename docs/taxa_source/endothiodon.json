@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Endothiodon",
-"parentTaxon": "dicynodont subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Endothiodon12DB.jpg/220px-Endothiodon12DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Endothiodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Endothiodon",
+"parentTaxon":"dicynodont subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Endothiodon12DB.jpg/220px-Endothiodon12DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Endothiodon"
 }

@@ -1,18 +1,18 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Blue wildebeest",
-"parentTaxon": "connochaetes",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Connochaetes taurinus",
-"otherNames": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Blue wildebeest",
+"parentTaxon":"connochaetes",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Connochaetes taurinus",
+"otherNames":[
 "Common wildebeest",
 "White-bearded wildebeest",
 "Brindled gnu"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/220px-Blue_Wildebeest%2C_Ngorongoro.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Blue_wildebeest"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/220px-Blue_Wildebeest%2C_Ngorongoro.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Blue_wildebeest"
 }

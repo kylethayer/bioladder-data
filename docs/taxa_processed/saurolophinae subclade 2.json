@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Saurolophinae subclade 2",
-"parentTaxon": "saurolophinae subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Saurolophinae subclade 2",
+"parentTaxon":"saurolophinae subclade 1",
+"popularSubtaxa":[
 "kritosaurus",
 "saurolophus",
 "prosaurolophus"
 ],
-"exampleMember": "kritosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Saurolophinae",
-"popularAncestors": [
+"exampleMember":"kritosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Saurolophinae",
+"popularAncestors":[
 "hadrosaurid",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "kritosaurini",
 "saurolophini"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20,
 10

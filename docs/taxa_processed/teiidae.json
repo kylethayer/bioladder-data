@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Teiidae",
-"parentTaxon": "teiformata",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Teiidae",
+"parentTaxon":"teiformata",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
 "Whiptails",
 "Racerunners"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Goldteju_Tupinambis_teguixin.jpg/220px-Goldteju_Tupinambis_teguixin.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Teiidae",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Goldteju_Tupinambis_teguixin.jpg/220px-Goldteju_Tupinambis_teguixin.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Teiidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Syodon",
-"parentTaxon": "syodontinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Syodon_DB.jpg/220px-Syodon_DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Syodontinae"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Syodon",
+"parentTaxon":"syodontinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Syodon_DB.jpg/220px-Syodon_DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Syodontinae"
 }

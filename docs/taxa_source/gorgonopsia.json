@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Gorgonopsia",
-"parentTaxon": "theriodont",
-"exampleMember": "aloposaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Gorgonopsia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Gorgonopsia",
+"parentTaxon":"theriodont",
+"exampleMember":"aloposaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Gorgonopsia"
 }

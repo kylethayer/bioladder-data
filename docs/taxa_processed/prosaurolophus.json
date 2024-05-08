@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Prosaurolophus",
-"parentTaxon": "saurolophini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Infraclass",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Prosaurolophus_Maximus.jpg/220px-Prosaurolophus_Maximus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Prosaurolophus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Prosaurolophus",
+"parentTaxon":"saurolophini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Infraclass",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Prosaurolophus_Maximus.jpg/220px-Prosaurolophus_Maximus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Prosaurolophus",
+"popularAncestors":[
 "hadrosaurid",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

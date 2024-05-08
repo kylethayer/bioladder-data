@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Vampire squid",
-"parentTaxon": "octopodiformes",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Vampyroteuthis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/220px-Vampire_des_abysses.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Vampire_squid"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Vampire squid",
+"parentTaxon":"octopodiformes",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Vampyroteuthis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vampire_des_abysses.jpg/220px-Vampire_des_abysses.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vampire_squid"
 }

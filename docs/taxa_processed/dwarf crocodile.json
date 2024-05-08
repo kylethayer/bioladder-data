@@ -1,33 +1,33 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Dwarf crocodile",
-"parentTaxon": "osteolaeminae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Osteolaemus",
-"otherNames": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Dwarf crocodile",
+"parentTaxon":"osteolaeminae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Osteolaemus",
+"otherNames":[
 "African dwarf crocodile",
 "broad-snouted crocodile",
 "bony crocodile"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG/220px-Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dwarf_crocodile",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG/220px-Crocodile_nain_aquarium_porte_dor%C3%A9e_Paris.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dwarf_crocodile",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

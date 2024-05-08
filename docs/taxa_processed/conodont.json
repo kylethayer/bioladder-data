@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Conodont",
-"parentTaxon": "vertebrate",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ConodontZICA.png/220px-ConodontZICA.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Conodont",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Conodont",
+"parentTaxon":"vertebrate",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ConodontZICA.png/220px-ConodontZICA.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Conodont",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

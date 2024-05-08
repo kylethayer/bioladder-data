@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Takin",
-"parentTaxon": "ovibovini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Budorcas taxicolor",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Takin_1427.JPG/220px-Takin_1427.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Takin",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Takin",
+"parentTaxon":"ovibovini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Budorcas taxicolor",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Takin_1427.JPG/220px-Takin_1427.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Takin",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

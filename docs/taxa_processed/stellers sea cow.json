@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Stellers sea cow",
-"parentTaxon": "dugongidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hydrodamalis gigas",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MSU_V2P1a_-_Hydrodamalis_gigas_painting.png/220px-MSU_V2P1a_-_Hydrodamalis_gigas_painting.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Steller%27s_Sea_Cow",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Stellers sea cow",
+"parentTaxon":"dugongidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hydrodamalis gigas",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MSU_V2P1a_-_Hydrodamalis_gigas_painting.png/220px-MSU_V2P1a_-_Hydrodamalis_gigas_painting.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Steller%27s_Sea_Cow",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

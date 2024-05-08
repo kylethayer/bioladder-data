@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Velosauria sublade 2",
-"parentTaxon": "velosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Velosauria sublade 2",
+"parentTaxon":"velosauria",
+"popularSubtaxa":[
 "pareiasaurus",
 "elginia",
 "scutosaurus"
 ],
-"exampleMember": "pareiasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Velosauria",
-"popularAncestors": [
+"exampleMember":"pareiasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Velosauria",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arganaceras",
 "elginia",
 "pareiasaurus",
 "scutosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 20

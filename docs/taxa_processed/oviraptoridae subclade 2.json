@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Oviraptoridae subclade 2",
-"parentTaxon": "oviraptoridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Oviraptoridae subclade 2",
+"parentTaxon":"oviraptoridae",
+"popularSubtaxa":[
 "oviraptor",
 "rinchenia",
 "nemegtomaia"
 ],
-"exampleMember": "oviraptor",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oviraptoridae",
-"popularAncestors": [
+"exampleMember":"oviraptor",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oviraptoridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "oviraptor",
 "oviraptoridae subclade 3",
 "oviraptoridae subclade 4"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 10,
 20

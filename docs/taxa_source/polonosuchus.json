@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Polonosuchus",
-"parentTaxon": "rauisuchidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Polonosuchus.jpg/220px-Polonosuchus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Polonosuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Polonosuchus",
+"parentTaxon":"rauisuchidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Polonosuchus.jpg/220px-Polonosuchus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polonosuchus"
 }

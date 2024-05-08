@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Armored rat",
-"parentTaxon": "eumysopinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hoplomys gymnurus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hoplomys_gymnurus1.jpg/220px-Hoplomys_gymnurus1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Armored_rat",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Armored rat",
+"parentTaxon":"eumysopinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hoplomys gymnurus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hoplomys_gymnurus1.jpg/220px-Hoplomys_gymnurus1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Armored_rat",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

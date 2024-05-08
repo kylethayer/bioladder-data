@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Odobenocetops",
-"parentTaxon": "delphinoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Odobenocetops.jpg/220px-Odobenocetops.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Odobenocetops",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Odobenocetops",
+"parentTaxon":"delphinoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Odobenocetops.jpg/220px-Odobenocetops.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Odobenocetops",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

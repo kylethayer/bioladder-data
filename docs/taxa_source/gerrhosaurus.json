@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Gerrhosaurus",
-"parentTaxon": "gerrhosaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gerrhosaurus_flavigularis.jpg/220px-Gerrhosaurus_flavigularis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gerrhosaurus"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Gerrhosaurus",
+"parentTaxon":"gerrhosaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gerrhosaurus_flavigularis.jpg/220px-Gerrhosaurus_flavigularis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gerrhosaurus"
 }

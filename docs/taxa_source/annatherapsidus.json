@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Annatherapsidus",
-"parentTaxon": "akidnognathidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annatherapsidus092.jpg/220px-Annatherapsidus092.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Annatherapsidus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Annatherapsidus",
+"parentTaxon":"akidnognathidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annatherapsidus092.jpg/220px-Annatherapsidus092.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Annatherapsidus"
 }

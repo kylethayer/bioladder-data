@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Stegocephalia subclade 2",
-"parentTaxon": "stegocephalia subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Stegocephalia subclade 2",
+"parentTaxon":"stegocephalia subclade 1",
+"popularSubtaxa":[
 "frog",
 "human",
 "dinosaur"
 ],
-"exampleMember": "ventastega",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia",
-"popularAncestors": [
+"exampleMember":"ventastega",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "stegocephalia subclade 3",
 "ventastega"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 85,
 100,
 95

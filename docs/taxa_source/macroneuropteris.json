@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Macroneuropteris",
-"parentTaxon": "cycad",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macroneuropteris_and_Reconstruction_of_Medullosales.jpg/220px-Macroneuropteris_and_Reconstruction_of_Medullosales.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Macroneuropteris"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Macroneuropteris",
+"parentTaxon":"cycad",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macroneuropteris_and_Reconstruction_of_Medullosales.jpg/220px-Macroneuropteris_and_Reconstruction_of_Medullosales.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Macroneuropteris"
 }

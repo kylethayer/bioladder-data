@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Zingiberales",
-"parentTaxon": "commelinids sublcade 1",
-"exampleMember": "ensete",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zingiberales"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Zingiberales",
+"parentTaxon":"commelinids sublcade 1",
+"exampleMember":"ensete",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zingiberales"
 }

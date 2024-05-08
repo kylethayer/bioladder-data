@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Crocodylus subclade 5",
-"parentTaxon": "crocodylus",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Crocodylus subclade 5",
+"parentTaxon":"crocodylus",
+"popularSubtaxa":[
 "american crocodile",
 "orinoco crocodile",
 "morelet's crocodile"
 ],
-"exampleMember": "american crocodile",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodile#Phylogeny",
-"popularAncestors": [
+"exampleMember":"american crocodile",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile#Phylogeny",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "american crocodile",
 "cuban crocodile",
 "morelet's crocodile",
 "orinoco crocodile"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 40,
 50

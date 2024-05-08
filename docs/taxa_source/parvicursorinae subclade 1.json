@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Parvicursorinae subclade 1",
-"parentTaxon": "parvicursorinae",
-"exampleMember": "albertonykus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alvarezsauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Parvicursorinae subclade 1",
+"parentTaxon":"parvicursorinae",
+"exampleMember":"albertonykus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alvarezsauridae"
 }

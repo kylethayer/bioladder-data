@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Aturia",
-"parentTaxon": "nautilaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hoko_River_Nautilids.jpg/220px-Hoko_River_Nautilids.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aturia"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Aturia",
+"parentTaxon":"nautilaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hoko_River_Nautilids.jpg/220px-Hoko_River_Nautilids.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aturia"
 }

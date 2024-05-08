@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Epidendroideae",
-"parentTaxon": "orchid subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Epidendrum_schomburgkii_-_1.jpg/220px-Epidendrum_schomburgkii_-_1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Epidendroideae"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Epidendroideae",
+"parentTaxon":"orchid subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Epidendrum_schomburgkii_-_1.jpg/220px-Epidendrum_schomburgkii_-_1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Epidendroideae"
 }

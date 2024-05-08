@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Euceratherium",
-"parentTaxon": "ovibovini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Species",
-"scientificName": "Euceratherium collinum",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Euceratherium",
+"parentTaxon":"ovibovini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Species",
+"scientificName":"Euceratherium collinum",
+"otherNames":[
 "shrub-ox"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Euceratherium_BW.jpg/220px-Euceratherium_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Euceratherium",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Euceratherium_BW.jpg/220px-Euceratherium_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Euceratherium",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Turmeric",
-"parentTaxon": "zingibereae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/220px-Turmeric_inflorescence.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Turmeric"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Turmeric",
+"parentTaxon":"zingibereae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/220px-Turmeric_inflorescence.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Turmeric"
 }

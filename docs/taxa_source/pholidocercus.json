@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pholidocercus",
-"parentTaxon": "amphilemuridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pholidocercus_-_reconstruction.png/220px-Pholidocercus_-_reconstruction.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pholidocercus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pholidocercus",
+"parentTaxon":"amphilemuridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pholidocercus_-_reconstruction.png/220px-Pholidocercus_-_reconstruction.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pholidocercus"
 }

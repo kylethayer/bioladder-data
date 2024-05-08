@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Nutmeg yew",
-"parentTaxon": "cephalotaxaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Torreya",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Torreya_nucifera_bgiu.jpg/220px-Torreya_nucifera_bgiu.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Torreya",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Nutmeg yew",
+"parentTaxon":"cephalotaxaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Torreya",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Torreya_nucifera_bgiu.jpg/220px-Torreya_nucifera_bgiu.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Torreya",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

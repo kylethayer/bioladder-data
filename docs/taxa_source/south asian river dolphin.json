@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "South asian river dolphin",
-"parentTaxon": "platanistoidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Platanista gangetica",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schnabeldelphin-drawing.jpg/220px-Schnabeldelphin-drawing.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/South_Asian_river_dolphin"
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"South asian river dolphin",
+"parentTaxon":"platanistoidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Platanista gangetica",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schnabeldelphin-drawing.jpg/220px-Schnabeldelphin-drawing.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/South_Asian_river_dolphin"
 }

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Naemorhedini",
-"parentTaxon": "caprinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Naemorhedini",
+"parentTaxon":"caprinae",
+"popularSubtaxa":[
 "serow",
 "mountain goat",
 "pyrenean chamois"
 ],
-"exampleMember": "serow",
-"exampleMemberType": "First Looked Like",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Caprinae",
-"popularAncestors": [
+"exampleMember":"serow",
+"exampleMemberType":"First Looked Like",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caprinae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "goral",
 "mountain goat",
 "rupicapra",
 "serow"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 65,
 50

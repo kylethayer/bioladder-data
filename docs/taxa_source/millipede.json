@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Millipede",
-"parentTaxon": "myriapod",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "Diplopoda",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Anadenobolus_monilicornis_03.JPG/220px-Anadenobolus_monilicornis_03.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Millipede"
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Millipede",
+"parentTaxon":"myriapod",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Diplopoda",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Anadenobolus_monilicornis_03.JPG/220px-Anadenobolus_monilicornis_03.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Millipede"
 }

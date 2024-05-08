@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Onychodontidae subclade 1",
-"parentTaxon": "onychodontidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Onychodontidae subclade 1",
+"parentTaxon":"onychodontidae",
+"popularSubtaxa":[
 "onychodus",
 "grossius"
 ],
-"exampleMember": "grossius",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Onychodontidae",
-"popularAncestors": [
+"exampleMember":"grossius",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Onychodontidae",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "grossius",
 "onychodus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

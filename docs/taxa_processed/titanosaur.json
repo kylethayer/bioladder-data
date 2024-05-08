@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Titanosaur",
-"parentTaxon": "somphospondyli",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Titanosaur",
+"parentTaxon":"somphospondyli",
+"popularSubtaxa":[
 "malawisaurus",
 "rinconsaurus",
 "saltasaurus"
 ],
-"exampleMember": "futalognkosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "Titanosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Titanosaur",
-"popularAncestors": [
+"exampleMember":"futalognkosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"Titanosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Titanosaur",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eutitanosauria",
 "titanosaur subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

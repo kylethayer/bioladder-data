@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 95,
-"extinct": false,
-"name": "Insect",
-"parentTaxon": "hexapoda",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "Insecta",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Insect"
+"description":"",
+"popularity":95,
+"extinct":false,
+"name":"Insect",
+"parentTaxon":"hexapoda",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Insecta",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Insect"
 }

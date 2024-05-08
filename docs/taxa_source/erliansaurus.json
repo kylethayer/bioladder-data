@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Erliansaurus",
-"parentTaxon": "therizinosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erliansaurus_bellamanus.jpg/220px-Erliansaurus_bellamanus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Erliansaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Erliansaurus",
+"parentTaxon":"therizinosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erliansaurus_bellamanus.jpg/220px-Erliansaurus_bellamanus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Erliansaurus"
 }

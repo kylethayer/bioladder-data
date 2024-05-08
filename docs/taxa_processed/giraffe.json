@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Giraffe",
-"parentTaxon": "giraffidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Giraffa camelopardalis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/220px-Giraffe_Mikumi_National_Park.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Giraffe",
-"popularAncestors": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Giraffe",
+"parentTaxon":"giraffidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Giraffa camelopardalis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/220px-Giraffe_Mikumi_National_Park.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Giraffe",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

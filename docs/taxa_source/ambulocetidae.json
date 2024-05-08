@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ambulocetidae",
-"parentTaxon": "cetacea subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ambulocetus_BW.jpg/220px-Ambulocetus_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ambulocetidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ambulocetidae",
+"parentTaxon":"cetacea subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ambulocetus_BW.jpg/220px-Ambulocetus_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ambulocetidae"
 }

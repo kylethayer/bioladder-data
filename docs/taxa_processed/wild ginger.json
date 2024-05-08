@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Wild ginger",
-"parentTaxon": "asaroideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Asarum",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asarum_caudatum_1117.JPG/220px-Asarum_caudatum_1117.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Asarum",
-"popularAncestors": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Wild ginger",
+"parentTaxon":"asaroideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Asarum",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asarum_caudatum_1117.JPG/220px-Asarum_caudatum_1117.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Asarum",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

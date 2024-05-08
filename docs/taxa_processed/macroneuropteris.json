@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Macroneuropteris",
-"parentTaxon": "cycad",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macroneuropteris_and_Reconstruction_of_Medullosales.jpg/220px-Macroneuropteris_and_Reconstruction_of_Medullosales.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Macroneuropteris",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Macroneuropteris",
+"parentTaxon":"cycad",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macroneuropteris_and_Reconstruction_of_Medullosales.jpg/220px-Macroneuropteris_and_Reconstruction_of_Medullosales.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Macroneuropteris",
+"popularAncestors":[
 "seed plants",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Murinae subclade 6",
-"parentTaxon": "murinae subclade 5",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Murinae subclade 6",
+"parentTaxon":"murinae subclade 5",
+"popularSubtaxa":[
 "southern african vlei rat",
 "sloggett's vlei rat",
 "woodland thicket rat"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Murinae",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Murinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "murinae subclade 7",
 "otomys"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

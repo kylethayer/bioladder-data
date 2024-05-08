@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Denebola",
-"parentTaxon": "delphinapterinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Denebola_Praekogia.jpg/220px-Denebola_Praekogia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Denebola_%28genus%29",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Denebola",
+"parentTaxon":"delphinapterinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Denebola_Praekogia.jpg/220px-Denebola_Praekogia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Denebola_%28genus%29",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

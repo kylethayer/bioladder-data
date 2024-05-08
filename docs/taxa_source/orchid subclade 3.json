@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Orchid subclade 3",
-"parentTaxon": "orchid subclade 2",
-"exampleMember": "epidendroideae",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Orchidaceae"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Orchid subclade 3",
+"parentTaxon":"orchid subclade 2",
+"exampleMember":"epidendroideae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orchidaceae"
 }

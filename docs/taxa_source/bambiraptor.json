@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Bambiraptor",
-"parentTaxon": "saurornitholestinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bambiraptor_NT.jpg/220px-Bambiraptor_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bambiraptor"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Bambiraptor",
+"parentTaxon":"saurornitholestinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bambiraptor_NT.jpg/220px-Bambiraptor_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bambiraptor"
 }

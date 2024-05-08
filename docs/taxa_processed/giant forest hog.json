@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Giant forest hog",
-"parentTaxon": "potamochoerini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hylochoerus meinertzhageni",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hylochoerus_meinertzhageni2.jpg/220px-Hylochoerus_meinertzhageni2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Giant_forest_hog",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Giant forest hog",
+"parentTaxon":"potamochoerini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hylochoerus meinertzhageni",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hylochoerus_meinertzhageni2.jpg/220px-Hylochoerus_meinertzhageni2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Giant_forest_hog",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

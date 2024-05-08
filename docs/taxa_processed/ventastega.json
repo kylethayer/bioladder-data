@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Ventastega",
-"parentTaxon": "stegocephalia subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ventastega_BW.jpg/220px-Ventastega_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ventastega",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Ventastega",
+"parentTaxon":"stegocephalia subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ventastega_BW.jpg/220px-Ventastega_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ventastega",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cimolodonta",
-"parentTaxon": "multituberculata",
-"exampleMember": "taeniolabis",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cimolodonta"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cimolodonta",
+"parentTaxon":"multituberculata",
+"exampleMember":"taeniolabis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cimolodonta"
 }

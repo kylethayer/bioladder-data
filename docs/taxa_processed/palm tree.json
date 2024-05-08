@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Palm tree",
-"parentTaxon": "arecales",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Arecaceae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1859-Martinique.web.jpg/220px-1859-Martinique.web.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Arecaceae",
-"popularAncestors": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Palm tree",
+"parentTaxon":"arecales",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Arecaceae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1859-Martinique.web.jpg/220px-1859-Martinique.web.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Arecaceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tristichopteridae subclade 1",
-"parentTaxon": "tristichopteridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tristichopteridae subclade 1",
+"parentTaxon":"tristichopteridae",
+"popularSubtaxa":[
 "jarvikina",
 "eusthenodon"
 ],
-"exampleMember": "jarvikina",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tristichopteridae",
-"popularAncestors": [
+"exampleMember":"jarvikina",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tristichopteridae",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eusthenodon",
 "jarvikina"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

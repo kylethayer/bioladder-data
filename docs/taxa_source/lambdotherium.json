@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Lambdotherium",
-"parentTaxon": "brontotherioidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lambdotherium_popoagicum.png/220px-Lambdotherium_popoagicum.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lambdotherium"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Lambdotherium",
+"parentTaxon":"brontotherioidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lambdotherium_popoagicum.png/220px-Lambdotherium_popoagicum.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lambdotherium"
 }

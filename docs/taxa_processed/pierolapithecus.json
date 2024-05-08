@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pierolapithecus",
-"parentTaxon": "homininae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pierolapithecus_catalaunicus_%28Kopie%29.jpg/150px-Pierolapithecus_catalaunicus_%28Kopie%29.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pierolapithecus",
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pierolapithecus",
+"parentTaxon":"homininae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pierolapithecus_catalaunicus_%28Kopie%29.jpg/150px-Pierolapithecus_catalaunicus_%28Kopie%29.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pierolapithecus",
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 null,
 null,
 null,
 null
 ],
-"popularAncestors": [
+"popularAncestors":[
 null,
 null,
 null,
 null
 ],
-"popularSubtaxa": [],
-"popularSubtaxaPops": []
+"popularSubtaxa":[],
+"popularSubtaxaPops":[]
 }

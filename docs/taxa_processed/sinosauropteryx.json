@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sinosauropteryx",
-"parentTaxon": "compsognathidae subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sinosauropteryx_mmartyniuk_solosml.png/220px-Sinosauropteryx_mmartyniuk_solosml.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sinosauropteryx",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sinosauropteryx",
+"parentTaxon":"compsognathidae subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sinosauropteryx_mmartyniuk_solosml.png/220px-Sinosauropteryx_mmartyniuk_solosml.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sinosauropteryx",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

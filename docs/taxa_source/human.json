@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 100,
-"extinct": false,
-"name": "Human",
-"parentTaxon": "homo subclade 1",
-"exampleMember": "",
-"exampleMemberType": "None",
-"taxonomicRank": "Species",
-"scientificName": "Homo sapiens or Homo sapiens sapiens",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/150px-Akha_cropped_hires.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Human"
+"description":"",
+"popularity":100,
+"extinct":false,
+"name":"Human",
+"parentTaxon":"homo subclade 1",
+"exampleMember":"",
+"exampleMemberType":"None",
+"taxonomicRank":"Species",
+"scientificName":"Homo sapiens or Homo sapiens sapiens",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/150px-Akha_cropped_hires.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Human"
 }

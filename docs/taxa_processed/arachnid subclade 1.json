@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Arachnid subclade 1",
-"parentTaxon": "arachnid",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Arachnid subclade 1",
+"parentTaxon":"arachnid",
+"popularSubtaxa":[
 "opiliones",
 "ricinulei",
 "solifugae"
 ],
-"exampleMember": "opiliones",
-"exampleMemberType": "",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Arachnid",
-"popularAncestors": [
+"exampleMember":"opiliones",
+"exampleMemberType":"",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Arachnid",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arachnid subclade 2",
 "opiliones"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 10,
 10

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": true,
-"name": "Ichthyosaur",
-"parentTaxon": "eoichthyosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":true,
+"name":"Ichthyosaur",
+"parentTaxon":"eoichthyosauria",
+"popularSubtaxa":[
 "parvinatator",
 "ichthyosaurus",
 "stenopterygius"
 ],
-"exampleMember": "parvinatator",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Ichthyosauria, Ichthyopterygia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ichthyosaur",
-"popularAncestors": [
+"exampleMember":"parvinatator",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Ichthyosauria, Ichthyopterygia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ichthyosaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hueneosauria",
 "parvinatator"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 60,
 30

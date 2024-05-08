@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pristidactylus",
-"parentTaxon": "iguanoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Urostrophus_scapulatus.jpg/220px-Urostrophus_scapulatus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pristidactylus",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pristidactylus",
+"parentTaxon":"iguanoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Urostrophus_scapulatus.jpg/220px-Urostrophus_scapulatus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pristidactylus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

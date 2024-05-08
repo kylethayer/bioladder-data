@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Amphisbaenia",
-"parentTaxon": "lacertibaenia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iberian_worm_lizard.jpg/220px-Iberian_worm_lizard.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Amphisbaenia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Amphisbaenia",
+"parentTaxon":"lacertibaenia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iberian_worm_lizard.jpg/220px-Iberian_worm_lizard.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Amphisbaenia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

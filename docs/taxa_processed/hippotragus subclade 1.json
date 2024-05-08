@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Hippotragus subclade 1",
-"parentTaxon": "hippotragus",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Hippotragus subclade 1",
+"parentTaxon":"hippotragus",
+"popularSubtaxa":[
 "roan antelope",
 "sable antelope"
 ],
-"exampleMember": "roan antelope",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hippotragus",
-"popularAncestors": [
+"exampleMember":"roan antelope",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hippotragus",
+"popularAncestors":[
 "grazing antelope",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "roan antelope",
 "sable antelope"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 55,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50
 ]

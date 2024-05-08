@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Lycosuchus",
-"parentTaxon": "therocephalia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lycosuchus1.jpg/220px-Lycosuchus1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therocephalia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Lycosuchus",
+"parentTaxon":"therocephalia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lycosuchus1.jpg/220px-Lycosuchus1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therocephalia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

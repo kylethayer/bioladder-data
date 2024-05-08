@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Aepycamelus",
-"parentTaxon": "camelini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Aepycamelus_Alticamelus_hharder.jpg/250px-Aepycamelus_Alticamelus_hharder.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Aepycamelus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Aepycamelus",
+"parentTaxon":"camelini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Aepycamelus_Alticamelus_hharder.jpg/250px-Aepycamelus_Alticamelus_hharder.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Aepycamelus"
 }

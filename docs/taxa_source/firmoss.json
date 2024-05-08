@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Firmoss",
-"parentTaxon": "lycopodiales",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Huperziaceae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Huperzia_selago.jpg/220px-Huperzia_selago.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Huperziaceae"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Firmoss",
+"parentTaxon":"lycopodiales",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Huperziaceae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Huperzia_selago.jpg/220px-Huperzia_selago.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Huperziaceae"
 }

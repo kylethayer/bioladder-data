@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Rauisuchidae",
-"parentTaxon": "loricata subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Rauisuchidae",
+"parentTaxon":"loricata subclade 3",
+"popularSubtaxa":[
 "polonosuchus",
 "postosuchus",
 "teratosaurus"
 ],
-"exampleMember": "postosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rauisuchidae",
-"popularAncestors": [
+"exampleMember":"postosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rauisuchidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "luperosuchus",
 "polonosuchus",
 "postosuchus",
 "teratosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 30,
 10

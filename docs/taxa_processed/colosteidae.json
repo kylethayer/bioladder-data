@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Colosteidae",
-"parentTaxon": "stegocephalia subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Colosteidae",
+"parentTaxon":"stegocephalia subclade 6",
+"popularSubtaxa":[
 "pholidogaster",
 "colosteus",
 "greererpeton"
 ],
-"exampleMember": "pholidogaster",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Colosteidae",
-"popularAncestors": [
+"exampleMember":"pholidogaster",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Colosteidae",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "colosteus",
 "greererpeton",
 "pholidogaster"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 "10",
 10,
 10

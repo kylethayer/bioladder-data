@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Grossius",
-"parentTaxon": "onychodontidae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Grossius_BW.jpg/220px-Grossius_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Grossius",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Grossius",
+"parentTaxon":"onychodontidae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Grossius_BW.jpg/220px-Grossius_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Grossius",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

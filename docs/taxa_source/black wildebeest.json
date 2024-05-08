@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Black wildebeest",
-"parentTaxon": "connochaetes",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Connochaetes gnou",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Black wildebeest",
+"parentTaxon":"connochaetes",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Connochaetes gnou",
+"otherNames":[
 "White-tailed gnu"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gnou_Thoiry_19803.jpg/220px-Gnou_Thoiry_19803.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Black_wildebeest"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gnou_Thoiry_19803.jpg/220px-Gnou_Thoiry_19803.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Black_wildebeest"
 }

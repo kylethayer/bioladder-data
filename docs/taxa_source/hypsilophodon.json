@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Hypsilophodon",
-"parentTaxon": "ornithopod",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hypsilophodon.jpg/220px-Hypsilophodon.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hypsilophodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Hypsilophodon",
+"parentTaxon":"ornithopod",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hypsilophodon.jpg/220px-Hypsilophodon.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hypsilophodon"
 }

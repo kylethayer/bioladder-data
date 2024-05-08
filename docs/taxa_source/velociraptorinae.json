@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Velociraptorinae",
-"parentTaxon": "eudromaeosauria subclade 2",
-"exampleMember": "velociraptor",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Velociraptorinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Velociraptorinae",
+"parentTaxon":"eudromaeosauria subclade 2",
+"exampleMember":"velociraptor",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Velociraptorinae"
 }

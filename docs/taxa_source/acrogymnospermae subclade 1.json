@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Acrogymnospermae subclade 1",
-"parentTaxon": "acrogymnospermae",
-"exampleMember": "ginkgo",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spermatophyte"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Acrogymnospermae subclade 1",
+"parentTaxon":"acrogymnospermae",
+"exampleMember":"ginkgo",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spermatophyte"
 }

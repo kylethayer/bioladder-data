@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hemicyclaspis",
-"parentTaxon": "osteostraci",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hemicyclaspis_NT_small.jpg/250px-Hemicyclaspis_NT_small.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hemicyclaspis",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hemicyclaspis",
+"parentTaxon":"osteostraci",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hemicyclaspis_NT_small.jpg/250px-Hemicyclaspis_NT_small.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hemicyclaspis",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

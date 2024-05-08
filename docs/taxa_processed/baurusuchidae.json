@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": "",
-"name": "Baurusuchidae",
-"parentTaxon": "notosuchia subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":"",
+"name":"Baurusuchidae",
+"parentTaxon":"notosuchia subclade 3",
+"popularSubtaxa":[
 "stratiotosuchus",
 "baurusuchus"
 ],
-"exampleMember": "stratiotosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Baurusuchidae",
-"popularAncestors": [
+"exampleMember":"stratiotosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Baurusuchidae",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [
+"subtaxa":[
 "baurusuchus",
 "stratiotosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20
 ]

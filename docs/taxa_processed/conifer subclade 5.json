@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Conifer subclade 5",
-"parentTaxon": "conifer subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Conifer subclade 5",
+"parentTaxon":"conifer subclade 4",
+"popularSubtaxa":[
 "common yew",
 "redwood",
 "juniper"
 ],
-"exampleMember": "plum yew",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pinophyta",
-"popularAncestors": [
+"exampleMember":"plum yew",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pinophyta",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "conifer subclade 6",
 "cupressaceae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 65,
 60

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Murusraptor",
-"parentTaxon": "megaraptoridae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Murusraptor_NT_small.jpg/220px-Murusraptor_NT_small.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Murusraptor",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Murusraptor",
+"parentTaxon":"megaraptoridae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Murusraptor_NT_small.jpg/220px-Murusraptor_NT_small.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Murusraptor",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

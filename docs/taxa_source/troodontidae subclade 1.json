@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Troodontidae subclade 1",
-"parentTaxon": "troodontidae",
-"exampleMember": "anchiornis",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Troodontidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Troodontidae subclade 1",
+"parentTaxon":"troodontidae",
+"exampleMember":"anchiornis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Troodontidae"
 }

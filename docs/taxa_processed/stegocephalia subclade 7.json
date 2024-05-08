@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Stegocephalia subclade 7",
-"parentTaxon": "stegocephalia subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Stegocephalia subclade 7",
+"parentTaxon":"stegocephalia subclade 6",
+"popularSubtaxa":[
 "frog",
 "human",
 "dinosaur"
 ],
-"exampleMember": "crassigyrinus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia",
-"popularAncestors": [
+"exampleMember":"crassigyrinus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "crassigyrinus",
 "stegocephalia subclade 8"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 85,
 100,
 95

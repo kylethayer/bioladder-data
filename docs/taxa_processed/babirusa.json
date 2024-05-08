@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Babirusa",
-"parentTaxon": "suinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Babirusa",
+"parentTaxon":"suinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "deer-pig"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/220px-Hirscheber1a.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Babirusa",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/220px-Hirscheber1a.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Babirusa",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

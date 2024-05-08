@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Conifer",
-"parentTaxon": "acrogymnospermae subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Conifer",
+"parentTaxon":"acrogymnospermae subclade 1",
+"popularSubtaxa":[
 "redwood",
 "pine",
 "spruce"
 ],
-"exampleMember": "cordaites",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "Pinopsida, Coniferophyta, Coniferae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pinophyta",
-"popularAncestors": [
+"exampleMember":"cordaites",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"Pinopsida, Coniferophyta, Coniferae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pinophyta",
+"popularAncestors":[
 "seed plants",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "conifer subclade 1",
 "cordaites"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 70,
 60

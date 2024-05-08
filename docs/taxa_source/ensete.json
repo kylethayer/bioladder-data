@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ensete",
-"parentTaxon": "musaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ensete_superbum.jpg/220px-Ensete_superbum.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ensete"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ensete",
+"parentTaxon":"musaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ensete_superbum.jpg/220px-Ensete_superbum.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ensete"
 }

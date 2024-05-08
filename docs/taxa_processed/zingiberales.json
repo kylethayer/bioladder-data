@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Zingiberales",
-"parentTaxon": "commelinids sublcade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Zingiberales",
+"parentTaxon":"commelinids sublcade 1",
+"popularSubtaxa":[
 "turmeric",
 "ginger",
 "banana"
 ],
-"exampleMember": "ensete",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zingiberales",
-"popularAncestors": [
+"exampleMember":"ensete",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zingiberales",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "musaceae",
 "zingiberales subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 65,
 80

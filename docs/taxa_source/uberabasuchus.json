@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Uberabasuchus",
-"parentTaxon": "peirosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Uberabasuchus_BW.jpg/220px-Uberabasuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Uberabasuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Uberabasuchus",
+"parentTaxon":"peirosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Uberabasuchus_BW.jpg/220px-Uberabasuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Uberabasuchus"
 }

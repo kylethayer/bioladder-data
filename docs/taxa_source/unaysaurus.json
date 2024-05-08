@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Unaysaurus",
-"parentTaxon": "plateosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Unaysaurus.jpg/220px-Unaysaurus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Unaysaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Unaysaurus",
+"parentTaxon":"plateosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Unaysaurus.jpg/220px-Unaysaurus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Unaysaurus"
 }

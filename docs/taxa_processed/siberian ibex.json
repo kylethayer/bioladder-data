@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Siberian ibex",
-"parentTaxon": "capra",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Capra sibirica",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Siberian_Ibex.jpg/220px-Siberian_Ibex.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Siberian_ibex",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Siberian ibex",
+"parentTaxon":"capra",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Capra sibirica",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Siberian_Ibex.jpg/220px-Siberian_Ibex.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Siberian_ibex",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

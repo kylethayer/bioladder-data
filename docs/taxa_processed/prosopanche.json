@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Prosopanche",
-"parentTaxon": "hydnoroideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ProsopancheAmericanaCatamarcaArgentinaMusselman.jpg/220px-ProsopancheAmericanaCatamarcaArgentinaMusselman.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Prosopanche",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Prosopanche",
+"parentTaxon":"hydnoroideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ProsopancheAmericanaCatamarcaArgentinaMusselman.jpg/220px-ProsopancheAmericanaCatamarcaArgentinaMusselman.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Prosopanche",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

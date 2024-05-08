@@ -1,15 +1,15 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Houttuynia",
-"parentTaxon": "saururaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Houttuynia",
+"parentTaxon":"saururaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "fish mint",
 "fish leaf",
 "lizard tail",
@@ -18,20 +18,20 @@
 "fishwort",
 "bishop's weed"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Houttuynia_cordata.jpg/220px-Houttuynia_cordata.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Houttuynia_cordata",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Houttuynia_cordata.jpg/220px-Houttuynia_cordata.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Houttuynia_cordata",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

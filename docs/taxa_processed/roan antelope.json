@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Roan antelope",
-"parentTaxon": "hippotragus subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hippotragus equinus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Roan_antelope_%28Hippotragus_equinus_equinus%29_male.jpg/220px-Roan_antelope_%28Hippotragus_equinus_equinus%29_male.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Roan_antelope",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Roan antelope",
+"parentTaxon":"hippotragus subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hippotragus equinus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Roan_antelope_%28Hippotragus_equinus_equinus%29_male.jpg/220px-Roan_antelope_%28Hippotragus_equinus_equinus%29_male.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Roan_antelope",
+"popularAncestors":[
 "grazing antelope",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

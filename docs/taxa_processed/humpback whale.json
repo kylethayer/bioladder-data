@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Humpback whale",
-"parentTaxon": "rorqual",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Megaptera",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Humpback_stellwagen_edit.jpg/220px-Humpback_stellwagen_edit.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Humpback_whale",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Humpback whale",
+"parentTaxon":"rorqual",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Megaptera",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Humpback_stellwagen_edit.jpg/220px-Humpback_stellwagen_edit.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Humpback_whale",
+"popularAncestors":[
 "baleen whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Centrosaurinae subclade 4",
-"parentTaxon": "centrosaurinae subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Centrosaurinae subclade 4",
+"parentTaxon":"centrosaurinae subclade 3",
+"popularSubtaxa":[
 "styracosaurus",
 "rubeosaurus",
 "spinops"
 ],
-"exampleMember": "rubeosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Centrosaurinae#Classification",
-"popularAncestors": [
+"exampleMember":"rubeosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Centrosaurinae#Classification",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "centrosaurinae subclade 5",
 "centrosaurinae subclade 6"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

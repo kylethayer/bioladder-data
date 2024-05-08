@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": "80",
-"extinct": false,
-"name": "Tiger",
-"parentTaxon": "panthera subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Panthera tigris",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/250px-P.t.altaica_Tomak_Male.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tiger",
-"popularAncestors": [
+"description":"",
+"popularity":"80",
+"extinct":false,
+"name":"Tiger",
+"parentTaxon":"panthera subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Panthera tigris",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/250px-P.t.altaica_Tomak_Male.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tiger",
+"popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

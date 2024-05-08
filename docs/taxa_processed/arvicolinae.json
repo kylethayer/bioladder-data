@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Arvicolinae",
-"parentTaxon": "cricetidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Arvicolinae",
+"parentTaxon":"cricetidae",
+"popularSubtaxa":[
 "vole",
 "lemming",
 "muskrat"
 ],
-"exampleMember": "northern mole vole",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Arvicolinae",
-"popularAncestors": [
+"exampleMember":"northern mole vole",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Arvicolinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arvicolini",
 "collared lemming",
 "lemming",
@@ -33,13 +33,13 @@
 "steppe lemming",
 "tree vole"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 65,
 65

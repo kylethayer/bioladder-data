@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Bovid",
-"parentTaxon": "pecora",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Bovid",
+"parentTaxon":"pecora",
+"popularSubtaxa":[
 "cattle",
 "impala",
 "sheep"
 ],
-"exampleMember": "nilgai",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Bovidae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bovidae",
-"popularAncestors": [
+"exampleMember":"nilgai",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Bovidae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bovidae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "aegodontia",
 "bovinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 85,
 65,
 90

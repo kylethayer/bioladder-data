@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Leopard",
-"parentTaxon": "panthera subclade 5",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Panthera pardus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leopard_africa.jpg/220px-Leopard_africa.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Leopard"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Leopard",
+"parentTaxon":"panthera subclade 5",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Panthera pardus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leopard_africa.jpg/220px-Leopard_africa.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Leopard"
 }

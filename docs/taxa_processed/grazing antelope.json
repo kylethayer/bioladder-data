@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Grazing antelope",
-"parentTaxon": "aegodontia subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Grazing antelope",
+"parentTaxon":"aegodontia subclade 2",
+"popularSubtaxa":[
 "addax",
 "oryx",
 "sable antelope"
 ],
-"exampleMember": "addax",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "Hippotraginae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Grazing_antelope",
-"popularAncestors": [
+"exampleMember":"addax",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"Hippotraginae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Grazing_antelope",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "addax",
 "hippotragus",
 "oryx"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 60,
 50

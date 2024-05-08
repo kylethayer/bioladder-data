@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Mount elgon vlei rat",
-"parentTaxon": "otomys",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Otomys jacksoni",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/OtomysJacksoniSmit.jpg/220px-OtomysJacksoniSmit.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mount_Elgon_vlei_rat",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Mount elgon vlei rat",
+"parentTaxon":"otomys",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Otomys jacksoni",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/OtomysJacksoniSmit.jpg/220px-OtomysJacksoniSmit.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mount_Elgon_vlei_rat",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

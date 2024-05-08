@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pachyrhinosaurini",
-"parentTaxon": "centrosaurinae subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pachyrhinosaurini",
+"parentTaxon":"centrosaurinae subclade 3",
+"popularSubtaxa":[
 "pachyrhinosaurus",
 "sinoceratops",
 "einiosaurus"
 ],
-"exampleMember": "sinoceratops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pachyrhinosaurini",
-"popularAncestors": [
+"exampleMember":"sinoceratops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pachyrhinosaurini",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "pachyrhinosaurini subclade 1",
 "sinoceratops"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 10

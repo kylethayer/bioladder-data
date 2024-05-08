@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Koala",
-"parentTaxon": "vombatiformes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Phascolarctos cinereus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/250px-Koala_climbing_tree.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Koala",
-"popularAncestors": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Koala",
+"parentTaxon":"vombatiformes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Phascolarctos cinereus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/250px-Koala_climbing_tree.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Koala",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

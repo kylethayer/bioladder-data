@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Chamois",
-"parentTaxon": "rupicapra",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Rupicapra spp.",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zoo_042_edited.jpg/220px-Zoo_042_edited.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chamois",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Chamois",
+"parentTaxon":"rupicapra",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Rupicapra spp.",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zoo_042_edited.jpg/220px-Zoo_042_edited.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chamois",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

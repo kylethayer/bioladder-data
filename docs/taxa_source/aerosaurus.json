@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Aerosaurus",
-"parentTaxon": "varanopinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerosaurus_wellesi.jpg/220px-Aerosaurus_wellesi.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aerosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Aerosaurus",
+"parentTaxon":"varanopinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerosaurus_wellesi.jpg/220px-Aerosaurus_wellesi.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aerosaurus"
 }

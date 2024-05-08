@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Edops",
-"parentTaxon": "edopoidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Edops_craigi12DB.jpg/220px-Edops_craigi12DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Edops"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Edops",
+"parentTaxon":"edopoidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Edops_craigi12DB.jpg/220px-Edops_craigi12DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Edops"
 }

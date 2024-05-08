@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pachycephalosauria subclade 2",
-"parentTaxon": "pachycephalosauria subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pachycephalosauria subclade 2",
+"parentTaxon":"pachycephalosauria subclade 1",
+"popularSubtaxa":[
 "pachycephalosaurus",
 "prenocephale",
 "alaskacephale"
 ],
-"exampleMember": "prenocephale",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pachycephalosauria#Phylogeny",
-"popularAncestors": [
+"exampleMember":"prenocephale",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pachycephalosauria#Phylogeny",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "pachycephalosauria subclade 3",
 "prenocephale"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 10,
 10

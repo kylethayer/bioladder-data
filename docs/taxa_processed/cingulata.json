@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Cingulata",
-"parentTaxon": "xenarthra",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Cingulata",
+"parentTaxon":"xenarthra",
+"popularSubtaxa":[
 "glyptodon",
 "holmesina",
 "armadillo"
 ],
-"exampleMember": "glyptodon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cingulata",
-"popularAncestors": [
+"exampleMember":"glyptodon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cingulata",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "armadillo",
 "glyptodontidae",
 "holmesina"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 70

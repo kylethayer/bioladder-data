@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 75,
-"extinct": false,
-"name": "Western grey kangaroo",
-"parentTaxon": "macropus subgenus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Macropus fuliginosus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2_Western_Grey_Kangaroos.jpg/250px-2_Western_Grey_Kangaroos.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Western_grey_kangaroo",
-"popularAncestors": [
+"description":"",
+"popularity":75,
+"extinct":false,
+"name":"Western grey kangaroo",
+"parentTaxon":"macropus subgenus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Macropus fuliginosus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2_Western_Grey_Kangaroos.jpg/250px-2_Western_Grey_Kangaroos.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Western_grey_kangaroo",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Oviraptoridae subclade 3",
-"parentTaxon": "oviraptoridae subclade 2",
-"exampleMember": "rinchenia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oviraptoridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Oviraptoridae subclade 3",
+"parentTaxon":"oviraptoridae subclade 2",
+"exampleMember":"rinchenia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oviraptoridae"
 }

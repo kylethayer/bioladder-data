@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Grass subclade 1",
-"parentTaxon": "grass",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Grass subclade 1",
+"parentTaxon":"grass",
+"popularSubtaxa":[
 "corn",
 "asian rice",
 "wheat"
 ],
-"exampleMember": "puelia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Poaceae",
-"popularAncestors": [
+"exampleMember":"puelia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Poaceae",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "grass subclade 2",
 "puelia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 75,
 75

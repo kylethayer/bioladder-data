@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Inostrancevia",
-"parentTaxon": "gorgonopsidae subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Inostrancevia_4DB.jpg/220px-Inostrancevia_4DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Inostrancevia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Inostrancevia",
+"parentTaxon":"gorgonopsidae subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Inostrancevia_4DB.jpg/220px-Inostrancevia_4DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Inostrancevia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

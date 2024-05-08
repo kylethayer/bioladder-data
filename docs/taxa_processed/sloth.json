@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Sloth",
-"parentTaxon": "pilosa",
-"popularSubtaxa": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Sloth",
+"parentTaxon":"pilosa",
+"popularSubtaxa":[
 "two-toed sloth",
 "three-toed sloth",
 "megatherium"
 ],
-"exampleMember": "neocnus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Suborder",
-"scientificName": "Folivora",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Sloth",
-"popularAncestors": [
+"exampleMember":"neocnus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Suborder",
+"scientificName":"Folivora",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Sloth",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "megalonychidae",
 "megatheriidae",
 "mylodontidae",
 "nothrotheriidae",
 "three-toed sloth"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 60,
 50

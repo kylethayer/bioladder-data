@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Gymnophiona",
-"parentTaxon": "lissamphibia",
-"exampleMember": "eocaecilia",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gymnophiona"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Gymnophiona",
+"parentTaxon":"lissamphibia",
+"exampleMember":"eocaecilia",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gymnophiona"
 }

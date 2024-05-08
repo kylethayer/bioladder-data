@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Honey badger",
-"parentTaxon": "mustelidae subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Mellivora",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Honey_badger.jpg/220px-Honey_badger.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Honey_badger",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Honey badger",
+"parentTaxon":"mustelidae subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Mellivora",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Honey_badger.jpg/220px-Honey_badger.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Honey_badger",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

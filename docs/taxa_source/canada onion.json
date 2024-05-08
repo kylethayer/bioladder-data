@@ -1,19 +1,19 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Canada onion",
-"parentTaxon": "allium subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Allium canadense",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Canada onion",
+"parentTaxon":"allium subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Allium canadense",
+"otherNames":[
 "Canadian garlic",
 "wild garlic",
 "meadow garlic",
 "wild onion"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Allium_canadense.jpg/220px-Allium_canadense.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Allium_canadense"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Allium_canadense.jpg/220px-Allium_canadense.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Allium_canadense"
 }

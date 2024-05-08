@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Red-fronted gazelle",
-"parentTaxon": "eudorcas",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Eudorcas rufifrons",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gazella_rufifrons_AB.jpg/220px-Gazella_rufifrons_AB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Red-fronted_gazelle"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Red-fronted gazelle",
+"parentTaxon":"eudorcas",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Eudorcas rufifrons",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gazella_rufifrons_AB.jpg/220px-Gazella_rufifrons_AB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Red-fronted_gazelle"
 }

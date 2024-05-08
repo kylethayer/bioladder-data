@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Leptonectidae",
-"parentTaxon": "neoichthyosauria subclade 1",
-"exampleMember": "eurhinosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Leptonectidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Leptonectidae",
+"parentTaxon":"neoichthyosauria subclade 1",
+"exampleMember":"eurhinosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Leptonectidae"
 }

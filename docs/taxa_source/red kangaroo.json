@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Red kangaroo",
-"parentTaxon": "osphranter",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Macropus rufus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kangur.rudy.drs.jpg/220px-Kangur.rudy.drs.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Red_kangaroo"
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Red kangaroo",
+"parentTaxon":"osphranter",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Macropus rufus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kangur.rudy.drs.jpg/220px-Kangur.rudy.drs.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Red_kangaroo"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Therapsida",
-"parentTaxon": "sphenacodontoidea",
-"exampleMember": "tetraceratops",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Therapsida"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Therapsida",
+"parentTaxon":"sphenacodontoidea",
+"exampleMember":"tetraceratops",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Therapsida"
 }

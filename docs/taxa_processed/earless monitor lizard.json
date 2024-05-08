@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Earless monitor lizard",
-"parentTaxon": "varanidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Lanthanotus borneensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Real_Lanthanotus_borneensis.jpg/220px-Real_Lanthanotus_borneensis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Earless_monitor_lizard",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Earless monitor lizard",
+"parentTaxon":"varanidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Lanthanotus borneensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Real_Lanthanotus_borneensis.jpg/220px-Real_Lanthanotus_borneensis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Earless_monitor_lizard",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

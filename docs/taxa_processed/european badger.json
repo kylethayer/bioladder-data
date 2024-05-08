@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "European badger",
-"parentTaxon": "meles",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Meles meles",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%27Honey%27_the_badger.jpg/220px-%27Honey%27_the_badger.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/European_badger",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"European badger",
+"parentTaxon":"meles",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Meles meles",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%27Honey%27_the_badger.jpg/220px-%27Honey%27_the_badger.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/European_badger",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

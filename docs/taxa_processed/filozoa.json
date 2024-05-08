@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Filozoa",
-"parentTaxon": "holozoa",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Filozoa",
+"parentTaxon":"holozoa",
+"popularSubtaxa":[
 "insect",
 "animal",
 "human"
 ],
-"exampleMember": "choanoflagellate",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Filozoa",
-"popularAncestors": [
+"exampleMember":"choanoflagellate",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Filozoa",
+"popularAncestors":[
 "unikont",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "animal",
 "choanoflagellate"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 "",
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 95,
 100

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dromaeosauridae",
-"parentTaxon": "eumaniraptora",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dromaeosauridae",
+"parentTaxon":"eumaniraptora",
+"popularSubtaxa":[
 "velociraptor",
 "deinonychus",
 "microraptor"
 ],
-"exampleMember": "xiaotingia",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dromaeosauridae",
-"popularAncestors": [
+"exampleMember":"xiaotingia",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dromaeosauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "dromaeosauridae subclade 1",
 "pamparaptor",
 "pyroraptor",
 "xiaotingia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 60,
 50

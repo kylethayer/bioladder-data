@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Spinosauridae",
-"parentTaxon": "megalosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Spinosauridae",
+"parentTaxon":"megalosauria",
+"popularSubtaxa":[
 "siamosaurus",
 "baryonyx",
 "spinosaurus"
 ],
-"exampleMember": "siamosaurus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spinosauridae",
-"popularAncestors": [
+"exampleMember":"siamosaurus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spinosauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "baryonychinae",
 "siamosaurus",
 "spinosaurinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20,
 60

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Taxidiinae",
-"parentTaxon": "mustelidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Taxidiinae",
+"parentTaxon":"mustelidae",
+"popularSubtaxa":[
 "chamitataxus",
 "american badger"
 ],
-"exampleMember": "chamitataxus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "",
-"popularAncestors": [
+"exampleMember":"chamitataxus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "american badger",
 "chamitataxus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 65
 ]

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pristerognathus",
-"parentTaxon": "scylacosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pristeroognathus_DB.jpg/220px-Pristeroognathus_DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pristerognathus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pristerognathus",
+"parentTaxon":"scylacosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pristeroognathus_DB.jpg/220px-Pristeroognathus_DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pristerognathus"
 }

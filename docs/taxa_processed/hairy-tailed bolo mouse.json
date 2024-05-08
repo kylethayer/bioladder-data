@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Hairy-tailed bolo mouse",
-"parentTaxon": "oryzomyalia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Necromys lasiurus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ratinho_do_Cerrado.jpg/220px-Ratinho_do_Cerrado.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hairy-tailed_bolo_mouse",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Hairy-tailed bolo mouse",
+"parentTaxon":"oryzomyalia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Necromys lasiurus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ratinho_do_Cerrado.jpg/220px-Ratinho_do_Cerrado.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hairy-tailed_bolo_mouse",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sphenacodontinae",
-"parentTaxon": "sphenacodontidae",
-"exampleMember": "secodontosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sphenacodontinae",
+"parentTaxon":"sphenacodontidae",
+"exampleMember":"secodontosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae"
 }

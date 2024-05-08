@@ -1,39 +1,39 @@
 {
-"description": "The name Mandibulata refers to the mandibles or jaws, which are the characterizing feature of its member arthropods.",
-"popularity": "",
-"extinct": false,
-"name": "Mandibulata",
-"parentTaxon": "arthropod",
-"popularSubtaxa": [
+"description":"The name Mandibulata refers to the mandibles or jaws, which are the characterizing feature of its member arthropods.",
+"popularity":"",
+"extinct":false,
+"name":"Mandibulata",
+"parentTaxon":"arthropod",
+"popularSubtaxa":[
 "insect",
 "crustacean",
 "centipede"
 ],
-"exampleMember": "crustacean",
-"exampleMemberType": "",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Mandibulata",
-"popularAncestors": [
+"exampleMember":"crustacean",
+"exampleMemberType":"",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Mandibulata",
+"popularAncestors":[
 "arthropod",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "crustacean",
 "hexapoda",
 "myriapod"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 50,
 70

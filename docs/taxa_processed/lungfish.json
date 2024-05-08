@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Lungfish",
-"parentTaxon": "dipnomorpha",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subclass",
-"scientificName": "Dipnoi",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Queensland_Lungfish_%28Neoceratodus_forsteri%29.jpg/220px-Queensland_Lungfish_%28Neoceratodus_forsteri%29.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lungfish",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Lungfish",
+"parentTaxon":"dipnomorpha",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subclass",
+"scientificName":"Dipnoi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Queensland_Lungfish_%28Neoceratodus_forsteri%29.jpg/220px-Queensland_Lungfish_%28Neoceratodus_forsteri%29.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lungfish",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

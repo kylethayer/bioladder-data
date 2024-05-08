@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Ophthalmosaurinae",
-"parentTaxon": "ophthalmosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Ophthalmosaurinae",
+"parentTaxon":"ophthalmosauridae",
+"popularSubtaxa":[
 "ophthalmosaurus",
 "acamptonectes"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ophthalmosaurus_BW.jpg/220px-Ophthalmosaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ophthalmosaurus",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ophthalmosaurus_BW.jpg/220px-Ophthalmosaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ophthalmosaurus",
+"popularAncestors":[
 "ichthyosaur",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "acamptonectes",
 "ophthalmosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

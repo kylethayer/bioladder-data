@@ -1,38 +1,38 @@
 {
-"description": "The bilateria are all animals having a bilateral symmetry, i.e. they have a front and a back end, as well as an upside and downside. In contrast, radially symmetrical animals like jellyfish have a topside and downside, but no front and back.",
-"popularity": 30,
-"extinct": false,
-"name": "Bilateria",
-"parentTaxon": "eumetazoa",
-"popularSubtaxa": [
+"description":"The bilateria are all animals having a bilateral symmetry, i.e. they have a front and a back end, as well as an upside and downside. In contrast, radially symmetrical animals like jellyfish have a topside and downside, but no front and back.",
+"popularity":30,
+"extinct":false,
+"name":"Bilateria",
+"parentTaxon":"eumetazoa",
+"popularSubtaxa":[
 "insect",
 "human",
 "dinosaur"
 ],
-"exampleMember": "bryozoa",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bilateria",
-"popularAncestors": [
+"exampleMember":"bryozoa",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bilateria",
+"popularAncestors":[
 "animal",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "deuterostome",
 "protostomia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 95,
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 100,
 95

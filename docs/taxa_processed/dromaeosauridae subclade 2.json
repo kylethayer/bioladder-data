@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dromaeosauridae subclade 2",
-"parentTaxon": "dromaeosauridae subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dromaeosauridae subclade 2",
+"parentTaxon":"dromaeosauridae subclade 1",
+"popularSubtaxa":[
 "velociraptor",
 "deinonychus",
 "microraptor"
 ],
-"exampleMember": "tianyuraptor",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dromaeosauridae#Phylogeny",
-"popularAncestors": [
+"exampleMember":"tianyuraptor",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dromaeosauridae#Phylogeny",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eudromaeosauria",
 "microraptoria"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 60,
 50

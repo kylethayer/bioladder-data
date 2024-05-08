@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "American lion",
-"parentTaxon": "panthera subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Panthera leo atrox",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panthera_leo_atrox_Sergiodlarosa.jpg/220px-Panthera_leo_atrox_Sergiodlarosa.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/American_lion"
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"American lion",
+"parentTaxon":"panthera subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Panthera leo atrox",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panthera_leo_atrox_Sergiodlarosa.jpg/220px-Panthera_leo_atrox_Sergiodlarosa.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/American_lion"
 }

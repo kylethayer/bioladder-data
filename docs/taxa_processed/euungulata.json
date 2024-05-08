@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Euungulata",
-"parentTaxon": "fereuungulata",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Euungulata",
+"parentTaxon":"fereuungulata",
+"popularSubtaxa":[
 "blue whale",
 "horse",
 "sheep"
 ],
-"exampleMember": "agriochoerus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Euungulata",
-"popularAncestors": [
+"exampleMember":"agriochoerus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Euungulata",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cetartiodactyla",
 "odd-toed ungulate"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 90,
 90

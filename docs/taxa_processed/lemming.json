@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Lemming",
-"parentTaxon": "arvicolinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/220px-Tunturisopuli_Lemmus_Lemmus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lemming",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Lemming",
+"parentTaxon":"arvicolinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tunturisopuli_Lemmus_Lemmus.jpg/220px-Tunturisopuli_Lemmus_Lemmus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lemming",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

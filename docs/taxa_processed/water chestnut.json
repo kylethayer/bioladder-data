@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Water chestnut",
-"parentTaxon": "sedge",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Eleocharis dulcis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eleocharis_dulcis_Blanco1.15.jpg/220px-Eleocharis_dulcis_Blanco1.15.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eleocharis_dulcis",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Water chestnut",
+"parentTaxon":"sedge",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Eleocharis dulcis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eleocharis_dulcis_Blanco1.15.jpg/220px-Eleocharis_dulcis_Blanco1.15.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eleocharis_dulcis",
+"popularAncestors":[
 "sedge",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 30,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

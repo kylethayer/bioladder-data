@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Serow",
-"parentTaxon": "naemorhedini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Capricornis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nihonkamoshika2.JPG/220px-Nihonkamoshika2.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Serow"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Serow",
+"parentTaxon":"naemorhedini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Capricornis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nihonkamoshika2.JPG/220px-Nihonkamoshika2.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Serow"
 }

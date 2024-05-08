@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Lamprey",
-"parentTaxon": "hyperoartia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Petromyzontiformes",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Lamprey",
+"parentTaxon":"hyperoartia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Petromyzontiformes",
+"otherNames":[
 "Lamprey eels"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boca_de_lamprea.1_-_Aquarium_Finisterrae.JPG/220px-Boca_de_lamprea.1_-_Aquarium_Finisterrae.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Petromyzontiformes",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Boca_de_lamprea.1_-_Aquarium_Finisterrae.JPG/220px-Boca_de_lamprea.1_-_Aquarium_Finisterrae.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Petromyzontiformes",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

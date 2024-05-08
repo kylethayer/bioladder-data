@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Cetartiodactyla",
-"parentTaxon": "euungulata",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Cetartiodactyla",
+"parentTaxon":"euungulata",
+"popularSubtaxa":[
 "blue whale",
 "sheep",
 "camel"
 ],
-"exampleMember": "agriochoerus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cetartiodactyla",
-"popularAncestors": [
+"exampleMember":"agriochoerus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cetartiodactyla",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "artiofabula",
 "tylopoda"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 90,
 80

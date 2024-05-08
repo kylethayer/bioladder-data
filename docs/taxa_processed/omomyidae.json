@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Omomyidae",
-"parentTaxon": "tarsiiformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Omomyidae",
+"parentTaxon":"tarsiiformes",
+"popularSubtaxa":[
 "necrolemur",
 "tetonius"
 ],
-"exampleMember": "necrolemur",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Omomyidae",
-"popularAncestors": [
+"exampleMember":"necrolemur",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Omomyidae",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "necrolemur",
 "tetonius"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

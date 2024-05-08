@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Gorilla",
-"parentTaxon": "homininae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Male_gorilla_in_SF_zoo.jpg/220px-Male_gorilla_in_SF_zoo.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Gorilla"
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Gorilla",
+"parentTaxon":"homininae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Male_gorilla_in_SF_zoo.jpg/220px-Male_gorilla_in_SF_zoo.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Gorilla"
 }

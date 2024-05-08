@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Oribi",
-"parentTaxon": "neotragini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Ourebia ourebi",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sudan_Oribi_%28Ourebia_montana%29_male_%2818172324646%29.jpg/220px-Sudan_Oribi_%28Ourebia_montana%29_male_%2818172324646%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oribi",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Oribi",
+"parentTaxon":"neotragini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Ourebia ourebi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sudan_Oribi_%28Ourebia_montana%29_male_%2818172324646%29.jpg/220px-Sudan_Oribi_%28Ourebia_montana%29_male_%2818172324646%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oribi",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

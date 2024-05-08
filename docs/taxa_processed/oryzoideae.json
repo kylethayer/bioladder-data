@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Oryzoideae",
-"parentTaxon": "bop clade",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Oryzoideae",
+"parentTaxon":"bop clade",
+"popularSubtaxa":[
 "wild rice",
 "african rice",
 "asian rice"
 ],
-"exampleMember": "ehrharteae",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oryzoideae",
-"popularAncestors": [
+"exampleMember":"ehrharteae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oryzoideae",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ehrharteae",
 "oryzeae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 55,
 75

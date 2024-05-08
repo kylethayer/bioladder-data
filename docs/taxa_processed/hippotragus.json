@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Hippotragus",
-"parentTaxon": "grazing antelope",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Hippotragus",
+"parentTaxon":"grazing antelope",
+"popularSubtaxa":[
 "bluebuck",
 "roan antelope",
 "sable antelope"
 ],
-"exampleMember": "bluebuck",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hippotragus",
-"popularAncestors": [
+"exampleMember":"bluebuck",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hippotragus",
+"popularAncestors":[
 "grazing antelope",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bluebuck",
 "hippotragus subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 55,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 50,
 50

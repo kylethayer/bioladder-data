@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Ginkgo",
-"parentTaxon": "acrogymnospermae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GINKGOBAUM-2.jpg/220px-GINKGOBAUM-2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ginkgo_biloba"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Ginkgo",
+"parentTaxon":"acrogymnospermae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GINKGOBAUM-2.jpg/220px-GINKGOBAUM-2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ginkgo_biloba"
 }

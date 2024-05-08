@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": "",
-"name": "Notosuchidae subclade 1",
-"parentTaxon": "notosuchidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":"",
+"name":"Notosuchidae subclade 1",
+"parentTaxon":"notosuchidae",
+"popularSubtaxa":[
 "comahuesuchus",
 "mariliasuchus"
 ],
-"exampleMember": "comahuesuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Notosuchidae",
-"popularAncestors": [
+"exampleMember":"comahuesuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Notosuchidae",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [
+"subtaxa":[
 "comahuesuchus",
 "notosuchidae subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

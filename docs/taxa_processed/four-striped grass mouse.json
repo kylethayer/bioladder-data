@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Four-striped grass mouse",
-"parentTaxon": "rhabdomys",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Rhabdomys pumilio",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Four-striped_Grass_Mouse.JPG/220px-Four-striped_Grass_Mouse.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Four-striped_grass_mouse",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Four-striped grass mouse",
+"parentTaxon":"rhabdomys",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Rhabdomys pumilio",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Four-striped_Grass_Mouse.JPG/220px-Four-striped_Grass_Mouse.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Four-striped_grass_mouse",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

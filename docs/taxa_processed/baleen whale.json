@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Baleen whale",
-"parentTaxon": "cetacea subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Baleen whale",
+"parentTaxon":"cetacea subclade 6",
+"popularSubtaxa":[
 "blue whale",
 "gray whale",
 "pygmy right whale"
 ],
-"exampleMember": "janjucetus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Suborder",
-"scientificName": "Mysticeti",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Baleen_whale",
-"popularAncestors": [
+"exampleMember":"janjucetus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Suborder",
+"scientificName":"Mysticeti",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Baleen_whale",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "balaenidae",
 "cetotheriidae",
 "gray whale",
 "janjucetus",
 "rorqual"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 60,
 50

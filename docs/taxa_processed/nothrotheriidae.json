@@ -1,35 +1,35 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Nothrotheriidae",
-"parentTaxon": "sloth",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Nothrotheriidae",
+"parentTaxon":"sloth",
+"popularSubtaxa":[
 "nothrotheriops"
 ],
-"exampleMember": "nothrotheriops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Nothrotheriidae",
-"popularAncestors": [
+"exampleMember":"nothrotheriops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Nothrotheriidae",
+"popularAncestors":[
 "sloth",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "nothrotheriops"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10
 ]
 }

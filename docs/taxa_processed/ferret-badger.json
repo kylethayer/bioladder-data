@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ferret-badger",
-"parentTaxon": "mustelidae subclade 5",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Melogale",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burmese_ferret_badger.png/220px-Burmese_ferret_badger.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ferret-badger",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ferret-badger",
+"parentTaxon":"mustelidae subclade 5",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Melogale",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burmese_ferret_badger.png/220px-Burmese_ferret_badger.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ferret-badger",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Amblypygi",
-"parentTaxon": "pedipalpi",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Amblypygi",
+"parentTaxon":"pedipalpi",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[
 "whip spiders",
 "tailless whip scorpions"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heterophrynus_02.jpg/220px-Heterophrynus_02.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Amblypygi",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heterophrynus_02.jpg/220px-Heterophrynus_02.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Amblypygi",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

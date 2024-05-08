@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Snow leopard",
-"parentTaxon": "panthera",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Uncia",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Uncia_uncia.jpg/220px-Uncia_uncia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Snow_Leopard_%28Cat%29",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Snow leopard",
+"parentTaxon":"panthera",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Uncia",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Uncia_uncia.jpg/220px-Uncia_uncia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Snow_Leopard_%28Cat%29",
+"popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

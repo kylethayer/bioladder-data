@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Oryza australiensis",
-"parentTaxon": "oryza",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oryza_australiensis_near_Townsville_5002.JPG/220px-Oryza_australiensis_near_Townsville_5002.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oryza_australiensis"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Oryza australiensis",
+"parentTaxon":"oryza",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oryza_australiensis_near_Townsville_5002.JPG/220px-Oryza_australiensis_near_Townsville_5002.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oryza_australiensis"
 }

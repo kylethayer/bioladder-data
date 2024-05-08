@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Cordylus",
-"parentTaxon": "cordylidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Superlegion",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Cordylus",
+"parentTaxon":"cordylidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Superlegion",
+"scientificName":"",
+"otherNames":[
 "girdle-tailed lizards",
 "girdled lizards"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tropical_Girdled_Lizard_P9240103.JPG/220px-Tropical_Girdled_Lizard_P9240103.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cordylus"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tropical_Girdled_Lizard_P9240103.JPG/220px-Tropical_Girdled_Lizard_P9240103.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cordylus"
 }

@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Toolache wallaby",
-"parentTaxon": "notamacropus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Macropus greyi",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Toolache wallaby",
+"parentTaxon":"notamacropus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Macropus greyi",
+"otherNames":[
 "Grey's wallaby"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Macropus_greyi_-_Gould.jpg/250px-Macropus_greyi_-_Gould.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Toolache_wallaby",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Macropus_greyi_-_Gould.jpg/250px-Macropus_greyi_-_Gould.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Toolache_wallaby",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

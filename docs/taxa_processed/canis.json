@@ -1,36 +1,36 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Canis",
-"parentTaxon": "canini",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Canis",
+"parentTaxon":"canini",
+"popularSubtaxa":[
 "dog",
 "wolf"
 ],
-"exampleMember": "wolf",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Canis",
-"popularAncestors": [
+"exampleMember":"wolf",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Canis",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "canis lupus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 91,
 75
 ]

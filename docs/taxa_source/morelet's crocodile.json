@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Morelet's crocodile",
-"parentTaxon": "crocodylus subclade 5",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Crocodylus moreletii",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Morelet's crocodile",
+"parentTaxon":"crocodylus subclade 5",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Crocodylus moreletii",
+"otherNames":[
 "Mexican crocodile"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crocodile_de_Morelet.jpeg/220px-Crocodile_de_Morelet.jpeg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Morelet%27s_crocodile"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crocodile_de_Morelet.jpeg/220px-Crocodile_de_Morelet.jpeg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Morelet%27s_crocodile"
 }

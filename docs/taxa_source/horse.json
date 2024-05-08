@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 90,
-"extinct": false,
-"name": "Horse",
-"parentTaxon": "wild horse",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subspecies",
-"scientificName": "Equus ferus caballus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/330px-Nokota_Horses_cropped.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Horse"
+"description":"",
+"popularity":90,
+"extinct":false,
+"name":"Horse",
+"parentTaxon":"wild horse",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Equus ferus caballus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/330px-Nokota_Horses_cropped.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Horse"
 }

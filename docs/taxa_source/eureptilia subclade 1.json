@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eureptilia subclade 1",
-"parentTaxon": "eureptilia",
-"exampleMember": "paleothyris",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Captorhinidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eureptilia subclade 1",
+"parentTaxon":"eureptilia",
+"exampleMember":"paleothyris",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Captorhinidae"
 }

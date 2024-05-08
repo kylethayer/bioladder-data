@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Anchisauria subclade 1",
-"parentTaxon": "anchisauria",
-"exampleMember": "aardonyx",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anchisauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Anchisauria subclade 1",
+"parentTaxon":"anchisauria",
+"exampleMember":"aardonyx",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anchisauria"
 }

@@ -1,17 +1,17 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Annelid",
-"parentTaxon": "trochozoa subclade 1",
-"exampleMember": "sipuncula",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Phylum",
-"scientificName": "Annelida",
-"otherNames": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Annelid",
+"parentTaxon":"trochozoa subclade 1",
+"exampleMember":"sipuncula",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Phylum",
+"scientificName":"Annelida",
+"otherNames":[
 "ringed worms",
 "segmented worms"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Annelid"
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Annelid"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 85,
-"extinct": true,
-"name": "Triceratops",
-"parentTaxon": "chasmosaurinae subclade 10",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Triceratops_BW.jpg/250px-Triceratops_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Triceratops"
+"description":"",
+"popularity":85,
+"extinct":true,
+"name":"Triceratops",
+"parentTaxon":"chasmosaurinae subclade 10",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Triceratops_BW.jpg/250px-Triceratops_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Triceratops"
 }

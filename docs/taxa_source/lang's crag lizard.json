@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Lang's crag lizard",
-"parentTaxon": "pseudocordylus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Pseudocordylus langi",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pseudocordylus_langi00.jpg/220px-Pseudocordylus_langi00.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lang%27s_crag_lizard"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Lang's crag lizard",
+"parentTaxon":"pseudocordylus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Pseudocordylus langi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pseudocordylus_langi00.jpg/220px-Pseudocordylus_langi00.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lang%27s_crag_lizard"
 }

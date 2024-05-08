@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Galictinae",
-"parentTaxon": "mustelidae subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Galictinae",
+"parentTaxon":"mustelidae subclade 6",
+"popularSubtaxa":[
 "marbled polecat",
 "african striped weasel",
 "ictonyx"
 ],
-"exampleMember": "galictis",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Mustelidae#Systematics",
-"popularAncestors": [
+"exampleMember":"galictis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Mustelidae#Systematics",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "african striped weasel",
 "galictis",
 "ictonyx",
 "marbled polecat"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 30,
 20

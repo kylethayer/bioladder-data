@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Crocodylomorpha",
-"parentTaxon": "loricata subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Crocodylomorpha",
+"parentTaxon":"loricata subclade 3",
+"popularSubtaxa":[
 "gharial",
 "alligator",
 "crocodile"
 ],
-"exampleMember": "hesperosuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodylomorpha",
-"popularAncestors": [
+"exampleMember":"hesperosuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodylomorpha",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "crocodylomorpha subclade 1",
 "hesperosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 85,
 80

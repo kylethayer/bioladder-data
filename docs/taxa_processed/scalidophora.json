@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Scalidophora",
-"parentTaxon": "ecdysozoa",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Superphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottoia_burrowing.jpg/220px-Ottoia_burrowing.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Scalidophora",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Scalidophora",
+"parentTaxon":"ecdysozoa",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Superphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ottoia_burrowing.jpg/220px-Ottoia_burrowing.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Scalidophora",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

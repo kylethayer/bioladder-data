@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Takin",
-"parentTaxon": "ovibovini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Budorcas taxicolor",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Takin_1427.JPG/220px-Takin_1427.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Takin"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Takin",
+"parentTaxon":"ovibovini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Budorcas taxicolor",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Takin_1427.JPG/220px-Takin_1427.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Takin"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Herpetoskylax",
-"parentTaxon": "biarmosuchia subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Herpetoskylax.jpg/220px-Herpetoskylax.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Herpetoskylax"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Herpetoskylax",
+"parentTaxon":"biarmosuchia subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Herpetoskylax.jpg/220px-Herpetoskylax.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Herpetoskylax"
 }

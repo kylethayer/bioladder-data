@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Banteng",
-"parentTaxon": "bibos",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/220px-Bos_javanicus_javanicus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Banteng",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Banteng",
+"parentTaxon":"bibos",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/220px-Bos_javanicus_javanicus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Banteng",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

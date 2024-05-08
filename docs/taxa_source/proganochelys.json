@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Proganochelys",
-"parentTaxon": "testudinata",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Proganochelys_quenstedtii.jpg/220px-Proganochelys_quenstedtii.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Proganochelys"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Proganochelys",
+"parentTaxon":"testudinata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Proganochelys_quenstedtii.jpg/220px-Proganochelys_quenstedtii.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Proganochelys"
 }

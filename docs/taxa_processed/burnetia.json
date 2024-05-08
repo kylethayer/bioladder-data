@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Burnetia",
-"parentTaxon": "burnetiidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burnetia_mirabilisDB.jpg/220px-Burnetia_mirabilisDB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Burnetiamorpha",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Burnetia",
+"parentTaxon":"burnetiidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burnetia_mirabilisDB.jpg/220px-Burnetia_mirabilisDB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Burnetiamorpha",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

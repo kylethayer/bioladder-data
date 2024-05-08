@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Heterodontosaurinae",
-"parentTaxon": "heterodontosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Heterodontosaurinae",
+"parentTaxon":"heterodontosauridae",
+"popularSubtaxa":[
 "pegomastax",
 "manidens",
 "heterodontosaurus"
 ],
-"exampleMember": "abrictosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Heterodontosaurinae",
-"popularAncestors": [
+"exampleMember":"abrictosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Heterodontosaurinae",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "abrictosaurus",
 "heterodontosaurus",
 "manidens",
 "pegomastax"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 30

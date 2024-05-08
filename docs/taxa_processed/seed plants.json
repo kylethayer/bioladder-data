@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Seed plants",
-"parentTaxon": "metalignophytes",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Seed plants",
+"parentTaxon":"metalignophytes",
+"popularSubtaxa":[
 "pine",
 "grass",
 "onion"
 ],
-"exampleMember": "callospermarion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "Spermatophyte",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spermatophyte",
-"popularAncestors": [
+"exampleMember":"callospermarion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"Spermatophyte",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spermatophyte",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "callospermarion",
 "seed plants subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 80,
 80

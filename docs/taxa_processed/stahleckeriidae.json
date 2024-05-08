@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Stahleckeriidae",
-"parentTaxon": "kannemeyeriiformes subclade 6",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Stahleckeriidae",
+"parentTaxon":"kannemeyeriiformes subclade 6",
+"popularSubtaxa":[
 "zambiasaurus",
 "placerias",
 "stahleckeria"
 ],
-"exampleMember": "stahleckeria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stahleckeriidae",
-"popularAncestors": [
+"exampleMember":"stahleckeria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stahleckeriidae",
+"popularAncestors":[
 "dicynodont",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "placeriinae",
 "stahleckeriinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 35,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 30

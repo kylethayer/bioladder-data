@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Charassognathus",
-"parentTaxon": "cynodontia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Charassognathus.jpg/220px-Charassognathus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Charassognathus"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Charassognathus",
+"parentTaxon":"cynodontia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Charassognathus.jpg/220px-Charassognathus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Charassognathus"
 }

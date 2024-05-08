@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Nemegtbaatar",
-"parentTaxon": "djadochtatheroidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nemegtbaaatar_restoration.jpg/220px-Nemegtbaaatar_restoration.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nemegtbaatar",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Nemegtbaatar",
+"parentTaxon":"djadochtatheroidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nemegtbaaatar_restoration.jpg/220px-Nemegtbaaatar_restoration.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nemegtbaatar",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

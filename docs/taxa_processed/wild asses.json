@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Wild asses",
-"parentTaxon": "equus subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Wild asses",
+"parentTaxon":"equus subclade 1",
+"popularSubtaxa":[
 "turkmenian kulan",
 "somali wild ass",
 "donkey"
 ],
-"exampleMember": "kiang",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subgenus",
-"scientificName": "Asinus",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Asinus",
-"popularAncestors": [
+"exampleMember":"kiang",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subgenus",
+"scientificName":"Asinus",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Asinus",
+"popularAncestors":[
 "equus",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "wild asses subclade 1",
 "wild asses subclade 3"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 80

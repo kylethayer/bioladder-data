@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Rodent",
-"parentTaxon": "glires",
-"popularSubtaxa": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Rodent",
+"parentTaxon":"glires",
+"popularSubtaxa":[
 "old world porcupine",
 "naked mole-rat",
 "rat"
 ],
-"exampleMember": "gundi",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Rodentia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Rodent",
-"popularAncestors": [
+"exampleMember":"gundi",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Rodentia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Rodent",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hystricomorpha",
 "naked mole-rat",
 "rodent subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 70,
 60,
 85

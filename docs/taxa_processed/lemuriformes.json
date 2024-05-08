@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Lemuriformes",
-"parentTaxon": "strepsirrhini",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Lemuriformes",
+"parentTaxon":"strepsirrhini",
+"popularSubtaxa":[
 "lemur",
 "loris",
 "potto"
 ],
-"exampleMember": "lemur",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lemuriformes",
-"popularAncestors": [
+"exampleMember":"lemur",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lemuriformes",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "lemur",
 "lorisoidea"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 50,
 50

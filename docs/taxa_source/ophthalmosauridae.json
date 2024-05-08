@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ophthalmosauridae",
-"parentTaxon": "thunnosauria subclade 2",
-"exampleMember": "ophthalmosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ophthalmosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ophthalmosauridae",
+"parentTaxon":"thunnosauria subclade 2",
+"exampleMember":"ophthalmosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ophthalmosauridae"
 }

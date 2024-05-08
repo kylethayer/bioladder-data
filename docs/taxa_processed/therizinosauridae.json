@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therizinosauridae",
-"parentTaxon": "therizinosauroidea subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therizinosauridae",
+"parentTaxon":"therizinosauroidea subclade 1",
+"popularSubtaxa":[
 "nanshiungosaurus",
 "neimongosaurus",
 "therizinosaurus"
 ],
-"exampleMember": "erliansaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosauridae",
-"popularAncestors": [
+"exampleMember":"erliansaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "erliansaurus",
 "nanshiungosaurus",
 "neimongosaurus",
 "therizinosauridae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 40

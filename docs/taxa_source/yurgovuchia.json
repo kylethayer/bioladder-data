@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Yurgovuchia",
-"parentTaxon": "dromaeosaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yurgovuchia.jpg/220px-Yurgovuchia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Yurgovuchia"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Yurgovuchia",
+"parentTaxon":"dromaeosaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yurgovuchia.jpg/220px-Yurgovuchia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Yurgovuchia"
 }

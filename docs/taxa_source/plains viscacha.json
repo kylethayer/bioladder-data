@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Plains viscacha",
-"parentTaxon": "chinchillidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lagostomus_maximus%2C_Plains_Viscacha.jpg/220px-Lagostomus_maximus%2C_Plains_Viscacha.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Plains_viscacha"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Plains viscacha",
+"parentTaxon":"chinchillidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lagostomus_maximus%2C_Plains_Viscacha.jpg/220px-Lagostomus_maximus%2C_Plains_Viscacha.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Plains_viscacha"
 }

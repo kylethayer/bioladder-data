@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Neotragini",
-"parentTaxon": "antilopinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Neotragini",
+"parentTaxon":"antilopinae",
+"popularSubtaxa":[
 "dik-dik",
 "royal antelope",
 "steenbok"
 ],
-"exampleMember": "beira",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Antilopinae",
-"popularAncestors": [
+"exampleMember":"beira",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Antilopinae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "beira",
 "dik-dik",
 "klipspringer",
@@ -30,13 +30,13 @@
 "raphicerus",
 "royal antelope"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 50,
 50

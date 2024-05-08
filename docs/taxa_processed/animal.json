@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 95,
-"extinct": false,
-"name": "Animal",
-"parentTaxon": "filozoa",
-"popularSubtaxa": [
+"description":"",
+"popularity":95,
+"extinct":false,
+"name":"Animal",
+"parentTaxon":"filozoa",
+"popularSubtaxa":[
 "insect",
 "jellyfish",
 "human"
 ],
-"exampleMember": "parazoa",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Kingdom",
-"scientificName": "Animalia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Animal",
-"popularAncestors": [
+"exampleMember":"parazoa",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Kingdom",
+"scientificName":"Animalia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Animal",
+"popularAncestors":[
 "unikont",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "eumetazoa",
 "parazoa"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 "",
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 80,
 100

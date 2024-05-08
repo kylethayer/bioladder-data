@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Scleromochlus",
-"parentTaxon": "avemetatarsalia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Scleromochlidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scleromochlus.jpg/170px-Scleromochlus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Scleromochlidae",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Scleromochlus",
+"parentTaxon":"avemetatarsalia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Scleromochlidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scleromochlus.jpg/170px-Scleromochlus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Scleromochlidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

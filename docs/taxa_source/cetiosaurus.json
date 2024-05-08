@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Cetiosaurus",
-"parentTaxon": "eusauropoda subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Megalo_and_Cetio.jpg/220px-Megalo_and_Cetio.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cetiosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Cetiosaurus",
+"parentTaxon":"eusauropoda subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Megalo_and_Cetio.jpg/220px-Megalo_and_Cetio.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cetiosaurus"
 }

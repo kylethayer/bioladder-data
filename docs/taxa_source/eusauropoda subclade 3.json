@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eusauropoda subclade 3",
-"parentTaxon": "eusauropoda subclade 2",
-"exampleMember": "mamenchisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eusauropoda"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eusauropoda subclade 3",
+"parentTaxon":"eusauropoda subclade 2",
+"exampleMember":"mamenchisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eusauropoda"
 }

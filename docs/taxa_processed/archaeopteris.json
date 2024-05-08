@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Archaeopteris",
-"parentTaxon": "metalignophytes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Archaeopteris_reconstruction.jpg/220px-Archaeopteris_reconstruction.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Archaeopteris",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Archaeopteris",
+"parentTaxon":"metalignophytes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Archaeopteris_reconstruction.jpg/220px-Archaeopteris_reconstruction.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Archaeopteris",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

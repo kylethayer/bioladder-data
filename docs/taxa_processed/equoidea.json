@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Equoidea",
-"parentTaxon": "hippomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Equoidea",
+"parentTaxon":"hippomorpha",
+"popularSubtaxa":[
 "horse",
 "donkey",
 "zebra"
 ],
-"exampleMember": "palaeotherium",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Odd-toed_ungulate",
-"popularAncestors": [
+"exampleMember":"palaeotherium",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Odd-toed_ungulate",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "equidae",
 "palaeotherium"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 80,
 80

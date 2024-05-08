@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Kannemeyeriiformes subclade 4",
-"parentTaxon": "kannemeyeriiformes subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Kannemeyeriiformes subclade 4",
+"parentTaxon":"kannemeyeriiformes subclade 3",
+"popularSubtaxa":[
 "rabidosaurus",
 "zambiasaurus",
 "stahleckeria"
 ],
-"exampleMember": "rabidosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Kannemeyeria",
-"popularAncestors": [
+"exampleMember":"rabidosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kannemeyeria",
+"popularAncestors":[
 "dicynodont",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "kannemeyeriiformes subclade 5",
 "rabidosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 35,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 30

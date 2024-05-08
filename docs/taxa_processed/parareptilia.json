@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Parareptilia",
-"parentTaxon": "sauropsida",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Parareptilia",
+"parentTaxon":"sauropsida",
+"popularSubtaxa":[
 "mesosaur",
 "pareiasaur",
 "scutosaurus"
 ],
-"exampleMember": "milleretta",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Parareptilia",
-"popularAncestors": [
+"exampleMember":"milleretta",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Parareptilia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hallucicrania",
 "mesosaur",
 "millerettidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 30,
 20

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ensete",
-"parentTaxon": "musaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ensete_superbum.jpg/220px-Ensete_superbum.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ensete",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ensete",
+"parentTaxon":"musaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ensete_superbum.jpg/220px-Ensete_superbum.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ensete",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

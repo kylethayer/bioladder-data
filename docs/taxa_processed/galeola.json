@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Galeola",
-"parentTaxon": "vanilleae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Galeola_septentrionalis_tutiakebi01.jpg/220px-Galeola_septentrionalis_tutiakebi01.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Galeola",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Galeola",
+"parentTaxon":"vanilleae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Galeola_septentrionalis_tutiakebi01.jpg/220px-Galeola_septentrionalis_tutiakebi01.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Galeola",
+"popularAncestors":[
 "orchid",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

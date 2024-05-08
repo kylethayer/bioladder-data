@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Abrothrix",
-"parentTaxon": "oryzomyalia",
-"exampleMember": "abrothrix sanborni",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Abrothrix_sanborni.jpg/220px-Abrothrix_sanborni.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Abrothrix"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Abrothrix",
+"parentTaxon":"oryzomyalia",
+"exampleMember":"abrothrix sanborni",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Abrothrix_sanborni.jpg/220px-Abrothrix_sanborni.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Abrothrix"
 }

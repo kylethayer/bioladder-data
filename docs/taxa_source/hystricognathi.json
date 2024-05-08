@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Hystricognathi",
-"parentTaxon": "hystricomorpha",
-"exampleMember": "dassie rat",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hystricognathi"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Hystricognathi",
+"parentTaxon":"hystricomorpha",
+"exampleMember":"dassie rat",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hystricognathi"
 }

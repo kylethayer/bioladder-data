@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Virus",
-"parentTaxon": "life",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/220px-Rotavirus_Reconstruction.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Virus",
-"popularAncestors": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Virus",
+"parentTaxon":"life",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rotavirus_Reconstruction.jpg/220px-Rotavirus_Reconstruction.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Virus",
+"popularAncestors":[
 "life",
 null,
 null,
 null
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 100,
 null,
 null,
 null
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

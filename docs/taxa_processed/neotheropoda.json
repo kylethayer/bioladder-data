@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Neotheropoda",
-"parentTaxon": "theropoda subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Neotheropoda",
+"parentTaxon":"theropoda subclade 3",
+"popularSubtaxa":[
 "dilophosaurus",
 "bird",
 "tyrannosaurus"
 ],
-"exampleMember": "coelophysis",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Neotheropoda",
-"popularAncestors": [
+"exampleMember":"coelophysis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Neotheropoda",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "coelophysis",
 "neotheropoda subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 95,
 85

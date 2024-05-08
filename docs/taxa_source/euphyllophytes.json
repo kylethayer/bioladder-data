@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Euphyllophytes",
-"parentTaxon": "eutracheophytes",
-"exampleMember": "psilophyton",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Euphyllophyte"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Euphyllophytes",
+"parentTaxon":"eutracheophytes",
+"exampleMember":"psilophyton",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Euphyllophyte"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Panthera zdanskyi",
-"parentTaxon": "panthera subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Longdan_tiger.png/170px-Longdan_tiger.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Panthera_zdanskyi",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Panthera zdanskyi",
+"parentTaxon":"panthera subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Longdan_tiger.png/170px-Longdan_tiger.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Panthera_zdanskyi",
+"popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

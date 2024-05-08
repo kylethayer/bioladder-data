@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Doedicurus",
-"parentTaxon": "glyptodontidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Doedicurus_BW.jpg/220px-Doedicurus_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Doedicurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Doedicurus",
+"parentTaxon":"glyptodontidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Doedicurus_BW.jpg/220px-Doedicurus_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Doedicurus"
 }

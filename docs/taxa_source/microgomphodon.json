@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Microgomphodon",
-"parentTaxon": "baurioidea subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sesamodon1%D0%92%D0%98.jpg/220px-Sesamodon1%D0%92%D0%98.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Microgomphodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Microgomphodon",
+"parentTaxon":"baurioidea subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sesamodon1%D0%92%D0%98.jpg/220px-Sesamodon1%D0%92%D0%98.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Microgomphodon"
 }

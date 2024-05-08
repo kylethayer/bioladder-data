@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tunicate",
-"parentTaxon": "olfactores",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/220px-Bluebell_tunicates_Nick_Hobgood.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tunicate",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tunicate",
+"parentTaxon":"olfactores",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/220px-Bluebell_tunicates_Nick_Hobgood.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tunicate",
+"popularAncestors":[
 "chordate",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

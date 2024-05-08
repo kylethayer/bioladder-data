@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Opossum",
-"parentTaxon": "ameridelphia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Didelphimorphia",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Opossum_2.jpg/220px-Opossum_2.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Opossum"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Opossum",
+"parentTaxon":"ameridelphia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Didelphimorphia",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Opossum_2.jpg/220px-Opossum_2.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Opossum"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Guanaco",
-"parentTaxon": "lama",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Lama guanicoe",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Guanaco_09.24.jpg/220px-Guanaco_09.24.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Guanaco",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Guanaco",
+"parentTaxon":"lama",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Lama guanicoe",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Guanaco_09.24.jpg/220px-Guanaco_09.24.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Guanaco",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Centothecoid clade",
-"parentTaxon": "panicoideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chasmanthium_latifolium_Boyle_Park.jpg/220px-Chasmanthium_latifolium_Boyle_Park.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Panicoideae",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Centothecoid clade",
+"parentTaxon":"panicoideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chasmanthium_latifolium_Boyle_Park.jpg/220px-Chasmanthium_latifolium_Boyle_Park.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Panicoideae",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

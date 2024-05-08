@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Dugong",
-"parentTaxon": "dugongidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Dugong dugon",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/250px-Dugong_Marsa_Alam.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dugong",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Dugong",
+"parentTaxon":"dugongidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Dugong dugon",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/250px-Dugong_Marsa_Alam.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dugong",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

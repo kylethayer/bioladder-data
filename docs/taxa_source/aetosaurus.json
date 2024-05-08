@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Aetosaurus",
-"parentTaxon": "aetosaur",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aetosaurus.jpg/330px-Aetosaurus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aetosaurus"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Aetosaurus",
+"parentTaxon":"aetosaur",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aetosaurus.jpg/330px-Aetosaurus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aetosaurus"
 }

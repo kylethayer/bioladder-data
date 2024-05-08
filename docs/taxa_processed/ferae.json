@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Ferae",
-"parentTaxon": "fereuungulata",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Ferae",
+"parentTaxon":"fereuungulata",
+"popularSubtaxa":[
 "dog",
 "cat",
 "walrus"
 ],
-"exampleMember": "cimolesta",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ferae",
-"popularAncestors": [
+"exampleMember":"cimolesta",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ferae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "carnivora",
 "cimolesta",
 "creodonta",
 "pangolin"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 91,
 90,
 80

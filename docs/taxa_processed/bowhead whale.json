@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Bowhead whale",
-"parentTaxon": "balaenidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Balaena",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Faroe_stamp_198_Baleana_mysticetus.jpg/220px-Faroe_stamp_198_Baleana_mysticetus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bowhead_whale",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Bowhead whale",
+"parentTaxon":"balaenidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Balaena",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Faroe_stamp_198_Baleana_mysticetus.jpg/220px-Faroe_stamp_198_Baleana_mysticetus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bowhead_whale",
+"popularAncestors":[
 "baleen whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

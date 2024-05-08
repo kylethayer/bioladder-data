@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pareiasaur subclade 1",
-"parentTaxon": "pareiasaur",
-"exampleMember": "bunostegos",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pareiasaur"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pareiasaur subclade 1",
+"parentTaxon":"pareiasaur",
+"exampleMember":"bunostegos",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pareiasaur"
 }

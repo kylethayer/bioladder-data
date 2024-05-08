@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Cinnamon",
-"parentTaxon": "laurel",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Cinnamomum",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Starr_010419_0038_cinnamomum_camphora.jpg/220px-Starr_010419_0038_cinnamomum_camphora.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cinnamomum",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Cinnamon",
+"parentTaxon":"laurel",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Cinnamomum",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Starr_010419_0038_cinnamomum_camphora.jpg/220px-Starr_010419_0038_cinnamomum_camphora.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cinnamomum",
+"popularAncestors":[
 "laurel",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

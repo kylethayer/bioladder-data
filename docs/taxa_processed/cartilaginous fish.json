@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Cartilaginous fish",
-"parentTaxon": "gnathostomata",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "Chondrichthyes",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Chondrichthyes",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Cartilaginous fish",
+"parentTaxon":"gnathostomata",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Chondrichthyes",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Chondrichthyes",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

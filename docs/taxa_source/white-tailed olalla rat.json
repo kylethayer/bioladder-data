@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "White-tailed olalla rat",
-"parentTaxon": "dactylomyinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Olallamys albicauda",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ThrinacodusAlbicaudaSmit.jpg/220px-ThrinacodusAlbicaudaSmit.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/White-tailed_olalla_rat"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"White-tailed olalla rat",
+"parentTaxon":"dactylomyinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Olallamys albicauda",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ThrinacodusAlbicaudaSmit.jpg/220px-ThrinacodusAlbicaudaSmit.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/White-tailed_olalla_rat"
 }

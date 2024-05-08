@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Deuterostome",
-"parentTaxon": "bilateria",
-"exampleMember": "didazoon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superphylum",
-"scientificName": "Deuterostomia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Deuterostome"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Deuterostome",
+"parentTaxon":"bilateria",
+"exampleMember":"didazoon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superphylum",
+"scientificName":"Deuterostomia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Deuterostome"
 }

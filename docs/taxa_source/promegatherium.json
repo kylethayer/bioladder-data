@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Promegatherium",
-"parentTaxon": "megatheriina",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Promegatherium_nanum.JPG/220px-Promegatherium_nanum.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Promegatherium"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Promegatherium",
+"parentTaxon":"megatheriina",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Promegatherium_nanum.JPG/220px-Promegatherium_nanum.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Promegatherium"
 }

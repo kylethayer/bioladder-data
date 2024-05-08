@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Cellular life",
-"parentTaxon": "life",
-"exampleMember": "bacteria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cellular_life"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Cellular life",
+"parentTaxon":"life",
+"exampleMember":"bacteria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cellular_life"
 }

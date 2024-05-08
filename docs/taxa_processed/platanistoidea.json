@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Platanistoidea",
-"parentTaxon": "toothed whale",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Platanistoidea",
+"parentTaxon":"toothed whale",
+"popularSubtaxa":[
 "squalodon",
 "south asian river dolphin",
 "waipatia"
 ],
-"exampleMember": "squalodon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Platanistoidea",
-"popularAncestors": [
+"exampleMember":"squalodon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Platanistoidea",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "south asian river dolphin",
 "squalodon",
 "waipatia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20,
 10

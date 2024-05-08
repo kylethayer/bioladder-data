@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Heterodontosaurinae",
-"parentTaxon": "heterodontosauridae",
-"exampleMember": "abrictosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Heterodontosaurinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Heterodontosaurinae",
+"parentTaxon":"heterodontosauridae",
+"exampleMember":"abrictosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Heterodontosaurinae"
 }

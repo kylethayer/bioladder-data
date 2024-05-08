@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Arizonasaurus",
-"parentTaxon": "ctenosauriscidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arizonasaurus_BW.jpg/220px-Arizonasaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Arizonasaurus"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Arizonasaurus",
+"parentTaxon":"ctenosauriscidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arizonasaurus_BW.jpg/220px-Arizonasaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Arizonasaurus"
 }

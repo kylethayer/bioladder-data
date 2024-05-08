@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Beluga whale",
-"parentTaxon": "delphinapterinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Delphinapterus",
-"otherNames": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Beluga whale",
+"parentTaxon":"delphinapterinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Delphinapterus",
+"otherNames":[
 "White whale"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Delphinapterus_leucas_2.jpg/220px-Delphinapterus_leucas_2.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Beluga_whale",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Delphinapterus_leucas_2.jpg/220px-Delphinapterus_leucas_2.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Beluga_whale",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

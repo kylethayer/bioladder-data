@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Flagellaria",
-"parentTaxon": "graminid clade",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flagellaria_indica.jpg/220px-Flagellaria_indica.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Flagellaria",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Flagellaria",
+"parentTaxon":"graminid clade",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flagellaria_indica.jpg/220px-Flagellaria_indica.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Flagellaria",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

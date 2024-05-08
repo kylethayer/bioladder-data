@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Viroid",
-"parentTaxon": "life",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Viroid",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Viroid",
+"parentTaxon":"life",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Viroid",
+"popularAncestors":[
 "life",
 null,
 null,
 null
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 100,
 null,
 null,
 null
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Hadrosaurid",
-"parentTaxon": "hadrosauroidea subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Hadrosaurid",
+"parentTaxon":"hadrosauroidea subclade 2",
+"popularSubtaxa":[
 "hadrosaurus",
 "edmontosaurus",
 "parasaurolophus"
 ],
-"exampleMember": "hadrosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Hadrosauridae",
-"otherNames": [
+"exampleMember":"hadrosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Hadrosauridae",
+"otherNames":[
 "duck-billed dinosaurs"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosaurid",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosaurid",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hadrosaurus",
 "saurolophidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 60,
 60

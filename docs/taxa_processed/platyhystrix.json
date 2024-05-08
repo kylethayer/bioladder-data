@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Platyhystrix",
-"parentTaxon": "dissorophidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Platyhystrix_BW.jpg/220px-Platyhystrix_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Platyhystrix",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Platyhystrix",
+"parentTaxon":"dissorophidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Platyhystrix_BW.jpg/220px-Platyhystrix_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Platyhystrix",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Bowhead whale",
-"parentTaxon": "balaenidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Balaena",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Faroe_stamp_198_Baleana_mysticetus.jpg/220px-Faroe_stamp_198_Baleana_mysticetus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bowhead_whale"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Bowhead whale",
+"parentTaxon":"balaenidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Balaena",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Faroe_stamp_198_Baleana_mysticetus.jpg/220px-Faroe_stamp_198_Baleana_mysticetus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bowhead_whale"
 }

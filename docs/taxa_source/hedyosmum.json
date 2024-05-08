@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Hedyosmum",
-"parentTaxon": "chloranthaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hedyosmum_racemosum_%28Ruiz_%26_Pav.%29_G._Don..jpg/220px-Hedyosmum_racemosum_%28Ruiz_%26_Pav.%29_G._Don..jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hedyosmum"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Hedyosmum",
+"parentTaxon":"chloranthaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hedyosmum_racemosum_%28Ruiz_%26_Pav.%29_G._Don..jpg/220px-Hedyosmum_racemosum_%28Ruiz_%26_Pav.%29_G._Don..jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hedyosmum"
 }

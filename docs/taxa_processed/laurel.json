@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Laurel",
-"parentTaxon": "laurales subclade 5",
-"popularSubtaxa": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Laurel",
+"parentTaxon":"laurales subclade 5",
+"popularSubtaxa":[
 "cinnamon",
 "sassafras",
 "avocado"
 ],
-"exampleMember": "cinnamon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Lauraceae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lauraceae",
-"popularAncestors": [
+"exampleMember":"cinnamon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Lauraceae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lauraceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cinnamon",
 "persea",
 "sassafras"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 55,
 70

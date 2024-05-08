@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eutherocephalia subclade 3",
-"parentTaxon": "eutherocephalia subclade 2",
-"exampleMember": "hofmeyria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eutherocephalia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eutherocephalia subclade 3",
+"parentTaxon":"eutherocephalia subclade 2",
+"exampleMember":"hofmeyria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eutherocephalia"
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Erinaceomorpha",
-"parentTaxon": "insectivora subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Erinaceomorpha",
+"parentTaxon":"insectivora subclade 2",
+"popularSubtaxa":[
 "gymnure",
 "pholidocercus",
 "hedgehog"
 ],
-"exampleMember": "macrocranion",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Erinaceidae#Classification",
-"popularAncestors": [
+"exampleMember":"macrocranion",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Erinaceidae#Classification",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "amphilemuridae",
 "erinaceidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 70

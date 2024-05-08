@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Anchitheriinae",
-"parentTaxon": "equidae",
-"exampleMember": "mesohippus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anchitheriinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Anchitheriinae",
+"parentTaxon":"equidae",
+"exampleMember":"mesohippus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anchitheriinae"
 }

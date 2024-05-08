@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Rufous rat-kangaroo",
-"parentTaxon": "potoroidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Aepyprymnus rufescens",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rufous_getting_into_pouch.JPG/220px-Rufous_getting_into_pouch.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Rufous_rat-kangaroo"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Rufous rat-kangaroo",
+"parentTaxon":"potoroidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Aepyprymnus rufescens",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rufous_getting_into_pouch.JPG/220px-Rufous_getting_into_pouch.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Rufous_rat-kangaroo"
 }

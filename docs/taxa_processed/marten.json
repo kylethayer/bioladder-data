@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Marten",
-"parentTaxon": "martinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Martes",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Martes_martes_crop.jpg/220px-Martes_martes_crop.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Marten",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Marten",
+"parentTaxon":"martinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Martes",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Martes_martes_crop.jpg/220px-Martes_martes_crop.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Marten",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

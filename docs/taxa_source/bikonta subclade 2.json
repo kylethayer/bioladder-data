@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bikonta subclade 2",
-"parentTaxon": "bikonta subclade 1",
-"exampleMember": "hacrobia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": ""
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bikonta subclade 2",
+"parentTaxon":"bikonta subclade 1",
+"exampleMember":"hacrobia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":""
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Opisthocoelicaudiinae",
-"parentTaxon": "eutitanosauria subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Opisthocoelicaudiinae",
+"parentTaxon":"eutitanosauria subclade 2",
+"popularSubtaxa":[
 "opisthocoelicaudia",
 "alamosaurus"
 ],
-"exampleMember": "opisthocoelicaudia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Opisthocoelicaudiinae",
-"popularAncestors": [
+"exampleMember":"opisthocoelicaudia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Opisthocoelicaudiinae",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "alamosaurus",
 "opisthocoelicaudia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

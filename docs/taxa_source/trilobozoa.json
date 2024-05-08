@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Trilobozoa",
-"parentTaxon": "radiata",
-"exampleMember": "tribrachidium",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Trilobozoa"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Trilobozoa",
+"parentTaxon":"radiata",
+"exampleMember":"tribrachidium",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Trilobozoa"
 }

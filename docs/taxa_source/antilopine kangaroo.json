@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Antilopine kangaroo",
-"parentTaxon": "osphranter",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antilopine_kangaroo.jpg/220px-Antilopine_kangaroo.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Antilopine_kangaroo"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Antilopine kangaroo",
+"parentTaxon":"osphranter",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antilopine_kangaroo.jpg/220px-Antilopine_kangaroo.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Antilopine_kangaroo"
 }

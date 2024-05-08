@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Agave",
-"parentTaxon": "agavoideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Agave_americana_R01.jpg/220px-Agave_americana_R01.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Agave",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Agave",
+"parentTaxon":"agavoideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Agave_americana_R01.jpg/220px-Agave_americana_R01.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Agave",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

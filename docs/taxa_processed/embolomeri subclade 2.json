@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Embolomeri subclade 2",
-"parentTaxon": "embolomeri subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Embolomeri subclade 2",
+"parentTaxon":"embolomeri subclade 1",
+"popularSubtaxa":[
 "archeria",
 "pholiderpeton",
 "eogyrinus"
 ],
-"exampleMember": "archeria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Embolomeri",
-"popularAncestors": [
+"exampleMember":"archeria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Embolomeri",
+"popularAncestors":[
 "tetrapod",
 "bony fish",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "archeria",
 "embolomeri subclade 3",
 "pholiderpeton"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

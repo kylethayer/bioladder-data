@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Turfanosuchus",
-"parentTaxon": "suchia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Turfanosuchus_NT.jpg/220px-Turfanosuchus_NT.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Turfanosuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Turfanosuchus",
+"parentTaxon":"suchia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Turfanosuchus_NT.jpg/220px-Turfanosuchus_NT.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Turfanosuchus"
 }

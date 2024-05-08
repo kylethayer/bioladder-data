@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tetraceratops",
-"parentTaxon": "therapsida",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tetraceratopsinsignis1DB.jpg/250px-Tetraceratopsinsignis1DB.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tetraceratops"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tetraceratops",
+"parentTaxon":"therapsida",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tetraceratopsinsignis1DB.jpg/250px-Tetraceratopsinsignis1DB.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tetraceratops"
 }

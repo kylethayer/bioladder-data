@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therizinosaur",
-"parentTaxon": "maniraptora",
-"exampleMember": "falcarius",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "Therizinosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Therizinosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therizinosaur",
+"parentTaxon":"maniraptora",
+"exampleMember":"falcarius",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"Therizinosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Therizinosauria"
 }

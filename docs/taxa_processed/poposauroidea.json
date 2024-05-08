@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Poposauroidea",
-"parentTaxon": "paracrocodylomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Poposauroidea",
+"parentTaxon":"paracrocodylomorpha",
+"popularSubtaxa":[
 "arizonasaurus",
 "poposaurus",
 "shuvosaurus"
 ],
-"exampleMember": "qianosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Branch",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Poposauroidea",
-"popularAncestors": [
+"exampleMember":"qianosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Branch",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Poposauroidea",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ctenosauriscidae",
 "poposauroidea subclade 1",
 "qianosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 30,
 20

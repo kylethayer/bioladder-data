@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Lythronax",
-"parentTaxon": "tyrannosaurinae subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lythronax_by_Tomopteryx.png/220px-Lythronax_by_Tomopteryx.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lythronax"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Lythronax",
+"parentTaxon":"tyrannosaurinae subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lythronax_by_Tomopteryx.png/220px-Lythronax_by_Tomopteryx.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lythronax"
 }

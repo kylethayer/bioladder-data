@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Herrerasaurus",
-"parentTaxon": "herrerasauridae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Herrerasaurus_ischigualastensis_Illustration.jpg/220px-Herrerasaurus_ischigualastensis_Illustration.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Herrerasaurus"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Herrerasaurus",
+"parentTaxon":"herrerasauridae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Herrerasaurus_ischigualastensis_Illustration.jpg/220px-Herrerasaurus_ischigualastensis_Illustration.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Herrerasaurus"
 }

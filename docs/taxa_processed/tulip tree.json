@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Tulip tree",
-"parentTaxon": "magnoliaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Liriodendron",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Liriodendron_chinense1.jpg/220px-Liriodendron_chinense1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Liriodendron",
-"popularAncestors": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Tulip tree",
+"parentTaxon":"magnoliaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Liriodendron",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Liriodendron_chinense1.jpg/220px-Liriodendron_chinense1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Liriodendron",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

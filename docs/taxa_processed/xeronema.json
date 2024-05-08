@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Xeronema",
-"parentTaxon": "asparagales subclade 7",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xeronema.jpg/220px-Xeronema.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Xeronema",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Xeronema",
+"parentTaxon":"asparagales subclade 7",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xeronema.jpg/220px-Xeronema.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Xeronema",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

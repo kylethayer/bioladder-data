@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Rahonavis",
-"parentTaxon": "unenlagiinae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rahonavis_NT.jpg/250px-Rahonavis_NT.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Rahonavis",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Rahonavis",
+"parentTaxon":"unenlagiinae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rahonavis_NT.jpg/250px-Rahonavis_NT.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Rahonavis",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

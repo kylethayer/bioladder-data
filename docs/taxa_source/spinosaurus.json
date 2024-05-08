@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": true,
-"name": "Spinosaurus",
-"parentTaxon": "spinosaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Spinosaurus_durbed.jpg/220px-Spinosaurus_durbed.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spinosaurus"
+"description":"",
+"popularity":60,
+"extinct":true,
+"name":"Spinosaurus",
+"parentTaxon":"spinosaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Spinosaurus_durbed.jpg/220px-Spinosaurus_durbed.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spinosaurus"
 }

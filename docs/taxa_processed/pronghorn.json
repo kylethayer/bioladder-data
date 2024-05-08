@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pronghorn",
-"parentTaxon": "antilocaprinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Antilocapra americana",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antilocapra_americana.jpg/220px-Antilocapra_americana.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pronghorn",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pronghorn",
+"parentTaxon":"antilocaprinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Antilocapra americana",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antilocapra_americana.jpg/220px-Antilocapra_americana.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pronghorn",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

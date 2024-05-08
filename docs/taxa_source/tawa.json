@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Tawa",
-"parentTaxon": "theropoda subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tawa_NT_small.jpg/220px-Tawa_NT_small.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tawa_%28dinosaur%29"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tawa",
+"parentTaxon":"theropoda subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tawa_NT_small.jpg/220px-Tawa_NT_small.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tawa_%28dinosaur%29"
 }

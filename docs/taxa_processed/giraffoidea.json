@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Giraffoidea",
-"parentTaxon": "pecora",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Giraffoidea",
+"parentTaxon":"pecora",
+"popularSubtaxa":[
 "okapi",
 "pronghorn",
 "giraffe"
 ],
-"exampleMember": "climacoceratidae",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Giraffoidea",
-"popularAncestors": [
+"exampleMember":"climacoceratidae",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Giraffoidea",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "antilocapridae",
 "climacoceratidae",
 "giraffidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 80

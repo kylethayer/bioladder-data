@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Nototherium",
-"parentTaxon": "diprotodontidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nototherium_BW.jpg/250px-Nototherium_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Nototherium"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Nototherium",
+"parentTaxon":"diprotodontidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nototherium_BW.jpg/250px-Nototherium_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Nototherium"
 }

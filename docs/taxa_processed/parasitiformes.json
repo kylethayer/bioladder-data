@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Parasitiformes",
-"parentTaxon": "arachnid",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Parasitiformes",
+"parentTaxon":"arachnid",
+"popularSubtaxa":[
 "holothyrida",
 "mesostigmata",
 "tick"
 ],
-"exampleMember": "holothyrida",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Parasitiformes",
-"popularAncestors": [
+"exampleMember":"holothyrida",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Parasitiformes",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "holothyrida",
 "mesostigmata",
 "tick"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 60

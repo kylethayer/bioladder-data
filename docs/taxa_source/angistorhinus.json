@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Angistorhinus",
-"parentTaxon": "phytosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Angistorhinus_grandis.jpg/220px-Angistorhinus_grandis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Angistorhinus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Angistorhinus",
+"parentTaxon":"phytosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Angistorhinus_grandis.jpg/220px-Angistorhinus_grandis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Angistorhinus"
 }

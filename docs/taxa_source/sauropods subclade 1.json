@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sauropods subclade 1",
-"parentTaxon": "sauropods",
-"exampleMember": "spinophorosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sauropoda"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sauropods subclade 1",
+"parentTaxon":"sauropods",
+"exampleMember":"spinophorosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sauropoda"
 }

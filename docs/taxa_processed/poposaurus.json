@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Poposaurus",
-"parentTaxon": "poposauroidea subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Poposaurus_gracilis.jpg/220px-Poposaurus_gracilis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Poposaurus",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Poposaurus",
+"parentTaxon":"poposauroidea subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Poposaurus_gracilis.jpg/220px-Poposaurus_gracilis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Poposaurus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

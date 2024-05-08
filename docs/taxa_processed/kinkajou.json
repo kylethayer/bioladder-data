@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Kinkajou",
-"parentTaxon": "procyonidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Potos flavus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kinkajou.jpg/220px-Kinkajou.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Kinkajou",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Kinkajou",
+"parentTaxon":"procyonidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Potos flavus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kinkajou.jpg/220px-Kinkajou.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Kinkajou",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

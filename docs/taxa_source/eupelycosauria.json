@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Eupelycosauria",
-"parentTaxon": "synapsida",
-"exampleMember": "archaeovenator",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Eupelycosauria"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Eupelycosauria",
+"parentTaxon":"synapsida",
+"exampleMember":"archaeovenator",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Eupelycosauria"
 }

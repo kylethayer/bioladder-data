@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Liliales",
-"parentTaxon": "monocot subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lilium_martagon_250605a.jpg/220px-Lilium_martagon_250605a.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Liliales",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Liliales",
+"parentTaxon":"monocot subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lilium_martagon_250605a.jpg/220px-Lilium_martagon_250605a.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Liliales",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

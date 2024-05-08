@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Ferreira's spiny tree rat",
-"parentTaxon": "eumysopinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Mesomys hispidus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/EchimysFerrugineusMintern.jpg/220px-EchimysFerrugineusMintern.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ferreira%27s_spiny_tree_rat"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Ferreira's spiny tree rat",
+"parentTaxon":"eumysopinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Mesomys hispidus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/EchimysFerrugineusMintern.jpg/220px-EchimysFerrugineusMintern.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ferreira%27s_spiny_tree_rat"
 }

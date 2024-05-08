@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Eutherapsida",
-"parentTaxon": "therapsida",
-"exampleMember": "phthinosuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Eutherapsida"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Eutherapsida",
+"parentTaxon":"therapsida",
+"exampleMember":"phthinosuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Eutherapsida"
 }

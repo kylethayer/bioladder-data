@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Impala",
-"parentTaxon": "aegodontia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Aepyceros melampus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ImpalaSerengetiNationalParkMar2011.jpg/220px-ImpalaSerengetiNationalParkMar2011.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Impala",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Impala",
+"parentTaxon":"aegodontia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Aepyceros melampus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ImpalaSerengetiNationalParkMar2011.jpg/220px-ImpalaSerengetiNationalParkMar2011.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Impala",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

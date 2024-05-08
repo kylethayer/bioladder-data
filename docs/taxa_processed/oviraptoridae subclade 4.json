@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Oviraptoridae subclade 4",
-"parentTaxon": "oviraptoridae subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Oviraptoridae subclade 4",
+"parentTaxon":"oviraptoridae subclade 2",
+"popularSubtaxa":[
 "jiangxisaurus",
 "nemegtomaia",
 "machairasaurus"
 ],
-"exampleMember": "jiangxisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oviraptorosauria",
-"popularAncestors": [
+"exampleMember":"jiangxisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oviraptorosauria",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ajancingenia",
 "conchoraptor",
 "jiangxisaurus",
 "machairasaurus",
 "nemegtomaia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 20,
 10

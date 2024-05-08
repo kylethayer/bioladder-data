@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Suina",
-"parentTaxon": "artiofabula",
-"exampleMember": "peccary",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Suina",
+"parentTaxon":"artiofabula",
+"exampleMember":"peccary",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[
 "Suiformes"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Suina"
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Suina"
 }

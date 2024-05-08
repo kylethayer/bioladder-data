@@ -1,14 +1,14 @@
 {
-"name": "Biseridens",
-"parentTaxon": "anomodontia",
-"description": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"popularity": 10,
-"extinct": true,
-"exampleMember": "",
-"exampleMemberType": "",
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Biseridens_qilianicus.jpg/250px-Biseridens_qilianicus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Biseridens"
+"name":"Biseridens",
+"parentTaxon":"anomodontia",
+"description":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"popularity":10,
+"extinct":true,
+"exampleMember":"",
+"exampleMemberType":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Biseridens_qilianicus.jpg/250px-Biseridens_qilianicus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Biseridens"
 }

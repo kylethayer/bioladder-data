@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Aphyllanthes",
-"parentTaxon": "asparagaceae sl subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aphyllanthes_monspeliensis02.jpg/220px-Aphyllanthes_monspeliensis02.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aphyllanthes",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Aphyllanthes",
+"parentTaxon":"asparagaceae sl subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aphyllanthes_monspeliensis02.jpg/220px-Aphyllanthes_monspeliensis02.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aphyllanthes",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

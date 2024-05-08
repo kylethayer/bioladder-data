@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Anisodon",
-"parentTaxon": "chalicothere",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ChalicotheriumDB1.jpg/220px-ChalicotheriumDB1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anisodon",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Anisodon",
+"parentTaxon":"chalicothere",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ChalicotheriumDB1.jpg/220px-ChalicotheriumDB1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anisodon",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

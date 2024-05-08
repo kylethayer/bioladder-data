@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Waterbuck",
-"parentTaxon": "kobus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ugandan_defassa_waterbuck_%28Kobus_ellipsiprymnus_defassa%29_male.jpg/220px-Ugandan_defassa_waterbuck_%28Kobus_ellipsiprymnus_defassa%29_male.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Waterbuck",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Waterbuck",
+"parentTaxon":"kobus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ugandan_defassa_waterbuck_%28Kobus_ellipsiprymnus_defassa%29_male.jpg/220px-Ugandan_defassa_waterbuck_%28Kobus_ellipsiprymnus_defassa%29_male.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Waterbuck",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

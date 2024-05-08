@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Perplexisaurus",
-"parentTaxon": "eutherocephalia subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perplexisaurus_foveatus.jpg/220px-Perplexisaurus_foveatus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Perplexisaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Perplexisaurus",
+"parentTaxon":"eutherocephalia subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perplexisaurus_foveatus.jpg/220px-Perplexisaurus_foveatus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Perplexisaurus"
 }

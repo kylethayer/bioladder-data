@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Endocerida",
-"parentTaxon": "nautiloid",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cameroceras_trentonese.jpg/220px-Cameroceras_trentonese.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Endocerida",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Endocerida",
+"parentTaxon":"nautiloid",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cameroceras_trentonese.jpg/220px-Cameroceras_trentonese.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Endocerida",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

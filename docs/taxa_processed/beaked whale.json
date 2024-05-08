@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Beaked whale",
-"parentTaxon": "toothed whale",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Superfamily",
-"scientificName": "Ziphioidea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cuviers_beaked_whale-swfsc.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Beaked_whale",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Beaked whale",
+"parentTaxon":"toothed whale",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Superfamily",
+"scientificName":"Ziphioidea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Cuviers_beaked_whale-swfsc.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Beaked_whale",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

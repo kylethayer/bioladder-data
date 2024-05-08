@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Crocodile subclade 2",
-"parentTaxon": "crocodile subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Crocodile subclade 2",
+"parentTaxon":"crocodile subclade 1",
+"popularSubtaxa":[
 "slender-snouted crocodile",
 "nile crocodile",
 "saltwater crocodile"
 ],
-"exampleMember": "slender-snouted crocodile",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodile",
-"popularAncestors": [
+"exampleMember":"slender-snouted crocodile",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "crocodylus",
 "slender-snouted crocodile"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 60,
 60

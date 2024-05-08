@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Arthropod",
-"parentTaxon": "panarthropoda",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Arthropod",
+"parentTaxon":"panarthropoda",
+"popularSubtaxa":[
 "insect",
 "centipede",
 "spider"
 ],
-"exampleMember": "eurypterida",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Phylum",
-"scientificName": "Arthropoda",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Arthropoda",
-"popularAncestors": [
+"exampleMember":"eurypterida",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Phylum",
+"scientificName":"Arthropoda",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Arthropoda",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "chelicerata",
 "mandibulata"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 70,
 80

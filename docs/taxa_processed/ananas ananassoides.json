@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Ananas ananassoides",
-"parentTaxon": "ananas",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ananas_ananassoides_2.jpg/220px-Ananas_ananassoides_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ananas_ananassoides",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Ananas ananassoides",
+"parentTaxon":"ananas",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ananas_ananassoides_2.jpg/220px-Ananas_ananassoides_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ananas_ananassoides",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

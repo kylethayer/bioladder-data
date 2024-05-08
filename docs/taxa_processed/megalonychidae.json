@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Megalonychidae",
-"parentTaxon": "sloth",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Megalonychidae",
+"parentTaxon":"sloth",
+"popularSubtaxa":[
 "two-toed sloth",
 "megalonyx",
 "neocnus"
 ],
-"exampleMember": "neocnus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Megalonychidae",
-"popularAncestors": [
+"exampleMember":"neocnus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Megalonychidae",
+"popularAncestors":[
 "sloth",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "choloepodini",
 "megalonychini"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 60,
 10,
 10

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Horseshoe crab",
-"parentTaxon": "merostomata",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Limulidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Limulus_polyphemus.jpg/220px-Limulus_polyphemus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Horseshoe_crab",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Horseshoe crab",
+"parentTaxon":"merostomata",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Limulidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Limulus_polyphemus.jpg/220px-Limulus_polyphemus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Horseshoe_crab",
+"popularAncestors":[
 "arthropod",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

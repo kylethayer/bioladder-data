@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Anteater",
-"parentTaxon": "pilosa",
-"popularSubtaxa": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Anteater",
+"parentTaxon":"pilosa",
+"popularSubtaxa":[
 "silky anteater",
 "giant anteater",
 "tamandua"
 ],
-"exampleMember": "silky anteater",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "Vermilingua",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Anteater",
-"popularAncestors": [
+"exampleMember":"silky anteater",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"Vermilingua",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Anteater",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "myrmecophagidae",
 "silky anteater"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 50,
 30

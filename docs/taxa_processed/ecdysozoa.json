@@ -1,40 +1,40 @@
 {
-"description": "The most notable characteristic shared by ecdysozoans is a three-layered cuticle (four in Tardigrada) composed of organic material, which is periodically molted as the animal grows. This process of molting is called ecdysis and gives the group its name. The Ecdysozoans lack locomotory cilia, produce mostly amoeboid sperm, and their embryos do not undergo spiral cleavage as in most other protostomes. Various other features are found in the group, for instance, tardigrades, pycnogonids and roundworms have a triradiate pharynx.",
-"popularity": "",
-"extinct": false,
-"name": "Ecdysozoa",
-"parentTaxon": "protostomia",
-"popularSubtaxa": [
+"description":"The most notable characteristic shared by ecdysozoans is a three-layered cuticle (four in Tardigrada) composed of organic material, which is periodically molted as the animal grows. This process of molting is called ecdysis and gives the group its name. The Ecdysozoans lack locomotory cilia, produce mostly amoeboid sperm, and their embryos do not undergo spiral cleavage as in most other protostomes. Various other features are found in the group, for instance, tardigrades, pycnogonids and roundworms have a triradiate pharynx.",
+"popularity":"",
+"extinct":false,
+"name":"Ecdysozoa",
+"parentTaxon":"protostomia",
+"popularSubtaxa":[
 "insect",
 "centipede",
 "spider"
 ],
-"exampleMember": "scalidophora",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ecdysozoa",
-"popularAncestors": [
+"exampleMember":"scalidophora",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ecdysozoa",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "loricifera",
 "nematoida",
 "panarthropoda",
 "scalidophora"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 70,
 80

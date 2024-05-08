@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Magnoliales subclade 3",
-"parentTaxon": "magnoliales subclade 2",
-"exampleMember": "eupomatia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Magnoliales"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Magnoliales subclade 3",
+"parentTaxon":"magnoliales subclade 2",
+"exampleMember":"eupomatia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Magnoliales"
 }

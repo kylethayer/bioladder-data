@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Shantungosaurus",
-"parentTaxon": "edmontosaurini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shantungosaurus-v4.jpg/220px-Shantungosaurus-v4.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Shantungosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Shantungosaurus",
+"parentTaxon":"edmontosaurini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shantungosaurus-v4.jpg/220px-Shantungosaurus-v4.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Shantungosaurus"
 }

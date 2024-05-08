@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Shrew",
-"parentTaxon": "insectivora subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Soricidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Southern_short-tailed_shrew.jpg/220px-Southern_short-tailed_shrew.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Shrew",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Shrew",
+"parentTaxon":"insectivora subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Soricidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Southern_short-tailed_shrew.jpg/220px-Southern_short-tailed_shrew.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Shrew",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

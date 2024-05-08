@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Venyukovioidea",
-"parentTaxon": "anomodontia subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Venyukovioidea",
+"parentTaxon":"anomodontia subclade 4",
+"popularSubtaxa":[
 "suminia",
 "otsheria",
 "ulemica"
 ],
-"exampleMember": "suminia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Venyukovioidea",
-"popularAncestors": [
+"exampleMember":"suminia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Venyukovioidea",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "suminia",
 "venyukovioidea subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

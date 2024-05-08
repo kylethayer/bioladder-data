@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Black wildebeest",
-"parentTaxon": "connochaetes",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Connochaetes gnou",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Black wildebeest",
+"parentTaxon":"connochaetes",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Connochaetes gnou",
+"otherNames":[
 "White-tailed gnu"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gnou_Thoiry_19803.jpg/220px-Gnou_Thoiry_19803.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Black_wildebeest",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gnou_Thoiry_19803.jpg/220px-Gnou_Thoiry_19803.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Black_wildebeest",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

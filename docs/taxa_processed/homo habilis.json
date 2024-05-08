@@ -1,30 +1,30 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Homo habilis",
-"parentTaxon": "homo",
-"exampleMember": "",
-"exampleMemberType": "None",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Homo_habilis_-_forensic_facial_reconstruction.png/170px-Homo_habilis_-_forensic_facial_reconstruction.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Homo_habilis",
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Homo habilis",
+"parentTaxon":"homo",
+"exampleMember":"",
+"exampleMemberType":"None",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Homo_habilis_-_forensic_facial_reconstruction.png/170px-Homo_habilis_-_forensic_facial_reconstruction.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Homo_habilis",
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 null,
 null,
 null,
 null
 ],
-"popularAncestors": [
+"popularAncestors":[
 null,
 null,
 null,
 null
 ],
-"popularSubtaxa": [],
-"popularSubtaxaPops": []
+"popularSubtaxa":[],
+"popularSubtaxaPops":[]
 }

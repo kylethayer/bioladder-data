@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tunicate",
-"parentTaxon": "olfactores",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subphylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/220px-Bluebell_tunicates_Nick_Hobgood.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tunicate"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tunicate",
+"parentTaxon":"olfactores",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subphylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/220px-Bluebell_tunicates_Nick_Hobgood.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tunicate"
 }

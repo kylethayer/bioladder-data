@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Belemnoidea",
-"parentTaxon": "coleoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BelemniteDB2.jpg/220px-BelemniteDB2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Belemnoidea",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Belemnoidea",
+"parentTaxon":"coleoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BelemniteDB2.jpg/220px-BelemniteDB2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Belemnoidea",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

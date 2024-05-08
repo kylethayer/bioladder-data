@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Gopher",
-"parentTaxon": "geomyoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Geomyidae",
-"otherNames": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Gopher",
+"parentTaxon":"geomyoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Geomyidae",
+"otherNames":[
 "Pocket gophers"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pocket-Gopher_Ano-Nuevo-SP.jpg/220px-Pocket-Gopher_Ano-Nuevo-SP.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gopher",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pocket-Gopher_Ano-Nuevo-SP.jpg/220px-Pocket-Gopher_Ano-Nuevo-SP.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gopher",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

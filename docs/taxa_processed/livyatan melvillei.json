@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Livyatan melvillei",
-"parentTaxon": "physeteroidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livyatan_melvillei.jpg/220px-Livyatan_melvillei.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Livyatan_melvillei",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Livyatan melvillei",
+"parentTaxon":"physeteroidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livyatan_melvillei.jpg/220px-Livyatan_melvillei.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Livyatan_melvillei",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

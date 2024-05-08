@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Cricetidae",
-"parentTaxon": "eumuroida",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Cricetidae",
+"parentTaxon":"eumuroida",
+"popularSubtaxa":[
 "muskrat",
 "hamster",
 "pack rat"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cricetidae",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cricetidae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arvicolinae",
 "hamster",
 "neotominae",
 "sigmodontinae",
 "tylomyinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 75,
 65

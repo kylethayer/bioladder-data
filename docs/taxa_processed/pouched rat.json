@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pouched rat",
-"parentTaxon": "nesomyidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "Cricetomyinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cricetomys_emini.jpg/220px-Cricetomys_emini.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pouched_rat",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pouched rat",
+"parentTaxon":"nesomyidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"Cricetomyinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Cricetomys_emini.jpg/220px-Cricetomys_emini.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pouched_rat",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

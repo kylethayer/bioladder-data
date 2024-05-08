@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Olinguito",
-"parentTaxon": "bassaricyon",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Bassaricyon neblina",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Olinguito_ZooKeys_324%2C_solo.jpg/220px-Olinguito_ZooKeys_324%2C_solo.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Olinguito",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Olinguito",
+"parentTaxon":"bassaricyon",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Bassaricyon neblina",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Olinguito_ZooKeys_324%2C_solo.jpg/220px-Olinguito_ZooKeys_324%2C_solo.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Olinguito",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

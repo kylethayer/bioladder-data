@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Pinniped",
-"parentTaxon": "pinnipedimorpha",
-"exampleMember": "enaliarctidae",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "Pinnipedia",
-"otherNames": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Pinniped",
+"parentTaxon":"pinnipedimorpha",
+"exampleMember":"enaliarctidae",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"Pinnipedia",
+"otherNames":[
 "often generalized as seals"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pinnipedia"
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pinnipedia"
 }

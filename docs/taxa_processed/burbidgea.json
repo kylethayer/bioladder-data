@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Burbidgea",
-"parentTaxon": "alpinioideae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burbidgea_schizocheila.jpg/220px-Burbidgea_schizocheila.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Burbidgea",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Burbidgea",
+"parentTaxon":"alpinioideae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burbidgea_schizocheila.jpg/220px-Burbidgea_schizocheila.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Burbidgea",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

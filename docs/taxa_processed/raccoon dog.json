@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Raccoon dog",
-"parentTaxon": "caninae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Nyctereutes procyonoides",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tanuki01_960.jpg/220px-Tanuki01_960.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Raccoon_dog",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Raccoon dog",
+"parentTaxon":"caninae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Nyctereutes procyonoides",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tanuki01_960.jpg/220px-Tanuki01_960.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Raccoon_dog",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

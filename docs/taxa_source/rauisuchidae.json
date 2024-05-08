@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Rauisuchidae",
-"parentTaxon": "loricata subclade 3",
-"exampleMember": "postosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rauisuchidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Rauisuchidae",
+"parentTaxon":"loricata subclade 3",
+"exampleMember":"postosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rauisuchidae"
 }

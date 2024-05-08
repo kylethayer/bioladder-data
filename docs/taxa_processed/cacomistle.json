@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Cacomistle",
-"parentTaxon": "bassariscus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Bassariscus sumichrasti",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cacomistle_085.jpg/220px-Cacomistle_085.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cacomistle",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Cacomistle",
+"parentTaxon":"bassariscus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Bassariscus sumichrasti",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cacomistle_085.jpg/220px-Cacomistle_085.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cacomistle",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

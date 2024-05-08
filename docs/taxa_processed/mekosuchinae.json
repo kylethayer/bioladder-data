@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Mekosuchinae",
-"parentTaxon": "crocodile",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Mekosuchinae",
+"parentTaxon":"crocodile",
+"popularSubtaxa":[
 "trilophosuchus",
 "quinkana"
 ],
-"exampleMember": "trilophosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodile",
-"popularAncestors": [
+"exampleMember":"trilophosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "quinkana",
 "trilophosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Bromus",
-"parentTaxon": "triticodae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bromus_pubescens.jpg/220px-Bromus_pubescens.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bromus"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Bromus",
+"parentTaxon":"triticodae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bromus_pubescens.jpg/220px-Bromus_pubescens.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bromus"
 }

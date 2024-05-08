@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Ocepeia",
-"parentTaxon": "afrotheria",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ocepeia_head_restoration_PLoS_ONE.png/250px-Ocepeia_head_restoration_PLoS_ONE.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ocepeia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Ocepeia",
+"parentTaxon":"afrotheria",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ocepeia_head_restoration_PLoS_ONE.png/250px-Ocepeia_head_restoration_PLoS_ONE.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ocepeia",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

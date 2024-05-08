@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Aucasaurus",
-"parentTaxon": "carnotaurini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aucasaurus_dinosaur.png/220px-Aucasaurus_dinosaur.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aucasaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Aucasaurus",
+"parentTaxon":"carnotaurini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aucasaurus_dinosaur.png/220px-Aucasaurus_dinosaur.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aucasaurus"
 }

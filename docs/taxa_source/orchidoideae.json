@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Orchidoideae",
-"parentTaxon": "orchid subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orchis_conica_Mallorca_02.jpg/220px-Orchis_conica_Mallorca_02.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Orchidoideae"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Orchidoideae",
+"parentTaxon":"orchid subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orchis_conica_Mallorca_02.jpg/220px-Orchis_conica_Mallorca_02.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orchidoideae"
 }

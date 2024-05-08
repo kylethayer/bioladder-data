@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Herpetoskylax",
-"parentTaxon": "biarmosuchia subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Herpetoskylax.jpg/220px-Herpetoskylax.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Herpetoskylax",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Herpetoskylax",
+"parentTaxon":"biarmosuchia subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Herpetoskylax.jpg/220px-Herpetoskylax.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Herpetoskylax",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

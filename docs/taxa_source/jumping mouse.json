@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Jumping mouse",
-"parentTaxon": "dipodidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "Zapodinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/220px-Zapus_hudsonius.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zapodinae"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Jumping mouse",
+"parentTaxon":"dipodidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"Zapodinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/220px-Zapus_hudsonius.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zapodinae"
 }

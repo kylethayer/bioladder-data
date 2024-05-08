@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Petrolacosaurus",
-"parentTaxon": "araeosceloidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Petrolacosaurus_BW.jpg/220px-Petrolacosaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Petrolacosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Petrolacosaurus",
+"parentTaxon":"araeosceloidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Petrolacosaurus_BW.jpg/220px-Petrolacosaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Petrolacosaurus"
 }

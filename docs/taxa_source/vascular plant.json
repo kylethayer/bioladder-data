@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Vascular plant",
-"parentTaxon": "polysporangiophyte subclade 1",
-"exampleMember": "rhynia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "tracheophytes",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Vascular_plant"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Vascular plant",
+"parentTaxon":"polysporangiophyte subclade 1",
+"exampleMember":"rhynia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"tracheophytes",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vascular_plant"
 }

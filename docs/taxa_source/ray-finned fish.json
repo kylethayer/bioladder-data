@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Ray-finned fish",
-"parentTaxon": "bony fish",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "Actinopterygii",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Georgia_Aquarium_-_Giant_Grouper.jpg/220px-Georgia_Aquarium_-_Giant_Grouper.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Actinopterygii"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Ray-finned fish",
+"parentTaxon":"bony fish",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Actinopterygii",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Georgia_Aquarium_-_Giant_Grouper.jpg/220px-Georgia_Aquarium_-_Giant_Grouper.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Actinopterygii"
 }

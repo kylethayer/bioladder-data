@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Bony fish",
-"parentTaxon": "teleostomi",
-"popularSubtaxa": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Bony fish",
+"parentTaxon":"teleostomi",
+"popularSubtaxa":[
 "ray-finned fish",
 "human",
 "dinosaur"
 ],
-"exampleMember": "ray-finned fish",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Superclass",
-"scientificName": "Osteichthyes",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Osteichthyes",
-"popularAncestors": [
+"exampleMember":"ray-finned fish",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Superclass",
+"scientificName":"Osteichthyes",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Osteichthyes",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ray-finned fish",
 "sarcopterygii"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 100,
 95

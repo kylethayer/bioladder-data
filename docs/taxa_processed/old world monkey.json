@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Old world monkey",
-"parentTaxon": "catarrhini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Superfamily",
-"scientificName": "Cercopithecoidea",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Olive_baboon_Ngorongoro.jpg/220px-Olive_baboon_Ngorongoro.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Old_World_monkey",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Old world monkey",
+"parentTaxon":"catarrhini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Superfamily",
+"scientificName":"Cercopithecoidea",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Olive_baboon_Ngorongoro.jpg/220px-Olive_baboon_Ngorongoro.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Old_World_monkey",
+"popularAncestors":[
 "simian",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

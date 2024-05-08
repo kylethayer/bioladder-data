@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Red algae",
-"parentTaxon": "archaeplastida",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Division",
-"scientificName": "Rhodophyta",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Laurencia.jpg/240px-Laurencia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Red_algae",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Red algae",
+"parentTaxon":"archaeplastida",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Division",
+"scientificName":"Rhodophyta",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Laurencia.jpg/240px-Laurencia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Red_algae",
+"popularAncestors":[
 "bikonta",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 "",
 "",
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

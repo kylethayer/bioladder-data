@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Ixiolirion",
-"parentTaxon": "asparagales subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ixiolirion_tataricum_1.JPG/220px-Ixiolirion_tataricum_1.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ixiolirion"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Ixiolirion",
+"parentTaxon":"asparagales subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ixiolirion_tataricum_1.JPG/220px-Ixiolirion_tataricum_1.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ixiolirion"
 }

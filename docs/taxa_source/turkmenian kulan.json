@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Turkmenian kulan",
-"parentTaxon": "wild asses subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subspecies",
-"scientificName": "Equus hemionus kulan",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Equus_hemionus_kulan.JPG/220px-Equus_hemionus_kulan.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Turkmenian_kulan"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Turkmenian kulan",
+"parentTaxon":"wild asses subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Equus hemionus kulan",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Equus_hemionus_kulan.JPG/220px-Equus_hemionus_kulan.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Turkmenian_kulan"
 }

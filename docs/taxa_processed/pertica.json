@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pertica",
-"parentTaxon": "radiatopses",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pertica_quadrifaria_reconstruccion.jpg/220px-Pertica_quadrifaria_reconstruccion.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pertica",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pertica",
+"parentTaxon":"radiatopses",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pertica_quadrifaria_reconstruccion.jpg/220px-Pertica_quadrifaria_reconstruccion.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pertica",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

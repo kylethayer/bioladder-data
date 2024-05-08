@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Archaeovenator",
-"parentTaxon": "varanopidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ArchaeovenatorDB.jpg/220px-ArchaeovenatorDB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Archaeovenator"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Archaeovenator",
+"parentTaxon":"varanopidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ArchaeovenatorDB.jpg/220px-ArchaeovenatorDB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Archaeovenator"
 }

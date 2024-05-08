@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Patagonia",
-"parentTaxon": "sudamericidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/15218385_1619106428115264_803903461_n.png.jpg/220px-15218385_1619106428115264_803903461_n.png.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Patagonia_%28mammal%29"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Patagonia",
+"parentTaxon":"sudamericidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/15218385_1619106428115264_803903461_n.png.jpg/220px-15218385_1619106428115264_803903461_n.png.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Patagonia_%28mammal%29"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Bison",
-"parentTaxon": "bovini",
-"exampleMember": "european bison",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bovini"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Bison",
+"parentTaxon":"bovini",
+"exampleMember":"european bison",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bovini"
 }

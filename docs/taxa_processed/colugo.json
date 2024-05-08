@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Colugo",
-"parentTaxon": "primatomorpha",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Dermoptera",
-"otherNames": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Colugo",
+"parentTaxon":"primatomorpha",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Dermoptera",
+"otherNames":[
 "Flying lemurs"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg/150px-Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Colugo",
-"subtaxa": [],
-"needs_to_be_processed": true,
-"popularAncestorPops": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg/150px-Colugo_%28Galeopterus_variegatus%2C_adult_female%29%2C_Central_Catchment_Area%2C_Singapore_-_20060618.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Colugo",
+"subtaxa":[],
+"needs_to_be_processed":true,
+"popularAncestorPops":[
 null,
 null,
 null,
 null
 ],
-"popularAncestors": [
+"popularAncestors":[
 null,
 null,
 null,
 null
 ],
-"popularSubtaxa": [],
-"popularSubtaxaPops": []
+"popularSubtaxa":[],
+"popularSubtaxaPops":[]
 }

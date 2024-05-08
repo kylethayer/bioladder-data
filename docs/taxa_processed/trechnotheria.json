@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Trechnotheria",
-"parentTaxon": "holotheria",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Trechnotheria",
+"parentTaxon":"holotheria",
+"popularSubtaxa":[
 "human",
 "dog",
 "red kangaroo"
 ],
-"exampleMember": "vintana",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superlegion",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Trechnotheria",
-"popularAncestors": [
+"exampleMember":"vintana",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superlegion",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Trechnotheria",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "allotheria",
 "cladotheria"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 100,
 91,
 80

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Chordate",
-"parentTaxon": "deuterostome",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Chordate",
+"parentTaxon":"deuterostome",
+"popularSubtaxa":[
 "lancelet",
 "human",
 "dinosaur"
 ],
-"exampleMember": "pikaia",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Phylum",
-"scientificName": "Chordata",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Chordate",
-"popularAncestors": [
+"exampleMember":"pikaia",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Phylum",
+"scientificName":"Chordata",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Chordate",
+"popularAncestors":[
 "deuterostome",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cephalochordata",
 "olfactores"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 30,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 100,
 95

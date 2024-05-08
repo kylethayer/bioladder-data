@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Amazon river dolphin",
-"parentTaxon": "inioidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Inia geoffrensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amazonas_Flussdelfin_Apure_Orinoco_Duisburg_01.jpg/220px-Amazonas_Flussdelfin_Apure_Orinoco_Duisburg_01.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Amazon_river_dolphin",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Amazon river dolphin",
+"parentTaxon":"inioidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Inia geoffrensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Amazonas_Flussdelfin_Apure_Orinoco_Duisburg_01.jpg/220px-Amazonas_Flussdelfin_Apure_Orinoco_Duisburg_01.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Amazon_river_dolphin",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

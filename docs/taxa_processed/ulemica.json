@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Ulemica",
-"parentTaxon": "venyukovioidea subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ulemica092hair.jpg/220px-Ulemica092hair.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ulemica",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Ulemica",
+"parentTaxon":"venyukovioidea subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ulemica092hair.jpg/220px-Ulemica092hair.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ulemica",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

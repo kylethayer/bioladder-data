@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Domestic yak",
-"parentTaxon": "poephagus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg/220px-Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Domestic_yak",
-"popularAncestors": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Domestic yak",
+"parentTaxon":"poephagus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg/220px-Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Domestic_yak",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

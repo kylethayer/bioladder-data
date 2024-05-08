@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Iguanodontia",
-"parentTaxon": "ornithopod subclade 2",
-"exampleMember": "anabisetia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanodontia"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Iguanodontia",
+"parentTaxon":"ornithopod subclade 2",
+"exampleMember":"anabisetia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanodontia"
 }

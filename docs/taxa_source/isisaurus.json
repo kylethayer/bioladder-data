@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Isisaurus",
-"parentTaxon": "saltasaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Isisaurus_DB.jpg/220px-Isisaurus_DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Isisaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Isisaurus",
+"parentTaxon":"saltasaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Isisaurus_DB.jpg/220px-Isisaurus_DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Isisaurus"
 }

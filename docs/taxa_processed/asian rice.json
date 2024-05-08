@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 75,
-"extinct": false,
-"name": "Asian rice",
-"parentTaxon": "oryza",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Oryza sativa",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rice_Plants_%28IRRI%29.jpg/220px-Rice_Plants_%28IRRI%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oryza_sativa",
-"popularAncestors": [
+"description":"",
+"popularity":75,
+"extinct":false,
+"name":"Asian rice",
+"parentTaxon":"oryza",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Oryza sativa",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rice_Plants_%28IRRI%29.jpg/220px-Rice_Plants_%28IRRI%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oryza_sativa",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

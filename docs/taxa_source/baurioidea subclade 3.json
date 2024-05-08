@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Baurioidea subclade 3",
-"parentTaxon": "baurioidea subclade 2",
-"exampleMember": "scaloposaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Baurioidea"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Baurioidea subclade 3",
+"parentTaxon":"baurioidea subclade 2",
+"exampleMember":"scaloposaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Baurioidea"
 }

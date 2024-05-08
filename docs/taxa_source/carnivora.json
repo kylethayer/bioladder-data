@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Carnivora",
-"parentTaxon": "ferae",
-"exampleMember": "miacids",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Carnivora"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Carnivora",
+"parentTaxon":"ferae",
+"exampleMember":"miacids",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Carnivora"
 }

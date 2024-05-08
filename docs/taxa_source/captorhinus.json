@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Captorhinus",
-"parentTaxon": "captorhinidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Captorhinus_BW.jpg/220px-Captorhinus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Captorhinus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Captorhinus",
+"parentTaxon":"captorhinidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Captorhinus_BW.jpg/220px-Captorhinus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Captorhinus"
 }

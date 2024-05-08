@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Gayal",
-"parentTaxon": "bibos",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/B4_darjeling_para-5.jpg/220px-B4_darjeling_para-5.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gayal"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Gayal",
+"parentTaxon":"bibos",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/B4_darjeling_para-5.jpg/220px-B4_darjeling_para-5.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gayal"
 }

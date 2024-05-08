@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dicraeosauridae",
-"parentTaxon": "flagellicaudata",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dicraeosauridae",
+"parentTaxon":"flagellicaudata",
+"popularSubtaxa":[
 "brachytrachelopan",
 "amargasaurus",
 "dicraeosaurus"
 ],
-"exampleMember": "brachytrachelopan",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dicraeosauridae",
-"popularAncestors": [
+"exampleMember":"brachytrachelopan",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dicraeosauridae",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brachytrachelopan",
 "dicraeosauridae subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 30,
 10

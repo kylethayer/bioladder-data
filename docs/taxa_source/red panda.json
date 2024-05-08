@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Red panda",
-"parentTaxon": "musteloidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Ailurus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/RedPandaFullBody.JPG/220px-RedPandaFullBody.JPG",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Red_panda"
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Red panda",
+"parentTaxon":"musteloidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Ailurus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/RedPandaFullBody.JPG/220px-RedPandaFullBody.JPG",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Red_panda"
 }

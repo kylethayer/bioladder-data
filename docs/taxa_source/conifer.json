@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Conifer",
-"parentTaxon": "acrogymnospermae subclade 1",
-"exampleMember": "cordaites",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "Pinopsida, Coniferophyta, Coniferae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pinophyta"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Conifer",
+"parentTaxon":"acrogymnospermae subclade 1",
+"exampleMember":"cordaites",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"Pinopsida, Coniferophyta, Coniferae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pinophyta"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Anthracosaurus",
-"parentTaxon": "embolomeri subclade 3",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Anthracosaurus_russeli12DB.jpg/220px-Anthracosaurus_russeli12DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anthracosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Anthracosaurus",
+"parentTaxon":"embolomeri subclade 3",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Anthracosaurus_russeli12DB.jpg/220px-Anthracosaurus_russeli12DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anthracosaurus",
+"popularAncestors":[
 "tetrapod",
 "bony fish",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

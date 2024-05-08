@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Cane rat",
-"parentTaxon": "phiomorpha",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Thryonomys",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Grand_aulacode_male.jpg/220px-Grand_aulacode_male.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cane_rat",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Cane rat",
+"parentTaxon":"phiomorpha",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Thryonomys",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Grand_aulacode_male.jpg/220px-Grand_aulacode_male.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cane_rat",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

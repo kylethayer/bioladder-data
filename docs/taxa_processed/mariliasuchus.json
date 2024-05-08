@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": "",
-"name": "Mariliasuchus",
-"parentTaxon": "notosuchidae subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mariliasuchus_BW.jpg/220px-Mariliasuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mariliasuchus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":"",
+"name":"Mariliasuchus",
+"parentTaxon":"notosuchidae subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mariliasuchus_BW.jpg/220px-Mariliasuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mariliasuchus",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

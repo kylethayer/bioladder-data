@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Excavata",
-"parentTaxon": "bikonta",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Kingdom",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Giardia_lamblia.jpg/220px-Giardia_lamblia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Excavata"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Excavata",
+"parentTaxon":"bikonta",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Kingdom",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Giardia_lamblia.jpg/220px-Giardia_lamblia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Excavata"
 }

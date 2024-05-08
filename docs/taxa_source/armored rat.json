@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Armored rat",
-"parentTaxon": "eumysopinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hoplomys gymnurus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hoplomys_gymnurus1.jpg/220px-Hoplomys_gymnurus1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Armored_rat"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Armored rat",
+"parentTaxon":"eumysopinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hoplomys gymnurus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hoplomys_gymnurus1.jpg/220px-Hoplomys_gymnurus1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Armored_rat"
 }

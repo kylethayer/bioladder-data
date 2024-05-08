@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tyrannosaurinae subclade 5",
-"parentTaxon": "tyrannosaurinae subclade 4",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tyrannosaurinae subclade 5",
+"parentTaxon":"tyrannosaurinae subclade 4",
+"popularSubtaxa":[
 "zhuchengtyrannus",
 "tarbosaurus"
 ],
-"exampleMember": "zhuchengtyrannus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
-"popularAncestors": [
+"exampleMember":"zhuchengtyrannus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosaurinae#Taxonomy",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "tarbosaurus",
 "zhuchengtyrannus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

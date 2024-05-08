@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Hagfish",
-"parentTaxon": "craniata",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "Myxini",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/1/12/Pacific_hagfish_Myxine.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hagfish",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Hagfish",
+"parentTaxon":"craniata",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Myxini",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/1/12/Pacific_hagfish_Myxine.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hagfish",
+"popularAncestors":[
 "chordate",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

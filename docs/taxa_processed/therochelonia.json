@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therochelonia",
-"parentTaxon": "dicynodont subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therochelonia",
+"parentTaxon":"dicynodont subclade 2",
+"popularSubtaxa":[
 "robertia",
 "zambiasaurus",
 "stahleckeria"
 ],
-"exampleMember": "dicynodontoides",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Parvorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therochelonia",
-"popularAncestors": [
+"exampleMember":"dicynodontoides",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Parvorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therochelonia",
+"popularAncestors":[
 "dicynodont",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bidentalia",
 "diictodontia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 35,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 30

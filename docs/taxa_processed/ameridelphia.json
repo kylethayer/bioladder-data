@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Ameridelphia",
-"parentTaxon": "marsupial",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Ameridelphia",
+"parentTaxon":"marsupial",
+"popularSubtaxa":[
 "shrew opossum",
 "opossum"
 ],
-"exampleMember": "opossum",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ameridelphia",
-"popularAncestors": [
+"exampleMember":"opossum",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ameridelphia",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "opossum",
 "shrew opossum"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 70
 ]

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Zambiasaurus",
-"parentTaxon": "placeriinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zambiasaurus_submersus_by_theropsida-d2fsmsp.jpg/220px-Zambiasaurus_submersus_by_theropsida-d2fsmsp.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zambiasaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Zambiasaurus",
+"parentTaxon":"placeriinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zambiasaurus_submersus_by_theropsida-d2fsmsp.jpg/220px-Zambiasaurus_submersus_by_theropsida-d2fsmsp.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zambiasaurus"
 }

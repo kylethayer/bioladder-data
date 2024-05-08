@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Liaoceratops",
-"parentTaxon": "neoceratopsia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Liaoceratops_BW.jpg/220px-Liaoceratops_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Liaoceratops",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Liaoceratops",
+"parentTaxon":"neoceratopsia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Liaoceratops_BW.jpg/220px-Liaoceratops_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Liaoceratops",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

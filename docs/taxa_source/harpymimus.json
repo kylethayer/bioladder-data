@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Harpymimus",
-"parentTaxon": "ornithomimosauria subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harpymimus_steveoc.jpg/250px-Harpymimus_steveoc.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Harpymimus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Harpymimus",
+"parentTaxon":"ornithomimosauria subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harpymimus_steveoc.jpg/250px-Harpymimus_steveoc.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Harpymimus"
 }

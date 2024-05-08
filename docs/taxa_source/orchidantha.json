@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Orchidantha",
-"parentTaxon": "strelitziineae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Orchidantha_maxillarioides.jpg/220px-Orchidantha_maxillarioides.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Orchidantha"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Orchidantha",
+"parentTaxon":"strelitziineae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Orchidantha_maxillarioides.jpg/220px-Orchidantha_maxillarioides.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orchidantha"
 }

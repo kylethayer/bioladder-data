@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Bear dog",
-"parentTaxon": "caniformia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Amphicyonidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ysengrinia.jpg/250px-Ysengrinia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bear_dog"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Bear dog",
+"parentTaxon":"caniformia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Amphicyonidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ysengrinia.jpg/250px-Ysengrinia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bear_dog"
 }

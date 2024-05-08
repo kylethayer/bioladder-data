@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Multituberculata",
-"parentTaxon": "allotheria",
-"exampleMember": "sunnyodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Multituberculata"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Multituberculata",
+"parentTaxon":"allotheria",
+"exampleMember":"sunnyodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Multituberculata"
 }

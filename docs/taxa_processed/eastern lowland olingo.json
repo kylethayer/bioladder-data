@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Eastern lowland olingo",
-"parentTaxon": "bassaricyon subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Bassaricyon alleni",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bassaricyon_alleni.jpg/220px-Bassaricyon_alleni.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Eastern_lowland_olingo",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Eastern lowland olingo",
+"parentTaxon":"bassaricyon subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Bassaricyon alleni",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bassaricyon_alleni.jpg/220px-Bassaricyon_alleni.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Eastern_lowland_olingo",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

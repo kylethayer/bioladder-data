@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Akidnognathidae",
-"parentTaxon": "eutherocephalia subclade 1",
-"exampleMember": "annatherapsidus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Akidnognathidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Akidnognathidae",
+"parentTaxon":"eutherocephalia subclade 1",
+"exampleMember":"annatherapsidus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Akidnognathidae"
 }

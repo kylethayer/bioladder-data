@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Tenrec",
-"parentTaxon": "afrosoricida",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Tenrecidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tanrek.jpg/220px-Tanrek.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tenrec",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Tenrec",
+"parentTaxon":"afrosoricida",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Tenrecidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tanrek.jpg/220px-Tanrek.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tenrec",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

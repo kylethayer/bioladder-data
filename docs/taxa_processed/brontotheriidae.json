@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Brontotheriidae",
-"parentTaxon": "brontotherioidea",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Brontotheriidae",
+"parentTaxon":"brontotherioidea",
+"popularSubtaxa":[
 "eotitanops",
 "sphenocoelus",
 "protitanops"
 ],
-"exampleMember": "eotitanops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"eotitanops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
 "Titanotheriidae"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Brontotheriidae",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Brontotheriidae",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "brontotheriinae",
 "eotitanops"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

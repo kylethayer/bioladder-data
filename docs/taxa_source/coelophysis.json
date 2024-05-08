@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Coelophysis",
-"parentTaxon": "neotheropoda",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coelophysis_Jeff_Martz.jpg/220px-Coelophysis_Jeff_Martz.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Coelophysis"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Coelophysis",
+"parentTaxon":"neotheropoda",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coelophysis_Jeff_Martz.jpg/220px-Coelophysis_Jeff_Martz.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Coelophysis"
 }

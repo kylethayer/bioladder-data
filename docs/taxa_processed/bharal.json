@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Bharal",
-"parentTaxon": "pseudois",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Pseudois nayaur",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Bharal",
+"parentTaxon":"pseudois",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Pseudois nayaur",
+"otherNames":[
 "Himalayan blue sheep",
 "naur"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bharal%2C_Himalayan_blue_sheep_In_Tibet.jpg/220px-Bharal%2C_Himalayan_blue_sheep_In_Tibet.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bharal",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bharal%2C_Himalayan_blue_sheep_In_Tibet.jpg/220px-Bharal%2C_Himalayan_blue_sheep_In_Tibet.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bharal",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

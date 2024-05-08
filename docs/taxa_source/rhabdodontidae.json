@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Rhabdodontidae",
-"parentTaxon": "iguanodontia subclade 1",
-"exampleMember": "rhabdodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rhabdodontidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Rhabdodontidae",
+"parentTaxon":"iguanodontia subclade 1",
+"exampleMember":"rhabdodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rhabdodontidae"
 }

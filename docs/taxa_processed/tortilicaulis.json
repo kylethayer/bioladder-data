@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Tortilicaulis",
-"parentTaxon": "horneophytopsida",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tortilicaulis_transwalliensis_reconstruccion.jpg/330px-Tortilicaulis_transwalliensis_reconstruccion.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tortilicaulis",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tortilicaulis",
+"parentTaxon":"horneophytopsida",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tortilicaulis_transwalliensis_reconstruccion.jpg/330px-Tortilicaulis_transwalliensis_reconstruccion.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tortilicaulis",
+"popularAncestors":[
 "land plant",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 95,
 "",
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

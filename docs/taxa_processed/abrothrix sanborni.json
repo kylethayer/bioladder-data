@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Abrothrix sanborni",
-"parentTaxon": "abrothrix",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Abrothrix sanborni",
+"parentTaxon":"abrothrix",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[
 "Sanborn's grass mouse",
 "Sanborn's akodont"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Abrothrix_sanborni.jpg/220px-Abrothrix_sanborni.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Abrothrix_sanborni",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Abrothrix_sanborni.jpg/220px-Abrothrix_sanborni.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Abrothrix_sanborni",
+"popularAncestors":[
 "abrothrix",
 "rodent",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

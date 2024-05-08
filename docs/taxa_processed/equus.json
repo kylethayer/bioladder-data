@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Equus",
-"parentTaxon": "equini",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Equus",
+"parentTaxon":"equini",
+"popularSubtaxa":[
 "horse",
 "donkey",
 "zebra"
 ],
-"exampleMember": "tarpan",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Equus_%28genus%29",
-"popularAncestors": [
+"exampleMember":"tarpan",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Equus_%28genus%29",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "equus subclade 1",
 "wild horse"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 80,
 80

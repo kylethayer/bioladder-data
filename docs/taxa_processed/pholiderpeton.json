@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pholiderpeton",
-"parentTaxon": "embolomeri subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pholiderpeton_NT.jpg/220px-Pholiderpeton_NT.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pholiderpeton",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pholiderpeton",
+"parentTaxon":"embolomeri subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pholiderpeton_NT.jpg/220px-Pholiderpeton_NT.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pholiderpeton",
+"popularAncestors":[
 "tetrapod",
 "bony fish",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

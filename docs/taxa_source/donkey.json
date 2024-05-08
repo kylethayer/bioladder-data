@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Donkey",
-"parentTaxon": "wild asses subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subspecies",
-"scientificName": "Equus africanus asinus",
-"otherNames": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Donkey",
+"parentTaxon":"wild asses subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Equus africanus asinus",
+"otherNames":[
 "Ass"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Donkey_1_arp_750px.jpg/220px-Donkey_1_arp_750px.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Donkey"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Donkey_1_arp_750px.jpg/220px-Donkey_1_arp_750px.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Donkey"
 }

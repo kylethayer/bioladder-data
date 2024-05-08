@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Orchid subclade 1",
-"parentTaxon": "orchid",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Orchid subclade 1",
+"parentTaxon":"orchid",
+"popularSubtaxa":[
 "lady's slipper orchids",
 "pseudovanilla",
 "vanilla"
 ],
-"exampleMember": "lady's slipper orchids",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Orchidaceae",
-"popularAncestors": [
+"exampleMember":"lady's slipper orchids",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orchidaceae",
+"popularAncestors":[
 "orchid",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "orchid subclade 2",
 "vanilloideae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 30,
 70

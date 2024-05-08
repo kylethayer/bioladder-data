@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Peperomia",
-"parentTaxon": "piperaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Peperomia",
+"parentTaxon":"piperaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "Radiator plant"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Peperomia-sp.jpg/220px-Peperomia-sp.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Peperomia"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Peperomia-sp.jpg/220px-Peperomia-sp.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Peperomia"
 }

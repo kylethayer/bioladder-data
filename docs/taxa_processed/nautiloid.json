@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Nautiloid",
-"parentTaxon": "cephalopod",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Nautiloid",
+"parentTaxon":"cephalopod",
+"popularSubtaxa":[
 "endocerida",
 "discosorida",
 "nautilus"
 ],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subclass",
-"scientificName": "Nautiloidea",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nautiloid",
-"popularAncestors": [
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subclass",
+"scientificName":"Nautiloidea",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid",
+"popularAncestors":[
 "cephalopod",
 "mollusk",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "actinocerida",
 "discosorida",
 "endocerida",
@@ -30,13 +30,13 @@
 "orthoceratoidea",
 "plectronoceratoidea"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 55

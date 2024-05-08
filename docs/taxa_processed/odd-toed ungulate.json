@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Odd-toed ungulate",
-"parentTaxon": "euungulata",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Odd-toed ungulate",
+"parentTaxon":"euungulata",
+"popularSubtaxa":[
 "horse",
 "zebra",
 "rhinoceros"
 ],
-"exampleMember": "palaeotherium",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Perissodactyla",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Odd-toed_ungulate",
-"popularAncestors": [
+"exampleMember":"palaeotherium",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Perissodactyla",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Odd-toed_ungulate",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "hippomorpha",
 "tapiromorpha"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 90,
 80,
 80

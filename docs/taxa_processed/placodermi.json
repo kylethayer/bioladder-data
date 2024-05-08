@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Placodermi",
-"parentTaxon": "gnathostomata",
-"popularSubtaxa": [],
-"exampleMember": "coccosteus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Placodermi",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Placodermi",
+"parentTaxon":"gnathostomata",
+"popularSubtaxa":[],
+"exampleMember":"coccosteus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Placodermi",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "coccosteus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Lion",
-"parentTaxon": "panthera subclade 5",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subgenus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/250px-Lion_waiting_in_Namibia.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Lion",
-"popularAncestors": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Lion",
+"parentTaxon":"panthera subclade 5",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subgenus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/250px-Lion_waiting_in_Namibia.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Lion",
+"popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

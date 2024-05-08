@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Chamois",
-"parentTaxon": "rupicapra",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Rupicapra spp.",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zoo_042_edited.jpg/220px-Zoo_042_edited.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chamois"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Chamois",
+"parentTaxon":"rupicapra",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Rupicapra spp.",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zoo_042_edited.jpg/220px-Zoo_042_edited.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chamois"
 }

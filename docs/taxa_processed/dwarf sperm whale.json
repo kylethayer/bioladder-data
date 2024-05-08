@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Dwarf sperm whale",
-"parentTaxon": "kogiidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Kogia sima",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kogia_sima.jpg/220px-Kogia_sima.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dwarf_sperm_whale",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Dwarf sperm whale",
+"parentTaxon":"kogiidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Kogia sima",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kogia_sima.jpg/220px-Kogia_sima.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dwarf_sperm_whale",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

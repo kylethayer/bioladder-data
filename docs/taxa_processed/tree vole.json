@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tree vole",
-"parentTaxon": "arvicolinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RedTreeVole23.jpg/220px-RedTreeVole23.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tree_vole",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tree vole",
+"parentTaxon":"arvicolinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RedTreeVole23.jpg/220px-RedTreeVole23.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tree_vole",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

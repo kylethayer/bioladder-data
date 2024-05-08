@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Iguanodontia",
-"parentTaxon": "ornithopod subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Iguanodontia",
+"parentTaxon":"ornithopod subclade 2",
+"popularSubtaxa":[
 "iguanodon",
 "hadrosaurus",
 "parasaurolophus"
 ],
-"exampleMember": "anabisetia",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanodontia",
-"popularAncestors": [
+"exampleMember":"anabisetia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanodontia",
+"popularAncestors":[
 "ornithopod",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anabisetia",
 "iguanodontia subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 30,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 60,
 60

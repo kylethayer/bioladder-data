@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Chaoyangsaurus",
-"parentTaxon": "ceratopsia subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chaoyangsaurus_BW.jpg/240px-Chaoyangsaurus_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Chaoyangsaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Chaoyangsaurus",
+"parentTaxon":"ceratopsia subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chaoyangsaurus_BW.jpg/240px-Chaoyangsaurus_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Chaoyangsaurus"
 }

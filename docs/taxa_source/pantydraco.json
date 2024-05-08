@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pantydraco",
-"parentTaxon": "sauropodomorpha subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pantydraco_BW.jpg/220px-Pantydraco_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pantydraco"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pantydraco",
+"parentTaxon":"sauropodomorpha subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pantydraco_BW.jpg/220px-Pantydraco_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pantydraco"
 }

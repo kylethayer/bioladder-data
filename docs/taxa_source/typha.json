@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Typha",
-"parentTaxon": "typhaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Typha",
+"parentTaxon":"typhaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "bulrush",
 "reedmace",
 "cattail",
@@ -16,6 +16,6 @@
 "cumbungi",
 "raupÅ"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Typha-cattails-in-indiana.jpg/220px-Typha-cattails-in-indiana.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Typha"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Typha-cattails-in-indiana.jpg/220px-Typha-cattails-in-indiana.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Typha"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Afrovenatorinae subclade 1",
-"parentTaxon": "afrovenatorinae",
-"exampleMember": "dubreuillosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": ""
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Afrovenatorinae subclade 1",
+"parentTaxon":"afrovenatorinae",
+"exampleMember":"dubreuillosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":""
 }

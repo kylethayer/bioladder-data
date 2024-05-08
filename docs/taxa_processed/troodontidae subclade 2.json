@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Troodontidae subclade 2",
-"parentTaxon": "troodontidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Troodontidae subclade 2",
+"parentTaxon":"troodontidae",
+"popularSubtaxa":[
 "xixiasaurus",
 "sinornithoides",
 "troodon"
 ],
-"exampleMember": "jinfengopteryx",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Troodontidae",
-"popularAncestors": [
+"exampleMember":"jinfengopteryx",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Troodontidae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "byronosaurus",
 "jinfengopteryx",
 "mei",
@@ -30,13 +30,13 @@
 "troodontidae subclade 3",
 "xixiasaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 20

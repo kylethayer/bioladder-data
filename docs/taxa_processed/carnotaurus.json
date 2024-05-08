@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Carnotaurus",
-"parentTaxon": "carnotaurini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Carnotaurus_DB_2.jpg/220px-Carnotaurus_DB_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Carnotaurus",
-"popularAncestors": [
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Carnotaurus",
+"parentTaxon":"carnotaurini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Carnotaurus_DB_2.jpg/220px-Carnotaurus_DB_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Carnotaurus",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

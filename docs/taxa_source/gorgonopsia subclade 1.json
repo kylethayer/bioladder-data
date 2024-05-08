@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Gorgonopsia subclade 1",
-"parentTaxon": "gorgonopsia",
-"exampleMember": "cyonosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gorgonopsia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Gorgonopsia subclade 1",
+"parentTaxon":"gorgonopsia",
+"exampleMember":"cyonosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gorgonopsia"
 }

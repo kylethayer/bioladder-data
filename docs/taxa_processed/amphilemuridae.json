@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Amphilemuridae",
-"parentTaxon": "erinaceomorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Amphilemuridae",
+"parentTaxon":"erinaceomorpha",
+"popularSubtaxa":[
 "macrocranion",
 "pholidocercus"
 ],
-"exampleMember": "macrocranion",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Erinaceidae#Classification",
-"popularAncestors": [
+"exampleMember":"macrocranion",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Erinaceidae#Classification",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "macrocranion",
 "pholidocercus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

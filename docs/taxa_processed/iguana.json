@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Iguana",
-"parentTaxon": "terraiguana subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Thomas_Marriott_Iguana_9_cropped.jpg/220px-St_Thomas_Marriott_Iguana_9_cropped.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Iguanidae",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Iguana",
+"parentTaxon":"terraiguana subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Thomas_Marriott_Iguana_9_cropped.jpg/220px-St_Thomas_Marriott_Iguana_9_cropped.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Iguanidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

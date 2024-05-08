@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Placodontia",
-"parentTaxon": "sauropterygia",
-"exampleMember": "paraplacodus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Placodontiformes"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Placodontia",
+"parentTaxon":"sauropterygia",
+"exampleMember":"paraplacodus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Placodontiformes"
 }

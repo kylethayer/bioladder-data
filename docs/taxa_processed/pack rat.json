@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Pack rat",
-"parentTaxon": "neotominae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Neotoma",
-"otherNames": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Pack rat",
+"parentTaxon":"neotominae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Neotoma",
+"otherNames":[
 "Packrat",
 "Woodrat"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg/220px-Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pack_rat",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg/220px-Neotoma_cinerea_%28bushy_tailed_woodrat%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pack_rat",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

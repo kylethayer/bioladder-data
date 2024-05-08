@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Juncaceae",
-"parentTaxon": "cyperid clade subclade 3",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Juncaceae",
+"parentTaxon":"cyperid clade subclade 3",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
 "rush family"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Juncus_effuses.jpg/220px-Juncus_effuses.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Juncaceae",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Juncus_effuses.jpg/220px-Juncus_effuses.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Juncaceae",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

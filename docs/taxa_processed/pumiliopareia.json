@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pumiliopareia",
-"parentTaxon": "velosauria sublade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nanoparia_BW.jpg/220px-Nanoparia_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pumiliopareia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pumiliopareia",
+"parentTaxon":"velosauria sublade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nanoparia_BW.jpg/220px-Nanoparia_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pumiliopareia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

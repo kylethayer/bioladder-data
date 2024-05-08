@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Tapinocaninus",
-"parentTaxon": "tapinocephalidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tapinocaninus_pamelae_head.jpg/220px-Tapinocaninus_pamelae_head.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tapinocaninus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tapinocaninus",
+"parentTaxon":"tapinocephalidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tapinocaninus_pamelae_head.jpg/220px-Tapinocaninus_pamelae_head.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tapinocaninus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

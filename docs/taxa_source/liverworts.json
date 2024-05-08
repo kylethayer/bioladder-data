@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Liverworts",
-"parentTaxon": "land plant",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Division",
-"scientificName": "Marchantiophyta",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lunularia_cruciata.jpg/220px-Lunularia_cruciata.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Marchantiophyta"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Liverworts",
+"parentTaxon":"land plant",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Division",
+"scientificName":"Marchantiophyta",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lunularia_cruciata.jpg/220px-Lunularia_cruciata.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Marchantiophyta"
 }

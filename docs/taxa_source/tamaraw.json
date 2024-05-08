@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tamaraw",
-"parentTaxon": "bubalus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Bubalus mindorensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bubalus_mindorensis_by_Gregg_Yan_01.jpg/220px-Bubalus_mindorensis_by_Gregg_Yan_01.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tamaraw"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tamaraw",
+"parentTaxon":"bubalus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Bubalus mindorensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bubalus_mindorensis_by_Gregg_Yan_01.jpg/220px-Bubalus_mindorensis_by_Gregg_Yan_01.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tamaraw"
 }

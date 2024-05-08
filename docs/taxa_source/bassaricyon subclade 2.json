@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bassaricyon subclade 2",
-"parentTaxon": "bassaricyon subclade 1",
-"exampleMember": "western lowland olingo",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Bassaricyon"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bassaricyon subclade 2",
+"parentTaxon":"bassaricyon subclade 1",
+"exampleMember":"western lowland olingo",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Bassaricyon"
 }

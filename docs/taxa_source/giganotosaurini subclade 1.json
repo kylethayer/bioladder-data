@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Giganotosaurini subclade 1",
-"parentTaxon": "giganotosaurini",
-"exampleMember": "mapusaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Giganotosaurini subclade 1",
+"parentTaxon":"giganotosaurini",
+"exampleMember":"mapusaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae"
 }

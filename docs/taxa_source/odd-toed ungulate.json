@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Odd-toed ungulate",
-"parentTaxon": "euungulata",
-"exampleMember": "palaeotherium",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Perissodactyla",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Odd-toed_ungulate"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Odd-toed ungulate",
+"parentTaxon":"euungulata",
+"exampleMember":"palaeotherium",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Perissodactyla",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Odd-toed_ungulate"
 }

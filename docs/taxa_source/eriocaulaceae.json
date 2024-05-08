@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Eriocaulaceae",
-"parentTaxon": "xyrid clade",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eriocaulon_decangulare_%281832%29.jpg/220px-Eriocaulon_decangulare_%281832%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eriocaulaceae"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Eriocaulaceae",
+"parentTaxon":"xyrid clade",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eriocaulon_decangulare_%281832%29.jpg/220px-Eriocaulon_decangulare_%281832%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eriocaulaceae"
 }

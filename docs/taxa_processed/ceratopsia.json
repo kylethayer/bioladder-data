@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ceratopsia",
-"parentTaxon": "marginocephalia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ceratopsia",
+"parentTaxon":"marginocephalia",
+"popularSubtaxa":[
 "yinlong",
 "protoceratops",
 "triceratops"
 ],
-"exampleMember": "yinlong",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"yinlong",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[
 "Ceratopia"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Ceratopsia",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Ceratopsia",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ceratopsia subclade 1",
 "yinlong"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 30,
 85

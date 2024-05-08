@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Aetosaur",
-"parentTaxon": "suchia subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Aetosaur",
+"parentTaxon":"suchia subclade 1",
+"popularSubtaxa":[
 "aetosaurus",
 "stagonolepis",
 "typothorax"
 ],
-"exampleMember": "aetosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Aetosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aetosaur",
-"popularAncestors": [
+"exampleMember":"aetosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Aetosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aetosaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "aetosaur subclade 1",
 "aetosaurus",
 "neoaetosauroides",
 "stagonolepis"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10,
 20

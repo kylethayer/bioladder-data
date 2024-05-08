@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Klipspringer",
-"parentTaxon": "neotragini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Oreotragus oreotragus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/220px-Klipspringer.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Klipspringer",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Klipspringer",
+"parentTaxon":"neotragini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Oreotragus oreotragus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/220px-Klipspringer.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Klipspringer",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Carcharodontosauridae subclade 1",
-"parentTaxon": "carcharodontosauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Carcharodontosauridae subclade 1",
+"parentTaxon":"carcharodontosauridae",
+"popularSubtaxa":[
 "carcharodontosaurus",
 "tyrannotitan",
 "giganotosaurus"
 ],
-"exampleMember": "acrocanthosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae",
-"popularAncestors": [
+"exampleMember":"acrocanthosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "acrocanthosaurus",
 "carcharodontosauridae subclade 2"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 30,
 50

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Streptophytina",
-"parentTaxon": "viridiplantae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Streptophytina",
+"parentTaxon":"viridiplantae",
+"popularSubtaxa":[
 "land plant",
 "grass",
 "onion"
 ],
-"exampleMember": "charophyceae",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [
+"exampleMember":"charophyceae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[
 "Streptophyta"
 ],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Streptophytina",
-"popularAncestors": [
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Streptophytina",
+"popularAncestors":[
 "bikonta",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "charophyceae",
 "land plant"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 "",
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 80,
 80

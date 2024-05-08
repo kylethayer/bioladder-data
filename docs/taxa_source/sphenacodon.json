@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sphenacodon",
-"parentTaxon": "sphenacodontinae subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sphenac2.jpg/220px-Sphenac2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sphenacodon",
+"parentTaxon":"sphenacodontinae subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sphenac2.jpg/220px-Sphenac2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae"
 }

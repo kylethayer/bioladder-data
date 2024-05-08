@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Eogyrinus",
-"parentTaxon": "embolomeri subclade 3",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eogyrinus_BW.jpg/220px-Eogyrinus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eogyrinus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Eogyrinus",
+"parentTaxon":"embolomeri subclade 3",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Eogyrinus_BW.jpg/220px-Eogyrinus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eogyrinus",
+"popularAncestors":[
 "tetrapod",
 "bony fish",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

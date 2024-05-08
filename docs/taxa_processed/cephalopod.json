@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Cephalopod",
-"parentTaxon": "conchifera subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Cephalopod",
+"parentTaxon":"conchifera subclade 1",
+"popularSubtaxa":[
 "octopus",
 "squid",
 "nautilus"
 ],
-"exampleMember": "ammonoidea",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cephalopod",
-"popularAncestors": [
+"exampleMember":"ammonoidea",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cephalopod",
+"popularAncestors":[
 "mollusk",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ammonoidea",
 "coleoidea",
 "nautiloid"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 70,
 55

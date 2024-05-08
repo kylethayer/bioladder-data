@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Sugarcane",
-"parentTaxon": "andropogoneae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Saccharum",
-"otherNames": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Sugarcane",
+"parentTaxon":"andropogoneae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Saccharum",
+"otherNames":[
 "Sugar cane"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg/220px-Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sugarcane"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg/220px-Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sugarcane"
 }

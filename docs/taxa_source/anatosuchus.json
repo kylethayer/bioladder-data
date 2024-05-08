@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Anatosuchus",
-"parentTaxon": "metasuchia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anatosuchus_BW.jpg/330px-Anatosuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anatosuchus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Anatosuchus",
+"parentTaxon":"metasuchia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anatosuchus_BW.jpg/330px-Anatosuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anatosuchus"
 }

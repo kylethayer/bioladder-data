@@ -1,18 +1,18 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Oryza rufipogon",
-"parentTaxon": "oryza",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Oryza rufipogon",
+"parentTaxon":"oryza",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[
 "brownbeard rice",
 "wild rice",
 "red rice"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oryza_rufipogon_-_National_Taiwan_University_-_DSC01108.JPG/220px-Oryza_rufipogon_-_National_Taiwan_University_-_DSC01108.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Oryza_rufipogon"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Oryza_rufipogon_-_National_Taiwan_University_-_DSC01108.JPG/220px-Oryza_rufipogon_-_National_Taiwan_University_-_DSC01108.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Oryza_rufipogon"
 }

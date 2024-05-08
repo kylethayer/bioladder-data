@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Uropygids",
-"parentTaxon": "pedipalpi",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Uropygids",
+"parentTaxon":"pedipalpi",
+"popularSubtaxa":[
 "thelyphonida",
 "schizomida"
 ],
-"exampleMember": "thelyphonida",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tetrapulmonata",
-"popularAncestors": [
+"exampleMember":"thelyphonida",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tetrapulmonata",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "schizomida",
 "thelyphonida"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

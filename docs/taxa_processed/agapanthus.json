@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Agapanthus",
-"parentTaxon": "amaryllidaceae sl",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Agapanthus_africanus1.jpg/220px-Agapanthus_africanus1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Agapanthus",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Agapanthus",
+"parentTaxon":"amaryllidaceae sl",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Agapanthus_africanus1.jpg/220px-Agapanthus_africanus1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Agapanthus",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Dinogorgon",
-"parentTaxon": "rubidgeini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dinogorgon092.jpg/220px-Dinogorgon092.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dinogorgon",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Dinogorgon",
+"parentTaxon":"rubidgeini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dinogorgon092.jpg/220px-Dinogorgon092.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dinogorgon",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

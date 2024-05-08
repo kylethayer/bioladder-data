@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Palaeomastodon",
-"parentTaxon": "proboscidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Paleomastodon.jpg/220px-Paleomastodon.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Palaeomastodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Palaeomastodon",
+"parentTaxon":"proboscidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Paleomastodon.jpg/220px-Paleomastodon.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Palaeomastodon"
 }

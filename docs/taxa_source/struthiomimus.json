@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Struthiomimus",
-"parentTaxon": "ornithomimidae subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Struthiomimus_BW.jpg/220px-Struthiomimus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Struthiomimus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Struthiomimus",
+"parentTaxon":"ornithomimidae subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Struthiomimus_BW.jpg/220px-Struthiomimus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Struthiomimus"
 }

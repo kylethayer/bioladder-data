@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Merriamosauria",
-"parentTaxon": "toretocnemidae",
-"exampleMember": "besanosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Merriamosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Merriamosauria",
+"parentTaxon":"toretocnemidae",
+"exampleMember":"besanosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Merriamosauria"
 }

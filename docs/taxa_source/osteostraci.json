@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Osteostraci",
-"parentTaxon": "vertebrate subclade 4",
-"exampleMember": "hemicyclaspis",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Osteostraci"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Osteostraci",
+"parentTaxon":"vertebrate subclade 4",
+"exampleMember":"hemicyclaspis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Osteostraci"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dvinosauria",
-"parentTaxon": "rhachitomi subclade 1",
-"exampleMember": "neldasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Suborder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dvinosauria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dvinosauria",
+"parentTaxon":"rhachitomi subclade 1",
+"exampleMember":"neldasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dvinosauria"
 }

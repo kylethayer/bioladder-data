@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Zatrachys",
-"parentTaxon": "zatrachydidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zatrachys1DB.jpg/220px-Zatrachys1DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zatrachys",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Zatrachys",
+"parentTaxon":"zatrachydidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zatrachys1DB.jpg/220px-Zatrachys1DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zatrachys",
+"popularAncestors":[
 "amphibian",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

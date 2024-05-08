@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Sciadopitys",
-"parentTaxon": "conifer subclade 4",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Sciadopitys",
+"parentTaxon":"conifer subclade 4",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "Japanese umbrella-pine"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sciadopitys_verticillata.jpg/220px-Sciadopitys_verticillata.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sciadopitys",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sciadopitys_verticillata.jpg/220px-Sciadopitys_verticillata.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sciadopitys",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

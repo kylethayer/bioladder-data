@@ -1,39 +1,39 @@
 {
-"description": "Primates probably split from the Dermoptera sister group 79.6 million years ago during the Cretaceous.",
-"popularity": "",
-"extinct": false,
-"name": "Primatomorpha",
-"parentTaxon": "euarchonta",
-"popularSubtaxa": [
+"description":"Primates probably split from the Dermoptera sister group 79.6 million years ago during the Cretaceous.",
+"popularity":"",
+"extinct":false,
+"name":"Primatomorpha",
+"parentTaxon":"euarchonta",
+"popularSubtaxa":[
 "human",
 "gorilla",
 "colugo"
 ],
-"exampleMember": "plesiadapis",
-"exampleMemberType": "Earliest Known Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Primatomorpha",
-"popularAncestors": [
+"exampleMember":"plesiadapis",
+"exampleMemberType":"Earliest Known Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Primatomorpha",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "colugo",
 "plesiadapiformes",
 "primate"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 100,
 80,
 40

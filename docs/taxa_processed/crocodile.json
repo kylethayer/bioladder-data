@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Crocodile",
-"parentTaxon": "crocodylidae",
-"popularSubtaxa": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Crocodile",
+"parentTaxon":"crocodylidae",
+"popularSubtaxa":[
 "dwarf crocodile",
 "nile crocodile",
 "saltwater crocodile"
 ],
-"exampleMember": "trilophosuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "Crocodylinae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodile",
-"popularAncestors": [
+"exampleMember":"trilophosuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"Crocodylinae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "mekosuchinae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 60,
 60

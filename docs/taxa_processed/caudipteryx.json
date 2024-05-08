@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Caudipteryx",
-"parentTaxon": "oviraptorosauria subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Caudipteryx2mmartyniuk.png/220px-Caudipteryx2mmartyniuk.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Caudipteryx",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Caudipteryx",
+"parentTaxon":"oviraptorosauria subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Caudipteryx2mmartyniuk.png/220px-Caudipteryx2mmartyniuk.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caudipteryx",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Sinraptor",
-"parentTaxon": "metriacanthosaurinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sinraptor_NT.jpg/220px-Sinraptor_NT.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sinraptor"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Sinraptor",
+"parentTaxon":"metriacanthosaurinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sinraptor_NT.jpg/220px-Sinraptor_NT.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sinraptor"
 }

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Cycad",
-"parentTaxon": "acrogymnospermae",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Cycad",
+"parentTaxon":"acrogymnospermae",
+"popularSubtaxa":[
 "cycas",
 "stangeria",
 "zamia"
 ],
-"exampleMember": "macroneuropteris",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cycad",
-"popularAncestors": [
+"exampleMember":"macroneuropteris",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cycad",
+"popularAncestors":[
 "seed plants",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cycadales",
 "macroneuropteris"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 50,
 50

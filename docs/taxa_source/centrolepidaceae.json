@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Centrolepidaceae",
-"parentTaxon": "restiid clade",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrolepis_fascicularis.jpg/220px-Centrolepis_fascicularis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Centrolepidaceae"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Centrolepidaceae",
+"parentTaxon":"restiid clade",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrolepis_fascicularis.jpg/220px-Centrolepis_fascicularis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Centrolepidaceae"
 }

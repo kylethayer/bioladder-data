@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Angwantibo",
-"parentTaxon": "perodicticinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Arctocebus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ArctocebusCalabarensisWolf.jpg/220px-ArctocebusCalabarensisWolf.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Angwantibo",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Angwantibo",
+"parentTaxon":"perodicticinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Arctocebus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ArctocebusCalabarensisWolf.jpg/220px-ArctocebusCalabarensisWolf.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Angwantibo",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

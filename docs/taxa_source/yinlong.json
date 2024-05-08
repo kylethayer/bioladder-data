@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Yinlong",
-"parentTaxon": "ceratopsia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yinlong_BW.jpg/220px-Yinlong_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Yinlong"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Yinlong",
+"parentTaxon":"ceratopsia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yinlong_BW.jpg/220px-Yinlong_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Yinlong"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Eudibamus",
-"parentTaxon": "bolosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eudibamus_BW.jpg/220px-Eudibamus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eudibamus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Eudibamus",
+"parentTaxon":"bolosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eudibamus_BW.jpg/220px-Eudibamus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eudibamus"
 }

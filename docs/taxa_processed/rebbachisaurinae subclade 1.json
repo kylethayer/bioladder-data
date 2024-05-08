@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Rebbachisaurinae subclade 1",
-"parentTaxon": "rebbachisaurinae",
-"popularSubtaxa": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Rebbachisaurinae subclade 1",
+"parentTaxon":"rebbachisaurinae",
+"popularSubtaxa":[
 "rebbachisaurus",
 "demandasaurus"
 ],
-"exampleMember": "rebbachisaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rebbachisaurinae",
-"popularAncestors": [
+"exampleMember":"rebbachisaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rebbachisaurinae",
+"popularAncestors":[
 "sauropods",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "demandasaurus",
 "rebbachisaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 10
 ]

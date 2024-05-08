@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Carpolestes",
-"parentTaxon": "plesiadapiformes",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CarpolestesCL.png/220px-CarpolestesCL.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Carpolestes"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Carpolestes",
+"parentTaxon":"plesiadapiformes",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CarpolestesCL.png/220px-CarpolestesCL.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Carpolestes"
 }

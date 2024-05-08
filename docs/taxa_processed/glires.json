@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Glires",
-"parentTaxon": "euarchontoglires",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Glires",
+"parentTaxon":"euarchontoglires",
+"popularSubtaxa":[
 "european rabbit",
 "cottontail rabbit",
 "rat"
 ],
-"exampleMember": "zalambdalestes",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Glires",
-"popularAncestors": [
+"exampleMember":"zalambdalestes",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Glires",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "lagomorpha",
 "rodent",
 "zalambdalestes"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 75,
 75,
 85

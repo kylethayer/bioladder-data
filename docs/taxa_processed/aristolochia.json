@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Aristolochia",
-"parentTaxon": "aristolochiaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aristolochia_labiata.jpg/220px-Aristolochia_labiata.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aristolochia",
-"popularAncestors": [
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Aristolochia",
+"parentTaxon":"aristolochiaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aristolochia_labiata.jpg/220px-Aristolochia_labiata.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aristolochia",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

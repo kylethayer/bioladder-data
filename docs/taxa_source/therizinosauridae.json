@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therizinosauridae",
-"parentTaxon": "therizinosauroidea subclade 1",
-"exampleMember": "erliansaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therizinosauridae",
+"parentTaxon":"therizinosauroidea subclade 1",
+"exampleMember":"erliansaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosauridae"
 }

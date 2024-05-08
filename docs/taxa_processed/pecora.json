@@ -1,28 +1,28 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Pecora",
-"parentTaxon": "ruminantia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Pecora",
+"parentTaxon":"ruminantia",
+"popularSubtaxa":[
 "deer",
 "sheep",
 "giraffe"
 ],
-"exampleMember": "leptomeryx",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Infraorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pecora",
-"popularAncestors": [
+"exampleMember":"leptomeryx",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pecora",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bovid",
 "deer",
 "giraffoidea",
@@ -30,13 +30,13 @@
 "musk deer",
 "palaeomerycidae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 90,
 80

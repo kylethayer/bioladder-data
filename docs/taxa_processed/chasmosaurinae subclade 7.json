@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Chasmosaurinae subclade 7",
-"parentTaxon": "chasmosaurinae subclade 5",
-"popularSubtaxa": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Chasmosaurinae subclade 7",
+"parentTaxon":"chasmosaurinae subclade 5",
+"popularSubtaxa":[
 "ojoceratops",
 "anchiceratops",
 "triceratops"
 ],
-"exampleMember": "anchiceratops",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Triceratops#Classification",
-"popularAncestors": [
+"exampleMember":"anchiceratops",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Triceratops#Classification",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anchiceratops",
 "chasmosaurinae subclade 8"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

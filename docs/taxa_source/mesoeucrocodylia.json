@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Mesoeucrocodylia",
-"parentTaxon": "crocodyliformes",
-"exampleMember": "sichuanosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mesoeucrocodylia"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Mesoeucrocodylia",
+"parentTaxon":"crocodyliformes",
+"exampleMember":"sichuanosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mesoeucrocodylia"
 }

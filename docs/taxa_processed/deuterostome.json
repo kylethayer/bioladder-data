@@ -1,41 +1,41 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Deuterostome",
-"parentTaxon": "bilateria",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Deuterostome",
+"parentTaxon":"bilateria",
+"popularSubtaxa":[
 "echinoderm",
 "human",
 "dinosaur"
 ],
-"exampleMember": "didazoon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Superphylum",
-"scientificName": "Deuterostomia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Deuterostome",
-"popularAncestors": [
+"exampleMember":"didazoon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Superphylum",
+"scientificName":"Deuterostomia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Deuterostome",
+"popularAncestors":[
 "bilateria",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "chordate",
 "echinoderm",
 "hemichordate",
 "vetulicolia",
 "xenoturbella"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 30,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 100,
 95

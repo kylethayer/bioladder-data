@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Cephalotaxaceae",
-"parentTaxon": "conifer subclade 6",
-"exampleMember": "plum yew",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Cephalotaxaceae"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Cephalotaxaceae",
+"parentTaxon":"conifer subclade 6",
+"exampleMember":"plum yew",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cephalotaxaceae"
 }

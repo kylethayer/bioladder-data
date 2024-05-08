@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Marsupial",
-"parentTaxon": "metatheria",
-"popularSubtaxa": [
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Marsupial",
+"parentTaxon":"metatheria",
+"popularSubtaxa":[
 "red kangaroo",
 "opossum",
 "koala"
 ],
-"exampleMember": "opossum",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Infraclass",
-"scientificName": "Marsupialia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Marsupial",
-"popularAncestors": [
+"exampleMember":"opossum",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraclass",
+"scientificName":"Marsupialia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Marsupial",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "ameridelphia",
 "australidelphia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 70,
 80

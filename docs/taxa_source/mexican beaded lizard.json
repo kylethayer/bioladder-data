@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Mexican beaded lizard",
-"parentTaxon": "heloderma",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Heloderma_alvarezi.jpg/220px-Heloderma_alvarezi.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mexican_beaded_lizard"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Mexican beaded lizard",
+"parentTaxon":"heloderma",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Heloderma_alvarezi.jpg/220px-Heloderma_alvarezi.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mexican_beaded_lizard"
 }

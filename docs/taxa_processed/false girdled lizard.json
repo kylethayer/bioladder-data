@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "False girdled lizard",
-"parentTaxon": "cordylidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hemicordylus capensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hemicordylus_capensis%2C_Hottentots-Holland_Mountains_-_South_Africa.jpg/220px-Hemicordylus_capensis%2C_Hottentots-Holland_Mountains_-_South_Africa.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hemicordylus_capensis",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"False girdled lizard",
+"parentTaxon":"cordylidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hemicordylus capensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hemicordylus_capensis%2C_Hottentots-Holland_Mountains_-_South_Africa.jpg/220px-Hemicordylus_capensis%2C_Hottentots-Holland_Mountains_-_South_Africa.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hemicordylus_capensis",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

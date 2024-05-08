@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Mouse-like hamster",
-"parentTaxon": "eumuroida",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Calomyscus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Calo10.jpg/220px-Calo10.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mouse-like_hamster",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Mouse-like hamster",
+"parentTaxon":"eumuroida",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Calomyscus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Calo10.jpg/220px-Calo10.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mouse-like_hamster",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

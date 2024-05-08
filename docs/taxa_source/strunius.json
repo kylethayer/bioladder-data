@@ -1,14 +1,14 @@
 {
-"name": "Strunius",
-"parentTaxon": "onychodontidae",
-"description": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"popularity": 10,
-"extinct": true,
-"exampleMember": "",
-"exampleMemberType": "",
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Strunius_rolandi.jpg/250px-Strunius_rolandi.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Strunius"
+"name":"Strunius",
+"parentTaxon":"onychodontidae",
+"description":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"popularity":10,
+"extinct":true,
+"exampleMember":"",
+"exampleMemberType":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Strunius_rolandi.jpg/250px-Strunius_rolandi.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Strunius"
 }

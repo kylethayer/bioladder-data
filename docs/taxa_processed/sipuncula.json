@@ -1,32 +1,32 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Sipuncula",
-"parentTaxon": "annelid",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Sipuncula",
+"parentTaxon":"annelid",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[
 "sipunculid worms",
 "peanut worms"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sipuncula.jpg/220px-Sipuncula.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sipuncula",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sipuncula.jpg/220px-Sipuncula.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sipuncula",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

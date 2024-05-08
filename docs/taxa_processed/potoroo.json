@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Potoroo",
-"parentTaxon": "potoroidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Potorous",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BroadFacedPotoroo.jpg/220px-BroadFacedPotoroo.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Potoroo",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Potoroo",
+"parentTaxon":"potoroidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Potorous",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BroadFacedPotoroo.jpg/220px-BroadFacedPotoroo.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Potoroo",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

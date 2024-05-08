@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Abelisaur",
-"parentTaxon": "neoceratosauria",
-"exampleMember": "noasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superfamily",
-"scientificName": "Abelisauria, Abelisauroidea",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Abelisaur"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Abelisaur",
+"parentTaxon":"neoceratosauria",
+"exampleMember":"noasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"Abelisauria, Abelisauroidea",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Abelisaur"
 }

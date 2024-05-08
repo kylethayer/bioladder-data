@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Therizinosaurus",
-"parentTaxon": "therizinosauridae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Therizinosaurus_6_by_johnson_mortimer-da8hjx0.jpg/220px-Therizinosaurus_6_by_johnson_mortimer-da8hjx0.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosaurus"
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Therizinosaurus",
+"parentTaxon":"therizinosauridae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Therizinosaurus_6_by_johnson_mortimer-da8hjx0.jpg/220px-Therizinosaurus_6_by_johnson_mortimer-da8hjx0.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosaurus"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Revueltosaurus",
-"parentTaxon": "suchia subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Revueltosaurus.jpg/330px-Revueltosaurus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Revueltosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Revueltosaurus",
+"parentTaxon":"suchia subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Revueltosaurus.jpg/330px-Revueltosaurus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Revueltosaurus"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Oceanic dolphin",
-"parentTaxon": "delphinoidea",
-"exampleMember": "bottlenose dolphin",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Delphinidae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Oceanic_dolphin"
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Oceanic dolphin",
+"parentTaxon":"delphinoidea",
+"exampleMember":"bottlenose dolphin",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Delphinidae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Oceanic_dolphin"
 }

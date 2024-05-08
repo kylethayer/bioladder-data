@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pygmy hippopotamus",
-"parentTaxon": "hippopotamidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Choeropsis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pygmy_hippopotamus_hungry.jpg/220px-Pygmy_hippopotamus_hungry.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Choeropsis",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pygmy hippopotamus",
+"parentTaxon":"hippopotamidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Choeropsis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pygmy_hippopotamus_hungry.jpg/220px-Pygmy_hippopotamus_hungry.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Choeropsis",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

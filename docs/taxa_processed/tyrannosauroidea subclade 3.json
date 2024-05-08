@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Tyrannosauroidea subclade 3",
-"parentTaxon": "tyrannosauroidea subclade 2",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Tyrannosauroidea subclade 3",
+"parentTaxon":"tyrannosauroidea subclade 2",
+"popularSubtaxa":[
 "zhuchengtyrannus",
 "xiongguanlong",
 "tyrannosaurus"
 ],
-"exampleMember": "xiongguanlong",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
-"popularAncestors": [
+"exampleMember":"xiongguanlong",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "tyrannosauroidea subclade 4",
 "xiongguanlong"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Dibatag",
-"parentTaxon": "antilopini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Ammodorcas clarkei",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/AmmodorcasClarkeiSmit.jpg/220px-AmmodorcasClarkeiSmit.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dibatag",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Dibatag",
+"parentTaxon":"antilopini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Ammodorcas clarkei",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/AmmodorcasClarkeiSmit.jpg/220px-AmmodorcasClarkeiSmit.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dibatag",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

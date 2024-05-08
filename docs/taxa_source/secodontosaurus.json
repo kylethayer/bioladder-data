@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Secodontosaurus",
-"parentTaxon": "sphenacodontinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Secodontosaurus_BW.jpg/220px-Secodontosaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Secodontosaurus"
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Secodontosaurus",
+"parentTaxon":"sphenacodontinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Secodontosaurus_BW.jpg/220px-Secodontosaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Secodontosaurus"
 }

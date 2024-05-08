@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Mixosaurus",
-"parentTaxon": "mixosauria",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mixosaurus_BW.jpg/220px-Mixosaurus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mixosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Mixosaurus",
+"parentTaxon":"mixosauria",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mixosaurus_BW.jpg/220px-Mixosaurus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mixosaurus"
 }

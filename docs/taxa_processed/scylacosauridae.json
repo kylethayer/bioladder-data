@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Scylacosauridae",
-"parentTaxon": "scylacosauria",
-"popularSubtaxa": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Scylacosauridae",
+"parentTaxon":"scylacosauria",
+"popularSubtaxa":[
 "pristerognathus",
 "scylacosaurus"
 ],
-"exampleMember": "pristerognathus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Scylacosauridae",
-"popularAncestors": [
+"exampleMember":"pristerognathus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Scylacosauridae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "pristerognathus",
 "scylacosaurus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

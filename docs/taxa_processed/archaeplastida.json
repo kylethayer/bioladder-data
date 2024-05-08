@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Archaeplastida",
-"parentTaxon": "bikonta subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Archaeplastida",
+"parentTaxon":"bikonta subclade 1",
+"popularSubtaxa":[
 "land plant",
 "grass",
 "onion"
 ],
-"exampleMember": "glaucophyte",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Archaeplastida",
-"popularAncestors": [
+"exampleMember":"glaucophyte",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Archaeplastida",
+"popularAncestors":[
 "bikonta",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "glaucophyte",
 "red algae",
 "viridiplantae"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 "",
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 95,
 80,
 80

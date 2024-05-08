@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Georgiacetus",
-"parentTaxon": "protocetidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Georgiacetus_BW.jpg/220px-Georgiacetus_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Georgiacetus",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Georgiacetus",
+"parentTaxon":"protocetidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Georgiacetus_BW.jpg/220px-Georgiacetus_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Georgiacetus",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

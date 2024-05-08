@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Deltadromeus",
-"parentTaxon": "neovenatoridae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deltadromeus31DB.jpg/220px-Deltadromeus31DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Deltadromeus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Deltadromeus",
+"parentTaxon":"neovenatoridae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deltadromeus31DB.jpg/220px-Deltadromeus31DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Deltadromeus"
 }

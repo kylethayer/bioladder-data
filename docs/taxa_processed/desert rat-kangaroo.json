@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Desert rat-kangaroo",
-"parentTaxon": "potoroidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Caloprymnus campestris",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caloprymnus.jpg/220px-Caloprymnus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Desert_rat-kangaroo",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Desert rat-kangaroo",
+"parentTaxon":"potoroidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Caloprymnus campestris",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caloprymnus.jpg/220px-Caloprymnus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Desert_rat-kangaroo",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

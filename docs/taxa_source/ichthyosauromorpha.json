@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Ichthyosauromorpha",
-"parentTaxon": "neodiapsida",
-"exampleMember": "hovasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ichthyosauromorpha"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Ichthyosauromorpha",
+"parentTaxon":"neodiapsida",
+"exampleMember":"hovasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ichthyosauromorpha"
 }

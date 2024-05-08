@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Pleuromeia",
-"parentTaxon": "lycopodiopsida subclade 5",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pleuromeia_sternbergi.jpg/220px-Pleuromeia_sternbergi.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pleuromeia",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Pleuromeia",
+"parentTaxon":"lycopodiopsida subclade 5",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pleuromeia_sternbergi.jpg/220px-Pleuromeia_sternbergi.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pleuromeia",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

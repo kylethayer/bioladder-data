@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eusauropoda subclade 4",
-"parentTaxon": "eusauropoda subclade 3",
-"exampleMember": "cetiosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eusauropoda"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eusauropoda subclade 4",
+"parentTaxon":"eusauropoda subclade 3",
+"exampleMember":"cetiosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eusauropoda"
 }

@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Platysaurus",
-"parentTaxon": "cordylidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Platysaurus",
+"parentTaxon":"cordylidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "Flat lizards"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Emperorflatlizard.jpg/220px-Emperorflatlizard.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Platysaurus",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Emperorflatlizard.jpg/220px-Emperorflatlizard.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Platysaurus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

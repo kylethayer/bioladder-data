@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Malagasy rats and mice",
-"parentTaxon": "nesomyidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "Nesomyinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Malagasy_Giant_Rat_%28Hypogeomys_antimena%29.jpg/220px-Malagasy_Giant_Rat_%28Hypogeomys_antimena%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nesomyinae",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Malagasy rats and mice",
+"parentTaxon":"nesomyidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"Nesomyinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Malagasy_Giant_Rat_%28Hypogeomys_antimena%29.jpg/220px-Malagasy_Giant_Rat_%28Hypogeomys_antimena%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nesomyinae",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

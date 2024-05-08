@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Voay",
-"parentTaxon": "osteolaeminae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Voay.jpg/220px-Voay.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Voay",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Voay",
+"parentTaxon":"osteolaeminae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Voay.jpg/220px-Voay.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Voay",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

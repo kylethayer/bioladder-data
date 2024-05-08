@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Deer mouse",
-"parentTaxon": "reithrodontomyini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Peromyscus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DiGangi-Deermouse.jpg/220px-DiGangi-Deermouse.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Peromyscus",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Deer mouse",
+"parentTaxon":"reithrodontomyini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Peromyscus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DiGangi-Deermouse.jpg/220px-DiGangi-Deermouse.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Peromyscus",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

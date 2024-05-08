@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Rodent",
-"parentTaxon": "glires",
-"exampleMember": "gundi",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Order",
-"scientificName": "Rodentia",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Rodent"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Rodent",
+"parentTaxon":"glires",
+"exampleMember":"gundi",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Rodentia",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Rodent"
 }

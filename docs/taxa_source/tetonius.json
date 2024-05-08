@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Tetonius",
-"parentTaxon": "omomyidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Anaptomorphus.jpg/220px-Anaptomorphus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Omomyidae"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tetonius",
+"parentTaxon":"omomyidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Anaptomorphus.jpg/220px-Anaptomorphus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Omomyidae"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 85,
-"extinct": false,
-"name": "Mouse",
-"parentTaxon": "murinae subclade 9",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/220px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mouse"
+"description":"",
+"popularity":85,
+"extinct":false,
+"name":"Mouse",
+"parentTaxon":"murinae subclade 9",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/220px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mouse"
 }

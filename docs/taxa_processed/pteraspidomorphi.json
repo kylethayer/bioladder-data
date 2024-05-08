@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pteraspidomorphi",
-"parentTaxon": "vertebrate subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "arandaspida",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pteraspidomorphi",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pteraspidomorphi",
+"parentTaxon":"vertebrate subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"arandaspida",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pteraspidomorphi",
+"popularAncestors":[
 "vertebrate",
 "chordate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "arandaspida"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

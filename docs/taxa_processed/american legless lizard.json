@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "American legless lizard",
-"parentTaxon": "anguioidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Anniella",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anniella_pulchra.jpg/220px-Anniella_pulchra.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/American_legless_lizard",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"American legless lizard",
+"parentTaxon":"anguioidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Anniella",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anniella_pulchra.jpg/220px-Anniella_pulchra.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/American_legless_lizard",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

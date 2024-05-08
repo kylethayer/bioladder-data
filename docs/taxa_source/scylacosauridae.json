@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Scylacosauridae",
-"parentTaxon": "scylacosauria",
-"exampleMember": "pristerognathus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Scylacosauridae"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Scylacosauridae",
+"parentTaxon":"scylacosauria",
+"exampleMember":"pristerognathus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Scylacosauridae"
 }

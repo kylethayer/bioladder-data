@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Brookesia",
-"parentTaxon": "acrodonta subclade 4",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brookesia.jpg/220px-Brookesia.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Brookesia"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Brookesia",
+"parentTaxon":"acrodonta subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brookesia.jpg/220px-Brookesia.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Brookesia"
 }

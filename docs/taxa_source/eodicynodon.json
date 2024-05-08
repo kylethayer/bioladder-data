@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Eodicynodon",
-"parentTaxon": "dicynodont",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eodicynodon_BW.jpg/220px-Eodicynodon_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eodicynodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Eodicynodon",
+"parentTaxon":"dicynodont",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eodicynodon_BW.jpg/220px-Eodicynodon_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eodicynodon"
 }

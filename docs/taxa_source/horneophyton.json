@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Horneophyton",
-"parentTaxon": "horneophytopsida",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Horneophyton.svg/220px-Horneophyton.svg.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Horneophyton"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Horneophyton",
+"parentTaxon":"horneophytopsida",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Horneophyton.svg/220px-Horneophyton.svg.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Horneophyton"
 }

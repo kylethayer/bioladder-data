@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Dinilysia",
-"parentTaxon": "ophidia",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dinilysia_NT.jpg/220px-Dinilysia_NT.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dinilysia",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Dinilysia",
+"parentTaxon":"ophidia",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dinilysia_NT.jpg/220px-Dinilysia_NT.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dinilysia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

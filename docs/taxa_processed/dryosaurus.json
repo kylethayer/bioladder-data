@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Dryosaurus",
-"parentTaxon": "dryosauridae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DryosaurusNV.jpg/220px-DryosaurusNV.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dryosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Dryosaurus",
+"parentTaxon":"dryosauridae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DryosaurusNV.jpg/220px-DryosaurusNV.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dryosaurus",
+"popularAncestors":[
 "iguanodontia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 20,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

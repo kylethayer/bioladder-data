@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Alligatorinae",
-"parentTaxon": "alligatoridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Alligatorinae",
+"parentTaxon":"alligatoridae",
+"popularSubtaxa":[
 "ceratosuchus",
 "allognathosuchus",
 "alligator"
 ],
-"exampleMember": "ceratosuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alligatorinae",
-"popularAncestors": [
+"exampleMember":"ceratosuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alligatorinae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "alligator",
 "allognathosuchus",
 "ceratosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 85

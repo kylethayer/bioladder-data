@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Goa",
-"parentTaxon": "procapra",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Procapra picticaudata",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Goa",
+"parentTaxon":"procapra",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Procapra picticaudata",
+"otherNames":[
 "Tibetan gazelle"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_book_of_antelopes_%281894%29_Gazella_picticaudata.png/220px-The_book_of_antelopes_%281894%29_Gazella_picticaudata.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Goa_%28antelope%29",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_book_of_antelopes_%281894%29_Gazella_picticaudata.png/220px-The_book_of_antelopes_%281894%29_Gazella_picticaudata.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Goa_%28antelope%29",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

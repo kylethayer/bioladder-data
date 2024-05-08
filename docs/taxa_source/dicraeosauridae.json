@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dicraeosauridae",
-"parentTaxon": "flagellicaudata",
-"exampleMember": "brachytrachelopan",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dicraeosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dicraeosauridae",
+"parentTaxon":"flagellicaudata",
+"exampleMember":"brachytrachelopan",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dicraeosauridae"
 }

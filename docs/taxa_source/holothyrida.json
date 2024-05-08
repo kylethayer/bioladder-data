@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Holothyrida",
-"parentTaxon": "parasitiformes",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Allothyridae.jpg/220px-Allothyridae.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Holothyrida"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Holothyrida",
+"parentTaxon":"parasitiformes",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Allothyridae.jpg/220px-Allothyridae.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Holothyrida"
 }

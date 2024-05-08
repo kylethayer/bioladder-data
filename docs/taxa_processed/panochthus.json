@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Panochthus",
-"parentTaxon": "glyptodontidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/PSM_V13_D154_Panochthus_tuberculatus.jpg/220px-PSM_V13_D154_Panochthus_tuberculatus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Panochthus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Panochthus",
+"parentTaxon":"glyptodontidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/PSM_V13_D154_Panochthus_tuberculatus.jpg/220px-PSM_V13_D154_Panochthus_tuberculatus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Panochthus",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

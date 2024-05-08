@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Mountain goat",
-"parentTaxon": "naemorhedini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Oreamnos americanus",
-"otherNames": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Mountain goat",
+"parentTaxon":"naemorhedini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Oreamnos americanus",
+"otherNames":[
 "Rocky Mountain goat"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mountain_Goat_Mount_Massive.JPG/220px-Mountain_Goat_Mount_Massive.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Mountain_goat",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mountain_Goat_Mount_Massive.JPG/220px-Mountain_Goat_Mount_Massive.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mountain_goat",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

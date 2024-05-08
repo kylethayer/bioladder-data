@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Helmeted iguana",
-"parentTaxon": "corytophanidae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Corytophanes_cristatus_%28Rara_Avis%29.jpg/220px-Corytophanes_cristatus_%28Rara_Avis%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Helmeted_iguana",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Helmeted iguana",
+"parentTaxon":"corytophanidae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Corytophanes_cristatus_%28Rara_Avis%29.jpg/220px-Corytophanes_cristatus_%28Rara_Avis%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Helmeted_iguana",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

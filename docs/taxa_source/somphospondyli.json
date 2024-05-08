@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Somphospondyli",
-"parentTaxon": "titanosauriformes",
-"exampleMember": "euhelopus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Macronaria"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Somphospondyli",
+"parentTaxon":"titanosauriformes",
+"exampleMember":"euhelopus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Macronaria"
 }

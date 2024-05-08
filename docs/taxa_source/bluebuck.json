@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": true,
-"name": "Bluebuck",
-"parentTaxon": "hippotragus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Hippotragus leucophaeus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_book_of_antelopes_%281894%29_Hippotragus_leucophaeus.png/220px-The_book_of_antelopes_%281894%29_Hippotragus_leucophaeus.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bluebuck"
+"description":"",
+"popularity":40,
+"extinct":true,
+"name":"Bluebuck",
+"parentTaxon":"hippotragus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Hippotragus leucophaeus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_book_of_antelopes_%281894%29_Hippotragus_leucophaeus.png/220px-The_book_of_antelopes_%281894%29_Hippotragus_leucophaeus.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bluebuck"
 }

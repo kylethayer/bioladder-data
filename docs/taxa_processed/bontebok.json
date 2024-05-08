@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Bontebok",
-"parentTaxon": "damaliscus pygargus",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subspecies",
-"scientificName": "Damaliscus pygargus pygarus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bontebok_Namibia.jpg/220px-Bontebok_Namibia.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bontebok",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Bontebok",
+"parentTaxon":"damaliscus pygargus",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Damaliscus pygargus pygarus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bontebok_Namibia.jpg/220px-Bontebok_Namibia.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bontebok",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

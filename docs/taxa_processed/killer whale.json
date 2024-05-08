@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 85,
-"extinct": false,
-"name": "Killer whale",
-"parentTaxon": "oceanic dolphin",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Orcinus",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/220px-Killerwhales_jumping.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Killer_whale",
-"popularAncestors": [
+"description":"",
+"popularity":85,
+"extinct":false,
+"name":"Killer whale",
+"parentTaxon":"oceanic dolphin",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Orcinus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/220px-Killerwhales_jumping.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Killer_whale",
+"popularAncestors":[
 "oceanic dolphin",
 "toothed whale",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

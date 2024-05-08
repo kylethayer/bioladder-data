@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tuco-tuco",
-"parentTaxon": "octodontoidea",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Ctenomys",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tinytuco.jpg/220px-Tinytuco.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tuco-tuco",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tuco-tuco",
+"parentTaxon":"octodontoidea",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Ctenomys",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tinytuco.jpg/220px-Tinytuco.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tuco-tuco",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

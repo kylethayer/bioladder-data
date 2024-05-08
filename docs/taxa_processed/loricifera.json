@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Loricifera",
-"parentTaxon": "ecdysozoa",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Phylum",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pliciloricus_enigmatus.jpg/220px-Pliciloricus_enigmatus.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Loricifera",
-"popularAncestors": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Loricifera",
+"parentTaxon":"ecdysozoa",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pliciloricus_enigmatus.jpg/220px-Pliciloricus_enigmatus.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Loricifera",
+"popularAncestors":[
 "protostomia",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

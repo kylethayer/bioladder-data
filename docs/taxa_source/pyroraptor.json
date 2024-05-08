@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pyroraptor",
-"parentTaxon": "dromaeosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyroraptor_olympius.jpg/170px-Pyroraptor_olympius.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pyroraptor"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pyroraptor",
+"parentTaxon":"dromaeosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyroraptor_olympius.jpg/170px-Pyroraptor_olympius.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pyroraptor"
 }

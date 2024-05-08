@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Metridiochoerus",
-"parentTaxon": "phacochoerini",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Metridiochoerus",
+"parentTaxon":"phacochoerini",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[
 "Giant warthog"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Metridiochoerus_BW.jpg/220px-Metridiochoerus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Metridiochoerus"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Metridiochoerus_BW.jpg/220px-Metridiochoerus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Metridiochoerus"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Spinoaequalis",
-"parentTaxon": "araeoscelidia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Spinoaequalis_schultzei_reconstruction.jpg/220px-Spinoaequalis_schultzei_reconstruction.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Spinoaequalis"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Spinoaequalis",
+"parentTaxon":"araeoscelidia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Spinoaequalis_schultzei_reconstruction.jpg/220px-Spinoaequalis_schultzei_reconstruction.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Spinoaequalis"
 }

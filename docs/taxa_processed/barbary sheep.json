@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Barbary sheep",
-"parentTaxon": "caprini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Ammotragus lervia",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Barbary_Sheep_Tennoji.jpg/220px-Barbary_Sheep_Tennoji.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Barbary_sheep",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Barbary sheep",
+"parentTaxon":"caprini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Ammotragus lervia",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Barbary_Sheep_Tennoji.jpg/220px-Barbary_Sheep_Tennoji.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Barbary_sheep",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

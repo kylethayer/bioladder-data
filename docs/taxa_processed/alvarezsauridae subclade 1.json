@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Alvarezsauridae subclade 1",
-"parentTaxon": "alvarezsauridae",
-"popularSubtaxa": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Alvarezsauridae subclade 1",
+"parentTaxon":"alvarezsauridae",
+"popularSubtaxa":[
 "patagonykus",
 "linhenykus",
 "shuvuuia"
 ],
-"exampleMember": "patagonykus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Alvarezsauridae",
-"popularAncestors": [
+"exampleMember":"patagonykus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Alvarezsauridae",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "parvicursorinae",
 "patagonykus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

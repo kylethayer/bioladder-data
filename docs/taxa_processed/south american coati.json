@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "South american coati",
-"parentTaxon": "coatis",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Nasua nasua",
-"otherNames": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"South american coati",
+"parentTaxon":"coatis",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Nasua nasua",
+"otherNames":[
 "Ring-tailed coati"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coati_roux_Amiens_4.jpg/220px-Coati_roux_Amiens_4.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/South_American_coati",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coati_roux_Amiens_4.jpg/220px-Coati_roux_Amiens_4.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/South_American_coati",
+"popularAncestors":[
 "coatis",
 "caniformia",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

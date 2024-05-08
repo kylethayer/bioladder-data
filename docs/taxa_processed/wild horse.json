@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Wild horse",
-"parentTaxon": "equus",
-"popularSubtaxa": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Wild horse",
+"parentTaxon":"equus",
+"popularSubtaxa":[
 "tarpan",
 "horse",
 "przewalski's horse"
 ],
-"exampleMember": "tarpan",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Species",
-"scientificName": "Equus ferus",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Wild_horse",
-"popularAncestors": [
+"exampleMember":"tarpan",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Species",
+"scientificName":"Equus ferus",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Wild_horse",
+"popularAncestors":[
 "equus",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "horse",
 "przewalski's horse",
 "tarpan"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 40,
 90,
 50

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Pareiasaurus",
-"parentTaxon": "velosauria sublade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pareiasaurus_serridens.jpg/220px-Pareiasaurus_serridens.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pareiasaurus",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Pareiasaurus",
+"parentTaxon":"velosauria sublade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pareiasaurus_serridens.jpg/220px-Pareiasaurus_serridens.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pareiasaurus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

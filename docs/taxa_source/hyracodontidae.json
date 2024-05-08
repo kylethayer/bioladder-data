@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Hyracodontidae",
-"parentTaxon": "rhinocerotoidea subclade 1",
-"exampleMember": "hyracodon",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Hyracodontidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Hyracodontidae",
+"parentTaxon":"rhinocerotoidea subclade 1",
+"exampleMember":"hyracodon",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hyracodontidae"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Cerapoda",
-"parentTaxon": "neornithischia subclade 2",
-"exampleMember": "hypsilophodon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Cerapoda"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Cerapoda",
+"parentTaxon":"neornithischia subclade 2",
+"exampleMember":"hypsilophodon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Cerapoda"
 }

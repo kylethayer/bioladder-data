@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Rock cavy",
-"parentTaxon": "hydrochoerinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Kerodon rupestris",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Rock cavy",
+"parentTaxon":"hydrochoerinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Kerodon rupestris",
+"otherNames":[
 "mocÃ³"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kerodon_rupestris.jpg/220px-Kerodon_rupestris.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Rock_cavy",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kerodon_rupestris.jpg/220px-Kerodon_rupestris.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rock_cavy",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

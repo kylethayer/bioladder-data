@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Pachycephalosauria subclade 3",
-"parentTaxon": "pachycephalosauria subclade 2",
-"exampleMember": "alaskacephale",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pachycephalosauria#Phylogeny"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Pachycephalosauria subclade 3",
+"parentTaxon":"pachycephalosauria subclade 2",
+"exampleMember":"alaskacephale",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pachycephalosauria#Phylogeny"
 }

@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Southwestern water vole",
-"parentTaxon": "arvicola",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Arvicola_sapidus_02_by-dpc.jpg/220px-Arvicola_sapidus_02_by-dpc.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Southwestern_water_vole",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Southwestern water vole",
+"parentTaxon":"arvicola",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Arvicola_sapidus_02_by-dpc.jpg/220px-Arvicola_sapidus_02_by-dpc.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Southwestern_water_vole",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

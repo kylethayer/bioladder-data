@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Amphibamus",
-"parentTaxon": "amphibamidae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amphibamus_BW.jpg/220px-Amphibamus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Amphibamus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Amphibamus",
+"parentTaxon":"amphibamidae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amphibamus_BW.jpg/220px-Amphibamus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Amphibamus"
 }

@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Crocodylus subclade 1",
-"parentTaxon": "crocodylus",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Crocodylus subclade 1",
+"parentTaxon":"crocodylus",
+"popularSubtaxa":[
 "crocodylus anthropophagus",
 "crocodylus thorbjarnarsoni"
 ],
-"exampleMember": "crocodylus anthropophagus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Crocodile",
-"popularAncestors": [
+"exampleMember":"crocodylus anthropophagus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
+"popularAncestors":[
 "crocodile",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "crocodylus anthropophagus",
 "crocodylus thorbjarnarsoni"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 80,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10
 ]

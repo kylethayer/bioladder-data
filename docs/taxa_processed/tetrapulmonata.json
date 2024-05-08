@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Tetrapulmonata",
-"parentTaxon": "pantetrapulmonata",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Tetrapulmonata",
+"parentTaxon":"pantetrapulmonata",
+"popularSubtaxa":[
 "thelyphonida",
 "schizomida",
 "spider"
 ],
-"exampleMember": "plesiosiro",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tetrapulmonata",
-"popularAncestors": [
+"exampleMember":"plesiosiro",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tetrapulmonata",
+"popularAncestors":[
 "arachnid",
 "arthropod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "schizotarsata",
 "serikodiastida"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 80

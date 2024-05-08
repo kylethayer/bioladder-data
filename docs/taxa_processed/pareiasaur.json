@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Pareiasaur",
-"parentTaxon": "pareiasauromorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Pareiasaur",
+"parentTaxon":"pareiasauromorpha",
+"popularSubtaxa":[
 "bradysaurus",
 "pareiasaurus",
 "scutosaurus"
 ],
-"exampleMember": "bradysaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Pareiasauridae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pareiasaur",
-"popularAncestors": [
+"exampleMember":"bradysaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Pareiasauridae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pareiasaur",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bradysaurus",
 "pareiasaur subclade 1"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 20,
 20

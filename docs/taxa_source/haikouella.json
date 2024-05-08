@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Haikouella",
-"parentTaxon": "olfactores",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haikouella.png/220px-Haikouella.png",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Haikouella"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Haikouella",
+"parentTaxon":"olfactores",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haikouella.png/220px-Haikouella.png",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Haikouella"
 }

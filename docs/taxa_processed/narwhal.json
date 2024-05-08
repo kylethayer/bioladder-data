@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Narwhal",
-"parentTaxon": "monodontidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Monodon",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Narwhals_breach.jpg/220px-Narwhals_breach.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Narwhal",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Narwhal",
+"parentTaxon":"monodontidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Monodon",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Narwhals_breach.jpg/220px-Narwhals_breach.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Narwhal",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

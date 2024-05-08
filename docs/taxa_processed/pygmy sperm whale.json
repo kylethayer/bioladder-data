@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Pygmy sperm whale",
-"parentTaxon": "kogiidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Kogia breviceps",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kogia_breviceps.jpg/220px-Kogia_breviceps.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Pygmy_sperm_whale",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Pygmy sperm whale",
+"parentTaxon":"kogiidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Kogia breviceps",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kogia_breviceps.jpg/220px-Kogia_breviceps.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Pygmy_sperm_whale",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

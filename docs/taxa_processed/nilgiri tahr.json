@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Nilgiri tahr",
-"parentTaxon": "caprini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Nilgiritragus hylocrius",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Nilgiri tahr",
+"parentTaxon":"caprini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Nilgiritragus hylocrius",
+"otherNames":[
 "Nilgiri ibex"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nilgiri_Tahr_Adult.jpg/220px-Nilgiri_Tahr_Adult.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nilgiri_tahr",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nilgiri_Tahr_Adult.jpg/220px-Nilgiri_Tahr_Adult.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nilgiri_tahr",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

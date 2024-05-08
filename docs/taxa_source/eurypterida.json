@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Eurypterida",
-"parentTaxon": "merostomata",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eurypterus_Smithsonian.jpg/220px-Eurypterus_Smithsonian.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Eurypterida"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Eurypterida",
+"parentTaxon":"merostomata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eurypterus_Smithsonian.jpg/220px-Eurypterus_Smithsonian.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Eurypterida"
 }

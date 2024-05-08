@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 40,
-"extinct": false,
-"name": "Ananas ananassoides",
-"parentTaxon": "ananas",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ananas_ananassoides_2.jpg/220px-Ananas_ananassoides_2.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Ananas_ananassoides"
+"description":"",
+"popularity":40,
+"extinct":false,
+"name":"Ananas ananassoides",
+"parentTaxon":"ananas",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ananas_ananassoides_2.jpg/220px-Ananas_ananassoides_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Ananas_ananassoides"
 }

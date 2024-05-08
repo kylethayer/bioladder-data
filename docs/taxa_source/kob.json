@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Kob",
-"parentTaxon": "kobus",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ugandan_kob_%28Kobus_kob_thomasi%29_male.jpg/220px-Ugandan_kob_%28Kobus_kob_thomasi%29_male.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Kob"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Kob",
+"parentTaxon":"kobus",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ugandan_kob_%28Kobus_kob_thomasi%29_male.jpg/220px-Ugandan_kob_%28Kobus_kob_thomasi%29_male.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kob"
 }

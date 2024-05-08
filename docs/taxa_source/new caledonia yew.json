@@ -1,16 +1,16 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "New caledonia yew",
-"parentTaxon": "taxaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Austrotaxus",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"New caledonia yew",
+"parentTaxon":"taxaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Austrotaxus",
+"otherNames":[
 "Southern Yew"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Austrotaxus_spicata.JPG/220px-Austrotaxus_spicata.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Austrotaxus"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Austrotaxus_spicata.JPG/220px-Austrotaxus_spicata.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Austrotaxus"
 }

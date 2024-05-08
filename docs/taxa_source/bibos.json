@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Bibos",
-"parentTaxon": "bos",
-"exampleMember": "gaur",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subgenus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Bos"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Bibos",
+"parentTaxon":"bos",
+"exampleMember":"gaur",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subgenus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Bos"
 }

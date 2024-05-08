@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Siamese crocodile",
-"parentTaxon": "crocodylus subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Crocodylus siamensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Siamese_Crocodiles.JPG/220px-Siamese_Crocodiles.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Siamese_crocodile"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Siamese crocodile",
+"parentTaxon":"crocodylus subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Crocodylus siamensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Siamese_Crocodiles.JPG/220px-Siamese_Crocodiles.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Siamese_crocodile"
 }

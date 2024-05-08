@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Weasel",
-"parentTaxon": "mustelinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Mustela",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/220px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Weasel",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Weasel",
+"parentTaxon":"mustelinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Mustela",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/220px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Weasel",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

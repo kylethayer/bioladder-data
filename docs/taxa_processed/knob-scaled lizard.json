@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Knob-scaled lizard",
-"parentTaxon": "neoanguimorpha subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Xenosaurus grandis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Xenosaurus_grandis.jpg/220px-Xenosaurus_grandis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Xenosaurus_grandis",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Knob-scaled lizard",
+"parentTaxon":"neoanguimorpha subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Xenosaurus grandis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Xenosaurus_grandis.jpg/220px-Xenosaurus_grandis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Xenosaurus_grandis",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

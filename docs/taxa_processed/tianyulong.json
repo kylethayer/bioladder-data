@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Tianyulong",
-"parentTaxon": "heterodontosauridae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tianyulong_BW.jpg/220px-Tianyulong_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tianyulong",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tianyulong",
+"parentTaxon":"heterodontosauridae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tianyulong_BW.jpg/220px-Tianyulong_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tianyulong",
+"popularAncestors":[
 "ornithischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

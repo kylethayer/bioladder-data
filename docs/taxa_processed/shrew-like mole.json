@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Shrew-like mole",
-"parentTaxon": "talpidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Uropsilinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Uropsilus1sm.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Shrew-like_moles",
-"popularAncestors": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Shrew-like mole",
+"parentTaxon":"talpidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Uropsilinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Uropsilus1sm.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Shrew-like_moles",
+"popularAncestors":[
 "insectivora",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

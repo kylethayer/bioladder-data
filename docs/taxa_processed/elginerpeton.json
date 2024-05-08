@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Elginerpeton",
-"parentTaxon": "stegocephalia subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elginerpeton_BW.jpg/220px-Elginerpeton_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Elginerpeton",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Elginerpeton",
+"parentTaxon":"stegocephalia subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elginerpeton_BW.jpg/220px-Elginerpeton_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Elginerpeton",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Gundi",
-"parentTaxon": "ctenodactyloidea",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Ctenodactylidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gundi_at_Helsinki_Zoo.jpg/220px-Gundi_at_Helsinki_Zoo.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Gundi"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Gundi",
+"parentTaxon":"ctenodactyloidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Ctenodactylidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gundi_at_Helsinki_Zoo.jpg/220px-Gundi_at_Helsinki_Zoo.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gundi"
 }

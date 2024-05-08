@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": true,
-"name": "Stahleckeria",
-"parentTaxon": "stahleckeriinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stahleckeria1DB.jpg/220px-Stahleckeria1DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stahleckeria"
+"description":"",
+"popularity":30,
+"extinct":true,
+"name":"Stahleckeria",
+"parentTaxon":"stahleckeriinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stahleckeria1DB.jpg/220px-Stahleckeria1DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stahleckeria"
 }

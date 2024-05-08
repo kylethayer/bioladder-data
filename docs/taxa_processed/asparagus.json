@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 60,
-"extinct": false,
-"name": "Asparagus",
-"parentTaxon": "asparagaceae sl subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/220px-Asparagus-Bundle.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Asparagus_%28genus%29",
-"popularAncestors": [
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Asparagus",
+"parentTaxon":"asparagaceae sl subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/220px-Asparagus-Bundle.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Asparagus_%28genus%29",
+"popularAncestors":[
 "flowering plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Paenungulata",
-"parentTaxon": "afrotheria",
-"exampleMember": "hyrax",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Paenungulata"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Paenungulata",
+"parentTaxon":"afrotheria",
+"exampleMember":"hyrax",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Paenungulata"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Pygmy hippopotamus",
-"parentTaxon": "hippopotamidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Choeropsis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pygmy_hippopotamus_hungry.jpg/220px-Pygmy_hippopotamus_hungry.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Choeropsis"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Pygmy hippopotamus",
+"parentTaxon":"hippopotamidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Choeropsis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pygmy_hippopotamus_hungry.jpg/220px-Pygmy_hippopotamus_hungry.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Choeropsis"
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Eutherocephalia subclade 2",
-"parentTaxon": "eutherocephalia subclade 1",
-"exampleMember": "ictidosuchoides",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eutherocephalia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Eutherocephalia subclade 2",
+"parentTaxon":"eutherocephalia subclade 1",
+"exampleMember":"ictidosuchoides",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eutherocephalia"
 }

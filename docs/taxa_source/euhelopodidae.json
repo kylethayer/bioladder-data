@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Euhelopodidae",
-"parentTaxon": "somphospondyli",
-"exampleMember": "euhelopus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Euhelopodidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Euhelopodidae",
+"parentTaxon":"somphospondyli",
+"exampleMember":"euhelopus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Euhelopodidae"
 }

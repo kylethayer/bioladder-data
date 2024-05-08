@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Zuniceratops",
-"parentTaxon": "coronosauria subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zuniceratops_BW.jpg/250px-Zuniceratops_BW.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Zuniceratops"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Zuniceratops",
+"parentTaxon":"coronosauria subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zuniceratops_BW.jpg/250px-Zuniceratops_BW.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Zuniceratops"
 }

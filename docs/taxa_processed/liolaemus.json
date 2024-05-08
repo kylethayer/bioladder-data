@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Liolaemus",
-"parentTaxon": "liolaemidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaldari_Liolaemus_tenuis_01.jpg/220px-Kaldari_Liolaemus_tenuis_01.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Liolaemus",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Liolaemus",
+"parentTaxon":"liolaemidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaldari_Liolaemus_tenuis_01.jpg/220px-Kaldari_Liolaemus_tenuis_01.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Liolaemus",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

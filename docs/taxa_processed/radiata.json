@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Radiata",
-"parentTaxon": "eumetazoa",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Radiata",
+"parentTaxon":"eumetazoa",
+"popularSubtaxa":[
 "jellyfish",
 "ctenophora"
 ],
-"exampleMember": "tribrachidium",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Unranked",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Radiata",
-"popularAncestors": [
+"exampleMember":"tribrachidium",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Radiata",
+"popularAncestors":[
 "animal",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "cnidaria",
 "ctenophora",
 "trilobozoa"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 95,
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 30
 ]

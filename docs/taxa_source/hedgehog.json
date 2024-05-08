@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 70,
-"extinct": false,
-"name": "Hedgehog",
-"parentTaxon": "erinaceidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subfamily",
-"scientificName": "Erinaceinae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Igel01.jpg/220px-Igel01.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Hedgehog"
+"description":"",
+"popularity":70,
+"extinct":false,
+"name":"Hedgehog",
+"parentTaxon":"erinaceidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subfamily",
+"scientificName":"Erinaceinae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Igel01.jpg/220px-Igel01.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Hedgehog"
 }

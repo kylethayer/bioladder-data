@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Kamacops",
-"parentTaxon": "eucacopinae subclade 1",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kamakops1DB.jpg/220px-Kamakops1DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Kamacops"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Kamacops",
+"parentTaxon":"eucacopinae subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kamakops1DB.jpg/220px-Kamakops1DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kamacops"
 }

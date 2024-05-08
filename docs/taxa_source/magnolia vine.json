@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Magnolia vine",
-"parentTaxon": "schisandraceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Schisandra",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schisandra_rubriflora.jpg/220px-Schisandra_rubriflora.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Schisandra"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Magnolia vine",
+"parentTaxon":"schisandraceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Schisandra",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schisandra_rubriflora.jpg/220px-Schisandra_rubriflora.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Schisandra"
 }

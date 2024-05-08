@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Therizinosaur",
-"parentTaxon": "maniraptora",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Therizinosaur",
+"parentTaxon":"maniraptora",
+"popularSubtaxa":[
 "falcarius",
 "neimongosaurus",
 "therizinosaurus"
 ],
-"exampleMember": "falcarius",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "Therizinosauria",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Therizinosauria",
-"popularAncestors": [
+"exampleMember":"falcarius",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"Therizinosauria",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Therizinosauria",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "falcarius",
 "therizinosauroidea"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 40

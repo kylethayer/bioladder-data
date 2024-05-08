@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Tree vole",
-"parentTaxon": "arvicolinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RedTreeVole23.jpg/220px-RedTreeVole23.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Tree_vole"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Tree vole",
+"parentTaxon":"arvicolinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RedTreeVole23.jpg/220px-RedTreeVole23.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tree_vole"
 }

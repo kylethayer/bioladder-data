@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sauropterygia",
-"parentTaxon": "pantestudines",
-"exampleMember": "paraplacodus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Superorder",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sauropterygia"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sauropterygia",
+"parentTaxon":"pantestudines",
+"exampleMember":"paraplacodus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sauropterygia"
 }

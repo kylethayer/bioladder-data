@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Deer",
-"parentTaxon": "pecora",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Cervidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/250px-Red_deer_stag_2009_denmark.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Deer",
-"popularAncestors": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Deer",
+"parentTaxon":"pecora",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Cervidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/250px-Red_deer_stag_2009_denmark.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Deer",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

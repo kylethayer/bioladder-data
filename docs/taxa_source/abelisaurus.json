@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Abelisaurus",
-"parentTaxon": "abelisauridae subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Abelisaurus_comahuensis_jmallon.jpg/220px-Abelisaurus_comahuensis_jmallon.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Abelisaurus"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Abelisaurus",
+"parentTaxon":"abelisauridae subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Abelisaurus_comahuensis_jmallon.jpg/220px-Abelisaurus_comahuensis_jmallon.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Abelisaurus"
 }

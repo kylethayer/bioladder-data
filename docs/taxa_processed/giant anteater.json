@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Giant anteater",
-"parentTaxon": "myrmecophagidae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Myrmecophaga",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Myresluger2.jpg/250px-Myresluger2.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Giant_anteater",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Giant anteater",
+"parentTaxon":"myrmecophagidae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Myrmecophaga",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Myresluger2.jpg/250px-Myresluger2.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Giant_anteater",
+"popularAncestors":[
 "anteater",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

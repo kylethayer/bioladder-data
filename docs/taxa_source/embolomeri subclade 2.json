@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Embolomeri subclade 2",
-"parentTaxon": "embolomeri subclade 1",
-"exampleMember": "archeria",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Embolomeri"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Embolomeri subclade 2",
+"parentTaxon":"embolomeri subclade 1",
+"exampleMember":"archeria",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Embolomeri"
 }

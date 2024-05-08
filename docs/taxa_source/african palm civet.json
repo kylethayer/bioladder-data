@@ -1,14 +1,14 @@
 {
-"name": "African palm civet",
-"parentTaxon": "feliformia",
-"description": "",
-"taxonomicRank": "Family",
-"scientificName": "Nandiniidae",
-"otherNames": [],
-"popularity": "",
-"extinct": false,
-"exampleMember": "",
-"exampleMemberType": "",
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nandinia_binotata%2C_Manchester_Museum.jpg/250px-Nandinia_binotata%2C_Manchester_Museum.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/African_palm_civet"
+"name":"African palm civet",
+"parentTaxon":"feliformia",
+"description":"",
+"taxonomicRank":"Family",
+"scientificName":"Nandiniidae",
+"otherNames":[],
+"popularity":"",
+"extinct":false,
+"exampleMember":"",
+"exampleMemberType":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nandinia_binotata%2C_Manchester_Museum.jpg/250px-Nandinia_binotata%2C_Manchester_Museum.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/African_palm_civet"
 }

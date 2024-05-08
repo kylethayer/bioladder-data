@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Anteosaurinae",
-"parentTaxon": "anteosauridae",
-"exampleMember": "sinophoneus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Subfamily",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Anteosaurinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Anteosaurinae",
+"parentTaxon":"anteosauridae",
+"exampleMember":"sinophoneus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Anteosaurinae"
 }

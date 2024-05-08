@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Darwinius",
-"parentTaxon": "strepsirrhini",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Darwiniusfig-s62cropped.jpg/170px-Darwiniusfig-s62cropped.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Darwinius",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Darwinius",
+"parentTaxon":"strepsirrhini",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Darwiniusfig-s62cropped.jpg/170px-Darwiniusfig-s62cropped.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Darwinius",
+"popularAncestors":[
 "primate",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Potoroidae",
-"parentTaxon": "macropodiformes",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Potoroidae",
+"parentTaxon":"macropodiformes",
+"popularSubtaxa":[
 "potoroo",
 "rufous rat-kangaroo",
 "desert rat-kangaroo"
 ],
-"exampleMember": "potoroo",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Potoroidae",
-"popularAncestors": [
+"exampleMember":"potoroo",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Potoroidae",
+"popularAncestors":[
 "marsupial",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bettong",
 "desert rat-kangaroo",
 "potoroo",
 "rufous rat-kangaroo"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 30,
 30,
 30

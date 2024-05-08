@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": "",
-"name": "Notosuchidae",
-"parentTaxon": "notosuchia subclade 3",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":"",
+"name":"Notosuchidae",
+"parentTaxon":"notosuchia subclade 3",
+"popularSubtaxa":[
 "notosuchus",
 "simosuchus",
 "mariliasuchus"
 ],
-"exampleMember": "notosuchus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Notosuchidae",
-"popularAncestors": [
+"exampleMember":"notosuchus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Notosuchidae",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [
+"subtaxa":[
 "notosuchidae subclade 1",
 "notosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 20,
 10

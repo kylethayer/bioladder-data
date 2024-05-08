@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": "",
-"name": "Comahuesuchus",
-"parentTaxon": "notosuchidae subclade 1",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comahuesuchus_BW.jpg/220px-Comahuesuchus_BW.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Comahuesuchus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":"",
+"name":"Comahuesuchus",
+"parentTaxon":"notosuchidae subclade 1",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comahuesuchus_BW.jpg/220px-Comahuesuchus_BW.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Comahuesuchus",
+"popularAncestors":[
 "notosuchus",
 "notosuchus",
 "notosuchus",
 "notosuchus"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 20,
 20,
 20,
 20
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

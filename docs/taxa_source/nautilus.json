@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Nautilus",
-"parentTaxon": "nautilaceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Family",
-"scientificName": "Nautilidae",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nautilus_Palau.JPG/220px-Nautilus_Palau.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Nautilus"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Nautilus",
+"parentTaxon":"nautilaceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Nautilidae",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nautilus_Palau.JPG/220px-Nautilus_Palau.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nautilus"
 }

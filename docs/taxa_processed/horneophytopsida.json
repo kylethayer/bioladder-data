@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Horneophytopsida",
-"parentTaxon": "polysporangiophyte",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Horneophytopsida",
+"parentTaxon":"polysporangiophyte",
+"popularSubtaxa":[
 "horneophyton",
 "tortilicaulis",
 "salopella"
 ],
-"exampleMember": "horneophyton",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Horneophytopsida",
-"popularAncestors": [
+"exampleMember":"horneophyton",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Horneophytopsida",
+"popularAncestors":[
 "land plant",
 "eukaryote",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "horneophyton",
 "salopella",
 "tortilicaulis"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 95,
 "",
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 10,
 10

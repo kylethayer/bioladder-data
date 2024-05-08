@@ -1,37 +1,37 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Chalicothere",
-"parentTaxon": "tapiromorpha",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Chalicothere",
+"parentTaxon":"tapiromorpha",
+"popularSubtaxa":[
 "moropus",
 "anisodon"
 ],
-"exampleMember": "moropus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Chalicotheriidae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Chalicothere",
-"popularAncestors": [
+"exampleMember":"moropus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Chalicotheriidae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Chalicothere",
+"popularAncestors":[
 "mammal",
 "amniote",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "anisodon",
 "moropus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 70,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 10,
 40
 ]

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Shrew opossum",
-"parentTaxon": "ameridelphia",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Order",
-"scientificName": "Paucituberculata",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HyracodonFuliginosusWolf.jpg/220px-HyracodonFuliginosusWolf.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Shrew_opossum"
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Shrew opossum",
+"parentTaxon":"ameridelphia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Paucituberculata",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HyracodonFuliginosusWolf.jpg/220px-HyracodonFuliginosusWolf.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Shrew_opossum"
 }

@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": 80,
-"extinct": false,
-"name": "Oceanic dolphin",
-"parentTaxon": "delphinoidea",
-"popularSubtaxa": [
+"description":"",
+"popularity":80,
+"extinct":false,
+"name":"Oceanic dolphin",
+"parentTaxon":"delphinoidea",
+"popularSubtaxa":[
 "bottlenose dolphin",
 "common dolphin",
 "killer whale"
 ],
-"exampleMember": "bottlenose dolphin",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "Delphinidae",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Oceanic_dolphin",
-"popularAncestors": [
+"exampleMember":"bottlenose dolphin",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"Delphinidae",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Oceanic_dolphin",
+"popularAncestors":[
 "toothed whale",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "bottlenose dolphin",
 "common dolphin",
 "killer whale",
 "pilot whale"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 80,
 70,
 85

@@ -1,31 +1,31 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Steppe lemming",
-"parentTaxon": "arvicolinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Lagurus lagurus",
-"otherNames": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Steppe lemming",
+"parentTaxon":"arvicolinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Lagurus lagurus",
+"otherNames":[
 "Steppe vole"
 ],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lagurus_lagurus.jpg/220px-Lagurus_lagurus.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Steppe_lemming",
-"popularAncestors": [
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lagurus_lagurus.jpg/220px-Lagurus_lagurus.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Steppe_lemming",
+"popularAncestors":[
 "rodent",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 70,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

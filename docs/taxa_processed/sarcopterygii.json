@@ -1,39 +1,39 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Sarcopterygii",
-"parentTaxon": "bony fish",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Sarcopterygii",
+"parentTaxon":"bony fish",
+"popularSubtaxa":[
 "lungfish",
 "human",
 "dinosaur"
 ],
-"exampleMember": "strunius",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Sarcopterygii",
-"popularAncestors": [
+"exampleMember":"strunius",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Sarcopterygii",
+"popularAncestors":[
 "bony fish",
 "vertebrate",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "actinistia",
 "onychodontidae",
 "rhipidistia"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 60,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 50,
 100,
 95

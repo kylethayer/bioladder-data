@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Sudamericidae",
-"parentTaxon": "allotheria",
-"exampleMember": "vintana",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Sudamericidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Sudamericidae",
+"parentTaxon":"allotheria",
+"exampleMember":"vintana",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Sudamericidae"
 }

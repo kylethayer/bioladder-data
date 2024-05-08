@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dicynodontoidea subclade 2",
-"parentTaxon": "dicynodontoidea subclade 1",
-"exampleMember": "lystrosaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Lystrosaurus"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dicynodontoidea subclade 2",
+"parentTaxon":"dicynodontoidea subclade 1",
+"exampleMember":"lystrosaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Lystrosaurus"
 }

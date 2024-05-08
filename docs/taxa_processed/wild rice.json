@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 65,
-"extinct": false,
-"name": "Wild rice",
-"parentTaxon": "zizaniinae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Zizania",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zizania_texana_%28Texas_wild_rice%29_FWS_20534.jpg/220px-Zizania_texana_%28Texas_wild_rice%29_FWS_20534.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Wild_rice",
-"popularAncestors": [
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Wild rice",
+"parentTaxon":"zizaniinae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Zizania",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zizania_texana_%28Texas_wild_rice%29_FWS_20534.jpg/220px-Zizania_texana_%28Texas_wild_rice%29_FWS_20534.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Wild_rice",
+"popularAncestors":[
 "grass",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 80,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

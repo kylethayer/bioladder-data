@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Eohippus",
-"parentTaxon": "equidae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hyracotherium_Eohippus_hharder.jpg/220px-Hyracotherium_Eohippus_hharder.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Eohippus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Eohippus",
+"parentTaxon":"equidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hyracotherium_Eohippus_hharder.jpg/220px-Hyracotherium_Eohippus_hharder.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eohippus"
 }

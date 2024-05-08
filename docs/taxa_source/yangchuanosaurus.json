@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Yangchuanosaurus",
-"parentTaxon": "metriacanthosauridae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yanchuanosaurus1.jpg/220px-Yanchuanosaurus1.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Yangchuanosaurus"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Yangchuanosaurus",
+"parentTaxon":"metriacanthosauridae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yanchuanosaurus1.jpg/220px-Yanchuanosaurus1.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Yangchuanosaurus"
 }

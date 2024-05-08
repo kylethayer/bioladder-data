@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": false,
-"name": "Suchia",
-"parentTaxon": "pseudosuchia",
-"popularSubtaxa": [
+"description":"",
+"popularity":20,
+"extinct":false,
+"name":"Suchia",
+"parentTaxon":"pseudosuchia",
+"popularSubtaxa":[
 "typothorax",
 "alligator",
 "crocodile"
 ],
-"exampleMember": "gracilisuchus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Suchia",
-"popularAncestors": [
+"exampleMember":"gracilisuchus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Suchia",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "gracilisuchus",
 "suchia subclade 1",
 "suchia subclade 2",
 "turfanosuchus"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 20,
 85,
 80

@@ -1,38 +1,38 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Conifer subclade 2",
-"parentTaxon": "conifer subclade 1",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Conifer subclade 2",
+"parentTaxon":"conifer subclade 1",
+"popularSubtaxa":[
 "redwood",
 "juniper",
 "wollemia"
 ],
-"exampleMember": "sciadopitys",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pinophyta",
-"popularAncestors": [
+"exampleMember":"sciadopitys",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pinophyta",
+"popularAncestors":[
 "conifer",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "conifer subclade 3",
 "conifer subclade 4"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 55,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 65,
 60,
 50

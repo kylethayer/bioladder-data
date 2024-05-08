@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Thyreophora",
-"parentTaxon": "genasauria",
-"exampleMember": "lesothosaurus",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Thyreophora"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Thyreophora",
+"parentTaxon":"genasauria",
+"exampleMember":"lesothosaurus",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Thyreophora"
 }

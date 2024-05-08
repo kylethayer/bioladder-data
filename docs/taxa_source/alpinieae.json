@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Alpinieae",
-"parentTaxon": "alpinioideae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Tribe",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alpinia_zerumbet_3.jpg/220px-Alpinia_zerumbet_3.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Zingiberaceae"
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Alpinieae",
+"parentTaxon":"alpinioideae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Tribe",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alpinia_zerumbet_3.jpg/220px-Alpinia_zerumbet_3.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zingiberaceae"
 }

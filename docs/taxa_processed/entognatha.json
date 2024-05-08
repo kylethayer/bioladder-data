@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": false,
-"name": "Entognatha",
-"parentTaxon": "hexapoda",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Class",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/220px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Entognatha",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":false,
+"name":"Entognatha",
+"parentTaxon":"hexapoda",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/220px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Entognatha",
+"popularAncestors":[
 "arthropod",
 "animal",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Dicraeosauridae subclade 1",
-"parentTaxon": "dicraeosauridae",
-"exampleMember": "amargasaurus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dicraeosauridae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Dicraeosauridae subclade 1",
+"parentTaxon":"dicraeosauridae",
+"exampleMember":"amargasaurus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dicraeosauridae"
 }

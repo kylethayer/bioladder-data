@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 55,
-"extinct": false,
-"name": "Star anise",
-"parentTaxon": "schisandraceae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Illicium_henryi_%281%29.jpg/220px-Illicium_henryi_%281%29.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Illicium"
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Star anise",
+"parentTaxon":"schisandraceae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Illicium_henryi_%281%29.jpg/220px-Illicium_henryi_%281%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Illicium"
 }

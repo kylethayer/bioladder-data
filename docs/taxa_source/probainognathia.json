@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Probainognathia",
-"parentTaxon": "eucynodontia",
-"exampleMember": "lumkuia",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Probainognathia"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Probainognathia",
+"parentTaxon":"eucynodontia",
+"exampleMember":"lumkuia",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Probainognathia"
 }

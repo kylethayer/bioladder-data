@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Pseudovanilla",
-"parentTaxon": "vanilleae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pseudovanilla_foliata.jpg/220px-Pseudovanilla_foliata.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pseudovanilla"
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Pseudovanilla",
+"parentTaxon":"vanilleae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pseudovanilla_foliata.jpg/220px-Pseudovanilla_foliata.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pseudovanilla"
 }

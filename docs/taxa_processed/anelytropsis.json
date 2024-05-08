@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 30,
-"extinct": false,
-"name": "Anelytropsis",
-"parentTaxon": "squamata",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Anelytropsis.jpg/220px-Anelytropsis.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Dibamidae",
-"popularAncestors": [
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Anelytropsis",
+"parentTaxon":"squamata",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Anelytropsis.jpg/220px-Anelytropsis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dibamidae",
+"popularAncestors":[
 "amniote",
 "tetrapod",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 50,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

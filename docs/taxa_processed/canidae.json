@@ -1,40 +1,40 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Canidae",
-"parentTaxon": "caniformia",
-"popularSubtaxa": [
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Canidae",
+"parentTaxon":"caniformia",
+"popularSubtaxa":[
 "dog",
 "fox",
 "wolf"
 ],
-"exampleMember": "hesperocyon",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Canidae",
-"popularAncestors": [
+"exampleMember":"hesperocyon",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Canidae",
+"popularAncestors":[
 "caniformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa": [
+"subtaxa":[
 "borophagus",
 "caninae",
 "fox",
 "hesperocyon"
 ],
-"popularAncestorPops": [
+"popularAncestorPops":[
 50,
 60,
 95,
 100
 ],
-"popularSubtaxaPops": [
+"popularSubtaxaPops":[
 91,
 75,
 75

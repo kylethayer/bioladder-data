@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Troodontidae",
-"parentTaxon": "eumaniraptora subclade 1",
-"exampleMember": "anchiornis",
-"exampleMemberType": "Early Member",
-"taxonomicRank": "Family",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Troodontidae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Troodontidae",
+"parentTaxon":"eumaniraptora subclade 1",
+"exampleMember":"anchiornis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Troodontidae"
 }

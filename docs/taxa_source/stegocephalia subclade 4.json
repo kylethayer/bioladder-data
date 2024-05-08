@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Stegocephalia subclade 4",
-"parentTaxon": "stegocephalia subclade 3",
-"exampleMember": "ichthyostega",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Stegocephalia subclade 4",
+"parentTaxon":"stegocephalia subclade 3",
+"exampleMember":"ichthyostega",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia"
 }

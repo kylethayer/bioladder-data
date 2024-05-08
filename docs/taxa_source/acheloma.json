@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Acheloma",
-"parentTaxon": "trematopidae subclade 2",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Acheloma_12DB.jpg/220px-Acheloma_12DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Acheloma"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Acheloma",
+"parentTaxon":"trematopidae subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Acheloma_12DB.jpg/220px-Acheloma_12DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Acheloma"
 }

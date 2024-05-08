@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Aulacocephalodon",
-"parentTaxon": "geikiinae",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aulacocephalodon12DB.jpg/220px-Aulacocephalodon12DB.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Aulacephalodon"
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Aulacocephalodon",
+"parentTaxon":"geikiinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aulacocephalodon12DB.jpg/220px-Aulacocephalodon12DB.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aulacephalodon"
 }

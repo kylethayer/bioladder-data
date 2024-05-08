@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Somali wild ass",
-"parentTaxon": "wild asses subclade 3",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Subspecies",
-"scientificName": "Equus africanus somaliensis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Somali_Wild_Ass.JPG/220px-Somali_Wild_Ass.JPG",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Somali_wild_ass",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Somali wild ass",
+"parentTaxon":"wild asses subclade 3",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Equus africanus somaliensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Somali_Wild_Ass.JPG/220px-Somali_Wild_Ass.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Somali_wild_ass",
+"popularAncestors":[
 "wild asses",
 "mammal",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

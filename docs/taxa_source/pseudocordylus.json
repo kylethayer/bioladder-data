@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": false,
-"name": "Pseudocordylus",
-"parentTaxon": "cordylidae",
-"exampleMember": "lang's crag lizard",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Pseudocordylus"
+"description":"",
+"popularity":"",
+"extinct":false,
+"name":"Pseudocordylus",
+"parentTaxon":"cordylidae",
+"exampleMember":"lang's crag lizard",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Pseudocordylus"
 }

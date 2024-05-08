@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": "",
-"extinct": true,
-"name": "Polacanthinae subclade 1",
-"parentTaxon": "polacanthinae",
-"exampleMember": "polacanthus",
-"exampleMemberType": "Example Member",
-"taxonomicRank": "Unnamed Clade",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Polacanthinae"
+"description":"",
+"popularity":"",
+"extinct":true,
+"name":"Polacanthinae subclade 1",
+"parentTaxon":"polacanthinae",
+"exampleMember":"polacanthus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polacanthinae"
 }

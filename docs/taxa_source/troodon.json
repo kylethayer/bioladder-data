@@ -1,14 +1,14 @@
 {
-"description": "",
-"popularity": 20,
-"extinct": true,
-"name": "Troodon",
-"parentTaxon": "troodontidae subclade 3",
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Troodon-inequalis-by-Midiaou.png/220px-Troodon-inequalis-by-Midiaou.png",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Troodon"
+"description":"",
+"popularity":20,
+"extinct":true,
+"name":"Troodon",
+"parentTaxon":"troodontidae subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Troodon-inequalis-by-Midiaou.png/220px-Troodon-inequalis-by-Midiaou.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Troodon"
 }

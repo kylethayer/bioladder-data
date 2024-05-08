@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 50,
-"extinct": false,
-"name": "Quillwort",
-"parentTaxon": "isoetaceae",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Genus",
-"scientificName": "Isoetes",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Illustration_Isoetes_lacustris0.jpg/220px-Illustration_Isoetes_lacustris0.jpg",
-"wikipediaPage": "https://en.wikipedia.org/wiki/Isoetes",
-"popularAncestors": [
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Quillwort",
+"parentTaxon":"isoetaceae",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"Isoetes",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Illustration_Isoetes_lacustris0.jpg/220px-Illustration_Isoetes_lacustris0.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Isoetes",
+"popularAncestors":[
 "vascular plant",
 "land plant",
 "cellular life",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 50,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }

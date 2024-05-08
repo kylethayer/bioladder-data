@@ -1,29 +1,29 @@
 {
-"description": "",
-"popularity": 10,
-"extinct": true,
-"name": "Dryptosaurus",
-"parentTaxon": "tyrannosauroidea subclade 2",
-"popularSubtaxa": [],
-"exampleMember": "",
-"exampleMemberType": "",
-"taxonomicRank": "Species",
-"scientificName": "Dryptosaurus aquilunguis",
-"otherNames": [],
-"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dryptosaurus_by_Durbed.jpg/220px-Dryptosaurus_by_Durbed.jpg",
-"wikipediaPage": "http://en.wikipedia.org/wiki/Dryptosaurus",
-"popularAncestors": [
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Dryptosaurus",
+"parentTaxon":"tyrannosauroidea subclade 2",
+"popularSubtaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Dryptosaurus aquilunguis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dryptosaurus_by_Durbed.jpg/220px-Dryptosaurus_by_Durbed.jpg",
+"wikipediaPage":"http://en.wikipedia.org/wiki/Dryptosaurus",
+"popularAncestors":[
 "saurischia",
 "dinosaur",
 "animal",
 "life"
 ],
-"subtaxa": [],
-"popularAncestorPops": [
+"subtaxa":[],
+"popularAncestorPops":[
 40,
 95,
 95,
 100
 ],
-"popularSubtaxaPops": []
+"popularSubtaxaPops":[]
 }
