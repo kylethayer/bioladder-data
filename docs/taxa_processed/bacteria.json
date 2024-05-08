@@ -12,16 +12,15 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/200px-E._coli_Bacteria_%287316101966%29.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Bacteria",
 "subtaxa":[],
-"needs_to_be_processed":true,
 "popularAncestorPops":[
-null,
-null,
-null,
-null
+50,
+100,
+"",
+""
 ],
 "popularAncestors":[
-null,
-null,
+"cellular life",
+"life",
 null,
 null
 ],

@@ -5,9 +5,9 @@
 "name":"Panthera",
 "parentTaxon":"pantherinae",
 "popularSubtaxa":[
-"Tiger",
-"Lion",
-"Snow leopard"
+"lion",
+"tiger",
+"snow leopard"
 ],
 "exampleMember":"snow leopard",
 "exampleMemberType":"Basal Member",
@@ -17,17 +17,16 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Panthera",
 "popularAncestors":[
-"Feliformia",
-"Carnivora",
-"Animal",
-"Life"
+"feliformia",
+"carnivora",
+"animal",
+"life"
 ],
 "subtaxa":[
 "panthera subclade 1",
 "panthera subclade 2",
 "snow leopard"
 ],
-"needs_to_be_processed":true,
 "popularAncestorPops":[
 50,
 60,

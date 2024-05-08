@@ -258,9 +258,9 @@ while len(taxaForProcessing.keys())> 0:
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
     taxonInfoString = json.dumps(taxaInfo[taxonName.lower()], separators=(',', ':'), indent=0, ensure_ascii=False)
-    # f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
-    # f.write(taxonInfoString)
-    # f.close()
+    f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
+    f.write(taxonInfoString)
+    f.close()
 
 # TODO: update taxon_list.json and taxon_parent_summary.json
 # Note: Taxon search could use a csv that has taxon name, other names, scientific name, and popularity

@@ -19,18 +19,17 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Typha-cattails-in-indiana.jpg/220px-Typha-cattails-in-indiana.jpg",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Typha",
 "subtaxa":[],
-"needs_to_be_processed":true,
 "popularAncestorPops":[
-null,
-null,
-null,
-null
+40,
+95,
+50,
+100
 ],
 "popularAncestors":[
-null,
-null,
-null,
-null
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
 ],
 "popularSubtaxa":[],
 "popularSubtaxaPops":[]
