@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Poephagus","parentTaxon":"bos","popularSubtaxa":["wild yak","domestic yak"],"exampleMember":"wild yak","exampleMemberType":"Example Member","taxonomicRank":"Subgenus","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Bos","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["domestic yak","wild yak"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Poephagus",
+"parentTaxon": "bos",
+"popularSubtaxa": [
+"wild yak",
+"domestic yak"
+],
+"exampleMember": "wild yak",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subgenus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Bos",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"domestic yak",
+"wild yak"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Pentaceratops","parentTaxon":"chasmosaurinae subclade 3","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentaceratops_dinosaur.png/220px-Pentaceratops_dinosaur.png","wikipediaPage":"http://en.wikipedia.org/wiki/Pentaceratops"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Pentaceratops",
+"parentTaxon": "chasmosaurinae subclade 3",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentaceratops_dinosaur.png/220px-Pentaceratops_dinosaur.png",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Pentaceratops"
+}

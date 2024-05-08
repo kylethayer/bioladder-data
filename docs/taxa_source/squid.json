@@ -1,1 +1,14 @@
-{"description":"","popularity":70,"extinct":false,"name":"Squid","parentTaxon":"decapodiformes","exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"Teuthida","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grimalditeuthis_bonplandi.jpg/220px-Grimalditeuthis_bonplandi.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Squid"}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Squid",
+"parentTaxon": "decapodiformes",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "Teuthida",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grimalditeuthis_bonplandi.jpg/220px-Grimalditeuthis_bonplandi.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Squid"
+}

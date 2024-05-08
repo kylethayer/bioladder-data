@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Centrosaurinae","parentTaxon":"ceratopsidae","popularSubtaxa":["pachyrhinosaurus","diabloceratops","styracosaurus"],"exampleMember":"diabloceratops","exampleMemberType":"Early Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Centrosaurinae","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["centrosaurinae subclade 1","diabloceratops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Centrosaurinae",
+"parentTaxon": "ceratopsidae",
+"popularSubtaxa": [
+"pachyrhinosaurus",
+"diabloceratops",
+"styracosaurus"
+],
+"exampleMember": "diabloceratops",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Centrosaurinae",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"centrosaurinae subclade 1",
+"diabloceratops"
+]
+}

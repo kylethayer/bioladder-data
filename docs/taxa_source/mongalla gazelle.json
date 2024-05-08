@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Mongalla gazelle","parentTaxon":"eudorcas","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Eudorcas albonotata","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eudorcas_albonotata_head.jpg/220px-Eudorcas_albonotata_head.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Mongalla_gazelle"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Mongalla gazelle",
+"parentTaxon": "eudorcas",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Eudorcas albonotata",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eudorcas_albonotata_head.jpg/220px-Eudorcas_albonotata_head.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Mongalla_gazelle"
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":91,"extinct":false,"name":"Dog","parentTaxon":"canis lupus","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Subspecies","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/260px-YellowLabradorLooking_new.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Dog","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 91,
+"extinct": false,
+"name": "Dog",
+"parentTaxon": "canis lupus",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subspecies",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/260px-YellowLabradorLooking_new.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Dog",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

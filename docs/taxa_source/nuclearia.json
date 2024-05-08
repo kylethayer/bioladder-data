@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":false,"name":"Nuclearia","parentTaxon":"nucleariid","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nuclearia_sp_Nikko.jpg/220px-Nuclearia_sp_Nikko.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Nuclearia"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Nuclearia",
+"parentTaxon": "nucleariid",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nuclearia_sp_Nikko.jpg/220px-Nuclearia_sp_Nikko.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Nuclearia"
+}

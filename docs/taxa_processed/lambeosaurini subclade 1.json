@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Lambeosaurini subclade 1","parentTaxon":"lambeosaurini","popularSubtaxa":["corythosaurus","olorotitan","velafrons"],"exampleMember":"corythosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lambeosaurini","popularAncestors":["hadrosaurid","dinosaur","animal","life"],"subtaxa":["corythosaurus","lambeosaurini subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Lambeosaurini subclade 1",
+"parentTaxon": "lambeosaurini",
+"popularSubtaxa": [
+"corythosaurus",
+"olorotitan",
+"velafrons"
+],
+"exampleMember": "corythosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lambeosaurini",
+"popularAncestors": [
+"hadrosaurid",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"corythosaurus",
+"lambeosaurini subclade 2"
+]
+}

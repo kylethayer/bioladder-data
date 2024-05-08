@@ -1,1 +1,24 @@
-{"description":"","popularity":50,"extinct":false,"name":"Ananas bracteatus","parentTaxon":"ananas","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":["red pineapple"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ananas_bracteatus%2C_Dole_Pineapple_Plantation%2C_Oahu%2C_Hawaii%2C_USA2.jpg/220px-Ananas_bracteatus%2C_Dole_Pineapple_Plantation%2C_Oahu%2C_Hawaii%2C_USA2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Ananas_bracteatus","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Ananas bracteatus",
+"parentTaxon": "ananas",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [
+"red pineapple"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ananas_bracteatus%2C_Dole_Pineapple_Plantation%2C_Oahu%2C_Hawaii%2C_USA2.jpg/220px-Ananas_bracteatus%2C_Dole_Pineapple_Plantation%2C_Oahu%2C_Hawaii%2C_USA2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ananas_bracteatus",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

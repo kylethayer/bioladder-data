@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Hupehsuchia","parentTaxon":"ichthyosauromorpha","popularSubtaxa":["hupehsuchus","polydactylous"],"exampleMember":"hupehsuchus","exampleMemberType":"Example Member","taxonomicRank":"Order","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hupehsuchia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["hupehsuchus","polydactylous"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hupehsuchia",
+"parentTaxon": "ichthyosauromorpha",
+"popularSubtaxa": [
+"hupehsuchus",
+"polydactylous"
+],
+"exampleMember": "hupehsuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hupehsuchia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"hupehsuchus",
+"polydactylous"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Aardonyx","parentTaxon":"anchisauria subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Aardonyx_NT.jpg/220px-Aardonyx_NT.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Aardonyx"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Aardonyx",
+"parentTaxon": "anchisauria subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Aardonyx_NT.jpg/220px-Aardonyx_NT.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aardonyx"
+}

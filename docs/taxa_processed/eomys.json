@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":true,"name":"Eomys","parentTaxon":"geomorpha","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eomys_BW.jpg/220px-Eomys_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Eomys","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": true,
+"name": "Eomys",
+"parentTaxon": "geomorpha",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eomys_BW.jpg/220px-Eomys_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eomys",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

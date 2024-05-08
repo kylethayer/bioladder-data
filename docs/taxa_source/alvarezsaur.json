@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Alvarezsaur","parentTaxon":"maniraptora","exampleMember":"haplocheirus","exampleMemberType":"Early Member","taxonomicRank":"Clade","scientificName":"Alvarezsauria","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Alvarezsaur"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Alvarezsaur",
+"parentTaxon": "maniraptora",
+"exampleMember": "haplocheirus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Clade",
+"scientificName": "Alvarezsauria",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Alvarezsaur"
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Bat-eared fox","parentTaxon":"caninae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Otocyon megalotis","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bat_eared_fox_Kenya_crop.jpg/220px-Bat_eared_fox_Kenya_crop.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Bat-eared_fox"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Bat-eared fox",
+"parentTaxon": "caninae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Otocyon megalotis",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bat_eared_fox_Kenya_crop.jpg/220px-Bat_eared_fox_Kenya_crop.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Bat-eared_fox"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Avetheropoda","parentTaxon":"orionides","popularSubtaxa":["allosaurus","bird","tyrannosaurus"],"exampleMember":"dilong","exampleMemberType":"Early Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Avetheropoda","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["carnosauria","coelurosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Avetheropoda",
+"parentTaxon": "orionides",
+"popularSubtaxa": [
+"allosaurus",
+"bird",
+"tyrannosaurus"
+],
+"exampleMember": "dilong",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Avetheropoda",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"carnosauria",
+"coelurosauria"
+]
+}

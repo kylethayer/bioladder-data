@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Dinogorgon","parentTaxon":"rubidgeini","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dinogorgon092.jpg/220px-Dinogorgon092.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dinogorgon"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Dinogorgon",
+"parentTaxon": "rubidgeini",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dinogorgon092.jpg/220px-Dinogorgon092.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dinogorgon"
+}

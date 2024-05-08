@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Nodosauridae subclade 1","parentTaxon":"nodosauridae","exampleMember":"gargoyleosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Nodosauridae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Nodosauridae subclade 1",
+"parentTaxon": "nodosauridae",
+"exampleMember": "gargoyleosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nodosauridae"
+}

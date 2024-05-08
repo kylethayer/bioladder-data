@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Arabian tahr","parentTaxon":"caprini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stuffed_Arabian_Tahr.jpg/220px-Stuffed_Arabian_Tahr.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Arabian_tahr","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Arabian tahr",
+"parentTaxon": "caprini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stuffed_Arabian_Tahr.jpg/220px-Stuffed_Arabian_Tahr.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Arabian_tahr",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

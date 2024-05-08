@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Alvarezsauridae subclade 1","parentTaxon":"alvarezsauridae","exampleMember":"patagonykus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Alvarezsauridae"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Alvarezsauridae subclade 1",
+"parentTaxon": "alvarezsauridae",
+"exampleMember": "patagonykus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Alvarezsauridae"
+}

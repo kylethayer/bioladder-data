@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Suzhousaurus","parentTaxon":"therizinosauridae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suzhousaurus.JPG/220px-Suzhousaurus.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Suzhousaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Suzhousaurus",
+"parentTaxon": "therizinosauridae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suzhousaurus.JPG/220px-Suzhousaurus.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Suzhousaurus"
+}

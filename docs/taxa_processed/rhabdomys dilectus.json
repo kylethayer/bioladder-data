@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Rhabdomys dilectus","parentTaxon":"rhabdomys","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Muridae_-_Rhabdomys_dilectus.JPG/220px-Muridae_-_Rhabdomys_dilectus.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Rhabdomys_dilectus","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Rhabdomys dilectus",
+"parentTaxon": "rhabdomys",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Muridae_-_Rhabdomys_dilectus.JPG/220px-Muridae_-_Rhabdomys_dilectus.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rhabdomys_dilectus",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

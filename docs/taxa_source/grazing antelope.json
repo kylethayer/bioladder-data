@@ -1,1 +1,14 @@
-{"description":"","popularity":55,"extinct":false,"name":"Grazing antelope","parentTaxon":"aegodontia subclade 2","exampleMember":"addax","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"Hippotraginae","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Grazing_antelope"}
+{
+"description": "",
+"popularity": 55,
+"extinct": false,
+"name": "Grazing antelope",
+"parentTaxon": "aegodontia subclade 2",
+"exampleMember": "addax",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "Hippotraginae",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Grazing_antelope"
+}

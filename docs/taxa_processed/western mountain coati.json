@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":false,"name":"Western mountain coati","parentTaxon":"coatis subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Nasuella olivacea","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ulisse_Aldrovandi_-_Mountain_Coati.jpg/220px-Ulisse_Aldrovandi_-_Mountain_Coati.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Western_mountain_coati","popularAncestors":["coatis","caniformia","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Western mountain coati",
+"parentTaxon": "coatis subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Nasuella olivacea",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ulisse_Aldrovandi_-_Mountain_Coati.jpg/220px-Ulisse_Aldrovandi_-_Mountain_Coati.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Western_mountain_coati",
+"popularAncestors": [
+"coatis",
+"caniformia",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Dicynodont subclade 2","parentTaxon":"dicynodont subclade 1","popularSubtaxa":["pristerodon","zambiasaurus","stahleckeria"],"exampleMember":"pristerodon","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Dicynodont","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":["pristerodon","therochelonia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dicynodont subclade 2",
+"parentTaxon": "dicynodont subclade 1",
+"popularSubtaxa": [
+"pristerodon",
+"zambiasaurus",
+"stahleckeria"
+],
+"exampleMember": "pristerodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dicynodont",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"pristerodon",
+"therochelonia"
+]
+}

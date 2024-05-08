@@ -1,1 +1,27 @@
-{"description":"","popularity":10,"extinct":false,"name":"Solifugae","parentTaxon":"arachnid subclade 2","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"","otherNames":["camel spiders","wind scorpions","sun spiders","solifuges"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sunspider.jpg/220px-Sunspider.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Solifugae","popularAncestors":["arachnid","arthropod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Solifugae",
+"parentTaxon": "arachnid subclade 2",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [
+"camel spiders",
+"wind scorpions",
+"sun spiders",
+"solifuges"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sunspider.jpg/220px-Sunspider.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Solifugae",
+"popularAncestors": [
+"arachnid",
+"arthropod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

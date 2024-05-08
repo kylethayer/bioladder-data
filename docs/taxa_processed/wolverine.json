@@ -1,1 +1,27 @@
-{"description":"","popularity":65,"extinct":false,"name":"Wolverine","parentTaxon":"martinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Gulo gulo","otherNames":["Glutton","Carcajou","Skunk bear","Quickhatch"],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/220px-Gulo_gulo_2.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Wolverine","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 65,
+"extinct": false,
+"name": "Wolverine",
+"parentTaxon": "martinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Gulo gulo",
+"otherNames": [
+"Glutton",
+"Carcajou",
+"Skunk bear",
+"Quickhatch"
+],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/220px-Gulo_gulo_2.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Wolverine",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

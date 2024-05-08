@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":false,"name":"Magnoliids","parentTaxon":"flowering plant subclade 4","popularSubtaxa":["pepper plant","avocado","magnolia"],"exampleMember":"canellales","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Magnoliids","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["canellales","laurales","magnoliales","piperales"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Magnoliids",
+"parentTaxon": "flowering plant subclade 4",
+"popularSubtaxa": [
+"pepper plant",
+"avocado",
+"magnolia"
+],
+"exampleMember": "canellales",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Magnoliids",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"canellales",
+"laurales",
+"magnoliales",
+"piperales"
+]
+}

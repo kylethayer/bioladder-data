@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Spanish ibex","parentTaxon":"capra","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Capra_pyrenaica.jpg/220px-Capra_pyrenaica.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Spanish_ibex","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Spanish ibex",
+"parentTaxon": "capra",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Capra_pyrenaica.jpg/220px-Capra_pyrenaica.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Spanish_ibex",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

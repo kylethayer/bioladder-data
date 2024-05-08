@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Batrachia","parentTaxon":"lissamphibia","popularSubtaxa":["salamander","frog","albanerpeton"],"exampleMember":"albanerpeton","exampleMemberType":"Example Member","taxonomicRank":"Superorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Batrachia","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["albanerpeton","caudata","salientia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Batrachia",
+"parentTaxon": "lissamphibia",
+"popularSubtaxa": [
+"salamander",
+"frog",
+"albanerpeton"
+],
+"exampleMember": "albanerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Batrachia",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"albanerpeton",
+"caudata",
+"salientia"
+]
+}

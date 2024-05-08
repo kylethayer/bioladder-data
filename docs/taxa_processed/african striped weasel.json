@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":false,"name":"African striped weasel","parentTaxon":"galictinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Poecilogale albinucha","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Whitenapedweasellg2.jpg/200px-Whitenapedweasellg2.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/African_striped_weasel","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "African striped weasel",
+"parentTaxon": "galictinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Poecilogale albinucha",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Whitenapedweasellg2.jpg/200px-Whitenapedweasellg2.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/African_striped_weasel",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

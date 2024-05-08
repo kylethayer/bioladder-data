@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Stereospondylomorpha subclade 2","parentTaxon":"stereospondylomorpha subclade 1","popularSubtaxa":["australerpeton","uranocentrodon","xenotosuchus"],"exampleMember":"australerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stereospondylomorpha","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["australerpeton","stereospondyli"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Stereospondylomorpha subclade 2",
+"parentTaxon": "stereospondylomorpha subclade 1",
+"popularSubtaxa": [
+"australerpeton",
+"uranocentrodon",
+"xenotosuchus"
+],
+"exampleMember": "australerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stereospondylomorpha",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"australerpeton",
+"stereospondyli"
+]
+}

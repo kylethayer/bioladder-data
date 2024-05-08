@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Anomodontia subclade 1","parentTaxon":"anomodontia","exampleMember":"tiarajudens","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Anomodont"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Anomodontia subclade 1",
+"parentTaxon": "anomodontia",
+"exampleMember": "tiarajudens",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Anomodont"
+}

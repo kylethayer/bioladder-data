@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Megalosauridae subclade 1","parentTaxon":"megalosauridae","popularSubtaxa":["megalosaurus","wiehenvenator","afrovenator"],"exampleMember":"afrovenator","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Megalosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["afrovenatorinae","megalosaurinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Megalosauridae subclade 1",
+"parentTaxon": "megalosauridae",
+"popularSubtaxa": [
+"megalosaurus",
+"wiehenvenator",
+"afrovenator"
+],
+"exampleMember": "afrovenator",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Megalosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"afrovenatorinae",
+"megalosaurinae"
+]
+}

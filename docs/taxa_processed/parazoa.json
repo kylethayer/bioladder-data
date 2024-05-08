@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":false,"name":"Parazoa","parentTaxon":"animal","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Subkingdom","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sponge.JPG/220px-Sponge.JPG","wikipediaPage":"http://en.wikipedia.org/wiki/Parazoa","popularAncestors":["animal","eukaryote","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Parazoa",
+"parentTaxon": "animal",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subkingdom",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sponge.JPG/220px-Sponge.JPG",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Parazoa",
+"popularAncestors": [
+"animal",
+"eukaryote",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

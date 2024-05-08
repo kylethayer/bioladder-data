@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Epanterias","parentTaxon":"allosauridae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Epanterias_amplexus.jpg/220px-Epanterias_amplexus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Epanterias","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Epanterias",
+"parentTaxon": "allosauridae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Epanterias_amplexus.jpg/220px-Epanterias_amplexus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Epanterias",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

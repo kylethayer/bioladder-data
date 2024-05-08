@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Polonosuchus","parentTaxon":"rauisuchidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Polonosuchus.jpg/220px-Polonosuchus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Polonosuchus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Polonosuchus",
+"parentTaxon": "rauisuchidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Polonosuchus.jpg/220px-Polonosuchus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Polonosuchus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

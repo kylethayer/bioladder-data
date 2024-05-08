@@ -1,1 +1,24 @@
-{"description":"","popularity":70,"extinct":false,"name":"Hare","parentTaxon":"leporinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Lepus","otherNames":["jackrabbits"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Side_view_close_up_of_rabbit_sitting_on_gravel_under_brush.jpg/220px-Side_view_close_up_of_rabbit_sitting_on_gravel_under_brush.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Hare","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Hare",
+"parentTaxon": "leporinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Lepus",
+"otherNames": [
+"jackrabbits"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Side_view_close_up_of_rabbit_sitting_on_gravel_under_brush.jpg/220px-Side_view_close_up_of_rabbit_sitting_on_gravel_under_brush.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hare",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

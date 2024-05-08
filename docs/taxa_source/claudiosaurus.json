@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Claudiosaurus","parentTaxon":"neodiapsida","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Claudiosauridae","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Claudiosaurus_BW.jpg/220px-Claudiosaurus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Claudiosaurus"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Claudiosaurus",
+"parentTaxon": "neodiapsida",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Claudiosauridae",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Claudiosaurus_BW.jpg/220px-Claudiosaurus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Claudiosaurus"
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Eryopidae","parentTaxon":"eryopiformes","popularSubtaxa":["clamorosaurus","eryops","onchiodon"],"exampleMember":"clamorosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eryopidae","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["clamorosaurus","eryops","onchiodon"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eryopidae",
+"parentTaxon": "eryopiformes",
+"popularSubtaxa": [
+"clamorosaurus",
+"eryops",
+"onchiodon"
+],
+"exampleMember": "clamorosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eryopidae",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"clamorosaurus",
+"eryops",
+"onchiodon"
+]
+}

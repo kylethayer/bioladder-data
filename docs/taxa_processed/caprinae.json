@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Caprinae","parentTaxon":"aegodontia subclade 2","popularSubtaxa":["mountain goat","muskox","sheep"],"exampleMember":"serow","exampleMemberType":"First Looked Like","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Caprinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["caprini","naemorhedini","ovibovini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Caprinae",
+"parentTaxon": "aegodontia subclade 2",
+"popularSubtaxa": [
+"mountain goat",
+"muskox",
+"sheep"
+],
+"exampleMember": "serow",
+"exampleMemberType": "First Looked Like",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Caprinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"caprini",
+"naemorhedini",
+"ovibovini"
+]
+}

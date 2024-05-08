@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Raptorex","parentTaxon":"tyrannosauroidea subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Raptorex kriegsteini","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Raptorex_NT.jpg/200px-Raptorex_NT.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Raptorex","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Raptorex",
+"parentTaxon": "tyrannosauroidea subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Raptorex kriegsteini",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Raptorex_NT.jpg/200px-Raptorex_NT.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Raptorex",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

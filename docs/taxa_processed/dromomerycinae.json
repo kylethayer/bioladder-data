@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Dromomerycinae","parentTaxon":"palaeomerycidae","popularSubtaxa":["procranioceras","dromomeryx"],"exampleMember":"dromomeryx","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Palaeomerycidae#Classification","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["dromomeryx","procranioceras"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dromomerycinae",
+"parentTaxon": "palaeomerycidae",
+"popularSubtaxa": [
+"procranioceras",
+"dromomeryx"
+],
+"exampleMember": "dromomeryx",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Palaeomerycidae#Classification",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"dromomeryx",
+"procranioceras"
+]
+}

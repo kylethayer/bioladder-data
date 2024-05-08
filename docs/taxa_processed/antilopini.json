@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":false,"name":"Antilopini","parentTaxon":"antilopinae subclade 1","popularSubtaxa":["springbok","thomson's gazelle","przewalski's gazelle"],"exampleMember":"dibatag","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Antilopinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["antilopini subclade 1","antilopini subclade 2","dibatag","procapra"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Antilopini",
+"parentTaxon": "antilopinae subclade 1",
+"popularSubtaxa": [
+"springbok",
+"thomson's gazelle",
+"przewalski's gazelle"
+],
+"exampleMember": "dibatag",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Antilopinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"antilopini subclade 1",
+"antilopini subclade 2",
+"dibatag",
+"procapra"
+]
+}

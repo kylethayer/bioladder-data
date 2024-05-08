@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Agilisaurus","parentTaxon":"neornithischia subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Agilisaurus2.jpg/220px-Agilisaurus2.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Agilisaurus","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Agilisaurus",
+"parentTaxon": "neornithischia subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Agilisaurus2.jpg/220px-Agilisaurus2.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Agilisaurus",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

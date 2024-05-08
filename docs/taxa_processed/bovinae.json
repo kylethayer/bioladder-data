@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Bovinae","parentTaxon":"bovid","popularSubtaxa":["nilgai","cattle","sitatunga"],"exampleMember":"nilgai","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Bovinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["boselaphini","bovini","strepsicerotini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bovinae",
+"parentTaxon": "bovid",
+"popularSubtaxa": [
+"nilgai",
+"cattle",
+"sitatunga"
+],
+"exampleMember": "nilgai",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Bovinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"boselaphini",
+"bovini",
+"strepsicerotini"
+]
+}

@@ -1,1 +1,24 @@
-{"description":"","popularity":50,"extinct":false,"name":"Pseudolarix","parentTaxon":"abietoideae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":["golden larch"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pseudolarix_amabilis_2.jpg/220px-Pseudolarix_amabilis_2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Pseudolarix","popularAncestors":["conifer","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Pseudolarix",
+"parentTaxon": "abietoideae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [
+"golden larch"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pseudolarix_amabilis_2.jpg/220px-Pseudolarix_amabilis_2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pseudolarix",
+"popularAncestors": [
+"conifer",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

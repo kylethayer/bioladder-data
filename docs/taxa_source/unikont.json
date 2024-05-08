@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Unikont","parentTaxon":"eukaryote","exampleMember":"chaos","exampleMemberType":"Example Member","taxonomicRank":"Unranked","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Unikont"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Unikont",
+"parentTaxon": "eukaryote",
+"exampleMember": "chaos",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unranked",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Unikont"
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Bunostegos","parentTaxon":"pareiasaur subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BunostegosDB15.jpg/220px-BunostegosDB15.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Bunostegos","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Bunostegos",
+"parentTaxon": "pareiasaur subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BunostegosDB15.jpg/220px-BunostegosDB15.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Bunostegos",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

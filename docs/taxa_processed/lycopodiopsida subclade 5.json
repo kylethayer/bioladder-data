@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lycopodiopsida subclade 5","parentTaxon":"lycopodiopsida subclade 4","popularSubtaxa":["pleuromeia","tomiostrobus","quillwort"],"exampleMember":"pleuromeia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lycopodiopsida","popularAncestors":["vascular plant","land plant","cellular life","life"],"subtaxa":["isoetales","pleuromeia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lycopodiopsida subclade 5",
+"parentTaxon": "lycopodiopsida subclade 4",
+"popularSubtaxa": [
+"pleuromeia",
+"tomiostrobus",
+"quillwort"
+],
+"exampleMember": "pleuromeia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lycopodiopsida",
+"popularAncestors": [
+"vascular plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"isoetales",
+"pleuromeia"
+]
+}

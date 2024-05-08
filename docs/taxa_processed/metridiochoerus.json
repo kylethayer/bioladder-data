@@ -1,1 +1,24 @@
-{"description":"","popularity":10,"extinct":true,"name":"Metridiochoerus","parentTaxon":"phacochoerini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":["Giant warthog"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Metridiochoerus_BW.jpg/220px-Metridiochoerus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Metridiochoerus","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Metridiochoerus",
+"parentTaxon": "phacochoerini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [
+"Giant warthog"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Metridiochoerus_BW.jpg/220px-Metridiochoerus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Metridiochoerus",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

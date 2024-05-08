@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":true,"name":"Sphenacodontidae","parentTaxon":"sphenacodontoidea","popularSubtaxa":["secodontosaurus","steppesaurus","dimetrodon"],"exampleMember":"cutleria","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["ctenorhachis","cutleria","sphenacodontinae","steppesaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Sphenacodontidae",
+"parentTaxon": "sphenacodontoidea",
+"popularSubtaxa": [
+"secodontosaurus",
+"steppesaurus",
+"dimetrodon"
+],
+"exampleMember": "cutleria",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"ctenorhachis",
+"cutleria",
+"sphenacodontinae",
+"steppesaurus"
+]
+}

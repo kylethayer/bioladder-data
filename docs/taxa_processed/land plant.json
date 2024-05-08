@@ -1,1 +1,31 @@
-{"description":"","popularity":95,"extinct":false,"name":"Land plant","parentTaxon":"streptophytina","popularSubtaxa":["liverworts","grass","onion"],"exampleMember":"liverworts","exampleMemberType":"Example Member","taxonomicRank":"Subkingdom","scientificName":"Embryophyta","otherNames":["Embryophyte"],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Embryophyceae","popularAncestors":["bikonta","eukaryote","cellular life","life"],"subtaxa":["liverworts","stomatophytes"]}
+{
+"description": "",
+"popularity": 95,
+"extinct": false,
+"name": "Land plant",
+"parentTaxon": "streptophytina",
+"popularSubtaxa": [
+"liverworts",
+"grass",
+"onion"
+],
+"exampleMember": "liverworts",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subkingdom",
+"scientificName": "Embryophyta",
+"otherNames": [
+"Embryophyte"
+],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Embryophyceae",
+"popularAncestors": [
+"bikonta",
+"eukaryote",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"liverworts",
+"stomatophytes"
+]
+}

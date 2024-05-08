@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Antilopinae subclade 1","parentTaxon":"antilopinae","popularSubtaxa":["springbok","thomson's gazelle","tibetan antelope"],"exampleMember":"tibetan antelope","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["antilopini","saigini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Antilopinae subclade 1",
+"parentTaxon": "antilopinae",
+"popularSubtaxa": [
+"springbok",
+"thomson's gazelle",
+"tibetan antelope"
+],
+"exampleMember": "tibetan antelope",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"antilopini",
+"saigini"
+]
+}

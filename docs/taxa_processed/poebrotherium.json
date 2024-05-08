@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Poebrotherium","parentTaxon":"camelini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Poebrotherium.jpg/220px-Poebrotherium.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Poebrotherium","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Poebrotherium",
+"parentTaxon": "camelini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Poebrotherium.jpg/220px-Poebrotherium.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Poebrotherium",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

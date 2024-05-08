@@ -1,1 +1,18 @@
-{"description":"","popularity":40,"extinct":false,"name":"Kiang","parentTaxon":"wild asses subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Equus kiang","otherNames":["ibetan wild ass","khyang","gorkhar"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kiang_in_Hellabrunn.jpg/220px-Kiang_in_Hellabrunn.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Kiang"}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Kiang",
+"parentTaxon": "wild asses subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Equus kiang",
+"otherNames": [
+"ibetan wild ass",
+"khyang",
+"gorkhar"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kiang_in_Hellabrunn.jpg/220px-Kiang_in_Hellabrunn.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kiang"
+}

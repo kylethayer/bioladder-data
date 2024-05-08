@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lepidosauromorpha subclade 1","parentTaxon":"lepidosauromorpha","popularSubtaxa":["tuatara","snake","gecko"],"exampleMember":"gephyrosaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Pantestudines","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["kuehneosauridae","lepidosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lepidosauromorpha subclade 1",
+"parentTaxon": "lepidosauromorpha",
+"popularSubtaxa": [
+"tuatara",
+"snake",
+"gecko"
+],
+"exampleMember": "gephyrosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pantestudines",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"kuehneosauridae",
+"lepidosauria"
+]
+}

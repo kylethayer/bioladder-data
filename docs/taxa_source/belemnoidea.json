@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Belemnoidea","parentTaxon":"coleoidea","exampleMember":"","exampleMemberType":"","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BelemniteDB2.jpg/220px-BelemniteDB2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Belemnoidea"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Belemnoidea",
+"parentTaxon": "coleoidea",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BelemniteDB2.jpg/220px-BelemniteDB2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Belemnoidea"
+}

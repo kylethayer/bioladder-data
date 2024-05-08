@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Acrodonta subclade 1","parentTaxon":"acrodonta","popularSubtaxa":["uromastyx","leiolepis","rhampholeon"],"exampleMember":"rhampholeon","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Iguania","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["acrodonta subclade 2","acrodonta subclade 4"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Acrodonta subclade 1",
+"parentTaxon": "acrodonta",
+"popularSubtaxa": [
+"uromastyx",
+"leiolepis",
+"rhampholeon"
+],
+"exampleMember": "rhampholeon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Iguania",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"acrodonta subclade 2",
+"acrodonta subclade 4"
+]
+}

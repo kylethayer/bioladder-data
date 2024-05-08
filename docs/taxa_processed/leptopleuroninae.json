@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Leptopleuroninae","parentTaxon":"procolophonidae","popularSubtaxa":["sclerosaurus","leptopleuron","hypsognathus"],"exampleMember":"sclerosaurus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Leptopleuroninae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["hypsognathus","leptopleuron","sclerosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Leptopleuroninae",
+"parentTaxon": "procolophonidae",
+"popularSubtaxa": [
+"sclerosaurus",
+"leptopleuron",
+"hypsognathus"
+],
+"exampleMember": "sclerosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Leptopleuroninae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"hypsognathus",
+"leptopleuron",
+"sclerosaurus"
+]
+}

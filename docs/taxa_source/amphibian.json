@@ -1,1 +1,14 @@
-{"description":"","popularity":70,"extinct":false,"name":"Amphibian","parentTaxon":"tetrapod","exampleMember":"edops","exampleMemberType":"Early Member","taxonomicRank":"Class","scientificName":"Amphibia, Temnospondyli","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Amphibian"}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Amphibian",
+"parentTaxon": "tetrapod",
+"exampleMember": "edops",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Class",
+"scientificName": "Amphibia, Temnospondyli",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Amphibian"
+}

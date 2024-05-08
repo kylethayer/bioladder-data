@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Urial","parentTaxon":"ovis","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Ovis orientalis vignei","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ovis_vignei_bochariensis.jpg/220px-Ovis_vignei_bochariensis.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Urial"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Urial",
+"parentTaxon": "ovis",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Ovis orientalis vignei",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ovis_vignei_bochariensis.jpg/220px-Ovis_vignei_bochariensis.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Urial"
+}

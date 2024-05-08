@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Psephoderma","parentTaxon":"cyamodontoidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Psephoderma_BW.jpg/220px-Psephoderma_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Psephoderma","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Psephoderma",
+"parentTaxon": "cyamodontoidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Psephoderma_BW.jpg/220px-Psephoderma_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Psephoderma",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

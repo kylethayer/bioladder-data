@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Hueneosauria","parentTaxon":"ichthyosaur","popularSubtaxa":["phalarodon","ichthyosaurus","stenopterygius"],"exampleMember":"mixosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hueneosauria","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":["mixosauria","toretocnemidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hueneosauria",
+"parentTaxon": "ichthyosaur",
+"popularSubtaxa": [
+"phalarodon",
+"ichthyosaurus",
+"stenopterygius"
+],
+"exampleMember": "mixosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hueneosauria",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"mixosauria",
+"toretocnemidae"
+]
+}

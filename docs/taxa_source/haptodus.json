@@ -1,1 +1,14 @@
-{"name":"Haptodus","parentTaxon":"sphenacodontia","description":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"popularity":"","extinct":true,"exampleMember":"","exampleMemberType":"","wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Haptodus_garnettensis.jpg/250px-Haptodus_garnettensis.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Haptodus"}
+{
+"name": "Haptodus",
+"parentTaxon": "sphenacodontia",
+"description": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"popularity": "",
+"extinct": true,
+"exampleMember": "",
+"exampleMemberType": "",
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Haptodus_garnettensis.jpg/250px-Haptodus_garnettensis.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Haptodus"
+}

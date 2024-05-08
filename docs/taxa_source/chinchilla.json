@@ -1,1 +1,14 @@
-{"description":"","popularity":65,"extinct":false,"name":"Chinchilla","parentTaxon":"chinchillidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Standardchinchilla.jpg/220px-Standardchinchilla.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Chinchilla"}
+{
+"description": "",
+"popularity": 65,
+"extinct": false,
+"name": "Chinchilla",
+"parentTaxon": "chinchillidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Standardchinchilla.jpg/220px-Standardchinchilla.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chinchilla"
+}

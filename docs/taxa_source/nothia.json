@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Nothia","parentTaxon":"lycophytina subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nothia.png/220px-Nothia.png","wikipediaPage":"https://en.wikipedia.org/wiki/Nothia"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Nothia",
+"parentTaxon": "lycophytina subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nothia.png/220px-Nothia.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nothia"
+}

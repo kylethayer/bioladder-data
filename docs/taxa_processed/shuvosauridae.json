@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Shuvosauridae","parentTaxon":"poposauroidea subclade 2","popularSubtaxa":["shuvosaurus","effigia"],"exampleMember":"shuvosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Shuvosauridae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["effigia","shuvosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Shuvosauridae",
+"parentTaxon": "poposauroidea subclade 2",
+"popularSubtaxa": [
+"shuvosaurus",
+"effigia"
+],
+"exampleMember": "shuvosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Shuvosauridae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"effigia",
+"shuvosaurus"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Atlantic forest climbing mouse","parentTaxon":"rhipidomys","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Rhipidomys mastacalis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rato-da-%C3%A1rvore_%28Rhipidomys_mastacalis%29.jpg/220px-Rato-da-%C3%A1rvore_%28Rhipidomys_mastacalis%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Atlantic_Forest_climbing_mouse","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Atlantic forest climbing mouse",
+"parentTaxon": "rhipidomys",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Rhipidomys mastacalis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rato-da-%C3%A1rvore_%28Rhipidomys_mastacalis%29.jpg/220px-Rato-da-%C3%A1rvore_%28Rhipidomys_mastacalis%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Atlantic_Forest_climbing_mouse",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Chaohusaurus","parentTaxon":"grippidia","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chaohusaurus_BW.jpg/220px-Chaohusaurus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Chaohusaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Chaohusaurus",
+"parentTaxon": "grippidia",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chaohusaurus_BW.jpg/220px-Chaohusaurus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chaohusaurus"
+}

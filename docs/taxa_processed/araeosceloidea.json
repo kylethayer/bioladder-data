@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Araeosceloidea","parentTaxon":"araeoscelidia","popularSubtaxa":["petrolacosaurus","araeoscelis"],"exampleMember":"petrolacosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Araeoscelidia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["araeoscelis","petrolacosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Araeosceloidea",
+"parentTaxon": "araeoscelidia",
+"popularSubtaxa": [
+"petrolacosaurus",
+"araeoscelis"
+],
+"exampleMember": "petrolacosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Araeoscelidia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"araeoscelis",
+"petrolacosaurus"
+]
+}

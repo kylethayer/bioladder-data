@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":true,"name":"Zygophyseter","parentTaxon":"physeteroidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zygophyseter_BW.jpg/220px-Zygophyseter_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Zygophyseter","popularAncestors":["toothed whale","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Zygophyseter",
+"parentTaxon": "physeteroidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zygophyseter_BW.jpg/220px-Zygophyseter_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Zygophyseter",
+"popularAncestors": [
+"toothed whale",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Dicraeosaurus","parentTaxon":"dicraeosauridae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dicraeosaurus_hansemanni22.jpg/220px-Dicraeosaurus_hansemanni22.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dicraeosaurus","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Dicraeosaurus",
+"parentTaxon": "dicraeosauridae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dicraeosaurus_hansemanni22.jpg/220px-Dicraeosaurus_hansemanni22.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dicraeosaurus",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

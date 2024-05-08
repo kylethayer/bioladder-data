@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Episquamata","parentTaxon":"unidentata","popularSubtaxa":["snake","mosasaur","monitor lizard"],"exampleMember":"spectacled lizards","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Squamata","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["lacertoidea","toxicofera"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Episquamata",
+"parentTaxon": "unidentata",
+"popularSubtaxa": [
+"snake",
+"mosasaur",
+"monitor lizard"
+],
+"exampleMember": "spectacled lizards",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Squamata",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"lacertoidea",
+"toxicofera"
+]
+}

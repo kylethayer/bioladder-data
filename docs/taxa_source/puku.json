@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Puku","parentTaxon":"kobus","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Puku_male.jpg/220px-Puku_male.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Puku"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Puku",
+"parentTaxon": "kobus",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Puku_male.jpg/220px-Puku_male.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Puku"
+}

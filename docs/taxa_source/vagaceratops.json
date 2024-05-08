@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Vagaceratops","parentTaxon":"chasmosaurinae subclade 6","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vagaceratops_NT.jpg/220px-Vagaceratops_NT.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Vagaceratops"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Vagaceratops",
+"parentTaxon": "chasmosaurinae subclade 6",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vagaceratops_NT.jpg/220px-Vagaceratops_NT.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Vagaceratops"
+}

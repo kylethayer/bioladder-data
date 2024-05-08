@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Diplodocinae subclade 1","parentTaxon":"diplodocinae","popularSubtaxa":["diplodocus","barosaurus"],"exampleMember":"diplodocus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Diplodocid","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["barosaurus","diplodocus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Diplodocinae subclade 1",
+"parentTaxon": "diplodocinae",
+"popularSubtaxa": [
+"diplodocus",
+"barosaurus"
+],
+"exampleMember": "diplodocus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Diplodocid",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"barosaurus",
+"diplodocus"
+]
+}

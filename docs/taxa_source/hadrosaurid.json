@@ -1,1 +1,16 @@
-{"description":"","popularity":40,"extinct":true,"name":"Hadrosaurid","parentTaxon":"hadrosauroidea subclade 2","exampleMember":"hadrosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"Hadrosauridae","otherNames":["duck-billed dinosaurs"],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosaurid"}
+{
+"description": "",
+"popularity": 40,
+"extinct": true,
+"name": "Hadrosaurid",
+"parentTaxon": "hadrosauroidea subclade 2",
+"exampleMember": "hadrosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "Hadrosauridae",
+"otherNames": [
+"duck-billed dinosaurs"
+],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosaurid"
+}

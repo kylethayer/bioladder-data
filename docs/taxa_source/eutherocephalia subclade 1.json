@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Eutherocephalia subclade 1","parentTaxon":"eutherocephalia","exampleMember":"perplexisaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eutherocephalia"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eutherocephalia subclade 1",
+"parentTaxon": "eutherocephalia",
+"exampleMember": "perplexisaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eutherocephalia"
+}

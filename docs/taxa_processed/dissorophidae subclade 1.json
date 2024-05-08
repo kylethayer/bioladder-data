@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Dissorophidae subclade 1","parentTaxon":"dissorophidae","popularSubtaxa":["broiliellus","kamacops","zygosaurus"],"exampleMember":"broiliellus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["broiliellus","eucacopinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dissorophidae subclade 1",
+"parentTaxon": "dissorophidae",
+"popularSubtaxa": [
+"broiliellus",
+"kamacops",
+"zygosaurus"
+],
+"exampleMember": "broiliellus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"broiliellus",
+"eucacopinae"
+]
+}

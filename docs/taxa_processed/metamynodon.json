@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Metamynodon","parentTaxon":"rhinocerotoidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Metamynodon.jpg/220px-Metamynodon.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Metamynodon","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Metamynodon",
+"parentTaxon": "rhinocerotoidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Metamynodon.jpg/220px-Metamynodon.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Metamynodon",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

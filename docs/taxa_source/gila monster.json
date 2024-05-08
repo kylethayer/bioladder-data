@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Gila monster","parentTaxon":"heloderma","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Heloderma suspectum","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/220px-Gila_monster2.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Gila_monster"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Gila monster",
+"parentTaxon": "heloderma",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Heloderma suspectum",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/220px-Gila_monster2.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Gila_monster"
+}

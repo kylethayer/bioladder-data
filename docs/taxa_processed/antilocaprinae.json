@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Antilocaprinae","parentTaxon":"antilocapridae","popularSubtaxa":["pronghorn","tetrameryx"],"exampleMember":"tetrameryx","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["pronghorn","tetrameryx"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Antilocaprinae",
+"parentTaxon": "antilocapridae",
+"popularSubtaxa": [
+"pronghorn",
+"tetrameryx"
+],
+"exampleMember": "tetrameryx",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"pronghorn",
+"tetrameryx"
+]
+}

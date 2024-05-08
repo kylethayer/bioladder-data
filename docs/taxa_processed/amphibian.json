@@ -1,1 +1,29 @@
-{"description":"","popularity":70,"extinct":false,"name":"Amphibian","parentTaxon":"tetrapod","popularSubtaxa":["salamander","frog","zatrachys"],"exampleMember":"edops","exampleMemberType":"Early Member","taxonomicRank":"Class","scientificName":"Amphibia, Temnospondyli","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Amphibian","popularAncestors":["tetrapod","bony fish","animal","life"],"subtaxa":["edopoidea","eutemnospondyli"]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Amphibian",
+"parentTaxon": "tetrapod",
+"popularSubtaxa": [
+"salamander",
+"frog",
+"zatrachys"
+],
+"exampleMember": "edops",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Class",
+"scientificName": "Amphibia, Temnospondyli",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Amphibian",
+"popularAncestors": [
+"tetrapod",
+"bony fish",
+"animal",
+"life"
+],
+"subtaxa": [
+"edopoidea",
+"eutemnospondyli"
+]
+}

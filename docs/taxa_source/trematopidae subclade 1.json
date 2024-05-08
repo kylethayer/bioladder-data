@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Trematopidae subclade 1","parentTaxon":"trematopidae","exampleMember":"tambachia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Trematopidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Trematopidae subclade 1",
+"parentTaxon": "trematopidae",
+"exampleMember": "tambachia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Trematopidae"
+}

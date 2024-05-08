@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":false,"name":"Cozumel raccoon","parentTaxon":"procyon","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Procyon pygmaeus","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cozumel_Raccoon2.jpg/220px-Cozumel_Raccoon2.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Cozumel_raccoon","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Cozumel raccoon",
+"parentTaxon": "procyon",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Procyon pygmaeus",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cozumel_Raccoon2.jpg/220px-Cozumel_Raccoon2.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Cozumel_raccoon",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

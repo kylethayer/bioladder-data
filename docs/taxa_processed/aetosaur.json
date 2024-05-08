@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":true,"name":"Aetosaur","parentTaxon":"suchia subclade 1","popularSubtaxa":["aetosaurus","stagonolepis","typothorax"],"exampleMember":"aetosaurus","exampleMemberType":"Example Member","taxonomicRank":"Order","scientificName":"Aetosauria","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Aetosaur","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["aetosaur subclade 1","aetosaurus","neoaetosauroides","stagonolepis"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Aetosaur",
+"parentTaxon": "suchia subclade 1",
+"popularSubtaxa": [
+"aetosaurus",
+"stagonolepis",
+"typothorax"
+],
+"exampleMember": "aetosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Order",
+"scientificName": "Aetosauria",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aetosaur",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"aetosaur subclade 1",
+"aetosaurus",
+"neoaetosauroides",
+"stagonolepis"
+]
+}

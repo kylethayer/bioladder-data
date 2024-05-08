@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Musteloidea subclade 1","parentTaxon":"musteloidea","popularSubtaxa":["otter","skunk","raccoon"],"exampleMember":"skunk","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Caniformia#Evolutionary_history","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":["musteloidea subclade 2","skunk"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Musteloidea subclade 1",
+"parentTaxon": "musteloidea",
+"popularSubtaxa": [
+"otter",
+"skunk",
+"raccoon"
+],
+"exampleMember": "skunk",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Caniformia#Evolutionary_history",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"musteloidea subclade 2",
+"skunk"
+]
+}

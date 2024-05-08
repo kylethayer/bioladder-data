@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":false,"name":"Pauropoda","parentTaxon":"myriapod","exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Eurypauropodid_%2812742282145%29_crop.jpg/220px-Eurypauropodid_%2812742282145%29_crop.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Pauropoda"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Pauropoda",
+"parentTaxon": "myriapod",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Eurypauropodid_%2812742282145%29_crop.jpg/220px-Eurypauropodid_%2812742282145%29_crop.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pauropoda"
+}

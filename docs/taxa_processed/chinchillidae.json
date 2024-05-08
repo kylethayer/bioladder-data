@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Chinchillidae","parentTaxon":"chinchilloidea","popularSubtaxa":["chinchilla","plains viscacha","mountain viscachas"],"exampleMember":"chinchilla","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Chinchillidae","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["chinchilla","mountain viscachas","plains viscacha"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Chinchillidae",
+"parentTaxon": "chinchilloidea",
+"popularSubtaxa": [
+"chinchilla",
+"plains viscacha",
+"mountain viscachas"
+],
+"exampleMember": "chinchilla",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chinchillidae",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"chinchilla",
+"mountain viscachas",
+"plains viscacha"
+]
+}

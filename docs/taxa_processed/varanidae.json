@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Varanidae","parentTaxon":"varanoidea","popularSubtaxa":["earless monitor lizard","monitor lizard"],"exampleMember":"earless monitor lizard","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Varanidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["earless monitor lizard","monitor lizard"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Varanidae",
+"parentTaxon": "varanoidea",
+"popularSubtaxa": [
+"earless monitor lizard",
+"monitor lizard"
+],
+"exampleMember": "earless monitor lizard",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Varanidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"earless monitor lizard",
+"monitor lizard"
+]
+}

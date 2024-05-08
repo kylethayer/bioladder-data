@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":false,"name":"Eumuroida","parentTaxon":"muroidea","popularSubtaxa":["hamster","rat","mouse"],"exampleMember":"mouse-like hamster","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eumuroida","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["cricetidae","mouse-like hamster","muridae","nesomyidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Eumuroida",
+"parentTaxon": "muroidea",
+"popularSubtaxa": [
+"hamster",
+"rat",
+"mouse"
+],
+"exampleMember": "mouse-like hamster",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eumuroida",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"cricetidae",
+"mouse-like hamster",
+"muridae",
+"nesomyidae"
+]
+}

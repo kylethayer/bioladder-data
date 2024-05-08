@@ -1,1 +1,24 @@
-{"description":"","popularity":10,"extinct":false,"name":"Phoronid","parentTaxon":"trochozoa subclade 3","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Phylum","scientificName":"Phoronida","otherNames":["horseshoe worms"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nur03506.jpg/220px-Nur03506.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Phoronid","popularAncestors":["protostomia","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Phoronid",
+"parentTaxon": "trochozoa subclade 3",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Phylum",
+"scientificName": "Phoronida",
+"otherNames": [
+"horseshoe worms"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nur03506.jpg/220px-Nur03506.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Phoronid",
+"popularAncestors": [
+"protostomia",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

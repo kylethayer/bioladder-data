@@ -1,1 +1,22 @@
-{"description":"","popularity":60,"extinct":false,"name":"Alpine ibex","parentTaxon":"capra","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bouquetin_adulte_couch%C3%A9.jpg/220px-Bouquetin_adulte_couch%C3%A9.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Alpine_ibex","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Alpine ibex",
+"parentTaxon": "capra",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bouquetin_adulte_couch%C3%A9.jpg/220px-Bouquetin_adulte_couch%C3%A9.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Alpine_ibex",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

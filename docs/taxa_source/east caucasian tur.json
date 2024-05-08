@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"East caucasian tur","parentTaxon":"capra caucasica","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subspecies","scientificName":"Capra caucasica cylindricornis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Capra_cylindricornis_2.JPG/220px-Capra_cylindricornis_2.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/East_Caucasian_tur"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "East caucasian tur",
+"parentTaxon": "capra caucasica",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subspecies",
+"scientificName": "Capra caucasica cylindricornis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Capra_cylindricornis_2.JPG/220px-Capra_cylindricornis_2.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/East_Caucasian_tur"
+}

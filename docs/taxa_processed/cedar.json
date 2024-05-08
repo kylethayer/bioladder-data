@@ -1,1 +1,22 @@
-{"description":"","popularity":60,"extinct":false,"name":"Cedar","parentTaxon":"abietoideae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/View_from_the_Barouk_Forest_1.JPG/220px-View_from_the_Barouk_Forest_1.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Cedrus","popularAncestors":["conifer","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Cedar",
+"parentTaxon": "abietoideae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/View_from_the_Barouk_Forest_1.JPG/220px-View_from_the_Barouk_Forest_1.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Cedrus",
+"popularAncestors": [
+"conifer",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

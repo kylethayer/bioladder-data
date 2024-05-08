@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Allosauroidea","parentTaxon":"carnosauria","popularSubtaxa":["metriacanthosaurus","allosaurus","giganotosaurus"],"exampleMember":"yangchuanosaurus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Allosauroidea","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["allosauria","metriacanthosauridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Allosauroidea",
+"parentTaxon": "carnosauria",
+"popularSubtaxa": [
+"metriacanthosaurus",
+"allosaurus",
+"giganotosaurus"
+],
+"exampleMember": "yangchuanosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Allosauroidea",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"allosauria",
+"metriacanthosauridae"
+]
+}

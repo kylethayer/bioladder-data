@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Arecales","parentTaxon":"commelinids","popularSubtaxa":["dasypogonaceae","palm tree"],"exampleMember":"dasypogonaceae","exampleMemberType":"Example Member","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Arecales","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["dasypogonaceae","palm tree"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Arecales",
+"parentTaxon": "commelinids",
+"popularSubtaxa": [
+"dasypogonaceae",
+"palm tree"
+],
+"exampleMember": "dasypogonaceae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Arecales",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"dasypogonaceae",
+"palm tree"
+]
+}

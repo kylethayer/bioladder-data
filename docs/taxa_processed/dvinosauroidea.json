@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Dvinosauroidea","parentTaxon":"dvinosauria","popularSubtaxa":["isodectes","dvinosaurus"],"exampleMember":"dvinosaurus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Dvinosauroidea","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["dvinosaurus","isodectes"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dvinosauroidea",
+"parentTaxon": "dvinosauria",
+"popularSubtaxa": [
+"isodectes",
+"dvinosaurus"
+],
+"exampleMember": "dvinosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dvinosauroidea",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"dvinosaurus",
+"isodectes"
+]
+}

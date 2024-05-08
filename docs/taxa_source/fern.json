@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Fern","parentTaxon":"megaphylla","exampleMember":"","exampleMemberType":"","taxonomicRank":"Clade","scientificName":"Polypodiopsida","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Athyrium_filix-femina.jpg/220px-Athyrium_filix-femina.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Fern"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Fern",
+"parentTaxon": "megaphylla",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Clade",
+"scientificName": "Polypodiopsida",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Athyrium_filix-femina.jpg/220px-Athyrium_filix-femina.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Fern"
+}

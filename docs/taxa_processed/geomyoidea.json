@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Geomyoidea","parentTaxon":"geomorpha","popularSubtaxa":["gopher","kangaroo rat","kangaroo mouse"],"exampleMember":"gopher","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Geomyoidea","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["gopher","heteromyidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Geomyoidea",
+"parentTaxon": "geomorpha",
+"popularSubtaxa": [
+"gopher",
+"kangaroo rat",
+"kangaroo mouse"
+],
+"exampleMember": "gopher",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Geomyoidea",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"gopher",
+"heteromyidae"
+]
+}

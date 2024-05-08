@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Sitatunga","parentTaxon":"strepsicerotini subclade 6","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sitatunga_at_Oji_Zoo.JPG/220px-Sitatunga_at_Oji_Zoo.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Sitatunga","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Sitatunga",
+"parentTaxon": "strepsicerotini subclade 6",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sitatunga_at_Oji_Zoo.JPG/220px-Sitatunga_at_Oji_Zoo.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sitatunga",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

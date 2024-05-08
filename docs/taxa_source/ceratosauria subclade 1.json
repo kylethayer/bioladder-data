@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Ceratosauria subclade 1","parentTaxon":"ceratosauria","exampleMember":"limusaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Ceratosauria"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ceratosauria subclade 1",
+"parentTaxon": "ceratosauria",
+"exampleMember": "limusaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ceratosauria"
+}

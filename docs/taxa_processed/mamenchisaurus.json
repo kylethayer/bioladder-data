@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Mamenchisaurus","parentTaxon":"eusauropoda subclade 3","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mamench_DB.jpg/220px-Mamench_DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Mamenchisaurus","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Mamenchisaurus",
+"parentTaxon": "eusauropoda subclade 3",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mamench_DB.jpg/220px-Mamench_DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Mamenchisaurus",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

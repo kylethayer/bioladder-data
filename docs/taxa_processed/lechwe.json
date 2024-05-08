@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Lechwe","parentTaxon":"kobus","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kobus_leche_5179.jpg/220px-Kobus_leche_5179.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lechwe","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Lechwe",
+"parentTaxon": "kobus",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kobus_leche_5179.jpg/220px-Kobus_leche_5179.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lechwe",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

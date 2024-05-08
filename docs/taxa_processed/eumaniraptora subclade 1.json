@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Eumaniraptora subclade 1","parentTaxon":"eumaniraptora","popularSubtaxa":["archaeopteryx","troodon","bird"],"exampleMember":"anchiornis","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Eumaniraptora","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["bird","troodontidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Eumaniraptora subclade 1",
+"parentTaxon": "eumaniraptora",
+"popularSubtaxa": [
+"archaeopteryx",
+"troodon",
+"bird"
+],
+"exampleMember": "anchiornis",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Eumaniraptora",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"bird",
+"troodontidae"
+]
+}

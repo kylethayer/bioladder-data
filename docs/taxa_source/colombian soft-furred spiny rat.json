@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Colombian soft-furred spiny rat","parentTaxon":"diplomys","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Diplomys caniceps","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LoncheresCanicepsMintern.jpg/330px-LoncheresCanicepsMintern.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Colombian_soft-furred_spiny_rat"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Colombian soft-furred spiny rat",
+"parentTaxon": "diplomys",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Diplomys caniceps",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LoncheresCanicepsMintern.jpg/330px-LoncheresCanicepsMintern.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Colombian_soft-furred_spiny_rat"
+}

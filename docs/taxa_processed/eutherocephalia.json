@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eutherocephalia","parentTaxon":"scylacosauria","popularSubtaxa":["scylacosuchus","perplexisaurus","viatkosuchus"],"exampleMember":"scylacosuchus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eutherocephalia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["eutherocephalia subclade 1","scylacosuchus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eutherocephalia",
+"parentTaxon": "scylacosauria",
+"popularSubtaxa": [
+"scylacosuchus",
+"perplexisaurus",
+"viatkosuchus"
+],
+"exampleMember": "scylacosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eutherocephalia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"eutherocephalia subclade 1",
+"scylacosuchus"
+]
+}

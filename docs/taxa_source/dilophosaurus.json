@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":true,"name":"Dilophosaurus","parentTaxon":"dilophosauridae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dilophosaurus_wetherilli.PNG/220px-Dilophosaurus_wetherilli.PNG","wikipediaPage":"https://en.wikipedia.org/wiki/Dilophosaurus"}
+{
+"description": "",
+"popularity": 60,
+"extinct": true,
+"name": "Dilophosaurus",
+"parentTaxon": "dilophosauridae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dilophosaurus_wetherilli.PNG/220px-Dilophosaurus_wetherilli.PNG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dilophosaurus"
+}

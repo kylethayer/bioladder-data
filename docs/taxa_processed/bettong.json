@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":false,"name":"Bettong","parentTaxon":"potoroidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Bettongia","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bettongia_gaimardi.jpg/200px-Bettongia_gaimardi.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Bettong","popularAncestors":["marsupial","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Bettong",
+"parentTaxon": "potoroidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Bettongia",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bettongia_gaimardi.jpg/200px-Bettongia_gaimardi.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Bettong",
+"popularAncestors": [
+"marsupial",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

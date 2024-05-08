@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Deinosuchus","parentTaxon":"alligatoroidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deinosuchus_hatcheri.JPG/220px-Deinosuchus_hatcheri.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Deinosuchus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Deinosuchus",
+"parentTaxon": "alligatoroidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deinosuchus_hatcheri.JPG/220px-Deinosuchus_hatcheri.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Deinosuchus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

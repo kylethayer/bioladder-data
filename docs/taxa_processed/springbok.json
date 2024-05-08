@@ -1,1 +1,22 @@
-{"description":"","popularity":60,"extinct":false,"name":"Springbok","parentTaxon":"antilopini subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Antidorcas marsupialis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg/220px-Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Springbok","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Springbok",
+"parentTaxon": "antilopini subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Antidorcas marsupialis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg/220px-Antidorcas_marsupialis%2C_male_%28Etosha%2C_2012%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Springbok",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

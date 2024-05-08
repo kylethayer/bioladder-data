@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Panthera subclade 1","parentTaxon":"panthera","popularSubtaxa":["lion","jaguar","leopard"],"exampleMember":"jaguar","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Panthera#Phylogeny","popularAncestors":["feliformia","carnivora","animal","life"],"subtaxa":["jaguar","panthera subclade 3"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Panthera subclade 1",
+"parentTaxon": "panthera",
+"popularSubtaxa": [
+"lion",
+"jaguar",
+"leopard"
+],
+"exampleMember": "jaguar",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Panthera#Phylogeny",
+"popularAncestors": [
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"jaguar",
+"panthera subclade 3"
+]
+}

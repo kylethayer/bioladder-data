@@ -1,1 +1,33 @@
-{"description":"","popularity":"","extinct":false,"name":"Nautiloid","parentTaxon":"cephalopod","popularSubtaxa":["endocerida","discosorida","nautilus"],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Subclass","scientificName":"Nautiloidea","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid","popularAncestors":["cephalopod","mollusk","animal","life"],"subtaxa":["actinocerida","discosorida","endocerida","nautilitoidea","orthoceratoidea","plectronoceratoidea"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Nautiloid",
+"parentTaxon": "cephalopod",
+"popularSubtaxa": [
+"endocerida",
+"discosorida",
+"nautilus"
+],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subclass",
+"scientificName": "Nautiloidea",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nautiloid",
+"popularAncestors": [
+"cephalopod",
+"mollusk",
+"animal",
+"life"
+],
+"subtaxa": [
+"actinocerida",
+"discosorida",
+"endocerida",
+"nautilitoidea",
+"orthoceratoidea",
+"plectronoceratoidea"
+]
+}

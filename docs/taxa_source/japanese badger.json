@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Japanese badger","parentTaxon":"meles","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Meles anakuma","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/220px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Japanese_badger"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Japanese badger",
+"parentTaxon": "meles",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Meles anakuma",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg/220px-Meles_meles_anakuma_at_Inokashira_Park_Zoo.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Japanese_badger"
+}

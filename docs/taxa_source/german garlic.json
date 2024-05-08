@@ -1,1 +1,17 @@
-{"description":"","popularity":50,"extinct":false,"name":"German garlic","parentTaxon":"allium subclade 4","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Allium senescens","otherNames":["aging chive","broadleaf chives"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Allium_senescens.jpg/220px-Allium_senescens.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Allium_senescens"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "German garlic",
+"parentTaxon": "allium subclade 4",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Allium senescens",
+"otherNames": [
+"aging chive",
+"broadleaf chives"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Allium_senescens.jpg/220px-Allium_senescens.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Allium_senescens"
+}

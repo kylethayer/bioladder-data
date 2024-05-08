@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Chainosauria subclade 1","parentTaxon":"chainosauria","popularSubtaxa":["galepus","galechirus"],"exampleMember":"galepus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Chainosauria","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["galechirus","galepus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Chainosauria subclade 1",
+"parentTaxon": "chainosauria",
+"popularSubtaxa": [
+"galepus",
+"galechirus"
+],
+"exampleMember": "galepus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chainosauria",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"galechirus",
+"galepus"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Mountain degu","parentTaxon":"octodontidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Octodontomys gliroides","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NeoctodonSimonsiSmit.jpg/220px-NeoctodonSimonsiSmit.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Mountain_degu"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Mountain degu",
+"parentTaxon": "octodontidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Octodontomys gliroides",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NeoctodonSimonsiSmit.jpg/220px-NeoctodonSimonsiSmit.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Mountain_degu"
+}

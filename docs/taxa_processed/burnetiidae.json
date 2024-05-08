@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Burnetiidae","parentTaxon":"burnetiamorpha subclade 1","popularSubtaxa":["burnetia","proburnetia","paraburnetia"],"exampleMember":"burnetia","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Burnetiidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["burnetia","burnetiidae subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Burnetiidae",
+"parentTaxon": "burnetiamorpha subclade 1",
+"popularSubtaxa": [
+"burnetia",
+"proburnetia",
+"paraburnetia"
+],
+"exampleMember": "burnetia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Burnetiidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"burnetia",
+"burnetiidae subclade 1"
+]
+}

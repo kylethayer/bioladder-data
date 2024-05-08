@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Reduncinae","parentTaxon":"aegodontia subclade 1","popularSubtaxa":["reedbuck","waterbuck","puku"],"exampleMember":"reedbuck","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Reduncinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["kobus","reedbuck"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Reduncinae",
+"parentTaxon": "aegodontia subclade 1",
+"popularSubtaxa": [
+"reedbuck",
+"waterbuck",
+"puku"
+],
+"exampleMember": "reedbuck",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Reduncinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"kobus",
+"reedbuck"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"European water vole","parentTaxon":"arvicola","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg/220px-Water_Vole_on_Boot_Hill_%285592665124%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/European_water_vole","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "European water vole",
+"parentTaxon": "arvicola",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg/220px-Water_Vole_on_Boot_Hill_%285592665124%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/European_water_vole",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Strepsicerotini subclade 6","parentTaxon":"strepsicerotini subclade 5","popularSubtaxa":["bongo","sitatunga"],"exampleMember":"bongo","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["bongo","sitatunga"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Strepsicerotini subclade 6",
+"parentTaxon": "strepsicerotini subclade 5",
+"popularSubtaxa": [
+"bongo",
+"sitatunga"
+],
+"exampleMember": "bongo",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"bongo",
+"sitatunga"
+]
+}

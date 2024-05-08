@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Euoplocephalus","parentTaxon":"ankylosaurinae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Euplocephalus_size_comparison_with_human.png/220px-Euplocephalus_size_comparison_with_human.png","wikipediaPage":"http://en.wikipedia.org/wiki/Euoplocephalus","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Euoplocephalus",
+"parentTaxon": "ankylosaurinae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Euplocephalus_size_comparison_with_human.png/220px-Euplocephalus_size_comparison_with_human.png",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Euoplocephalus",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

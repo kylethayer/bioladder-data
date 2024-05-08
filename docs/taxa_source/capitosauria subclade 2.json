@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Capitosauria subclade 2","parentTaxon":"capitosauria subclade 1","exampleMember":"edingerella","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Capitosauria"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Capitosauria subclade 2",
+"parentTaxon": "capitosauria subclade 1",
+"exampleMember": "edingerella",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Capitosauria"
+}

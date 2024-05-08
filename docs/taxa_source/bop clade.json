@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Bop clade","parentTaxon":"grass subclade 2","exampleMember":"ehrharteae","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/BOP_clade"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bop clade",
+"parentTaxon": "grass subclade 2",
+"exampleMember": "ehrharteae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/BOP_clade"
+}

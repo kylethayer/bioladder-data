@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Propleopinae","parentTaxon":"hypsiprymnodontidae","popularSubtaxa":["propleopus","ekaltadeta"],"exampleMember":"propleopus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Propleopus","popularAncestors":["marsupial","mammal","animal","life"],"subtaxa":["ekaltadeta","propleopus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Propleopinae",
+"parentTaxon": "hypsiprymnodontidae",
+"popularSubtaxa": [
+"propleopus",
+"ekaltadeta"
+],
+"exampleMember": "propleopus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Propleopus",
+"popularAncestors": [
+"marsupial",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"ekaltadeta",
+"propleopus"
+]
+}

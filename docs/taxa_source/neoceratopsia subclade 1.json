@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Neoceratopsia subclade 1","parentTaxon":"neoceratopsia","exampleMember":"yamaceratops","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Neoceratopsia subclade 1",
+"parentTaxon": "neoceratopsia",
+"exampleMember": "yamaceratops",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny"
+}

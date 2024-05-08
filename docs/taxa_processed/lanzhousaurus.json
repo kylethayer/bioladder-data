@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Lanzhousaurus","parentTaxon":"styracosterna subclade 2","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lanzhousaurus_BW.jpg/220px-Lanzhousaurus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lanzhousaurus","popularAncestors":["iguanodontia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Lanzhousaurus",
+"parentTaxon": "styracosterna subclade 2",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lanzhousaurus_BW.jpg/220px-Lanzhousaurus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lanzhousaurus",
+"popularAncestors": [
+"iguanodontia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

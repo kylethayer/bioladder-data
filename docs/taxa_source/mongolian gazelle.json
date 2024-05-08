@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Mongolian gazelle","parentTaxon":"procapra","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Procapra gutturosa","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_book_of_antelopes_%281894%29_Gazella_gutturosa.png/220px-The_book_of_antelopes_%281894%29_Gazella_gutturosa.png","wikipediaPage":"https://en.wikipedia.org/wiki/Mongolian_gazelle"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Mongolian gazelle",
+"parentTaxon": "procapra",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Procapra gutturosa",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_book_of_antelopes_%281894%29_Gazella_gutturosa.png/220px-The_book_of_antelopes_%281894%29_Gazella_gutturosa.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Mongolian_gazelle"
+}

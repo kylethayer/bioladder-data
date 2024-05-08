@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Kritosaurini","parentTaxon":"saurolophinae subclade 2","exampleMember":"kritosaurus","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Kritosaurini"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Kritosaurini",
+"parentTaxon": "saurolophinae subclade 2",
+"exampleMember": "kritosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kritosaurini"
+}

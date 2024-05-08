@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Madagascar girdled lizard","parentTaxon":"zonosaurinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG/220px-Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Madagascar_girdled_lizard"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Madagascar girdled lizard",
+"parentTaxon": "zonosaurinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG/220px-Zonosaurus_madagascariensis_%28Zurich_Zoo%29_-_2.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Madagascar_girdled_lizard"
+}

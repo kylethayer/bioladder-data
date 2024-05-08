@@ -1,1 +1,25 @@
-{"description":"","popularity":10,"extinct":false,"name":"Thelyphonida","parentTaxon":"uropygids","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"","otherNames":["whip scorpions","vinegaroons"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Whipscorpion.jpg/220px-Whipscorpion.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Thelyphonida","popularAncestors":["arachnid","arthropod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Thelyphonida",
+"parentTaxon": "uropygids",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [
+"whip scorpions",
+"vinegaroons"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Whipscorpion.jpg/220px-Whipscorpion.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Thelyphonida",
+"popularAncestors": [
+"arachnid",
+"arthropod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Coronosauria subclade 1","parentTaxon":"coronosauria","popularSubtaxa":["protoceratops","graciliceratops","triceratops"],"exampleMember":"graciliceratops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["coronosauria subclade 2","graciliceratops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Coronosauria subclade 1",
+"parentTaxon": "coronosauria",
+"popularSubtaxa": [
+"protoceratops",
+"graciliceratops",
+"triceratops"
+],
+"exampleMember": "graciliceratops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"coronosauria subclade 2",
+"graciliceratops"
+]
+}

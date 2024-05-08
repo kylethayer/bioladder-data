@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Seed plants subclade 1","parentTaxon":"seed plants","popularSubtaxa":["pine","grass","onion"],"exampleMember":"macroneuropteris","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Spermatophyte","popularAncestors":["seed plants","land plant","cellular life","life"],"subtaxa":["acrogymnospermae","flowering plant"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Seed plants subclade 1",
+"parentTaxon": "seed plants",
+"popularSubtaxa": [
+"pine",
+"grass",
+"onion"
+],
+"exampleMember": "macroneuropteris",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Spermatophyte",
+"popularAncestors": [
+"seed plants",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"acrogymnospermae",
+"flowering plant"
+]
+}

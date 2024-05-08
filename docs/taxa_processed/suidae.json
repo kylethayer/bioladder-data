@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Suidae","parentTaxon":"suina","popularSubtaxa":["red river hog","common warthog","pig"],"exampleMember":"kubanochoerus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Suidae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["kubanochoerus","suinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Suidae",
+"parentTaxon": "suina",
+"popularSubtaxa": [
+"red river hog",
+"common warthog",
+"pig"
+],
+"exampleMember": "kubanochoerus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Suidae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"kubanochoerus",
+"suinae"
+]
+}

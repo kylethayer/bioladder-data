@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Stegocephalia subclade 1","parentTaxon":"stegocephalia","popularSubtaxa":["frog","human","dinosaur"],"exampleMember":"elginerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia","popularAncestors":["bony fish","vertebrate","animal","life"],"subtaxa":["elginerpeton","stegocephalia subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Stegocephalia subclade 1",
+"parentTaxon": "stegocephalia",
+"popularSubtaxa": [
+"frog",
+"human",
+"dinosaur"
+],
+"exampleMember": "elginerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia",
+"popularAncestors": [
+"bony fish",
+"vertebrate",
+"animal",
+"life"
+],
+"subtaxa": [
+"elginerpeton",
+"stegocephalia subclade 2"
+]
+}

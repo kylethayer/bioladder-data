@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Sudamericidae","parentTaxon":"allotheria","popularSubtaxa":["vintana","patagonia"],"exampleMember":"vintana","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Sudamericidae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["patagonia","vintana"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Sudamericidae",
+"parentTaxon": "allotheria",
+"popularSubtaxa": [
+"vintana",
+"patagonia"
+],
+"exampleMember": "vintana",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sudamericidae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"patagonia",
+"vintana"
+]
+}

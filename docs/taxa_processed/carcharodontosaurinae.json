@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Carcharodontosaurinae","parentTaxon":"carcharodontosauridae subclade 2","popularSubtaxa":["carcharodontosaurus","tyrannotitan","giganotosaurus"],"exampleMember":"carcharodontosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["carcharodontosaurus","giganotosaurini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Carcharodontosaurinae",
+"parentTaxon": "carcharodontosauridae subclade 2",
+"popularSubtaxa": [
+"carcharodontosaurus",
+"tyrannotitan",
+"giganotosaurus"
+],
+"exampleMember": "carcharodontosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"carcharodontosaurus",
+"giganotosaurini"
+]
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Neotheropoda subclade 3","parentTaxon":"neotheropoda subclade 2","popularSubtaxa":["dilophosaurus","bird","tyrannosaurus"],"exampleMember":"dilophosaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Neotheropoda","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["averostra","dilophosauridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Neotheropoda subclade 3",
+"parentTaxon": "neotheropoda subclade 2",
+"popularSubtaxa": [
+"dilophosaurus",
+"bird",
+"tyrannosaurus"
+],
+"exampleMember": "dilophosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Neotheropoda",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"averostra",
+"dilophosauridae"
+]
+}

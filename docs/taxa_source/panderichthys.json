@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Panderichthys","parentTaxon":"elpistostegalia","exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Panderichthyidae","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Panderichthys_BW.jpg/250px-Panderichthys_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Panderichthys"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Panderichthys",
+"parentTaxon": "elpistostegalia",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Panderichthyidae",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Panderichthys_BW.jpg/250px-Panderichthys_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Panderichthys"
+}

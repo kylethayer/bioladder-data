@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Probactrosaurus","parentTaxon":"hadrosauroidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Probactrosaurus_v3.jpg/220px-Probactrosaurus_v3.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Probactrosaurus","popularAncestors":["iguanodontia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Probactrosaurus",
+"parentTaxon": "hadrosauroidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Probactrosaurus_v3.jpg/220px-Probactrosaurus_v3.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Probactrosaurus",
+"popularAncestors": [
+"iguanodontia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Urosaurus","parentTaxon":"phrynosomatidae subclade 4","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Urosaurus_ornatus.jpg/220px-Urosaurus_ornatus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Urosaurus"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Urosaurus",
+"parentTaxon": "phrynosomatidae subclade 4",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Urosaurus_ornatus.jpg/220px-Urosaurus_ornatus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Urosaurus"
+}

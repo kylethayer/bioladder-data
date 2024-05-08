@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Protitanops","parentTaxon":"brontotheriina","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Protitanops_NT_small.jpg/220px-Protitanops_NT_small.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Protitanops","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Protitanops",
+"parentTaxon": "brontotheriina",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Protitanops_NT_small.jpg/220px-Protitanops_NT_small.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Protitanops",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

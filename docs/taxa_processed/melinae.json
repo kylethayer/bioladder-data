@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Melinae","parentTaxon":"mustelidae subclade 4","popularSubtaxa":["european badger","japanese badger","hog badger"],"exampleMember":"european badger","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Melinae","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":["hog badger","meles"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Melinae",
+"parentTaxon": "mustelidae subclade 4",
+"popularSubtaxa": [
+"european badger",
+"japanese badger",
+"hog badger"
+],
+"exampleMember": "european badger",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Melinae",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"hog badger",
+"meles"
+]
+}

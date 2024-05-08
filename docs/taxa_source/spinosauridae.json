@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Spinosauridae","parentTaxon":"megalosauria","exampleMember":"siamosaurus","exampleMemberType":"Early Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Spinosauridae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Spinosauridae",
+"parentTaxon": "megalosauria",
+"exampleMember": "siamosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Spinosauridae"
+}

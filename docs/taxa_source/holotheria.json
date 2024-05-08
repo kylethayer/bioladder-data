@@ -1,1 +1,14 @@
-{"name":"Holotheria","parentTaxon":"mammal","description":"","taxonomicRank":"Infraclass","scientificName":"","otherNames":[],"popularity":"","extinct":false,"exampleMember":"repenomamus","exampleMemberType":"Early Member","wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Holotheria"}
+{
+"name": "Holotheria",
+"parentTaxon": "mammal",
+"description": "",
+"taxonomicRank": "Infraclass",
+"scientificName": "",
+"otherNames": [],
+"popularity": "",
+"extinct": false,
+"exampleMember": "repenomamus",
+"exampleMemberType": "Early Member",
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Holotheria"
+}

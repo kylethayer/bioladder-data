@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Amphibamidae","parentTaxon":"dissorophoidea","popularSubtaxa":["salamander","frog","caecilian"],"exampleMember":"micropholis amphibian","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Amphibamidae","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["amphibamidae subclade 1","micropholis amphibian"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Amphibamidae",
+"parentTaxon": "dissorophoidea",
+"popularSubtaxa": [
+"salamander",
+"frog",
+"caecilian"
+],
+"exampleMember": "micropholis amphibian",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Amphibamidae",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"amphibamidae subclade 1",
+"micropholis amphibian"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Neoaetosauroides","parentTaxon":"aetosaur","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neoaetosauroides.jpg/375px-Neoaetosauroides.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Neoaetosauroides","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Neoaetosauroides",
+"parentTaxon": "aetosaur",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neoaetosauroides.jpg/375px-Neoaetosauroides.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Neoaetosauroides",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Degu","parentTaxon":"octodontidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Octodon degus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg/220px-Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Degu"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Degu",
+"parentTaxon": "octodontidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Octodon degus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg/220px-Octodon_degus_-Heidelberg_Zoo%2C_Germany-8a.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Degu"
+}

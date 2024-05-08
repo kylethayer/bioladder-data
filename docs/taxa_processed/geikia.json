@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Geikia","parentTaxon":"geikiinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Geikia_and_Sclerosaurus.jpg/220px-Geikia_and_Sclerosaurus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Geikia","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Geikia",
+"parentTaxon": "geikiinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Geikia_and_Sclerosaurus.jpg/220px-Geikia_and_Sclerosaurus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Geikia",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

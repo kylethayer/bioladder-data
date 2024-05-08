@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Hadrosauroidea subclade 2","parentTaxon":"hadrosauroidea subclade 1","exampleMember":"telmatosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosauroidea"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hadrosauroidea subclade 2",
+"parentTaxon": "hadrosauroidea subclade 1",
+"exampleMember": "telmatosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosauroidea"
+}

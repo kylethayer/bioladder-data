@@ -1,1 +1,23 @@
-{"description":"","popularity":"10","extinct":true,"name":"Pholidogaster","parentTaxon":"colosteidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pholidogaster_pisciformis.jpg/220px-Pholidogaster_pisciformis.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Pholidogaster","popularAncestors":["bony fish","vertebrate","animal","life"],"subtaxa":[],"needs_to_be_processed":true}
+{
+"description": "",
+"popularity": "10",
+"extinct": true,
+"name": "Pholidogaster",
+"parentTaxon": "colosteidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pholidogaster_pisciformis.jpg/220px-Pholidogaster_pisciformis.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pholidogaster",
+"popularAncestors": [
+"bony fish",
+"vertebrate",
+"animal",
+"life"
+],
+"subtaxa": [],
+"needs_to_be_processed": true
+}

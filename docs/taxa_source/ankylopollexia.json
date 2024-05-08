@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Ankylopollexia","parentTaxon":"dryomorpha","exampleMember":"camptosaurus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Ankylopollexia"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ankylopollexia",
+"parentTaxon": "dryomorpha",
+"exampleMember": "camptosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ankylopollexia"
+}

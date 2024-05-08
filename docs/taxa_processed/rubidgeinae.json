@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Rubidgeinae","parentTaxon":"gorgonopsidae subclade 4","popularSubtaxa":["smilesaurus","sycosaurus","rubidgea"],"exampleMember":"smilesaurus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Rubidgeinae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["rubidgeinae subclade 1","smilesaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Rubidgeinae",
+"parentTaxon": "gorgonopsidae subclade 4",
+"popularSubtaxa": [
+"smilesaurus",
+"sycosaurus",
+"rubidgea"
+],
+"exampleMember": "smilesaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rubidgeinae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"rubidgeinae subclade 1",
+"smilesaurus"
+]
+}

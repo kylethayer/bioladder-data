@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Megaphylla","parentTaxon":"euphyllophytes","popularSubtaxa":["fern","grass","onion"],"exampleMember":"fern","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Euphyllophyte","popularAncestors":["vascular plant","land plant","cellular life","life"],"subtaxa":["fern","radiatopses"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Megaphylla",
+"parentTaxon": "euphyllophytes",
+"popularSubtaxa": [
+"fern",
+"grass",
+"onion"
+],
+"exampleMember": "fern",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Euphyllophyte",
+"popularAncestors": [
+"vascular plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"fern",
+"radiatopses"
+]
+}

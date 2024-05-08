@@ -1,1 +1,16 @@
-{"description":"","popularity":10,"extinct":false,"name":"Crotaphytinae","parentTaxon":"terraiguana subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subfamily","scientificName":"","otherNames":["collared lizards"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Collared_Lizard_2.jpg/220px-Collared_Lizard_2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Crotaphytinae"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Crotaphytinae",
+"parentTaxon": "terraiguana subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [
+"collared lizards"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Collared_Lizard_2.jpg/220px-Collared_Lizard_2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Crotaphytinae"
+}

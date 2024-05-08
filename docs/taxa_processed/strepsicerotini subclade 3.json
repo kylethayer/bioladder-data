@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Strepsicerotini subclade 3","parentTaxon":"strepsicerotini subclade 2","popularSubtaxa":["common eland","giant eland"],"exampleMember":"common eland","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["common eland","giant eland"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Strepsicerotini subclade 3",
+"parentTaxon": "strepsicerotini subclade 2",
+"popularSubtaxa": [
+"common eland",
+"giant eland"
+],
+"exampleMember": "common eland",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"common eland",
+"giant eland"
+]
+}

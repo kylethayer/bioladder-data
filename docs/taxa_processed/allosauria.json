@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Allosauria","parentTaxon":"allosauroidea","popularSubtaxa":["allosaurus","carcharodontosaurus","giganotosaurus"],"exampleMember":"allosaurus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Allosauroidea","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["allosauridae","carcharodontosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Allosauria",
+"parentTaxon": "allosauroidea",
+"popularSubtaxa": [
+"allosaurus",
+"carcharodontosaurus",
+"giganotosaurus"
+],
+"exampleMember": "allosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Allosauroidea",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"allosauridae",
+"carcharodontosauria"
+]
+}

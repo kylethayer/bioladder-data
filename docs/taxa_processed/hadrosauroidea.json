@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Hadrosauroidea","parentTaxon":"hadrosauriformes","popularSubtaxa":["hadrosaurus","edmontosaurus","parasaurolophus"],"exampleMember":"probactrosaurus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hadrosauroidea","popularAncestors":["iguanodontia","dinosaur","animal","life"],"subtaxa":["hadrosauroidea subclade 1","probactrosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hadrosauroidea",
+"parentTaxon": "hadrosauriformes",
+"popularSubtaxa": [
+"hadrosaurus",
+"edmontosaurus",
+"parasaurolophus"
+],
+"exampleMember": "probactrosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hadrosauroidea",
+"popularAncestors": [
+"iguanodontia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"hadrosauroidea subclade 1",
+"probactrosaurus"
+]
+}

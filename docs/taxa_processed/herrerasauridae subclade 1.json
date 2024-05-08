@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Herrerasauridae subclade 1","parentTaxon":"herrerasauridae","popularSubtaxa":["herrerasaurus","chindesaurus"],"exampleMember":"herrerasaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Herrerasauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["chindesaurus","herrerasaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Herrerasauridae subclade 1",
+"parentTaxon": "herrerasauridae",
+"popularSubtaxa": [
+"herrerasaurus",
+"chindesaurus"
+],
+"exampleMember": "herrerasaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Herrerasauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"chindesaurus",
+"herrerasaurus"
+]
+}

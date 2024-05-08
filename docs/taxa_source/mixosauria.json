@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Mixosauria","parentTaxon":"hueneosauria","exampleMember":"mixosaurus","exampleMemberType":"Example Member","taxonomicRank":"Infraorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Mixosauria"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Mixosauria",
+"parentTaxon": "hueneosauria",
+"exampleMember": "mixosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Infraorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Mixosauria"
+}

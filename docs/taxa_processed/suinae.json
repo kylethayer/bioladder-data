@@ -1,1 +1,32 @@
-{"description":"","popularity":"","extinct":false,"name":"Suinae","parentTaxon":"suidae","popularSubtaxa":["red river hog","common warthog","pig"],"exampleMember":"pig","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Suinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["babirusa","phacochoerini","pig","potamochoerini","pygmy hog"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Suinae",
+"parentTaxon": "suidae",
+"popularSubtaxa": [
+"red river hog",
+"common warthog",
+"pig"
+],
+"exampleMember": "pig",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Suinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"babirusa",
+"phacochoerini",
+"pig",
+"potamochoerini",
+"pygmy hog"
+]
+}

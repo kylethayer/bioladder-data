@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Hallucicrania subclade 1","parentTaxon":"hallucicrania","exampleMember":"belebey","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Hallucicrania"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hallucicrania subclade 1",
+"parentTaxon": "hallucicrania",
+"exampleMember": "belebey",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hallucicrania"
+}

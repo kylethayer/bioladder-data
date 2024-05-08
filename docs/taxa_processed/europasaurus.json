@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Europasaurus","parentTaxon":"brachiosauridae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europasaurus_holgeri_Scene.jpg/220px-Europasaurus_holgeri_Scene.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Europasaurus","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Europasaurus",
+"parentTaxon": "brachiosauridae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europasaurus_holgeri_Scene.jpg/220px-Europasaurus_holgeri_Scene.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Europasaurus",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eusauropoda subclade 2","parentTaxon":"eusauropoda subclade 1","popularSubtaxa":["brontosaurus","diplodocus","brachiosaurus"],"exampleMember":"patagosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eusauropoda","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["eusauropoda subclade 3","patagosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eusauropoda subclade 2",
+"parentTaxon": "eusauropoda subclade 1",
+"popularSubtaxa": [
+"brontosaurus",
+"diplodocus",
+"brachiosaurus"
+],
+"exampleMember": "patagosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eusauropoda",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"eusauropoda subclade 3",
+"patagosaurus"
+]
+}

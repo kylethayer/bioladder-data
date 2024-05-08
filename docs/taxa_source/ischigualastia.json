@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Ischigualastia","parentTaxon":"stahleckeriinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ischigualastia.jpg/220px-Ischigualastia.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Ischigualastia"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Ischigualastia",
+"parentTaxon": "stahleckeriinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ischigualastia.jpg/220px-Ischigualastia.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ischigualastia"
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Bibos","parentTaxon":"bos","popularSubtaxa":["gaur","gayal","banteng"],"exampleMember":"gaur","exampleMemberType":"Example Member","taxonomicRank":"Subgenus","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Bos","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["banteng","gaur","gayal"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bibos",
+"parentTaxon": "bos",
+"popularSubtaxa": [
+"gaur",
+"gayal",
+"banteng"
+],
+"exampleMember": "gaur",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subgenus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Bos",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"banteng",
+"gaur",
+"gayal"
+]
+}

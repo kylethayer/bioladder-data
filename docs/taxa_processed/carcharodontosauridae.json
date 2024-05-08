@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Carcharodontosauridae","parentTaxon":"carcharodontosauria","popularSubtaxa":["carcharodontosaurus","tyrannotitan","giganotosaurus"],"exampleMember":"concavenator","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["carcharodontosauridae subclade 1","concavenator"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Carcharodontosauridae",
+"parentTaxon": "carcharodontosauria",
+"popularSubtaxa": [
+"carcharodontosaurus",
+"tyrannotitan",
+"giganotosaurus"
+],
+"exampleMember": "concavenator",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"carcharodontosauridae subclade 1",
+"concavenator"
+]
+}

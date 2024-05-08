@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":false,"name":"Ferae","parentTaxon":"fereuungulata","popularSubtaxa":["dog","cat","walrus"],"exampleMember":"cimolesta","exampleMemberType":"Early Member","taxonomicRank":"Unranked","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ferae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["carnivora","cimolesta","creodonta","pangolin"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Ferae",
+"parentTaxon": "fereuungulata",
+"popularSubtaxa": [
+"dog",
+"cat",
+"walrus"
+],
+"exampleMember": "cimolesta",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unranked",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ferae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"carnivora",
+"cimolesta",
+"creodonta",
+"pangolin"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Castoridae","parentTaxon":"castorimorpha","exampleMember":"palaeocastor","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Castoridae"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Castoridae",
+"parentTaxon": "castorimorpha",
+"exampleMember": "palaeocastor",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Castoridae"
+}

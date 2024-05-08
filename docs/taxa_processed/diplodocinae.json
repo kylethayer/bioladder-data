@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Diplodocinae","parentTaxon":"diplodocid subclade 1","popularSubtaxa":["tornieria","diplodocus","barosaurus"],"exampleMember":"tornieria","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["diplodocinae subclade 1","tornieria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Diplodocinae",
+"parentTaxon": "diplodocid subclade 1",
+"popularSubtaxa": [
+"tornieria",
+"diplodocus",
+"barosaurus"
+],
+"exampleMember": "tornieria",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"diplodocinae subclade 1",
+"tornieria"
+]
+}

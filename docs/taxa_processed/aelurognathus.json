@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Aelurognathus","parentTaxon":"rubidgeinae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aelur_tigriceps1DB.jpg/220px-Aelur_tigriceps1DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Aelurognathus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Aelurognathus",
+"parentTaxon": "rubidgeinae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aelur_tigriceps1DB.jpg/220px-Aelur_tigriceps1DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aelurognathus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

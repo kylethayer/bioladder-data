@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Stegosauria subclade 1","parentTaxon":"stegosauria","popularSubtaxa":["wuerhosaurus","hesperosaurus","dacentrurus"],"exampleMember":"wuerhosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Stegosauridae","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["stegosauria subclade 2","wuerhosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Stegosauria subclade 1",
+"parentTaxon": "stegosauria",
+"popularSubtaxa": [
+"wuerhosaurus",
+"hesperosaurus",
+"dacentrurus"
+],
+"exampleMember": "wuerhosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Stegosauridae",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"stegosauria subclade 2",
+"wuerhosaurus"
+]
+}

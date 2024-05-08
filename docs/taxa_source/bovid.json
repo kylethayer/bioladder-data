@@ -1,1 +1,14 @@
-{"description":"","popularity":30,"extinct":false,"name":"Bovid","parentTaxon":"pecora","exampleMember":"nilgai","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"Bovidae","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Bovidae"}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Bovid",
+"parentTaxon": "pecora",
+"exampleMember": "nilgai",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "Bovidae",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Bovidae"
+}

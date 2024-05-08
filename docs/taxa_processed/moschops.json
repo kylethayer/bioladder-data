@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Moschops","parentTaxon":"moschopina","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moschops11DB.jpg/220px-Moschops11DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Moschops","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Moschops",
+"parentTaxon": "moschopina",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moschops11DB.jpg/220px-Moschops11DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Moschops",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

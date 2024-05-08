@@ -1,1 +1,22 @@
-{"description":"","popularity":20,"extinct":true,"name":"Gorgonops","parentTaxon":"gorgonopsidae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gorgonops_whaitsii1.jpg/220px-Gorgonops_whaitsii1.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Gorgonopsia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 20,
+"extinct": true,
+"name": "Gorgonops",
+"parentTaxon": "gorgonopsidae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gorgonops_whaitsii1.jpg/220px-Gorgonops_whaitsii1.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Gorgonopsia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

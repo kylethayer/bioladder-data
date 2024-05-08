@@ -1,1 +1,22 @@
-{"description":"","popularity":20,"extinct":true,"name":"Temnodontosaurus","parentTaxon":"neoichthyosauria","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Temnod_euryceph1DB.jpg/220px-Temnod_euryceph1DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Temnodontosaurus","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 20,
+"extinct": true,
+"name": "Temnodontosaurus",
+"parentTaxon": "neoichthyosauria",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Temnod_euryceph1DB.jpg/220px-Temnod_euryceph1DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Temnodontosaurus",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

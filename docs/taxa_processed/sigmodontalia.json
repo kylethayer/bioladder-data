@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Sigmodontalia","parentTaxon":"sigmodontinae","popularSubtaxa":["cotton rat","crab-eating rat"],"exampleMember":"cotton rat","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Sigmodontinae","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["cotton rat","crab-eating rat"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Sigmodontalia",
+"parentTaxon": "sigmodontinae",
+"popularSubtaxa": [
+"cotton rat",
+"crab-eating rat"
+],
+"exampleMember": "cotton rat",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sigmodontinae",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"cotton rat",
+"crab-eating rat"
+]
+}

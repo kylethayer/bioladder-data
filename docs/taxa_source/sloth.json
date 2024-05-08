@@ -1,1 +1,14 @@
-{"description":"","popularity":70,"extinct":false,"name":"Sloth","parentTaxon":"pilosa","exampleMember":"neocnus","exampleMemberType":"Early Member","taxonomicRank":"Suborder","scientificName":"Folivora","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Sloth"}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Sloth",
+"parentTaxon": "pilosa",
+"exampleMember": "neocnus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Suborder",
+"scientificName": "Folivora",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Sloth"
+}

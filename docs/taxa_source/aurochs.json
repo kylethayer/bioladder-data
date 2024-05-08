@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Aurochs","parentTaxon":"bos primigenius","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Bos primigenius primigenius","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aurochs_reconstruction.jpg/220px-Aurochs_reconstruction.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Aurochs"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Aurochs",
+"parentTaxon": "bos primigenius",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Bos primigenius primigenius",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aurochs_reconstruction.jpg/220px-Aurochs_reconstruction.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aurochs"
+}

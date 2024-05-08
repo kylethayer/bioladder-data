@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Callospermarion","parentTaxon":"seed plants","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Callospermarion_pusillum_reconstruction.jpg/220px-Callospermarion_pusillum_reconstruction.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Callistophytaceae","popularAncestors":["seed plants","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Callospermarion",
+"parentTaxon": "seed plants",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Callospermarion_pusillum_reconstruction.jpg/220px-Callospermarion_pusillum_reconstruction.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Callistophytaceae",
+"popularAncestors": [
+"seed plants",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Serikodiastida subclade 1","parentTaxon":"serikodiastida","popularSubtaxa":["idmonarachne","spider"],"exampleMember":"idmonarachne","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Tetrapulmonata","popularAncestors":["arachnid","arthropod","animal","life"],"subtaxa":["idmonarachne","spider"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Serikodiastida subclade 1",
+"parentTaxon": "serikodiastida",
+"popularSubtaxa": [
+"idmonarachne",
+"spider"
+],
+"exampleMember": "idmonarachne",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Tetrapulmonata",
+"popularAncestors": [
+"arachnid",
+"arthropod",
+"animal",
+"life"
+],
+"subtaxa": [
+"idmonarachne",
+"spider"
+]
+}

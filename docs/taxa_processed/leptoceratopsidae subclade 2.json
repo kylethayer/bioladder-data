@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Leptoceratopsidae subclade 2","parentTaxon":"leptoceratopsidae subclade 1","popularSubtaxa":["leptoceratops","zhuchengceratops","prenoceratops"],"exampleMember":"prenoceratops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Leptoceratopsidae","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["leptoceratopsidae subclade 3","prenoceratops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Leptoceratopsidae subclade 2",
+"parentTaxon": "leptoceratopsidae subclade 1",
+"popularSubtaxa": [
+"leptoceratops",
+"zhuchengceratops",
+"prenoceratops"
+],
+"exampleMember": "prenoceratops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Leptoceratopsidae",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"leptoceratopsidae subclade 3",
+"prenoceratops"
+]
+}

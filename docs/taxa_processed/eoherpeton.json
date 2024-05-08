@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Eoherpeton","parentTaxon":"embolomeri","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eoherpeton_NT.jpg/220px-Eoherpeton_NT.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Eoherpeton","popularAncestors":["tetrapod","bony fish","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Eoherpeton",
+"parentTaxon": "embolomeri",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eoherpeton_NT.jpg/220px-Eoherpeton_NT.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eoherpeton",
+"popularAncestors": [
+"tetrapod",
+"bony fish",
+"animal",
+"life"
+],
+"subtaxa": []
+}

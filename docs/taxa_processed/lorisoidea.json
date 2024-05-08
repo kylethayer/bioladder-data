@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lorisoidea","parentTaxon":"lemuriformes","popularSubtaxa":["galago","loris","potto"],"exampleMember":"galago","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lorisoidea","popularAncestors":["primate","mammal","animal","life"],"subtaxa":["galago","lorisidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lorisoidea",
+"parentTaxon": "lemuriformes",
+"popularSubtaxa": [
+"galago",
+"loris",
+"potto"
+],
+"exampleMember": "galago",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lorisoidea",
+"popularAncestors": [
+"primate",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"galago",
+"lorisidae"
+]
+}

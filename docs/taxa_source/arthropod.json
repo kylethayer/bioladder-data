@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Arthropod","parentTaxon":"panarthropoda","exampleMember":"eurypterida","exampleMemberType":"Early Member","taxonomicRank":"Phylum","scientificName":"Arthropoda","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Arthropoda"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Arthropod",
+"parentTaxon": "panarthropoda",
+"exampleMember": "eurypterida",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Phylum",
+"scientificName": "Arthropoda",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Arthropoda"
+}

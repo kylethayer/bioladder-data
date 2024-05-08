@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Anaspida","parentTaxon":"vertebrate subclade 2","exampleMember":"birkenia","exampleMemberType":"Example Member","taxonomicRank":"Class","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Anaspida"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Anaspida",
+"parentTaxon": "vertebrate subclade 2",
+"exampleMember": "birkenia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Anaspida"
+}

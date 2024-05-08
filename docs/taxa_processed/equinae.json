@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Equinae","parentTaxon":"equidae","popularSubtaxa":["horse","donkey","zebra"],"exampleMember":"hipparion","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Equinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["equini","hipparionini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Equinae",
+"parentTaxon": "equidae",
+"popularSubtaxa": [
+"horse",
+"donkey",
+"zebra"
+],
+"exampleMember": "hipparion",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Equinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"equini",
+"hipparionini"
+]
+}

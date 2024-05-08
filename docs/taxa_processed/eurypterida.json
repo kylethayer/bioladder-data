@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Eurypterida","parentTaxon":"merostomata","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eurypterus_Smithsonian.jpg/220px-Eurypterus_Smithsonian.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Eurypterida","popularAncestors":["arthropod","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Eurypterida",
+"parentTaxon": "merostomata",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eurypterus_Smithsonian.jpg/220px-Eurypterus_Smithsonian.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Eurypterida",
+"popularAncestors": [
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

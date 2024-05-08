@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Merriamosauria subclade 2","parentTaxon":"merriamosauria subclade 1","popularSubtaxa":["shonisaurus","ichthyosaurus","stenopterygius"],"exampleMember":"shonisaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Merriamosauria","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":["merriamosauria subclade 3","shonisaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Merriamosauria subclade 2",
+"parentTaxon": "merriamosauria subclade 1",
+"popularSubtaxa": [
+"shonisaurus",
+"ichthyosaurus",
+"stenopterygius"
+],
+"exampleMember": "shonisaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Merriamosauria",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"merriamosauria subclade 3",
+"shonisaurus"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Rice rat","parentTaxon":"oryzomyalia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Tribe","scientificName":"Oryzomyini","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Oryzomys_palustris.jpg/220px-Oryzomys_palustris.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Oryzomyini","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Rice rat",
+"parentTaxon": "oryzomyalia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Tribe",
+"scientificName": "Oryzomyini",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Oryzomys_palustris.jpg/220px-Oryzomys_palustris.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Oryzomyini",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

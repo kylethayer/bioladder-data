@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Stegocephalia","parentTaxon":"elpistostegalia","exampleMember":"tiktaalik","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Elpistostegalia#Phylogeny"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Stegocephalia",
+"parentTaxon": "elpistostegalia",
+"exampleMember": "tiktaalik",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Elpistostegalia#Phylogeny"
+}

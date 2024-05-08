@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Paraplacodus","parentTaxon":"placodontia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paraplacodus_BW.jpg/220px-Paraplacodus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Paraplacodus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Paraplacodus",
+"parentTaxon": "placodontia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paraplacodus_BW.jpg/220px-Paraplacodus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Paraplacodus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

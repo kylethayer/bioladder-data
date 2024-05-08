@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Capitosauria subclade 1","parentTaxon":"capitosauria","popularSubtaxa":["xenotosuchus","paracyclotosaurus","parotosuchus"],"exampleMember":"parotosuchus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Capitosauria","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["capitosauria subclade 2","capitosauria subclade 6"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Capitosauria subclade 1",
+"parentTaxon": "capitosauria",
+"popularSubtaxa": [
+"xenotosuchus",
+"paracyclotosaurus",
+"parotosuchus"
+],
+"exampleMember": "parotosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Capitosauria",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"capitosauria subclade 2",
+"capitosauria subclade 6"
+]
+}

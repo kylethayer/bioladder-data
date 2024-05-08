@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Ammonoidea","parentTaxon":"cephalopod","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Subclass","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Asteroceras_BW.jpg/220px-Asteroceras_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Ammonoidea","popularAncestors":["cephalopod","mollusk","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Ammonoidea",
+"parentTaxon": "cephalopod",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subclass",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Asteroceras_BW.jpg/220px-Asteroceras_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ammonoidea",
+"popularAncestors": [
+"cephalopod",
+"mollusk",
+"animal",
+"life"
+],
+"subtaxa": []
+}

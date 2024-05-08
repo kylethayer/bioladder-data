@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Southern multimammate mouse","parentTaxon":"mastomys","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Mastomys coucha","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mastomys.jpg/220px-Mastomys.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Southern_multimammate_mouse"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Southern multimammate mouse",
+"parentTaxon": "mastomys",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Mastomys coucha",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mastomys.jpg/220px-Mastomys.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Southern_multimammate_mouse"
+}

@@ -1,1 +1,24 @@
-{"description":"","popularity":85,"extinct":true,"name":"Tyrannosaurus","parentTaxon":"tyrannosaurinae subclade 4","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Tyrannosaurus rex","otherNames":["T. Rex"],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tyrannosaurus_BW.jpg/250px-Tyrannosaurus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosaurus","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 85,
+"extinct": true,
+"name": "Tyrannosaurus",
+"parentTaxon": "tyrannosaurinae subclade 4",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Tyrannosaurus rex",
+"otherNames": [
+"T. Rex"
+],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tyrannosaurus_BW.jpg/250px-Tyrannosaurus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosaurus",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

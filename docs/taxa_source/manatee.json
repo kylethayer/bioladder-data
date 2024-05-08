@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Manatee","parentTaxon":"sirenia subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Trichechidae","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FL_fig04.jpg/250px-FL_fig04.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Manatee"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Manatee",
+"parentTaxon": "sirenia subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Trichechidae",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FL_fig04.jpg/250px-FL_fig04.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Manatee"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Ophthalmosauridae","parentTaxon":"thunnosauria subclade 2","popularSubtaxa":["ophthalmosaurus","ophthalmosaurinae","platypterygius"],"exampleMember":"ophthalmosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Ophthalmosauridae","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":["ophthalmosaurinae","platypterygiinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ophthalmosauridae",
+"parentTaxon": "thunnosauria subclade 2",
+"popularSubtaxa": [
+"ophthalmosaurus",
+"ophthalmosaurinae",
+"platypterygius"
+],
+"exampleMember": "ophthalmosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ophthalmosauridae",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"ophthalmosaurinae",
+"platypterygiinae"
+]
+}

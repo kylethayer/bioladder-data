@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Trematosauria","parentTaxon":"stereospondyli subclade 3","popularSubtaxa":["benthosuchus","thoosuchus","trematosaurus"],"exampleMember":"benthosuchus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Trematosauria","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["benthosuchus","trematosauroidea"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Trematosauria",
+"parentTaxon": "stereospondyli subclade 3",
+"popularSubtaxa": [
+"benthosuchus",
+"thoosuchus",
+"trematosaurus"
+],
+"exampleMember": "benthosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Trematosauria",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"benthosuchus",
+"trematosauroidea"
+]
+}

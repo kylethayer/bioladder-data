@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Wahlisaurus","parentTaxon":"leptonectidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wahlisaurus_NT_small.jpg/220px-Wahlisaurus_NT_small.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Wahlisaurus","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Wahlisaurus",
+"parentTaxon": "leptonectidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wahlisaurus_NT_small.jpg/220px-Wahlisaurus_NT_small.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Wahlisaurus",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Homo subclade 3","parentTaxon":"homo","popularSubtaxa":["human","neanderthal","homo erectus"],"exampleMember":"homo erectus","exampleMemberType":"Earliest Known Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["homo","ape","animal","life"],"subtaxa":["homo erectus","homo ergaster","homo subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Homo subclade 3",
+"parentTaxon": "homo",
+"popularSubtaxa": [
+"human",
+"neanderthal",
+"homo erectus"
+],
+"exampleMember": "homo erectus",
+"exampleMemberType": "Earliest Known Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"homo",
+"ape",
+"animal",
+"life"
+],
+"subtaxa": [
+"homo erectus",
+"homo ergaster",
+"homo subclade 2"
+]
+}

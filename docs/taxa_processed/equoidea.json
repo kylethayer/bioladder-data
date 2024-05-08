@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Equoidea","parentTaxon":"hippomorpha","popularSubtaxa":["horse","donkey","zebra"],"exampleMember":"palaeotherium","exampleMemberType":"Early Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Odd-toed_ungulate","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["equidae","palaeotherium"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Equoidea",
+"parentTaxon": "hippomorpha",
+"popularSubtaxa": [
+"horse",
+"donkey",
+"zebra"
+],
+"exampleMember": "palaeotherium",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Odd-toed_ungulate",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"equidae",
+"palaeotherium"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":false,"name":"Clitellata","parentTaxon":"annelid subclade 2","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Earthworm_Mi%C3%B1oca_060106GFDL.jpg/220px-Earthworm_Mi%C3%B1oca_060106GFDL.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Clitellata","popularAncestors":["protostomia","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Clitellata",
+"parentTaxon": "annelid subclade 2",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Earthworm_Mi%C3%B1oca_060106GFDL.jpg/220px-Earthworm_Mi%C3%B1oca_060106GFDL.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Clitellata",
+"popularAncestors": [
+"protostomia",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

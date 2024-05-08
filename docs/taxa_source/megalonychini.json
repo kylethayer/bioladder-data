@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Megalonychini","parentTaxon":"megalonychidae","exampleMember":"neocnus","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Megalonychidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Megalonychini",
+"parentTaxon": "megalonychidae",
+"exampleMember": "neocnus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Megalonychidae"
+}

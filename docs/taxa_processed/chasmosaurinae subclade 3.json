@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Chasmosaurinae subclade 3","parentTaxon":"chasmosaurinae subclade 2","popularSubtaxa":["utahceratops","pentaceratops"],"exampleMember":"utahceratops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Triceratops#Classification","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["pentaceratops","utahceratops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Chasmosaurinae subclade 3",
+"parentTaxon": "chasmosaurinae subclade 2",
+"popularSubtaxa": [
+"utahceratops",
+"pentaceratops"
+],
+"exampleMember": "utahceratops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Triceratops#Classification",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"pentaceratops",
+"utahceratops"
+]
+}

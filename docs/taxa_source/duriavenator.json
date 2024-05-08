@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Duriavenator","parentTaxon":"megalosaurinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Duriavenator_NT.jpg/220px-Duriavenator_NT.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Duriavenator"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Duriavenator",
+"parentTaxon": "megalosaurinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Duriavenator_NT.jpg/220px-Duriavenator_NT.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Duriavenator"
+}

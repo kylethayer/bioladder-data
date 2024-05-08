@@ -1,1 +1,16 @@
-{"description":"","popularity":60,"extinct":false,"name":"Earless seal","parentTaxon":"pinniped","exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Phocidae","otherNames":["True seal"],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seehund.jpg/220px-Seehund.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Earless_seal"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Earless seal",
+"parentTaxon": "pinniped",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Phocidae",
+"otherNames": [
+"True seal"
+],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Seehund.jpg/220px-Seehund.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Earless_seal"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Ankylosauria","parentTaxon":"eurypoda","popularSubtaxa":["polacanthus","sauropelta","ankylosaurus"],"exampleMember":"minmi","exampleMemberType":"Early Member","taxonomicRank":"Suborder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ankylosauria","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["ankylosauridae","nodosauridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ankylosauria",
+"parentTaxon": "eurypoda",
+"popularSubtaxa": [
+"polacanthus",
+"sauropelta",
+"ankylosaurus"
+],
+"exampleMember": "minmi",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Suborder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ankylosauria",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"ankylosauridae",
+"nodosauridae"
+]
+}

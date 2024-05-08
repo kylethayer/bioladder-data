@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lacertoidea","parentTaxon":"episquamata","popularSubtaxa":["spectacled lizards","teiidae","lacertidae"],"exampleMember":"spectacled lizards","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lacertoidea","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["lacertibaenia","teiformata"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lacertoidea",
+"parentTaxon": "episquamata",
+"popularSubtaxa": [
+"spectacled lizards",
+"teiidae",
+"lacertidae"
+],
+"exampleMember": "spectacled lizards",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lacertoidea",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"lacertibaenia",
+"teiformata"
+]
+}

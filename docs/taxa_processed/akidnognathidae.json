@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Akidnognathidae","parentTaxon":"eutherocephalia subclade 1","popularSubtaxa":["annatherapsidus","euchambersia","moschorhinus"],"exampleMember":"annatherapsidus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Akidnognathidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["akidnognathidae subclade 1","annatherapsidus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Akidnognathidae",
+"parentTaxon": "eutherocephalia subclade 1",
+"popularSubtaxa": [
+"annatherapsidus",
+"euchambersia",
+"moschorhinus"
+],
+"exampleMember": "annatherapsidus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Akidnognathidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"akidnognathidae subclade 1",
+"annatherapsidus"
+]
+}

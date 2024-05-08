@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Pareiasaur subclade 2","parentTaxon":"pareiasaur subclade 1","popularSubtaxa":["deltavjatia","pareiasaurus","scutosaurus"],"exampleMember":"deltavjatia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Pareiasaur","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["deltavjatia","velosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Pareiasaur subclade 2",
+"parentTaxon": "pareiasaur subclade 1",
+"popularSubtaxa": [
+"deltavjatia",
+"pareiasaurus",
+"scutosaurus"
+],
+"exampleMember": "deltavjatia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pareiasaur",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"deltavjatia",
+"velosauria"
+]
+}

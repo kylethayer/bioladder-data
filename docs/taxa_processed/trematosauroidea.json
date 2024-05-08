@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Trematosauroidea","parentTaxon":"trematosauria","popularSubtaxa":["thoosuchus","trematosaurus"],"exampleMember":"thoosuchus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Trematosauroidea","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["thoosuchus","trematosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Trematosauroidea",
+"parentTaxon": "trematosauria",
+"popularSubtaxa": [
+"thoosuchus",
+"trematosaurus"
+],
+"exampleMember": "thoosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Trematosauroidea",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"thoosuchus",
+"trematosaurus"
+]
+}

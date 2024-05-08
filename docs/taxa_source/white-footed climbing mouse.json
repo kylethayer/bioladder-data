@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"White-footed climbing mouse","parentTaxon":"rhipidomys","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Rhipidomys leucodactylus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hesperomys_%28Rhipidomys%29_sclateri_%28cropped%29.jpg/220px-Hesperomys_%28Rhipidomys%29_sclateri_%28cropped%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/White-footed_climbing_mouse"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "White-footed climbing mouse",
+"parentTaxon": "rhipidomys",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Rhipidomys leucodactylus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hesperomys_%28Rhipidomys%29_sclateri_%28cropped%29.jpg/220px-Hesperomys_%28Rhipidomys%29_sclateri_%28cropped%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/White-footed_climbing_mouse"
+}

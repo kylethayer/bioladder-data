@@ -1,1 +1,26 @@
-{"description":"","popularity":"","extinct":true,"name":"Hemicyonidae","parentTaxon":"arctoidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"","otherNames":["Hemicyoninae","dog-bear"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hemicyon_sansaniensis.JPG/250px-Hemicyon_sansaniensis.JPG","wikipediaPage":"http://en.wikipedia.org/wiki/Hemicyonidae","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[],"needs_to_be_processed":true}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hemicyonidae",
+"parentTaxon": "arctoidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [
+"Hemicyoninae",
+"dog-bear"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hemicyon_sansaniensis.JPG/250px-Hemicyon_sansaniensis.JPG",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Hemicyonidae",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [],
+"needs_to_be_processed": true
+}

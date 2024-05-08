@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Torvosaurus","parentTaxon":"megalosaurinae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Torvosaurus_tanner_DBi.jpg/220px-Torvosaurus_tanner_DBi.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Torvosaurus","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Torvosaurus",
+"parentTaxon": "megalosaurinae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Torvosaurus_tanner_DBi.jpg/220px-Torvosaurus_tanner_DBi.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Torvosaurus",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

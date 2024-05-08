@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Amami rabbit","parentTaxon":"leporinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Pentalagus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amami_rabbit_Stuffed_specimen.jpg/220px-Amami_rabbit_Stuffed_specimen.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Amami_rabbit","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Amami rabbit",
+"parentTaxon": "leporinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Pentalagus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amami_rabbit_Stuffed_specimen.jpg/220px-Amami_rabbit_Stuffed_specimen.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Amami_rabbit",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

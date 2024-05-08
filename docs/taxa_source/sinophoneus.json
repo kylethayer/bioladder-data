@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Sinophoneus","parentTaxon":"anteosaurinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sinophoneus09.jpg/220px-Sinophoneus09.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Sinophoneus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Sinophoneus",
+"parentTaxon": "anteosaurinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sinophoneus09.jpg/220px-Sinophoneus09.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sinophoneus"
+}

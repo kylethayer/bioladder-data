@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Captorhinidae","parentTaxon":"eureptilia subclade 1","popularSubtaxa":["captorhinus","labidosaurus","labidosaurikos"],"exampleMember":"captorhinus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Captorhinidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["captorhinidae subclade 1","captorhinus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Captorhinidae",
+"parentTaxon": "eureptilia subclade 1",
+"popularSubtaxa": [
+"captorhinus",
+"labidosaurus",
+"labidosaurikos"
+],
+"exampleMember": "captorhinus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Captorhinidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"captorhinidae subclade 1",
+"captorhinus"
+]
+}

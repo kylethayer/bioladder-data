@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Mycterosaurinae","parentTaxon":"varanopidae","popularSubtaxa":["mycterosaurus","heleosaurus"],"exampleMember":"mycterosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Varanopidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["heleosaurus","mycterosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Mycterosaurinae",
+"parentTaxon": "varanopidae",
+"popularSubtaxa": [
+"mycterosaurus",
+"heleosaurus"
+],
+"exampleMember": "mycterosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Varanopidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"heleosaurus",
+"mycterosaurus"
+]
+}

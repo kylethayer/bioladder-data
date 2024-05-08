@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Vertebrate subclade 4","parentTaxon":"vertebrate subclade 3","popularSubtaxa":["cartilaginous fish","human","dinosaur"],"exampleMember":"hemicyclaspis","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Vertebrata#Phylogenetic_relationships","popularAncestors":["vertebrate","chordate","animal","life"],"subtaxa":["gnathostomata","osteostraci","pituriaspida"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Vertebrate subclade 4",
+"parentTaxon": "vertebrate subclade 3",
+"popularSubtaxa": [
+"cartilaginous fish",
+"human",
+"dinosaur"
+],
+"exampleMember": "hemicyclaspis",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Vertebrata#Phylogenetic_relationships",
+"popularAncestors": [
+"vertebrate",
+"chordate",
+"animal",
+"life"
+],
+"subtaxa": [
+"gnathostomata",
+"osteostraci",
+"pituriaspida"
+]
+}

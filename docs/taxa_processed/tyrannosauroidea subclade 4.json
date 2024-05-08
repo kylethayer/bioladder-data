@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Tyrannosauroidea subclade 4","parentTaxon":"tyrannosauroidea subclade 3","popularSubtaxa":["zhuchengtyrannus","appalachiosaurus","tyrannosaurus"],"exampleMember":"appalachiosaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["appalachiosaurus","tyrannosauroidea subclade 5"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Tyrannosauroidea subclade 4",
+"parentTaxon": "tyrannosauroidea subclade 3",
+"popularSubtaxa": [
+"zhuchengtyrannus",
+"appalachiosaurus",
+"tyrannosaurus"
+],
+"exampleMember": "appalachiosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"appalachiosaurus",
+"tyrannosauroidea subclade 5"
+]
+}

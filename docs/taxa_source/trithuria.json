@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Trithuria","parentTaxon":"nymphaeales","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Trithuria_inconspicua_lake.jpg/220px-Trithuria_inconspicua_lake.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Trithuria"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Trithuria",
+"parentTaxon": "nymphaeales",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Trithuria_inconspicua_lake.jpg/220px-Trithuria_inconspicua_lake.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Trithuria"
+}

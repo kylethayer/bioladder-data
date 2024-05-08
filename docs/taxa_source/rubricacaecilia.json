@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Rubricacaecilia","parentTaxon":"gymnophiona subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rubricacaecilia.jpg/220px-Rubricacaecilia.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Rubricacaecilia"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Rubricacaecilia",
+"parentTaxon": "gymnophiona subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rubricacaecilia.jpg/220px-Rubricacaecilia.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rubricacaecilia"
+}

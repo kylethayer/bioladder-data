@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Ankylosauridae","parentTaxon":"ankylosauria","popularSubtaxa":["minmi","minotaurasaurus","ankylosaurus"],"exampleMember":"minmi","exampleMemberType":"Early Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ankylosauridae","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["ankylosaurinae","minmi"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ankylosauridae",
+"parentTaxon": "ankylosauria",
+"popularSubtaxa": [
+"minmi",
+"minotaurasaurus",
+"ankylosaurus"
+],
+"exampleMember": "minmi",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ankylosauridae",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"ankylosaurinae",
+"minmi"
+]
+}

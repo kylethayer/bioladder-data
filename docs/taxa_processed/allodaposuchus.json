@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Allodaposuchus","parentTaxon":"crocodilia subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Allodaposuchus_BW.jpg/220px-Allodaposuchus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Allodaposuchus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Allodaposuchus",
+"parentTaxon": "crocodilia subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Allodaposuchus_BW.jpg/220px-Allodaposuchus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Allodaposuchus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

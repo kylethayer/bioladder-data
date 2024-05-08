@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Chinchilloidea","parentTaxon":"caviomorpha","popularSubtaxa":["chinchilla rat","chinchilla","plains viscacha"],"exampleMember":"chinchilla rat","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Caviomorpha","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["chinchilla rat","chinchillidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Chinchilloidea",
+"parentTaxon": "caviomorpha",
+"popularSubtaxa": [
+"chinchilla rat",
+"chinchilla",
+"plains viscacha"
+],
+"exampleMember": "chinchilla rat",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Caviomorpha",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"chinchilla rat",
+"chinchillidae"
+]
+}

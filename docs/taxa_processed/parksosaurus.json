@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Parksosaurus","parentTaxon":"ornithopod subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Parksosaurus_Steveoc86.jpg/220px-Parksosaurus_Steveoc86.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Parksosaurus","popularAncestors":["ornithopod","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Parksosaurus",
+"parentTaxon": "ornithopod subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Parksosaurus_Steveoc86.jpg/220px-Parksosaurus_Steveoc86.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Parksosaurus",
+"popularAncestors": [
+"ornithopod",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

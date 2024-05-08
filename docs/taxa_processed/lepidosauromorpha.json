@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lepidosauromorpha","parentTaxon":"sauria","popularSubtaxa":["snake","turtle","gecko"],"exampleMember":"eunotosaurus","exampleMemberType":"Early Member","taxonomicRank":"Infraclass","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Lepidosauromorpha","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["lepidosauromorpha subclade 1","pantestudines"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lepidosauromorpha",
+"parentTaxon": "sauria",
+"popularSubtaxa": [
+"snake",
+"turtle",
+"gecko"
+],
+"exampleMember": "eunotosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Infraclass",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Lepidosauromorpha",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"lepidosauromorpha subclade 1",
+"pantestudines"
+]
+}

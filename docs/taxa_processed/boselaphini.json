@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Boselaphini","parentTaxon":"bovinae","popularSubtaxa":["nilgai","four-horned antelope"],"exampleMember":"nilgai","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Boselaphini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["four-horned antelope","nilgai"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Boselaphini",
+"parentTaxon": "bovinae",
+"popularSubtaxa": [
+"nilgai",
+"four-horned antelope"
+],
+"exampleMember": "nilgai",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Boselaphini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"four-horned antelope",
+"nilgai"
+]
+}

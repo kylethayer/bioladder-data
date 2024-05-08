@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Procyonidae subclade 3","parentTaxon":"procyonidae subclade 1","popularSubtaxa":["olinguito","coatis","white-nosed coati"],"exampleMember":"olinguito","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Procyonidae#Classification","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":["bassaricyon","coatis"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Procyonidae subclade 3",
+"parentTaxon": "procyonidae subclade 1",
+"popularSubtaxa": [
+"olinguito",
+"coatis",
+"white-nosed coati"
+],
+"exampleMember": "olinguito",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Procyonidae#Classification",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"bassaricyon",
+"coatis"
+]
+}

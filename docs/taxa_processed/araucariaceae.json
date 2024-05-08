@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Araucariaceae","parentTaxon":"conifer subclade 3","popularSubtaxa":["wollemia","araucaria","agathis"],"exampleMember":"wollemia","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Araucariaceae","popularAncestors":["conifer","land plant","cellular life","life"],"subtaxa":["agathis","araucaria","wollemia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Araucariaceae",
+"parentTaxon": "conifer subclade 3",
+"popularSubtaxa": [
+"wollemia",
+"araucaria",
+"agathis"
+],
+"exampleMember": "wollemia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Araucariaceae",
+"popularAncestors": [
+"conifer",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"agathis",
+"araucaria",
+"wollemia"
+]
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Leptonectidae","parentTaxon":"neoichthyosauria subclade 1","popularSubtaxa":["eurhinosaurus","excalibosaurus","wahlisaurus"],"exampleMember":"eurhinosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Leptonectidae","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":["eurhinosaurus","excalibosaurus","wahlisaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Leptonectidae",
+"parentTaxon": "neoichthyosauria subclade 1",
+"popularSubtaxa": [
+"eurhinosaurus",
+"excalibosaurus",
+"wahlisaurus"
+],
+"exampleMember": "eurhinosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Leptonectidae",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"eurhinosaurus",
+"excalibosaurus",
+"wahlisaurus"
+]
+}

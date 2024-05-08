@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":false,"name":"Brachiopod","parentTaxon":"trochozoa subclade 3","exampleMember":"","exampleMemberType":"","taxonomicRank":"Phylum","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LingulaanatinaAA.JPG/220px-LingulaanatinaAA.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Brachiopod"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Brachiopod",
+"parentTaxon": "trochozoa subclade 3",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Phylum",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LingulaanatinaAA.JPG/220px-LingulaanatinaAA.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Brachiopod"
+}

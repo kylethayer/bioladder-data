@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":true,"name":"Orthoceratoidea","parentTaxon":"nautiloid","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid","popularAncestors":["cephalopod","mollusk","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Orthoceratoidea",
+"parentTaxon": "nautiloid",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nautiloid",
+"popularAncestors": [
+"cephalopod",
+"mollusk",
+"animal",
+"life"
+],
+"subtaxa": []
+}

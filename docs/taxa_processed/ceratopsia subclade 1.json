@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Ceratopsia subclade 1","parentTaxon":"ceratopsia","popularSubtaxa":["protoceratops","chaoyangsaurus","triceratops"],"exampleMember":"chaoyangsaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ceratopsia","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["chaoyangsaurus","neoceratopsia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ceratopsia subclade 1",
+"parentTaxon": "ceratopsia",
+"popularSubtaxa": [
+"protoceratops",
+"chaoyangsaurus",
+"triceratops"
+],
+"exampleMember": "chaoyangsaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ceratopsia",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"chaoyangsaurus",
+"neoceratopsia"
+]
+}

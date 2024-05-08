@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"California rock lizard","parentTaxon":"phrynosomatidae subclade 3","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Petrosaurus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blauer_Felsenleguan.jpg/220px-Blauer_Felsenleguan.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/California_rock_lizard"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "California rock lizard",
+"parentTaxon": "phrynosomatidae subclade 3",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Petrosaurus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blauer_Felsenleguan.jpg/220px-Blauer_Felsenleguan.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/California_rock_lizard"
+}

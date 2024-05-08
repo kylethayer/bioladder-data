@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Paca","parentTaxon":"cavioidea","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Cuniculus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cuniculus_paca.jpg/220px-Cuniculus_paca.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Paca"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Paca",
+"parentTaxon": "cavioidea",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Cuniculus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cuniculus_paca.jpg/220px-Cuniculus_paca.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Paca"
+}

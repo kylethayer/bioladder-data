@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Tropidurus","parentTaxon":"tropidurinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tropidurus_oreadicus.jpg/220px-Tropidurus_oreadicus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Tropidurus"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Tropidurus",
+"parentTaxon": "tropidurinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tropidurus_oreadicus.jpg/220px-Tropidurus_oreadicus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Tropidurus"
+}

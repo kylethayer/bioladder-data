@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Hippodraco","parentTaxon":"styracosterna","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Life_restoration_of_Hippodraco.jpg/220px-Life_restoration_of_Hippodraco.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Hippodraco"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Hippodraco",
+"parentTaxon": "styracosterna",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Life_restoration_of_Hippodraco.jpg/220px-Life_restoration_of_Hippodraco.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hippodraco"
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":40,"extinct":false,"name":"Ring-tailed cat","parentTaxon":"bassariscus","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Bassariscus astutus","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/f/fa/Bassariscus.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Ring-tailed_cat","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Ring-tailed cat",
+"parentTaxon": "bassariscus",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Bassariscus astutus",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/f/fa/Bassariscus.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ring-tailed_cat",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

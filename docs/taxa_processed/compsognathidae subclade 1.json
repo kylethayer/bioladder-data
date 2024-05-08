@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Compsognathidae subclade 1","parentTaxon":"compsognathidae","popularSubtaxa":["sinocalliopteryx","huaxiagnathus"],"exampleMember":"sinocalliopteryx","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Compsognathidae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["huaxiagnathus","sinocalliopteryx"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Compsognathidae subclade 1",
+"parentTaxon": "compsognathidae",
+"popularSubtaxa": [
+"sinocalliopteryx",
+"huaxiagnathus"
+],
+"exampleMember": "sinocalliopteryx",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Compsognathidae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"huaxiagnathus",
+"sinocalliopteryx"
+]
+}

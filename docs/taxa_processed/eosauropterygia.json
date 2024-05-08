@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eosauropterygia","parentTaxon":"sauropterygia","popularSubtaxa":["yunguisaurus","plesiosaurs","pachypleurosaur"],"exampleMember":"pistosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["eosauropterygia subclade 1","pistosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eosauropterygia",
+"parentTaxon": "sauropterygia",
+"popularSubtaxa": [
+"yunguisaurus",
+"plesiosaurs",
+"pachypleurosaur"
+],
+"exampleMember": "pistosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"eosauropterygia subclade 1",
+"pistosauria"
+]
+}

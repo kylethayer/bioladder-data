@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Aetosaur","parentTaxon":"suchia subclade 1","exampleMember":"aetosaurus","exampleMemberType":"Example Member","taxonomicRank":"Order","scientificName":"Aetosauria","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Aetosaur"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Aetosaur",
+"parentTaxon": "suchia subclade 1",
+"exampleMember": "aetosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Order",
+"scientificName": "Aetosauria",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aetosaur"
+}

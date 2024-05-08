@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Embolomeri","parentTaxon":"reptiliomorpha","popularSubtaxa":["eoherpeton","proterogyrinus","pholiderpeton"],"exampleMember":"eoherpeton","exampleMemberType":"Example Member","taxonomicRank":"Order","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Embolomeri","popularAncestors":["tetrapod","bony fish","animal","life"],"subtaxa":["embolomeri subclade 1","eoherpeton"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Embolomeri",
+"parentTaxon": "reptiliomorpha",
+"popularSubtaxa": [
+"eoherpeton",
+"proterogyrinus",
+"pholiderpeton"
+],
+"exampleMember": "eoherpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Embolomeri",
+"popularAncestors": [
+"tetrapod",
+"bony fish",
+"animal",
+"life"
+],
+"subtaxa": [
+"embolomeri subclade 1",
+"eoherpeton"
+]
+}

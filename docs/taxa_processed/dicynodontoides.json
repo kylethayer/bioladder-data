@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Dicynodontoides","parentTaxon":"kistecephalia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/KingoriaDB.jpg/220px-KingoriaDB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dicynodontoides","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Dicynodontoides",
+"parentTaxon": "kistecephalia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/KingoriaDB.jpg/220px-KingoriaDB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dicynodontoides",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":40,"extinct":false,"name":"Cartilaginous fish","parentTaxon":"gnathostomata","exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"Chondrichthyes","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Chondrichthyes"}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Cartilaginous fish",
+"parentTaxon": "gnathostomata",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "Chondrichthyes",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Chondrichthyes"
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Greater guinea pig","parentTaxon":"cavia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cavia_magna_%28Wroclaw_zoo%29.JPG/220px-Cavia_magna_%28Wroclaw_zoo%29.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Greater_guinea_pig","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Greater guinea pig",
+"parentTaxon": "cavia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cavia_magna_%28Wroclaw_zoo%29.JPG/220px-Cavia_magna_%28Wroclaw_zoo%29.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Greater_guinea_pig",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

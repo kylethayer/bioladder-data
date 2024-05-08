@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Eunotosaurus","parentTaxon":"pantestudines subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eunotosaurus_africanus.jpg/220px-Eunotosaurus_africanus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Eunotosaurus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Eunotosaurus",
+"parentTaxon": "pantestudines subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eunotosaurus_africanus.jpg/220px-Eunotosaurus_africanus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eunotosaurus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

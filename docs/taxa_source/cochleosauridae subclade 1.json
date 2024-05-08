@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Cochleosauridae subclade 1","parentTaxon":"cochleosauridae","exampleMember":"nigerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Edopoidea"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Cochleosauridae subclade 1",
+"parentTaxon": "cochleosauridae",
+"exampleMember": "nigerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Edopoidea"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eutitanosauria subclade 2","parentTaxon":"eutitanosauria","popularSubtaxa":["opisthocoelicaudia","saltasaurinae","saltasaurus"],"exampleMember":"isisaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Titanosaur","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["opisthocoelicaudiinae","saltasaurinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eutitanosauria subclade 2",
+"parentTaxon": "eutitanosauria",
+"popularSubtaxa": [
+"opisthocoelicaudia",
+"saltasaurinae",
+"saltasaurus"
+],
+"exampleMember": "isisaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Titanosaur",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"opisthocoelicaudiinae",
+"saltasaurinae"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"West caucasian tur","parentTaxon":"capra caucasica","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subspecies","scientificName":"Capra caucasica caucasica","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zoo_033_edited.jpg/220px-Zoo_033_edited.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/West_Caucasian_tur"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "West caucasian tur",
+"parentTaxon": "capra caucasica",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subspecies",
+"scientificName": "Capra caucasica caucasica",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zoo_033_edited.jpg/220px-Zoo_033_edited.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/West_Caucasian_tur"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Coronosauria subclade 2","parentTaxon":"coronosauria subclade 1","popularSubtaxa":["protoceratops","pachyrhinosaurus","triceratops"],"exampleMember":"protoceratops","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["coronosauria subclade 3","protoceratopsid"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Coronosauria subclade 2",
+"parentTaxon": "coronosauria subclade 1",
+"popularSubtaxa": [
+"protoceratops",
+"pachyrhinosaurus",
+"triceratops"
+],
+"exampleMember": "protoceratops",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Neoceratopsia#Phylogeny",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"coronosauria subclade 3",
+"protoceratopsid"
+]
+}

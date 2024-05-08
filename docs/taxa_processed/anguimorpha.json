@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Anguimorpha","parentTaxon":"toxicofera subclade 1","popularSubtaxa":["mosasaur","monitor lizard","gila monster"],"exampleMember":"chinese crocodile lizard","exampleMemberType":"Example Member","taxonomicRank":"Infraorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Anguimorpha","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["neoanguimorpha","palaeoanguimorpha"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Anguimorpha",
+"parentTaxon": "toxicofera subclade 1",
+"popularSubtaxa": [
+"mosasaur",
+"monitor lizard",
+"gila monster"
+],
+"exampleMember": "chinese crocodile lizard",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Infraorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Anguimorpha",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"neoanguimorpha",
+"palaeoanguimorpha"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Dvinosauroidea","parentTaxon":"dvinosauria","exampleMember":"dvinosaurus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Dvinosauroidea"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dvinosauroidea",
+"parentTaxon": "dvinosauria",
+"exampleMember": "dvinosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dvinosauroidea"
+}

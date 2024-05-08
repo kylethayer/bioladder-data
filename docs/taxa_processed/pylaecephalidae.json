@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Pylaecephalidae","parentTaxon":"diictodontia","popularSubtaxa":["diictodon","eosimops","robertia"],"exampleMember":"diictodon","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Pylaecephalidae","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":["diictodon","pylaecephalidae subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Pylaecephalidae",
+"parentTaxon": "diictodontia",
+"popularSubtaxa": [
+"diictodon",
+"eosimops",
+"robertia"
+],
+"exampleMember": "diictodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pylaecephalidae",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"diictodon",
+"pylaecephalidae subclade 1"
+]
+}

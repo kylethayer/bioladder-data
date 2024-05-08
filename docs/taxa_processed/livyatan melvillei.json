@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":true,"name":"Livyatan melvillei","parentTaxon":"physeteroidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livyatan_melvillei.jpg/220px-Livyatan_melvillei.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Livyatan_melvillei","popularAncestors":["toothed whale","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Livyatan melvillei",
+"parentTaxon": "physeteroidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livyatan_melvillei.jpg/220px-Livyatan_melvillei.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Livyatan_melvillei",
+"popularAncestors": [
+"toothed whale",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

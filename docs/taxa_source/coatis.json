@@ -1,1 +1,14 @@
-{"description":"","popularity":40,"extinct":false,"name":"Coatis","parentTaxon":"procyonidae subclade 3","exampleMember":"south american coati","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Nasuella"}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Coatis",
+"parentTaxon": "procyonidae subclade 3",
+"exampleMember": "south american coati",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Nasuella"
+}

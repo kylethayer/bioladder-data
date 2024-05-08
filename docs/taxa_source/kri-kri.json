@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Kri-kri","parentTaxon":"wild goat","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subspecies","scientificName":"Capra aegagrus cretica","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Male_and_female_Cretan_ibex.jpg/220px-Male_and_female_Cretan_ibex.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Kri-kri"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Kri-kri",
+"parentTaxon": "wild goat",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subspecies",
+"scientificName": "Capra aegagrus cretica",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Male_and_female_Cretan_ibex.jpg/220px-Male_and_female_Cretan_ibex.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kri-kri"
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Pachycephalosauria","parentTaxon":"marginocephalia","popularSubtaxa":["pachycephalosaurus","goyocephale","prenocephale"],"exampleMember":"goyocephale","exampleMemberType":"Early Member","taxonomicRank":"Infraorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Pachycephalosauria","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["goyocephale","pachycephalosauria subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Pachycephalosauria",
+"parentTaxon": "marginocephalia",
+"popularSubtaxa": [
+"pachycephalosaurus",
+"goyocephale",
+"prenocephale"
+],
+"exampleMember": "goyocephale",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Infraorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Pachycephalosauria",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"goyocephale",
+"pachycephalosauria subclade 1"
+]
+}

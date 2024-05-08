@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Kannemeyeriiformes subclade 5","parentTaxon":"kannemeyeriiformes subclade 4","popularSubtaxa":["sinokannemeyeria","zambiasaurus","stahleckeria"],"exampleMember":"sinokannemeyeria","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Kannemeyeria","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":["kannemeyeriiformes subclade 6","sinokannemeyeria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Kannemeyeriiformes subclade 5",
+"parentTaxon": "kannemeyeriiformes subclade 4",
+"popularSubtaxa": [
+"sinokannemeyeria",
+"zambiasaurus",
+"stahleckeria"
+],
+"exampleMember": "sinokannemeyeria",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kannemeyeria",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"kannemeyeriiformes subclade 6",
+"sinokannemeyeria"
+]
+}

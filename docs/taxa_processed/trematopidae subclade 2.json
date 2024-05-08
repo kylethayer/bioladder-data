@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Trematopidae subclade 2","parentTaxon":"trematopidae subclade 1","popularSubtaxa":["phonerpeton","acheloma"],"exampleMember":"phonerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Trematopidae","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["acheloma","phonerpeton"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Trematopidae subclade 2",
+"parentTaxon": "trematopidae subclade 1",
+"popularSubtaxa": [
+"phonerpeton",
+"acheloma"
+],
+"exampleMember": "phonerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Trematopidae",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"acheloma",
+"phonerpeton"
+]
+}

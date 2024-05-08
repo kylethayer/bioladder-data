@@ -1,1 +1,25 @@
-{"description":"","popularity":50,"extinct":false,"name":"Blesmol","parentTaxon":"phiomorpha","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":["Mole-rats","African mole-rats"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Damaraland_mole-rat.jpg/220px-Damaraland_mole-rat.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Blesmol","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Blesmol",
+"parentTaxon": "phiomorpha",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [
+"Mole-rats",
+"African mole-rats"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Damaraland_mole-rat.jpg/220px-Damaraland_mole-rat.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Blesmol",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

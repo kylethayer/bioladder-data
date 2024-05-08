@@ -1,1 +1,22 @@
-{"description":"","popularity":70,"extinct":false,"name":"Bat","parentTaxon":"scrotifera","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"Chiroptera","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/240px-Big-eared-townsend-fledermaus.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Bat","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Bat",
+"parentTaxon": "scrotifera",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "Chiroptera",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/240px-Big-eared-townsend-fledermaus.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Bat",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

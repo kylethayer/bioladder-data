@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Gomphodontia subclade 1","parentTaxon":"gomphodontia","popularSubtaxa":["trirachodon","exaeretodon","massetognathus"],"exampleMember":"trirachodon","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Gomphodontia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["traversodontidae","trirachodon"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Gomphodontia subclade 1",
+"parentTaxon": "gomphodontia",
+"popularSubtaxa": [
+"trirachodon",
+"exaeretodon",
+"massetognathus"
+],
+"exampleMember": "trirachodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Gomphodontia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"traversodontidae",
+"trirachodon"
+]
+}

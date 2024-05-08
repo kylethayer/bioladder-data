@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Hippidion","parentTaxon":"equini","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hippidion.jpg/220px-Hippidion.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Hippidion"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Hippidion",
+"parentTaxon": "equini",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hippidion.jpg/220px-Hippidion.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Hippidion"
+}

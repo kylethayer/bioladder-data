@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Anconastes","parentTaxon":"trematopidae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Anconastes.jpg/220px-Anconastes.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Anconastes","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Anconastes",
+"parentTaxon": "trematopidae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Anconastes.jpg/220px-Anconastes.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Anconastes",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

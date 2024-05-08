@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Nqwebasaurus","parentTaxon":"ornithomimosauria","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nqwebasaurus.jpg/220px-Nqwebasaurus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Nqwebasaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Nqwebasaurus",
+"parentTaxon": "ornithomimosauria",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nqwebasaurus.jpg/220px-Nqwebasaurus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nqwebasaurus"
+}

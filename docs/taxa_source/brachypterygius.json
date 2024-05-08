@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Brachypterygius","parentTaxon":"platypterygiinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brachypterygius_NT_small.jpg/220px-Brachypterygius_NT_small.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Brachypterygius"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Brachypterygius",
+"parentTaxon": "platypterygiinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brachypterygius_NT_small.jpg/220px-Brachypterygius_NT_small.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Brachypterygius"
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Megalosauria","parentTaxon":"megalosauroidea","popularSubtaxa":["baryonyx","spinosaurus","megalosaurus"],"exampleMember":"streptospondylus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Megalosauroidea","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["megalosauridae","spinosauridae","streptospondylus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Megalosauria",
+"parentTaxon": "megalosauroidea",
+"popularSubtaxa": [
+"baryonyx",
+"spinosaurus",
+"megalosaurus"
+],
+"exampleMember": "streptospondylus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Megalosauroidea",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"megalosauridae",
+"spinosauridae",
+"streptospondylus"
+]
+}

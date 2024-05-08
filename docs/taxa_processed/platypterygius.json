@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Platypterygius","parentTaxon":"platypterygiinae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Platypterigius_longmani_DB.jpg/220px-Platypterigius_longmani_DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Platypterygius","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Platypterygius",
+"parentTaxon": "platypterygiinae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Platypterigius_longmani_DB.jpg/220px-Platypterigius_longmani_DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Platypterygius",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

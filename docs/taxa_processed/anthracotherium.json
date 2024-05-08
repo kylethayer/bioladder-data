@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Anthracotherium","parentTaxon":"hippopotamidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Anthracotherium10.jpg/250px-Anthracotherium10.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Anthracotherium","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Anthracotherium",
+"parentTaxon": "hippopotamidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Anthracotherium10.jpg/250px-Anthracotherium10.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Anthracotherium",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

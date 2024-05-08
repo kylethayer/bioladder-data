@@ -1,1 +1,16 @@
-{"description":"","popularity":"","extinct":true,"name":"Acanthodii","parentTaxon":"teleostomi","exampleMember":"acanthodes","exampleMemberType":"Example Member","taxonomicRank":"Class","scientificName":"","otherNames":["Spiny sharks"],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Acanthodii"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Acanthodii",
+"parentTaxon": "teleostomi",
+"exampleMember": "acanthodes",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [
+"Spiny sharks"
+],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Acanthodii"
+}

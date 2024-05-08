@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Sphenacodontinae subclade 1","parentTaxon":"sphenacodontinae","exampleMember":"dimetrodon","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Sphenacodontinae subclade 1",
+"parentTaxon": "sphenacodontinae",
+"exampleMember": "dimetrodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae"
+}

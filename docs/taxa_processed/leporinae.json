@@ -1,1 +1,36 @@
-{"description":"","popularity":"","extinct":false,"name":"Leporinae","parentTaxon":"leporidae","popularSubtaxa":["hare","european rabbit","cottontail rabbit"],"exampleMember":"hare","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lagomorpha","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["amami rabbit","cottontail rabbit","european rabbit","hare","hispid hare","nuralagus","pygmy rabbit","sumatran striped rabbit","volcano rabbit"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Leporinae",
+"parentTaxon": "leporidae",
+"popularSubtaxa": [
+"hare",
+"european rabbit",
+"cottontail rabbit"
+],
+"exampleMember": "hare",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lagomorpha",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"amami rabbit",
+"cottontail rabbit",
+"european rabbit",
+"hare",
+"hispid hare",
+"nuralagus",
+"pygmy rabbit",
+"sumatran striped rabbit",
+"volcano rabbit"
+]
+}

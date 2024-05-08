@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Peltobatrachus","parentTaxon":"stereospondyli","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Peltobatrachus_BW.jpg/220px-Peltobatrachus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Peltobatrachus","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Peltobatrachus",
+"parentTaxon": "stereospondyli",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Peltobatrachus_BW.jpg/220px-Peltobatrachus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Peltobatrachus",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

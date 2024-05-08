@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Compsognathidae subclade 2","parentTaxon":"compsognathidae","popularSubtaxa":["compsognathus","sinosauropteryx","scipionyx"],"exampleMember":"sinosauropteryx","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Compsognathidae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["compsognathidae subclade 3","sinosauropteryx"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Compsognathidae subclade 2",
+"parentTaxon": "compsognathidae",
+"popularSubtaxa": [
+"compsognathus",
+"sinosauropteryx",
+"scipionyx"
+],
+"exampleMember": "sinosauropteryx",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Compsognathidae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"compsognathidae subclade 3",
+"sinosauropteryx"
+]
+}

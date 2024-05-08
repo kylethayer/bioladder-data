@@ -1,1 +1,22 @@
-{"description":"","popularity":70,"extinct":false,"name":"Armadillo","parentTaxon":"cingulata","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Dasypodidae","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nine-banded_Armadillo.jpg/220px-Nine-banded_Armadillo.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Armadillo","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Armadillo",
+"parentTaxon": "cingulata",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Dasypodidae",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nine-banded_Armadillo.jpg/220px-Nine-banded_Armadillo.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Armadillo",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

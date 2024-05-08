@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Lariosaurus","parentTaxon":"nothosauria","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lariosaurus_BW.jpg/220px-Lariosaurus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lariosaurus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Lariosaurus",
+"parentTaxon": "nothosauria",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lariosaurus_BW.jpg/220px-Lariosaurus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lariosaurus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Megaraptora","parentTaxon":"neovenatoridae subclade 3","popularSubtaxa":["fukuiraptor","orkoraptor","megaraptor"],"exampleMember":"fukuiraptor","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Megaraptora","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["megaraptora subclade 1","megaraptoridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Megaraptora",
+"parentTaxon": "neovenatoridae subclade 3",
+"popularSubtaxa": [
+"fukuiraptor",
+"orkoraptor",
+"megaraptor"
+],
+"exampleMember": "fukuiraptor",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Megaraptora",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"megaraptora subclade 1",
+"megaraptoridae"
+]
+}

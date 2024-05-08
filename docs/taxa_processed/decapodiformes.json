@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":false,"name":"Decapodiformes","parentTaxon":"neocoleoidea","popularSubtaxa":["spirula","cuttlefish","squid"],"exampleMember":"spirula","exampleMemberType":"Example Member","taxonomicRank":"Superorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Decapodiformes","popularAncestors":["cephalopod","mollusk","animal","life"],"subtaxa":["bobtail squid","cuttlefish","spirula","squid"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Decapodiformes",
+"parentTaxon": "neocoleoidea",
+"popularSubtaxa": [
+"spirula",
+"cuttlefish",
+"squid"
+],
+"exampleMember": "spirula",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Decapodiformes",
+"popularAncestors": [
+"cephalopod",
+"mollusk",
+"animal",
+"life"
+],
+"subtaxa": [
+"bobtail squid",
+"cuttlefish",
+"spirula",
+"squid"
+]
+}

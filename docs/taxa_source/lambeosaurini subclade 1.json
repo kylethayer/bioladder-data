@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Lambeosaurini subclade 1","parentTaxon":"lambeosaurini","exampleMember":"corythosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lambeosaurini"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Lambeosaurini subclade 1",
+"parentTaxon": "lambeosaurini",
+"exampleMember": "corythosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lambeosaurini"
+}

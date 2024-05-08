@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Phrynosomatidae subclade 4","parentTaxon":"phrynosomatidae subclade 2","popularSubtaxa":["spiny lizard","urosaurus"],"exampleMember":"spiny lizard","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Phrynosomatinae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["spiny lizard","urosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Phrynosomatidae subclade 4",
+"parentTaxon": "phrynosomatidae subclade 2",
+"popularSubtaxa": [
+"spiny lizard",
+"urosaurus"
+],
+"exampleMember": "spiny lizard",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Phrynosomatinae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"spiny lizard",
+"urosaurus"
+]
+}

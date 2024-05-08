@@ -1,1 +1,14 @@
-{"description":"","popularity":40,"extinct":false,"name":"Equus","parentTaxon":"equini","exampleMember":"tarpan","exampleMemberType":"Example Member","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Equus_%28genus%29"}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Equus",
+"parentTaxon": "equini",
+"exampleMember": "tarpan",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Equus_%28genus%29"
+}

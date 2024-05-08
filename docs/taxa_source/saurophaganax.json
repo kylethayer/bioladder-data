@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Saurophaganax","parentTaxon":"allosauridae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saurophaganax_NT.jpg/220px-Saurophaganax_NT.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Saurophaganax"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Saurophaganax",
+"parentTaxon": "allosauridae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saurophaganax_NT.jpg/220px-Saurophaganax_NT.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Saurophaganax"
+}

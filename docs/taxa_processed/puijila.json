@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":true,"name":"Puijila","parentTaxon":"pinnipedimorpha","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Puijila_BW.jpg/220px-Puijila_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Puijila","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Puijila",
+"parentTaxon": "pinnipedimorpha",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Puijila_BW.jpg/220px-Puijila_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Puijila",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

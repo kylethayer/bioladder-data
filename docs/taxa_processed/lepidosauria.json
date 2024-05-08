@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Lepidosauria","parentTaxon":"lepidosauromorpha subclade 1","popularSubtaxa":["tuatara","snake","gecko"],"exampleMember":"gephyrosaurus","exampleMemberType":"Early Member","taxonomicRank":"Superorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lepidosauria","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["rhynchocephalia","squamata"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Lepidosauria",
+"parentTaxon": "lepidosauromorpha subclade 1",
+"popularSubtaxa": [
+"tuatara",
+"snake",
+"gecko"
+],
+"exampleMember": "gephyrosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Superorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lepidosauria",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"rhynchocephalia",
+"squamata"
+]
+}

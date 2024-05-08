@@ -1,1 +1,24 @@
-{"description":"","popularity":"","extinct":true,"name":"Vetulicolia","parentTaxon":"deuterostome","popularSubtaxa":[],"exampleMember":"didazoon","exampleMemberType":"Example Member","taxonomicRank":"Phylum","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Vetulicolia","popularAncestors":["deuterostome","animal","cellular life","life"],"subtaxa":["didazoon"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Vetulicolia",
+"parentTaxon": "deuterostome",
+"popularSubtaxa": [],
+"exampleMember": "didazoon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Phylum",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Vetulicolia",
+"popularAncestors": [
+"deuterostome",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"didazoon"
+]
+}

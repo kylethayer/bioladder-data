@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Myrmecophagidae","parentTaxon":"anteater","exampleMember":"giant anteater","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Myrmecophagidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Myrmecophagidae",
+"parentTaxon": "anteater",
+"exampleMember": "giant anteater",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Myrmecophagidae"
+}

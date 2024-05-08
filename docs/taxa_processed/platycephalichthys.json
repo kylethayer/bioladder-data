@@ -1,1 +1,23 @@
-{"description":"","popularity":"10","extinct":true,"name":"Platycephalichthys","parentTaxon":"eotetrapodiformes subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Platycephalichthys_bischoffi.jpg/250px-Platycephalichthys_bischoffi.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Platycephalichthys","popularAncestors":["bony fish","vertebrate","animal","life"],"subtaxa":[],"needs_to_be_processed":true}
+{
+"description": "",
+"popularity": "10",
+"extinct": true,
+"name": "Platycephalichthys",
+"parentTaxon": "eotetrapodiformes subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Platycephalichthys_bischoffi.jpg/250px-Platycephalichthys_bischoffi.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Platycephalichthys",
+"popularAncestors": [
+"bony fish",
+"vertebrate",
+"animal",
+"life"
+],
+"subtaxa": [],
+"needs_to_be_processed": true
+}

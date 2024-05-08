@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Biarmosuchia subclade 1","parentTaxon":"biarmosuchia","popularSubtaxa":["hipposaurus","lophorhinus","proburnetia"],"exampleMember":"hipposaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Biarmosuchia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["biarmosuchia subclade 2","hipposaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Biarmosuchia subclade 1",
+"parentTaxon": "biarmosuchia",
+"popularSubtaxa": [
+"hipposaurus",
+"lophorhinus",
+"proburnetia"
+],
+"exampleMember": "hipposaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Biarmosuchia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"biarmosuchia subclade 2",
+"hipposaurus"
+]
+}

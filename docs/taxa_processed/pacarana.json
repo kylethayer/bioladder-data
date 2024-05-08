@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Pacarana","parentTaxon":"dinomyidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Dinomys branickii","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dinomys_branickii.JPG/220px-Dinomys_branickii.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Pacarana","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Pacarana",
+"parentTaxon": "dinomyidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Dinomys branickii",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dinomys_branickii.JPG/220px-Dinomys_branickii.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pacarana",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Lanthanosuchus","parentTaxon":"hallucicrania","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lanthanosuchus_watsoni.jpg/220px-Lanthanosuchus_watsoni.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lanthanosuchus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Lanthanosuchus",
+"parentTaxon": "hallucicrania",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lanthanosuchus_watsoni.jpg/220px-Lanthanosuchus_watsoni.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lanthanosuchus"
+}

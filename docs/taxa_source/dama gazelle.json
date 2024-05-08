@@ -1,1 +1,17 @@
-{"description":"","popularity":50,"extinct":false,"name":"Dama gazelle","parentTaxon":"nanger","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Nanger dama","otherNames":["Addra gazelle","Mhorr gazelle"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gazella_dama_mhorr_2.jpg/220px-Gazella_dama_mhorr_2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dama_gazelle"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Dama gazelle",
+"parentTaxon": "nanger",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Nanger dama",
+"otherNames": [
+"Addra gazelle",
+"Mhorr gazelle"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gazella_dama_mhorr_2.jpg/220px-Gazella_dama_mhorr_2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dama_gazelle"
+}

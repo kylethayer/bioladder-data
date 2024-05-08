@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Equinae","parentTaxon":"equidae","exampleMember":"hipparion","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Equinae"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Equinae",
+"parentTaxon": "equidae",
+"exampleMember": "hipparion",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Equinae"
+}

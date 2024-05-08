@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":false,"name":"Solenogastres","parentTaxon":"aculifera subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subclass","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Epimenia_verrucosa.jpg/220px-Epimenia_verrucosa.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Solenogastres"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Solenogastres",
+"parentTaxon": "aculifera subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subclass",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Epimenia_verrucosa.jpg/220px-Epimenia_verrucosa.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Solenogastres"
+}

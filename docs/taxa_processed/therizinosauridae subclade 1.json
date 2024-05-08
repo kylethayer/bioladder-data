@@ -1,1 +1,32 @@
-{"description":"","popularity":"","extinct":true,"name":"Therizinosauridae subclade 1","parentTaxon":"therizinosauridae","popularSubtaxa":["suzhousaurus","segnosaurus","therizinosaurus"],"exampleMember":"suzhousaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosaurhttps://en.wikipedia.org/wiki/Therizinosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["erlikosaurus","nothronychus","segnosaurus","suzhousaurus","therizinosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Therizinosauridae subclade 1",
+"parentTaxon": "therizinosauridae",
+"popularSubtaxa": [
+"suzhousaurus",
+"segnosaurus",
+"therizinosaurus"
+],
+"exampleMember": "suzhousaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosaurhttps://en.wikipedia.org/wiki/Therizinosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"erlikosaurus",
+"nothronychus",
+"segnosaurus",
+"suzhousaurus",
+"therizinosaurus"
+]
+}

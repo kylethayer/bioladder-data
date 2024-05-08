@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Huayangosaurus","parentTaxon":"stegosauria","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Huayangosaurus_BW.jpg/220px-Huayangosaurus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Huayangosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Huayangosaurus",
+"parentTaxon": "stegosauria",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Huayangosaurus_BW.jpg/220px-Huayangosaurus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Huayangosaurus"
+}

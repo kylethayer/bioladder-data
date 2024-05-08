@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Chasmosaurinae","parentTaxon":"ceratopsidae","exampleMember":"chasmosaurus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Chasmosaurinae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Chasmosaurinae",
+"parentTaxon": "ceratopsidae",
+"exampleMember": "chasmosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Chasmosaurinae"
+}

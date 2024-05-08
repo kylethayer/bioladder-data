@@ -1,1 +1,24 @@
-{"description":"","popularity":60,"extinct":false,"name":"American bison","parentTaxon":"bison","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":["American buffalo"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/220px-American_bison_k5680-1.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/American_bison","popularAncestors":["bison","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "American bison",
+"parentTaxon": "bison",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [
+"American buffalo"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/220px-American_bison_k5680-1.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/American_bison",
+"popularAncestors": [
+"bison",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

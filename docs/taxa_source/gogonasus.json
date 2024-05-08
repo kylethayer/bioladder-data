@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Gogonasus","parentTaxon":"tetrapodomorpha","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gogonasus_BW.jpg/250px-Gogonasus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Gogonasus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Gogonasus",
+"parentTaxon": "tetrapodomorpha",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gogonasus_BW.jpg/250px-Gogonasus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Gogonasus"
+}

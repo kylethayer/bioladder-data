@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Udanoceratops","parentTaxon":"leptoceratopsidae subclade 3","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Udanoceratops_BW.jpg/220px-Udanoceratops_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Udanoceratops","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Udanoceratops",
+"parentTaxon": "leptoceratopsidae subclade 3",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Udanoceratops_BW.jpg/220px-Udanoceratops_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Udanoceratops",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

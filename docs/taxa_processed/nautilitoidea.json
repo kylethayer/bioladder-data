@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Nautilitoidea","parentTaxon":"nautiloid","popularSubtaxa":["oncocerida","aturia","nautilus"],"exampleMember":"oncocerida","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid","popularAncestors":["cephalopod","mollusk","animal","life"],"subtaxa":["nautilaceae","oncocerida","tarphycerida"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Nautilitoidea",
+"parentTaxon": "nautiloid",
+"popularSubtaxa": [
+"oncocerida",
+"aturia",
+"nautilus"
+],
+"exampleMember": "oncocerida",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Nautiloid",
+"popularAncestors": [
+"cephalopod",
+"mollusk",
+"animal",
+"life"
+],
+"subtaxa": [
+"nautilaceae",
+"oncocerida",
+"tarphycerida"
+]
+}

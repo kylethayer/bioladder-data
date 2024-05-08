@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Metalignophytes","parentTaxon":"radiatopses","popularSubtaxa":["pine","grass","onion"],"exampleMember":"archaeopteris","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Euphyllophyte","popularAncestors":["vascular plant","land plant","cellular life","life"],"subtaxa":["archaeopteris","seed plants"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Metalignophytes",
+"parentTaxon": "radiatopses",
+"popularSubtaxa": [
+"pine",
+"grass",
+"onion"
+],
+"exampleMember": "archaeopteris",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Euphyllophyte",
+"popularAncestors": [
+"vascular plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"archaeopteris",
+"seed plants"
+]
+}

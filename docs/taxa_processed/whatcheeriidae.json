@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Whatcheeriidae","parentTaxon":"stegocephalia subclade 5","popularSubtaxa":["pederpes","ossinodus"],"exampleMember":"pederpes","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Whatcheeriidae","popularAncestors":["bony fish","vertebrate","animal","life"],"subtaxa":["ossinodus","pederpes"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Whatcheeriidae",
+"parentTaxon": "stegocephalia subclade 5",
+"popularSubtaxa": [
+"pederpes",
+"ossinodus"
+],
+"exampleMember": "pederpes",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Whatcheeriidae",
+"popularAncestors": [
+"bony fish",
+"vertebrate",
+"animal",
+"life"
+],
+"subtaxa": [
+"ossinodus",
+"pederpes"
+]
+}

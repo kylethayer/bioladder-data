@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":true,"name":"Eutherocephalia subclade 1","parentTaxon":"eutherocephalia","popularSubtaxa":["perplexisaurus","moschorhinus","viatkosuchus"],"exampleMember":"perplexisaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eutherocephalia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["akidnognathidae","chthonosaurus","eutherocephalia subclade 2","perplexisaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eutherocephalia subclade 1",
+"parentTaxon": "eutherocephalia",
+"popularSubtaxa": [
+"perplexisaurus",
+"moschorhinus",
+"viatkosuchus"
+],
+"exampleMember": "perplexisaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eutherocephalia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"akidnognathidae",
+"chthonosaurus",
+"eutherocephalia subclade 2",
+"perplexisaurus"
+]
+}

@@ -1,1 +1,26 @@
-{"description":"","popularity":"","extinct":true,"name":"Nothrotheriidae","parentTaxon":"sloth","popularSubtaxa":["nothrotheriops"],"exampleMember":"nothrotheriops","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Nothrotheriidae","popularAncestors":["sloth","mammal","animal","life"],"subtaxa":["nothrotheriops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Nothrotheriidae",
+"parentTaxon": "sloth",
+"popularSubtaxa": [
+"nothrotheriops"
+],
+"exampleMember": "nothrotheriops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Nothrotheriidae",
+"popularAncestors": [
+"sloth",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"nothrotheriops"
+]
+}

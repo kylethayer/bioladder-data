@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Rhachitomi subclade 2","parentTaxon":"rhachitomi subclade 1","popularSubtaxa":["salamander","frog","zatrachys"],"exampleMember":"dasyceps","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Rhachitomi","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["dissorophoidea","zatrachydidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Rhachitomi subclade 2",
+"parentTaxon": "rhachitomi subclade 1",
+"popularSubtaxa": [
+"salamander",
+"frog",
+"zatrachys"
+],
+"exampleMember": "dasyceps",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rhachitomi",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"dissorophoidea",
+"zatrachydidae"
+]
+}

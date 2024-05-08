@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Neovenatoridae subclade 1","parentTaxon":"neovenatoridae","popularSubtaxa":["deltadromeus","gualicho"],"exampleMember":"deltadromeus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Neovenatoridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["deltadromeus","gualicho"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Neovenatoridae subclade 1",
+"parentTaxon": "neovenatoridae",
+"popularSubtaxa": [
+"deltadromeus",
+"gualicho"
+],
+"exampleMember": "deltadromeus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Neovenatoridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"deltadromeus",
+"gualicho"
+]
+}

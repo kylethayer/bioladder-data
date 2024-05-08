@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Carcharodontosauridae subclade 1","parentTaxon":"carcharodontosauridae","exampleMember":"acrocanthosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Carcharodontosauridae subclade 1",
+"parentTaxon": "carcharodontosauridae",
+"exampleMember": "acrocanthosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae"
+}

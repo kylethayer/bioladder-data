@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Tyrannosauroidea subclade 5","parentTaxon":"tyrannosauroidea subclade 4","popularSubtaxa":["zhuchengtyrannus","alioramus","tyrannosaurus"],"exampleMember":"alioramus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["alioramus","tyrannosauridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Tyrannosauroidea subclade 5",
+"parentTaxon": "tyrannosauroidea subclade 4",
+"popularSubtaxa": [
+"zhuchengtyrannus",
+"alioramus",
+"tyrannosaurus"
+],
+"exampleMember": "alioramus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauroidea#Phylogeny",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"alioramus",
+"tyrannosauridae"
+]
+}

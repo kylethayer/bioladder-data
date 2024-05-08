@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Therochelonia","parentTaxon":"dicynodont subclade 2","exampleMember":"dicynodontoides","exampleMemberType":"Example Member","taxonomicRank":"Parvorder","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Therochelonia"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Therochelonia",
+"parentTaxon": "dicynodont subclade 2",
+"exampleMember": "dicynodontoides",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Parvorder",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Therochelonia"
+}

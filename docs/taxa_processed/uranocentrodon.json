@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Uranocentrodon","parentTaxon":"rhinesuchidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Uranocentrodon1DB.jpg/220px-Uranocentrodon1DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Uranocentrodon","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Uranocentrodon",
+"parentTaxon": "rhinesuchidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Uranocentrodon1DB.jpg/220px-Uranocentrodon1DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Uranocentrodon",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

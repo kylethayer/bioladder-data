@@ -1,1 +1,16 @@
-{"description":"","popularity":"","extinct":true,"name":"Ceratopsia","parentTaxon":"marginocephalia","exampleMember":"yinlong","exampleMemberType":"Early Member","taxonomicRank":"Suborder","scientificName":"","otherNames":["Ceratopia"],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ceratopsia"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ceratopsia",
+"parentTaxon": "marginocephalia",
+"exampleMember": "yinlong",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Suborder",
+"scientificName": "",
+"otherNames": [
+"Ceratopia"
+],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ceratopsia"
+}

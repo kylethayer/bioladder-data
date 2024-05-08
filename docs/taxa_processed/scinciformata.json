@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Scinciformata","parentTaxon":"unidentata","popularSubtaxa":["skink","cape grass lizard","short-legged seps"],"exampleMember":"skink","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["cordylomorpha","skink"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Scinciformata",
+"parentTaxon": "unidentata",
+"popularSubtaxa": [
+"skink",
+"cape grass lizard",
+"short-legged seps"
+],
+"exampleMember": "skink",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"cordylomorpha",
+"skink"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Caypullisaurus","parentTaxon":"platypterygiinae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caypullisaurus_Dak1.jpg/220px-Caypullisaurus_Dak1.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Caypullisaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Caypullisaurus",
+"parentTaxon": "platypterygiinae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caypullisaurus_Dak1.jpg/220px-Caypullisaurus_Dak1.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Caypullisaurus"
+}

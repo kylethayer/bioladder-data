@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Acrodonta subclade 4","parentTaxon":"acrodonta subclade 1","popularSubtaxa":["rhampholeon","brookesia"],"exampleMember":"rhampholeon","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["brookesia","rhampholeon"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Acrodonta subclade 4",
+"parentTaxon": "acrodonta subclade 1",
+"popularSubtaxa": [
+"rhampholeon",
+"brookesia"
+],
+"exampleMember": "rhampholeon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"brookesia",
+"rhampholeon"
+]
+}

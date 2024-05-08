@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Tyrannosauroidea","parentTaxon":"coelurosauria","popularSubtaxa":["dilong","proceratosaurus","tyrannosaurus"],"exampleMember":"dilong","exampleMemberType":"Early Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Tyrannosauroidea","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["dilong","proceratosauridae","tyrannosauroidea subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Tyrannosauroidea",
+"parentTaxon": "coelurosauria",
+"popularSubtaxa": [
+"dilong",
+"proceratosaurus",
+"tyrannosaurus"
+],
+"exampleMember": "dilong",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Tyrannosauroidea",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"dilong",
+"proceratosauridae",
+"tyrannosauroidea subclade 1"
+]
+}

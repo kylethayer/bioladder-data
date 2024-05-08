@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Zingiberoideae","parentTaxon":"zingiberaceae","popularSubtaxa":["globba","turmeric","ginger"],"exampleMember":"globba","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Zingiberaceae","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["globba","zingibereae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Zingiberoideae",
+"parentTaxon": "zingiberaceae",
+"popularSubtaxa": [
+"globba",
+"turmeric",
+"ginger"
+],
+"exampleMember": "globba",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Zingiberaceae",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"globba",
+"zingibereae"
+]
+}

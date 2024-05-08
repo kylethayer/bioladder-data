@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Ictidorhinus","parentTaxon":"biarmosuchia subclade 3","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ictidorhinus.jpg/220px-Ictidorhinus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Ictidorhinus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Ictidorhinus",
+"parentTaxon": "biarmosuchia subclade 3",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ictidorhinus.jpg/220px-Ictidorhinus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ictidorhinus"
+}

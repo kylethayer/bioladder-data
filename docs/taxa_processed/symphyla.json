@@ -1,1 +1,25 @@
-{"description":"","popularity":50,"extinct":false,"name":"Symphyla","parentTaxon":"myriapod","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"","otherNames":["Garden centipedes","Pseudocentipedes"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Symphyla_%28unknown_species%29.jpg/260px-Symphyla_%28unknown_species%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Symphyla","popularAncestors":["arthropod","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Symphyla",
+"parentTaxon": "myriapod",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [
+"Garden centipedes",
+"Pseudocentipedes"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Symphyla_%28unknown_species%29.jpg/260px-Symphyla_%28unknown_species%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Symphyla",
+"popularAncestors": [
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

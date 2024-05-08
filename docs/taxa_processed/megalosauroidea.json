@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Megalosauroidea","parentTaxon":"orionides","popularSubtaxa":["piatnitzkysaurus","spinosaurus","megalosaurus"],"exampleMember":"marshosaurus","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Megalosauroidea","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["megalosauria","piatnitzkysauridae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Megalosauroidea",
+"parentTaxon": "orionides",
+"popularSubtaxa": [
+"piatnitzkysaurus",
+"spinosaurus",
+"megalosaurus"
+],
+"exampleMember": "marshosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Megalosauroidea",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"megalosauria",
+"piatnitzkysauridae"
+]
+}

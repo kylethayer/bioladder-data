@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Coelurosauria subclade 1","parentTaxon":"coelurosauria","popularSubtaxa":["velociraptor","compsognathus","bird"],"exampleMember":"sinocalliopteryx","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Coelurosauria#Classification","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["compsognathidae","maniraptoriformes"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Coelurosauria subclade 1",
+"parentTaxon": "coelurosauria",
+"popularSubtaxa": [
+"velociraptor",
+"compsognathus",
+"bird"
+],
+"exampleMember": "sinocalliopteryx",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Coelurosauria#Classification",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"compsognathidae",
+"maniraptoriformes"
+]
+}

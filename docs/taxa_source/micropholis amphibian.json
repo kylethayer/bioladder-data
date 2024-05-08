@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Micropholis amphibian","parentTaxon":"amphibamidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Micropholis_stowi.jpg/220px-Micropholis_stowi.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Micropholis_%28amphibian%29"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Micropholis amphibian",
+"parentTaxon": "amphibamidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Micropholis_stowi.jpg/220px-Micropholis_stowi.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Micropholis_%28amphibian%29"
+}

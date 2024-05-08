@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Tetrameryx","parentTaxon":"antilocaprinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tetrameryx_shuleri.png/220px-Tetrameryx_shuleri.png","wikipediaPage":"https://en.wikipedia.org/wiki/Tetrameryx","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Tetrameryx",
+"parentTaxon": "antilocaprinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tetrameryx_shuleri.png/220px-Tetrameryx_shuleri.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Tetrameryx",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Emeroleter","parentTaxon":"nycteroleteridae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Emeroleter1DB.jpg/220px-Emeroleter1DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Emeroleter"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Emeroleter",
+"parentTaxon": "nycteroleteridae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Emeroleter1DB.jpg/220px-Emeroleter1DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Emeroleter"
+}

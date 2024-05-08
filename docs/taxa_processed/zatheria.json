@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Zatheria","parentTaxon":"cladotheria","popularSubtaxa":["human","dog","red kangaroo"],"exampleMember":"vincelestes","exampleMemberType":"Early Member","taxonomicRank":"Sublegion","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Zatheria","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["tribosphenida","vincelestes"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Zatheria",
+"parentTaxon": "cladotheria",
+"popularSubtaxa": [
+"human",
+"dog",
+"red kangaroo"
+],
+"exampleMember": "vincelestes",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Sublegion",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Zatheria",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"tribosphenida",
+"vincelestes"
+]
+}

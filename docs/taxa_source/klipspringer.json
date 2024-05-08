@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Klipspringer","parentTaxon":"neotragini","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Oreotragus oreotragus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/220px-Klipspringer.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Klipspringer"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Klipspringer",
+"parentTaxon": "neotragini",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Oreotragus oreotragus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/220px-Klipspringer.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Klipspringer"
+}

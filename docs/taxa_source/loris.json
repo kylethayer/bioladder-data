@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Loris","parentTaxon":"lorisidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subfamily","scientificName":"Lorinae","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Loris_lydekkerianus_nordicus_003.jpg/220px-Loris_lydekkerianus_nordicus_003.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Loris"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Loris",
+"parentTaxon": "lorisidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subfamily",
+"scientificName": "Lorinae",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Loris_lydekkerianus_nordicus_003.jpg/220px-Loris_lydekkerianus_nordicus_003.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Loris"
+}

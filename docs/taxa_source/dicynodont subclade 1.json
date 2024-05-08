@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Dicynodont subclade 1","parentTaxon":"dicynodont","exampleMember":"endothiodon","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Dicynodont"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dicynodont subclade 1",
+"parentTaxon": "dicynodont",
+"exampleMember": "endothiodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dicynodont"
+}

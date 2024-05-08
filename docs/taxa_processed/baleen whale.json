@@ -1,1 +1,32 @@
-{"description":"","popularity":60,"extinct":false,"name":"Baleen whale","parentTaxon":"cetacea subclade 6","popularSubtaxa":["blue whale","gray whale","pygmy right whale"],"exampleMember":"janjucetus","exampleMemberType":"Early Member","taxonomicRank":"Suborder","scientificName":"Mysticeti","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Baleen_whale","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["balaenidae","cetotheriidae","gray whale","janjucetus","rorqual"]}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Baleen whale",
+"parentTaxon": "cetacea subclade 6",
+"popularSubtaxa": [
+"blue whale",
+"gray whale",
+"pygmy right whale"
+],
+"exampleMember": "janjucetus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Suborder",
+"scientificName": "Mysticeti",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Baleen_whale",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"balaenidae",
+"cetotheriidae",
+"gray whale",
+"janjucetus",
+"rorqual"
+]
+}

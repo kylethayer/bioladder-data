@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Colosteidae","parentTaxon":"stegocephalia subclade 6","exampleMember":"pholidogaster","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Colosteidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Colosteidae",
+"parentTaxon": "stegocephalia subclade 6",
+"exampleMember": "pholidogaster",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Colosteidae"
+}

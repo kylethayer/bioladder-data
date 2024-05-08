@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Deuterosaurus","parentTaxon":"anteosaur","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deuterosaurus2DB.jpg/220px-Deuterosaurus2DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Deuterosaurus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Deuterosaurus",
+"parentTaxon": "anteosaur",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deuterosaurus2DB.jpg/220px-Deuterosaurus2DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Deuterosaurus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

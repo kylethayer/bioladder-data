@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Mustelidae subclade 4","parentTaxon":"mustelidae subclade 3","popularSubtaxa":["wolverine","european badger","japanese badger"],"exampleMember":"european badger","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Mustelidae#Systematics","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":["martinae","melinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Mustelidae subclade 4",
+"parentTaxon": "mustelidae subclade 3",
+"popularSubtaxa": [
+"wolverine",
+"european badger",
+"japanese badger"
+],
+"exampleMember": "european badger",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Mustelidae#Systematics",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"martinae",
+"melinae"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Protorohippus","parentTaxon":"equidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/F_John_Series_2_Protorohippus_card_5.jpg/220px-F_John_Series_2_Protorohippus_card_5.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Protorohippus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Protorohippus",
+"parentTaxon": "equidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/F_John_Series_2_Protorohippus_card_5.jpg/220px-F_John_Series_2_Protorohippus_card_5.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Protorohippus"
+}

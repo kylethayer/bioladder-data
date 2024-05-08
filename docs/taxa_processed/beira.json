@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Beira","parentTaxon":"neotragini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Dorcatragus megalotis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dorcotragus_megalotis.jpg/220px-Dorcotragus_megalotis.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Beira_%28antelope%29","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Beira",
+"parentTaxon": "neotragini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Dorcatragus megalotis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dorcotragus_megalotis.jpg/220px-Dorcotragus_megalotis.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Beira_%28antelope%29",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":false,"name":"Eriodaphne","parentTaxon":"persea","exampleMember":"","exampleMemberType":"","taxonomicRank":"Subgenus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persea_indica.jpg/220px-Persea_indica.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Persea"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Eriodaphne",
+"parentTaxon": "persea",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subgenus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persea_indica.jpg/220px-Persea_indica.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Persea"
+}

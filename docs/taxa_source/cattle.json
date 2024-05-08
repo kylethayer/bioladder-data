@@ -1,1 +1,16 @@
-{"description":"","popularity":85,"extinct":false,"name":"Cattle","parentTaxon":"bos primigenius","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":["Cow"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/220px-Cow_female_black_white.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Cattle"}
+{
+"description": "",
+"popularity": 85,
+"extinct": false,
+"name": "Cattle",
+"parentTaxon": "bos primigenius",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [
+"Cow"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cow_female_black_white.jpg/220px-Cow_female_black_white.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Cattle"
+}

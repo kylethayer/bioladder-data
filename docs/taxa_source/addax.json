@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Addax","parentTaxon":"grazing antelope","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Addax nasomaculatus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/220px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Addax"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Addax",
+"parentTaxon": "grazing antelope",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Addax nasomaculatus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/220px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Addax"
+}

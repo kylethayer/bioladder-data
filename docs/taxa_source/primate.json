@@ -1,1 +1,14 @@
-{"description":"Primates arose from ancestors that lived in the trees of tropical forests; many primate characteristics represent adaptations to life in this challenging three-dimensional environment. Most primate species remain at least partly arboreal.","popularity":50,"extinct":false,"name":"Primate","parentTaxon":"primatomorpha","exampleMember":"darwinius","exampleMemberType":"Early Member","taxonomicRank":"Order","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Primate"}
+{
+"description": "Primates arose from ancestors that lived in the trees of tropical forests; many primate characteristics represent adaptations to life in this challenging three-dimensional environment. Most primate species remain at least partly arboreal.",
+"popularity": 50,
+"extinct": false,
+"name": "Primate",
+"parentTaxon": "primatomorpha",
+"exampleMember": "darwinius",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Primate"
+}

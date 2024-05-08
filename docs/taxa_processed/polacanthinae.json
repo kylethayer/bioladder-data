@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Polacanthinae","parentTaxon":"nodosauridae subclade 1","popularSubtaxa":["gargoyleosaurus","polacanthus","gastonia"],"exampleMember":"gargoyleosaurus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Polacanthinae","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["gargoyleosaurus","polacanthinae subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Polacanthinae",
+"parentTaxon": "nodosauridae subclade 1",
+"popularSubtaxa": [
+"gargoyleosaurus",
+"polacanthus",
+"gastonia"
+],
+"exampleMember": "gargoyleosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Polacanthinae",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"gargoyleosaurus",
+"polacanthinae subclade 1"
+]
+}

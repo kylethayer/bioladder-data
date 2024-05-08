@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Eucacopinae subclade 1","parentTaxon":"eucacopinae","popularSubtaxa":["kamacops","zygosaurus"],"exampleMember":"kamacops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eucacopinae","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["kamacops","zygosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eucacopinae subclade 1",
+"parentTaxon": "eucacopinae",
+"popularSubtaxa": [
+"kamacops",
+"zygosaurus"
+],
+"exampleMember": "kamacops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eucacopinae",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"kamacops",
+"zygosaurus"
+]
+}

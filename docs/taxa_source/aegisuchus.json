@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Aegisuchus","parentTaxon":"eusuchia subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aegisuchus.png/220px-Aegisuchus.png","wikipediaPage":"https://en.wikipedia.org/wiki/Aegisuchus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Aegisuchus",
+"parentTaxon": "eusuchia subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aegisuchus.png/220px-Aegisuchus.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Aegisuchus"
+}

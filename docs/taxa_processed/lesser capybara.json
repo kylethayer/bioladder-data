@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Lesser capybara","parentTaxon":"hydrochoerus","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Hydrochoerus isthmius","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hydrochoerus_isthmius_%2827839968482%29.jpg/220px-Hydrochoerus_isthmius_%2827839968482%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lesser_capybara","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Lesser capybara",
+"parentTaxon": "hydrochoerus",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Hydrochoerus isthmius",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hydrochoerus_isthmius_%2827839968482%29.jpg/220px-Hydrochoerus_isthmius_%2827839968482%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lesser_capybara",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Byronosaurus","parentTaxon":"troodontidae subclade 2","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Byronosaurus.jpg/220px-Byronosaurus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Byronosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Byronosaurus",
+"parentTaxon": "troodontidae subclade 2",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Byronosaurus.jpg/220px-Byronosaurus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Byronosaurus"
+}

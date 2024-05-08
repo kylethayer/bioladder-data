@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Rubidgeini","parentTaxon":"rubidgeinae subclade 2","exampleMember":"dinogorgon","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Rubidgeinae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Rubidgeini",
+"parentTaxon": "rubidgeinae subclade 2",
+"exampleMember": "dinogorgon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rubidgeinae"
+}

@@ -1,1 +1,31 @@
-{"description":"","popularity":"","extinct":true,"name":"Therizinosauridae","parentTaxon":"therizinosauroidea subclade 1","popularSubtaxa":["nanshiungosaurus","neimongosaurus","therizinosaurus"],"exampleMember":"erliansaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Therizinosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["erliansaurus","nanshiungosaurus","neimongosaurus","therizinosauridae subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Therizinosauridae",
+"parentTaxon": "therizinosauroidea subclade 1",
+"popularSubtaxa": [
+"nanshiungosaurus",
+"neimongosaurus",
+"therizinosaurus"
+],
+"exampleMember": "erliansaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Therizinosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"erliansaurus",
+"nanshiungosaurus",
+"neimongosaurus",
+"therizinosauridae subclade 1"
+]
+}

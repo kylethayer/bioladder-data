@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Deomyinae","parentTaxon":"muridae","popularSubtaxa":["spiny mouse","brush-furred mouse","rudd's mouse"],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Deomyinae","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":["brush-furred mouse","rudd's mouse","spiny mouse"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Deomyinae",
+"parentTaxon": "muridae",
+"popularSubtaxa": [
+"spiny mouse",
+"brush-furred mouse",
+"rudd's mouse"
+],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Deomyinae",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"brush-furred mouse",
+"rudd's mouse",
+"spiny mouse"
+]
+}

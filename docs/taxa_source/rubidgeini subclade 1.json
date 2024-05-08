@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Rubidgeini subclade 1","parentTaxon":"rubidgeini","exampleMember":"rubidgea","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Rubidgeinae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Rubidgeini subclade 1",
+"parentTaxon": "rubidgeini",
+"exampleMember": "rubidgea",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rubidgeinae"
+}

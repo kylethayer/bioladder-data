@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Capitosauria subclade 4","parentTaxon":"capitosauria subclade 3","popularSubtaxa":["cherninia","paracyclotosaurus","eocyclotosaurus"],"exampleMember":"cherninia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Capitosauria","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["capitosauria subclade 5","cherninia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Capitosauria subclade 4",
+"parentTaxon": "capitosauria subclade 3",
+"popularSubtaxa": [
+"cherninia",
+"paracyclotosaurus",
+"eocyclotosaurus"
+],
+"exampleMember": "cherninia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Capitosauria",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"capitosauria subclade 5",
+"cherninia"
+]
+}

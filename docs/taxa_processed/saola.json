@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Saola","parentTaxon":"bovini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Pseudoryx nghetinhensis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pseudoryx_nghetinhensis%2C_b.PNG/220px-Pseudoryx_nghetinhensis%2C_b.PNG","wikipediaPage":"https://en.wikipedia.org/wiki/Saola","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Saola",
+"parentTaxon": "bovini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Pseudoryx nghetinhensis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pseudoryx_nghetinhensis%2C_b.PNG/220px-Pseudoryx_nghetinhensis%2C_b.PNG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Saola",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

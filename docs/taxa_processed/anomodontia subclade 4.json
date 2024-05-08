@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Anomodontia subclade 4","parentTaxon":"anomodontia subclade 3","popularSubtaxa":["ulemica","dicynodont","stahleckeria"],"exampleMember":"suminia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Anomodont","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["chainosauria","venyukovioidea"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Anomodontia subclade 4",
+"parentTaxon": "anomodontia subclade 3",
+"popularSubtaxa": [
+"ulemica",
+"dicynodont",
+"stahleckeria"
+],
+"exampleMember": "suminia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Anomodont",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"chainosauria",
+"venyukovioidea"
+]
+}

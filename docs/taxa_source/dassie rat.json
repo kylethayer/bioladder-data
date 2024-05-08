@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Dassie rat","parentTaxon":"phiomorpha","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Petromus typicus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Petromus_typicus.jpg/220px-Petromus_typicus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dassie_rat"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Dassie rat",
+"parentTaxon": "phiomorpha",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Petromus typicus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Petromus_typicus.jpg/220px-Petromus_typicus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dassie_rat"
+}

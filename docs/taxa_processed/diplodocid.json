@@ -1,1 +1,29 @@
-{"description":"","popularity":10,"extinct":true,"name":"Diplodocid","parentTaxon":"flagellicaudata","popularSubtaxa":["apatosaurus","brontosaurus","diplodocus"],"exampleMember":"amphicoelias","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"Diplodocidae","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Diplodocid","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["amphicoelias","diplodocid subclade 1"]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Diplodocid",
+"parentTaxon": "flagellicaudata",
+"popularSubtaxa": [
+"apatosaurus",
+"brontosaurus",
+"diplodocus"
+],
+"exampleMember": "amphicoelias",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "Diplodocidae",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Diplodocid",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"amphicoelias",
+"diplodocid subclade 1"
+]
+}

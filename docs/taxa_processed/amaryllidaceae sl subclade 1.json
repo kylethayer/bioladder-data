@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Amaryllidaceae sl subclade 1","parentTaxon":"amaryllidaceae sl","popularSubtaxa":["garlic","onion","tulbaghieae"],"exampleMember":"amaryllidoideae","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Asparagales","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["allioideae","amaryllidoideae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Amaryllidaceae sl subclade 1",
+"parentTaxon": "amaryllidaceae sl",
+"popularSubtaxa": [
+"garlic",
+"onion",
+"tulbaghieae"
+],
+"exampleMember": "amaryllidoideae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Asparagales",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"allioideae",
+"amaryllidoideae"
+]
+}

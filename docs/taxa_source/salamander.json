@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":false,"name":"Salamander","parentTaxon":"caudata","exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"Urodela","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/220px-SpottedSalamander.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Salamander"}
+{
+"description": "",
+"popularity": 60,
+"extinct": false,
+"name": "Salamander",
+"parentTaxon": "caudata",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "Urodela",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SpottedSalamander.jpg/220px-SpottedSalamander.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Salamander"
+}

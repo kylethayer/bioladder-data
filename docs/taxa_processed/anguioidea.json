@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Anguioidea","parentTaxon":"neoanguimorpha subclade 1","popularSubtaxa":["american legless lizard","anguidae"],"exampleMember":"american legless lizard","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Squamata","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["american legless lizard","anguidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Anguioidea",
+"parentTaxon": "neoanguimorpha subclade 1",
+"popularSubtaxa": [
+"american legless lizard",
+"anguidae"
+],
+"exampleMember": "american legless lizard",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Squamata",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"american legless lizard",
+"anguidae"
+]
+}

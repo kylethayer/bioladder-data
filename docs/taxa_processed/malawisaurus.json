@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Malawisaurus","parentTaxon":"titanosaur subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Malawisaurus-head.jpg/220px-Malawisaurus-head.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Malawisaurus","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Malawisaurus",
+"parentTaxon": "titanosaur subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Malawisaurus-head.jpg/220px-Malawisaurus-head.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Malawisaurus",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

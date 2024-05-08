@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Ajancingenia","parentTaxon":"oviraptoridae subclade 4","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ajancingenia_reconstruction.png/220px-Ajancingenia_reconstruction.png","wikipediaPage":"https://en.wikipedia.org/wiki/Ajancingenia","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Ajancingenia",
+"parentTaxon": "oviraptoridae subclade 4",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ajancingenia_reconstruction.png/220px-Ajancingenia_reconstruction.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ajancingenia",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Tapinocephalus","parentTaxon":"tapinocephalina","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tapinocephalus_DB.jpg/220px-Tapinocephalus_DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Tapinocephalus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Tapinocephalus",
+"parentTaxon": "tapinocephalina",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tapinocephalus_DB.jpg/220px-Tapinocephalus_DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Tapinocephalus"
+}

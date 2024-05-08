@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Lambeosaurini subclade 3","parentTaxon":"lambeosaurini subclade 2","popularSubtaxa":["magnapaulia","velafrons","amurosaurus"],"exampleMember":"magnapaulia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lambeosaurinae","popularAncestors":["hadrosaurid","dinosaur","animal","life"],"subtaxa":["lambeosaurini subclade 4","magnapaulia"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Lambeosaurini subclade 3",
+"parentTaxon": "lambeosaurini subclade 2",
+"popularSubtaxa": [
+"magnapaulia",
+"velafrons",
+"amurosaurus"
+],
+"exampleMember": "magnapaulia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lambeosaurinae",
+"popularAncestors": [
+"hadrosaurid",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"lambeosaurini subclade 4",
+"magnapaulia"
+]
+}

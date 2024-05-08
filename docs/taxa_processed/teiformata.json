@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Teiformata","parentTaxon":"lacertoidea","popularSubtaxa":["spectacled lizards","teiidae"],"exampleMember":"spectacled lizards","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Squamata","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["spectacled lizards","teiidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Teiformata",
+"parentTaxon": "lacertoidea",
+"popularSubtaxa": [
+"spectacled lizards",
+"teiidae"
+],
+"exampleMember": "spectacled lizards",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Squamata",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"spectacled lizards",
+"teiidae"
+]
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Antilopini subclade 4","parentTaxon":"antilopini subclade 2","popularSubtaxa":["red-fronted gazelle","thomson's gazelle","soemmerring's gazelle"],"exampleMember":"red-fronted gazelle","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["eudorcas","nanger"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Antilopini subclade 4",
+"parentTaxon": "antilopini subclade 2",
+"popularSubtaxa": [
+"red-fronted gazelle",
+"thomson's gazelle",
+"soemmerring's gazelle"
+],
+"exampleMember": "red-fronted gazelle",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"eudorcas",
+"nanger"
+]
+}

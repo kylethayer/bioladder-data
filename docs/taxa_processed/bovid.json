@@ -1,1 +1,29 @@
-{"description":"","popularity":30,"extinct":false,"name":"Bovid","parentTaxon":"pecora","popularSubtaxa":["cattle","impala","sheep"],"exampleMember":"nilgai","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"Bovidae","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Bovidae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["aegodontia","bovinae"]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Bovid",
+"parentTaxon": "pecora",
+"popularSubtaxa": [
+"cattle",
+"impala",
+"sheep"
+],
+"exampleMember": "nilgai",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "Bovidae",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Bovidae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"aegodontia",
+"bovinae"
+]
+}

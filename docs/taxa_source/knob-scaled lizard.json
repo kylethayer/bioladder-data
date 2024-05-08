@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Knob-scaled lizard","parentTaxon":"neoanguimorpha subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Xenosaurus grandis","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Xenosaurus_grandis.jpg/220px-Xenosaurus_grandis.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Xenosaurus_grandis"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Knob-scaled lizard",
+"parentTaxon": "neoanguimorpha subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Xenosaurus grandis",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Xenosaurus_grandis.jpg/220px-Xenosaurus_grandis.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Xenosaurus_grandis"
+}

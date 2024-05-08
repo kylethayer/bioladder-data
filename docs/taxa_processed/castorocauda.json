@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Castorocauda","parentTaxon":"mammaliaformes","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castorocauda_BW.jpg/220px-Castorocauda_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Castorocauda","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Castorocauda",
+"parentTaxon": "mammaliaformes",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Castorocauda_BW.jpg/220px-Castorocauda_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Castorocauda",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

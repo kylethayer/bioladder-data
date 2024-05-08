@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eoichthyosauria","parentTaxon":"ichthyopterygia","popularSubtaxa":["ichthyosaur","ichthyosaurus","stenopterygius"],"exampleMember":"grippia","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Ichthyopterygia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["grippidia","ichthyosaur"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eoichthyosauria",
+"parentTaxon": "ichthyopterygia",
+"popularSubtaxa": [
+"ichthyosaur",
+"ichthyosaurus",
+"stenopterygius"
+],
+"exampleMember": "grippia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ichthyopterygia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"grippidia",
+"ichthyosaur"
+]
+}

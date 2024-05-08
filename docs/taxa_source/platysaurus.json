@@ -1,1 +1,16 @@
-{"description":"","popularity":10,"extinct":false,"name":"Platysaurus","parentTaxon":"cordylidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":["Flat lizards"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Emperorflatlizard.jpg/220px-Emperorflatlizard.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Platysaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Platysaurus",
+"parentTaxon": "cordylidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [
+"Flat lizards"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Emperorflatlizard.jpg/220px-Emperorflatlizard.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Platysaurus"
+}

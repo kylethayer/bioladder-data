@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Proburnetia","parentTaxon":"burnetiidae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proburnetia_viatkensis.JPG/220px-Proburnetia_viatkensis.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Proburnetia","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Proburnetia",
+"parentTaxon": "burnetiidae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Proburnetia_viatkensis.JPG/220px-Proburnetia_viatkensis.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Proburnetia",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

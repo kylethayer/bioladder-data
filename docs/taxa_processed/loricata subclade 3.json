@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Loricata subclade 3","parentTaxon":"loricata subclade 2","popularSubtaxa":["postosuchus","alligator","crocodile"],"exampleMember":"postosuchus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Loricata","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["crocodylomorpha","rauisuchidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Loricata subclade 3",
+"parentTaxon": "loricata subclade 2",
+"popularSubtaxa": [
+"postosuchus",
+"alligator",
+"crocodile"
+],
+"exampleMember": "postosuchus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Loricata",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"crocodylomorpha",
+"rauisuchidae"
+]
+}

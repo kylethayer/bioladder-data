@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Stegocephalia subclade 6","parentTaxon":"stegocephalia subclade 5","exampleMember":"pholidogaster","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Stegocephalia subclade 6",
+"parentTaxon": "stegocephalia subclade 5",
+"exampleMember": "pholidogaster",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia"
+}

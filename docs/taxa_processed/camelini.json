@@ -1,1 +1,34 @@
-{"description":"","popularity":"","extinct":false,"name":"Camelini","parentTaxon":"camelinae","popularSubtaxa":["procamelus","poebrotherium","camel"],"exampleMember":"procamelus","exampleMemberType":"Early Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Camelini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["aepycamelus","camel","camelops","megatylopus","paracamelus","poebrotherium","procamelus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Camelini",
+"parentTaxon": "camelinae",
+"popularSubtaxa": [
+"procamelus",
+"poebrotherium",
+"camel"
+],
+"exampleMember": "procamelus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Camelini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"aepycamelus",
+"camel",
+"camelops",
+"megatylopus",
+"paracamelus",
+"poebrotherium",
+"procamelus"
+]
+}

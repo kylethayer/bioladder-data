@@ -1,1 +1,14 @@
-{"description":"","popularity":30,"extinct":false,"name":"Siparuna","parentTaxon":"laurales subclade 2","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Siparuna_guianensis.jpg/220px-Siparuna_guianensis.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Siparuna"}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Siparuna",
+"parentTaxon": "laurales subclade 2",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Siparuna_guianensis.jpg/220px-Siparuna_guianensis.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Siparuna"
+}

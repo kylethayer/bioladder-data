@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Curly-tailed lizards","parentTaxon":"terraiguana subclade 5","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Leiocephalus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leiocephalus_carinatus_armouri_tree_cool.jpg/220px-Leiocephalus_carinatus_armouri_tree_cool.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Curly-tailed_lizards","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Curly-tailed lizards",
+"parentTaxon": "terraiguana subclade 5",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Leiocephalus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leiocephalus_carinatus_armouri_tree_cool.jpg/220px-Leiocephalus_carinatus_armouri_tree_cool.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Curly-tailed_lizards",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

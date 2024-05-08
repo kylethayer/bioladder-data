@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Euiguana","parentTaxon":"iguanoidea","popularSubtaxa":["helmeted iguana","iguana","horned lizard"],"exampleMember":"crotaphytinae","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Iguania","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["corytophanidae","terraiguana"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Euiguana",
+"parentTaxon": "iguanoidea",
+"popularSubtaxa": [
+"helmeted iguana",
+"iguana",
+"horned lizard"
+],
+"exampleMember": "crotaphytinae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Iguania",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"corytophanidae",
+"terraiguana"
+]
+}

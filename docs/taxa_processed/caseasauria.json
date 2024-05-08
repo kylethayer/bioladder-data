@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Caseasauria","parentTaxon":"synapsida","popularSubtaxa":["eothyris","oedaleops","cotylorhynchus"],"exampleMember":"eothyris","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Caseasauria","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["caseidae","eothyrididae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Caseasauria",
+"parentTaxon": "synapsida",
+"popularSubtaxa": [
+"eothyris",
+"oedaleops",
+"cotylorhynchus"
+],
+"exampleMember": "eothyris",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Caseasauria",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"caseidae",
+"eothyrididae"
+]
+}

@@ -1,1 +1,25 @@
-{"description":"","popularity":"","extinct":false,"name":"Bikonta subclade 2","parentTaxon":"bikonta subclade 1","popularSubtaxa":[],"exampleMember":"hacrobia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["bikonta","eukaryote","cellular life","life"],"subtaxa":["hacrobia","sar supergroup"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bikonta subclade 2",
+"parentTaxon": "bikonta subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "hacrobia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"bikonta",
+"eukaryote",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"hacrobia",
+"sar supergroup"
+]
+}

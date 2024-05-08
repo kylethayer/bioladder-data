@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Huaxiagnathus","parentTaxon":"compsognathidae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Huaxiagnathus-v2.jpg/220px-Huaxiagnathus-v2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Huaxiagnathus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Huaxiagnathus",
+"parentTaxon": "compsognathidae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Huaxiagnathus-v2.jpg/220px-Huaxiagnathus-v2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Huaxiagnathus"
+}

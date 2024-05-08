@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Trochozoa subclade 2","parentTaxon":"trochozoa subclade 1","popularSubtaxa":["mollusk","octopus","squid"],"exampleMember":"brachiopod","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Lophotrochozoa","popularAncestors":["protostomia","animal","cellular life","life"],"subtaxa":["mollusk","trochozoa subclade 3"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Trochozoa subclade 2",
+"parentTaxon": "trochozoa subclade 1",
+"popularSubtaxa": [
+"mollusk",
+"octopus",
+"squid"
+],
+"exampleMember": "brachiopod",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lophotrochozoa",
+"popularAncestors": [
+"protostomia",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"mollusk",
+"trochozoa subclade 3"
+]
+}

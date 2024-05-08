@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Ampelomeryx","parentTaxon":"palaeomerycidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ampelomeryx.png/220px-Ampelomeryx.png","wikipediaPage":"http://en.wikipedia.org/wiki/Ampelomeryx"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Ampelomeryx",
+"parentTaxon": "palaeomerycidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ampelomeryx.png/220px-Ampelomeryx.png",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ampelomeryx"
+}

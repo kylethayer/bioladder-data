@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Jarvikina","parentTaxon":"tristichopteridae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jarvikina_wenjukoviDB152.jpg/220px-Jarvikina_wenjukoviDB152.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Jarvikina"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Jarvikina",
+"parentTaxon": "tristichopteridae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jarvikina_wenjukoviDB152.jpg/220px-Jarvikina_wenjukoviDB152.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Jarvikina"
+}

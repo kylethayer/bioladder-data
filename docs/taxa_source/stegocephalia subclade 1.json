@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Stegocephalia subclade 1","parentTaxon":"stegocephalia","exampleMember":"elginerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stegocephalia"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Stegocephalia subclade 1",
+"parentTaxon": "stegocephalia",
+"exampleMember": "elginerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stegocephalia"
+}

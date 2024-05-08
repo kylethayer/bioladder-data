@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Chainosauria","parentTaxon":"anomodontia subclade 4","exampleMember":"galepus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Chainosauria"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Chainosauria",
+"parentTaxon": "anomodontia subclade 4",
+"exampleMember": "galepus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chainosauria"
+}

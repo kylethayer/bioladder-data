@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Bop clade","parentTaxon":"grass subclade 2","popularSubtaxa":["asian rice","bamboo","wheat"],"exampleMember":"ehrharteae","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/BOP_clade","popularAncestors":["grass","land plant","cellular life","life"],"subtaxa":["bop clade subclade 1","oryzoideae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bop clade",
+"parentTaxon": "grass subclade 2",
+"popularSubtaxa": [
+"asian rice",
+"bamboo",
+"wheat"
+],
+"exampleMember": "ehrharteae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/BOP_clade",
+"popularAncestors": [
+"grass",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"bop clade subclade 1",
+"oryzoideae"
+]
+}

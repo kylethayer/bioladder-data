@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Cochleosauridae","parentTaxon":"edopoidea","popularSubtaxa":["cochleosaurus","nigerpeton","chenoprosopus"],"exampleMember":"cochleosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Cochleosauridae","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["cochleosauridae subclade 1","cochleosaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Cochleosauridae",
+"parentTaxon": "edopoidea",
+"popularSubtaxa": [
+"cochleosaurus",
+"nigerpeton",
+"chenoprosopus"
+],
+"exampleMember": "cochleosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Cochleosauridae",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"cochleosauridae subclade 1",
+"cochleosaurus"
+]
+}

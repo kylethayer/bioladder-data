@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":true,"name":"American lion","parentTaxon":"panthera subclade 3","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Panthera leo atrox","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panthera_leo_atrox_Sergiodlarosa.jpg/220px-Panthera_leo_atrox_Sergiodlarosa.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/American_lion","popularAncestors":["feliformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": true,
+"name": "American lion",
+"parentTaxon": "panthera subclade 3",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Panthera leo atrox",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panthera_leo_atrox_Sergiodlarosa.jpg/220px-Panthera_leo_atrox_Sergiodlarosa.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/American_lion",
+"popularAncestors": [
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

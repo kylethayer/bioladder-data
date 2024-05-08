@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Zingiberariae","parentTaxon":"zingiberineae","popularSubtaxa":["costaceae","turmeric","ginger"],"exampleMember":"costaceae","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Ginger-families","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["costaceae","zingiberaceae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Zingiberariae",
+"parentTaxon": "zingiberineae",
+"popularSubtaxa": [
+"costaceae",
+"turmeric",
+"ginger"
+],
+"exampleMember": "costaceae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Ginger-families",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"costaceae",
+"zingiberaceae"
+]
+}

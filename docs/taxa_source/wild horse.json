@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Wild horse","parentTaxon":"equus","exampleMember":"tarpan","exampleMemberType":"Example Member","taxonomicRank":"Species","scientificName":"Equus ferus","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Wild_horse"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Wild horse",
+"parentTaxon": "equus",
+"exampleMember": "tarpan",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Species",
+"scientificName": "Equus ferus",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Wild_horse"
+}

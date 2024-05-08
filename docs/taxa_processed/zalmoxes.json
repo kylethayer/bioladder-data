@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Zalmoxes","parentTaxon":"rhabdodontidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zalmoxes_dichotomy.jpg/220px-Zalmoxes_dichotomy.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Zalmoxes","popularAncestors":["iguanodontia","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Zalmoxes",
+"parentTaxon": "rhabdodontidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zalmoxes_dichotomy.jpg/220px-Zalmoxes_dichotomy.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Zalmoxes",
+"popularAncestors": [
+"iguanodontia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

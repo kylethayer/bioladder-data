@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Poposauroidea subclade 1","parentTaxon":"poposauroidea","popularSubtaxa":["poposaurus","lotosaurus","shuvosaurus"],"exampleMember":"poposaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Poposauroidea","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["poposauroidea subclade 2","poposaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Poposauroidea subclade 1",
+"parentTaxon": "poposauroidea",
+"popularSubtaxa": [
+"poposaurus",
+"lotosaurus",
+"shuvosaurus"
+],
+"exampleMember": "poposaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Poposauroidea",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"poposauroidea subclade 2",
+"poposaurus"
+]
+}

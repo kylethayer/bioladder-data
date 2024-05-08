@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Ankylosaurinae subclade 1","parentTaxon":"ankylosaurinae","exampleMember":"euoplocephalus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Ankylosaurinae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Ankylosaurinae subclade 1",
+"parentTaxon": "ankylosaurinae",
+"exampleMember": "euoplocephalus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Ankylosaurinae"
+}

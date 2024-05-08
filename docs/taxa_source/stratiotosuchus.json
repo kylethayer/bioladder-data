@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":"","name":"Stratiotosuchus","parentTaxon":"baurusuchidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stratiotosuchus_maxhechti.jpg/220px-Stratiotosuchus_maxhechti.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Stratiotosuchus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": "",
+"name": "Stratiotosuchus",
+"parentTaxon": "baurusuchidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stratiotosuchus_maxhechti.jpg/220px-Stratiotosuchus_maxhechti.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stratiotosuchus"
+}

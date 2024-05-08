@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Pantestudines subclade 1","parentTaxon":"pantestudines","popularSubtaxa":["eunotosaurus","proganochelys","turtle"],"exampleMember":"eunotosaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Pantestudines","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["eunotosaurus","pantestudines subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Pantestudines subclade 1",
+"parentTaxon": "pantestudines",
+"popularSubtaxa": [
+"eunotosaurus",
+"proganochelys",
+"turtle"
+],
+"exampleMember": "eunotosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pantestudines",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"eunotosaurus",
+"pantestudines subclade 2"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Annatherapsidus","parentTaxon":"akidnognathidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annatherapsidus092.jpg/220px-Annatherapsidus092.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Annatherapsidus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Annatherapsidus",
+"parentTaxon": "akidnognathidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annatherapsidus092.jpg/220px-Annatherapsidus092.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Annatherapsidus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

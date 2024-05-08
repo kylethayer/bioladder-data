@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Serikodiastida","parentTaxon":"tetrapulmonata","popularSubtaxa":["attercopus","idmonarachne","spider"],"exampleMember":"attercopus","exampleMemberType":"Early Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Tetrapulmonata","popularAncestors":["arachnid","arthropod","animal","life"],"subtaxa":["attercopus","serikodiastida subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Serikodiastida",
+"parentTaxon": "tetrapulmonata",
+"popularSubtaxa": [
+"attercopus",
+"idmonarachne",
+"spider"
+],
+"exampleMember": "attercopus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Tetrapulmonata",
+"popularAncestors": [
+"arachnid",
+"arthropod",
+"animal",
+"life"
+],
+"subtaxa": [
+"attercopus",
+"serikodiastida subclade 1"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Wild asses","parentTaxon":"equus subclade 1","exampleMember":"kiang","exampleMemberType":"Example Member","taxonomicRank":"Subgenus","scientificName":"Asinus","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Asinus"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Wild asses",
+"parentTaxon": "equus subclade 1",
+"exampleMember": "kiang",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subgenus",
+"scientificName": "Asinus",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Asinus"
+}

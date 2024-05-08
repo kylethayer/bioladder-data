@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Burnetiidae subclade 1","parentTaxon":"burnetiidae","exampleMember":"proburnetia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Burnetiidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Burnetiidae subclade 1",
+"parentTaxon": "burnetiidae",
+"exampleMember": "proburnetia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Burnetiidae"
+}

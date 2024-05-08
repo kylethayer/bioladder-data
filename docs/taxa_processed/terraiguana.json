@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Terraiguana","parentTaxon":"euiguana","popularSubtaxa":["iguana","horned lizard","urosaurus"],"exampleMember":"crotaphytinae","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Iguania","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["terraiguana subclade 1","terraiguana subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Terraiguana",
+"parentTaxon": "euiguana",
+"popularSubtaxa": [
+"iguana",
+"horned lizard",
+"urosaurus"
+],
+"exampleMember": "crotaphytinae",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Iguania",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"terraiguana subclade 1",
+"terraiguana subclade 2"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Placodus","parentTaxon":"placodontia subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Placodus_BW.jpg/220px-Placodus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Placodus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Placodus",
+"parentTaxon": "placodontia subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Placodus_BW.jpg/220px-Placodus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Placodus"
+}

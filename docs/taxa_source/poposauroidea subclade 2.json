@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Poposauroidea subclade 2","parentTaxon":"poposauroidea subclade 1","exampleMember":"lotosaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Poposauroidea"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Poposauroidea subclade 2",
+"parentTaxon": "poposauroidea subclade 1",
+"exampleMember": "lotosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Poposauroidea"
+}

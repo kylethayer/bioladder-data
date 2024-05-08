@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Eusauropoda","parentTaxon":"sauropods subclade 1","exampleMember":"shunosaurus","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Eusauropoda"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eusauropoda",
+"parentTaxon": "sauropods subclade 1",
+"exampleMember": "shunosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Eusauropoda"
+}

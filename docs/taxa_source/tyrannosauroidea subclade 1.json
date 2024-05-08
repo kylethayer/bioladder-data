@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Tyrannosauroidea subclade 1","parentTaxon":"tyrannosauroidea","exampleMember":"raptorex","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"Raptorex kriegsteini","otherNames":[],"wikipediaImg":"","wikipediaPage":""}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Tyrannosauroidea subclade 1",
+"parentTaxon": "tyrannosauroidea",
+"exampleMember": "raptorex",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "Raptorex kriegsteini",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": ""
+}

@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Bifurcata","parentTaxon":"squamata","popularSubtaxa":["snake","gecko","skink"],"exampleMember":"gecko","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Squamata","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["gecko","unidentata"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Bifurcata",
+"parentTaxon": "squamata",
+"popularSubtaxa": [
+"snake",
+"gecko",
+"skink"
+],
+"exampleMember": "gecko",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Squamata",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"gecko",
+"unidentata"
+]
+}

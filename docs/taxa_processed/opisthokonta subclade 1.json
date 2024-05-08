@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Opisthokonta subclade 1","parentTaxon":"opisthokonta","popularSubtaxa":["nuclearia","fungus"],"exampleMember":"nuclearia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"","popularAncestors":["unikont","eukaryote","cellular life","life"],"subtaxa":["fungus","nucleariid"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Opisthokonta subclade 1",
+"parentTaxon": "opisthokonta",
+"popularSubtaxa": [
+"nuclearia",
+"fungus"
+],
+"exampleMember": "nuclearia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "",
+"popularAncestors": [
+"unikont",
+"eukaryote",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"fungus",
+"nucleariid"
+]
+}

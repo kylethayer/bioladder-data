@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Paleothyris","parentTaxon":"eureptilia subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paleothyris_BACKGROUND.JPG/220px-Paleothyris_BACKGROUND.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Paleothyris"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Paleothyris",
+"parentTaxon": "eureptilia subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paleothyris_BACKGROUND.JPG/220px-Paleothyris_BACKGROUND.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Paleothyris"
+}

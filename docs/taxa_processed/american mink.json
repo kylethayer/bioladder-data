@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"American mink","parentTaxon":"mustelinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Neovison vison","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MinkforWiki.jpg/220px-MinkforWiki.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Neovison_vison","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "American mink",
+"parentTaxon": "mustelinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Neovison vison",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MinkforWiki.jpg/220px-MinkforWiki.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Neovison_vison",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": []
+}

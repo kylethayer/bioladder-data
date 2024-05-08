@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Eutitanosauria subclade 1","parentTaxon":"eutitanosauria","popularSubtaxa":["rinconsaurus","aeolosaurus"],"exampleMember":"rinconsaurus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Rinconsaurus","popularAncestors":["sauropods","dinosaur","animal","life"],"subtaxa":["aeolosaurus","rinconsaurus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eutitanosauria subclade 1",
+"parentTaxon": "eutitanosauria",
+"popularSubtaxa": [
+"rinconsaurus",
+"aeolosaurus"
+],
+"exampleMember": "rinconsaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Rinconsaurus",
+"popularAncestors": [
+"sauropods",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"aeolosaurus",
+"rinconsaurus"
+]
+}

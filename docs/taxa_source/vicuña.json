@@ -1,1 +1,14 @@
-{"description":"","popularity":40,"extinct":false,"name":"Vicuña","parentTaxon":"vicugna","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Vicugna vicugna","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vicunacrop.jpg/250px-Vicunacrop.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Vicu%C3%B1a"}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Vicu\u00f1a",
+"parentTaxon": "vicugna",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Vicugna vicugna",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vicunacrop.jpg/250px-Vicunacrop.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Vicu%C3%B1a"
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Hylonomus","parentTaxon":"romeriida","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hylonomus_BW.jpg/250px-Hylonomus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Hylonomus"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Hylonomus",
+"parentTaxon": "romeriida",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hylonomus_BW.jpg/250px-Hylonomus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Hylonomus"
+}

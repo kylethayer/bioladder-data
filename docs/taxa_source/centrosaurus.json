@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Centrosaurus","parentTaxon":"centrosaurinae subclade 6","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Centrosaurus_BW.jpg/220px-Centrosaurus_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Centrosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Centrosaurus",
+"parentTaxon": "centrosaurinae subclade 6",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Centrosaurus_BW.jpg/220px-Centrosaurus_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Centrosaurus"
+}

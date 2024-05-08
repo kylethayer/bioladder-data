@@ -1,1 +1,22 @@
-{"description":"","popularity":40,"extinct":false,"name":"Black wallaroo","parentTaxon":"osphranter","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Macropus bernardus","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Wallaroo.JPG/220px-Black_Wallaroo.JPG","wikipediaPage":"http://en.wikipedia.org/wiki/Black_wallaroo","popularAncestors":["marsupial","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Black wallaroo",
+"parentTaxon": "osphranter",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Macropus bernardus",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Wallaroo.JPG/220px-Black_Wallaroo.JPG",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Black_wallaroo",
+"popularAncestors": [
+"marsupial",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

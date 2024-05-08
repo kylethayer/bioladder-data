@@ -1,1 +1,30 @@
-{"description":"","popularity":10,"extinct":true,"name":"Sphenacodontinae","parentTaxon":"sphenacodontidae","popularSubtaxa":["secodontosaurus","cryptovenator","dimetrodon"],"exampleMember":"secodontosaurus","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Sphenacodontidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["cryptovenator","secodontosaurus","sphenacodontinae subclade 1"]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Sphenacodontinae",
+"parentTaxon": "sphenacodontidae",
+"popularSubtaxa": [
+"secodontosaurus",
+"cryptovenator",
+"dimetrodon"
+],
+"exampleMember": "secodontosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Sphenacodontidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"cryptovenator",
+"secodontosaurus",
+"sphenacodontinae subclade 1"
+]
+}

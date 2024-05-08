@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Procoptodon","parentTaxon":"sthenurinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Procoptodon_goliah.jpg/220px-Procoptodon_goliah.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Procoptodon"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Procoptodon",
+"parentTaxon": "sthenurinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Procoptodon_goliah.jpg/220px-Procoptodon_goliah.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Procoptodon"
+}

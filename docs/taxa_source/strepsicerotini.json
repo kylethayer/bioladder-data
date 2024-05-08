@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Strepsicerotini","parentTaxon":"bovinae","exampleMember":"lesser kudu","exampleMemberType":"Example Member","taxonomicRank":"Tribe","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Strepsicerotini",
+"parentTaxon": "bovinae",
+"exampleMember": "lesser kudu",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Tribe",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini"
+}

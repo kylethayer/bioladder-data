@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Whaitsiidae","parentTaxon":"eutherocephalia subclade 3","exampleMember":"viatkosuchus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Whaitsiidae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Whaitsiidae",
+"parentTaxon": "eutherocephalia subclade 3",
+"exampleMember": "viatkosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Whaitsiidae"
+}

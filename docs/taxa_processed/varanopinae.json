@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Varanopinae","parentTaxon":"varanopidae","popularSubtaxa":["aerosaurus","varanops","watongia"],"exampleMember":"aerosaurus","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Varanopidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["aerosaurus","varanopinae subclade 1"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Varanopinae",
+"parentTaxon": "varanopidae",
+"popularSubtaxa": [
+"aerosaurus",
+"varanops",
+"watongia"
+],
+"exampleMember": "aerosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Varanopidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"aerosaurus",
+"varanopinae subclade 1"
+]
+}

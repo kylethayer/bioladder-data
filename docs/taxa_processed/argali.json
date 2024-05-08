@@ -1,1 +1,24 @@
-{"description":"","popularity":50,"extinct":false,"name":"Argali","parentTaxon":"ovis","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Ovis ammon","otherNames":["Mountain sheep"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Argali_Stuffed_specimen.jpg/220px-Argali_Stuffed_specimen.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Argali","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Argali",
+"parentTaxon": "ovis",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Ovis ammon",
+"otherNames": [
+"Mountain sheep"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Argali_Stuffed_specimen.jpg/220px-Argali_Stuffed_specimen.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Argali",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

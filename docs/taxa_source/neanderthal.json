@@ -1,1 +1,16 @@
-{"description":"Neanderthals are closely related to modern humans, differing in DNA by only 0.3%, just twice the variability across contemporary humans. Remains left by Neanderthals include bones and stone tools, which are found from western Europe to central Asia.","popularity":60,"extinct":true,"name":"Neanderthal","parentTaxon":"homo subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":["Neandertals"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Homo_sapiens_neanderthalensis-Mr._N.jpg/250px-Homo_sapiens_neanderthalensis-Mr._N.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Neanderthal"}
+{
+"description": "Neanderthals are closely related to modern humans, differing in DNA by only 0.3%, just twice the variability across contemporary humans. Remains left by Neanderthals include bones and stone tools, which are found from western Europe to central Asia.",
+"popularity": 60,
+"extinct": true,
+"name": "Neanderthal",
+"parentTaxon": "homo subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [
+"Neandertals"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Homo_sapiens_neanderthalensis-Mr._N.jpg/250px-Homo_sapiens_neanderthalensis-Mr._N.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Neanderthal"
+}

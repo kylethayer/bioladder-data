@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Stereospondyli subclade 3","parentTaxon":"stereospondyli subclade 2","popularSubtaxa":["wetlugasaurus","xenotosuchus","trematosaurus"],"exampleMember":"benthosuchus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stereospondyli","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["capitosauria","trematosauria"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Stereospondyli subclade 3",
+"parentTaxon": "stereospondyli subclade 2",
+"popularSubtaxa": [
+"wetlugasaurus",
+"xenotosuchus",
+"trematosaurus"
+],
+"exampleMember": "benthosuchus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stereospondyli",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"capitosauria",
+"trematosauria"
+]
+}

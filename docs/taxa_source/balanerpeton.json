@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Balanerpeton","parentTaxon":"dendrerpetontidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Balanerpeton_BW.jpg/220px-Balanerpeton_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Balanerpeton"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Balanerpeton",
+"parentTaxon": "dendrerpetontidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Balanerpeton_BW.jpg/220px-Balanerpeton_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Balanerpeton"
+}

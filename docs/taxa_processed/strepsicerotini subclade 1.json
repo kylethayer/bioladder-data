@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Strepsicerotini subclade 1","parentTaxon":"strepsicerotini","popularSubtaxa":["nyala","mountain nyala","sitatunga"],"exampleMember":"nyala","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["nyala","strepsicerotini subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Strepsicerotini subclade 1",
+"parentTaxon": "strepsicerotini",
+"popularSubtaxa": [
+"nyala",
+"mountain nyala",
+"sitatunga"
+],
+"exampleMember": "nyala",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"nyala",
+"strepsicerotini subclade 2"
+]
+}

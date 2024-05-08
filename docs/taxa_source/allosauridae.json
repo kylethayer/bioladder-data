@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Allosauridae","parentTaxon":"allosauria","exampleMember":"allosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Allosauridae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Allosauridae",
+"parentTaxon": "allosauria",
+"exampleMember": "allosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Allosauridae"
+}

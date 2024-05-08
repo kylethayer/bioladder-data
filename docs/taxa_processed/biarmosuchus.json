@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Biarmosuchus","parentTaxon":"biarmosuchia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Biarmosuchus_BW.jpg/220px-Biarmosuchus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Biarmosuchus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Biarmosuchus",
+"parentTaxon": "biarmosuchia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Biarmosuchus_BW.jpg/220px-Biarmosuchus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Biarmosuchus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

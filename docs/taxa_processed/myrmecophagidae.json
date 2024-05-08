@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":false,"name":"Myrmecophagidae","parentTaxon":"anteater","popularSubtaxa":["giant anteater","tamandua"],"exampleMember":"giant anteater","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Myrmecophagidae","popularAncestors":["anteater","mammal","animal","life"],"subtaxa":["giant anteater","tamandua"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Myrmecophagidae",
+"parentTaxon": "anteater",
+"popularSubtaxa": [
+"giant anteater",
+"tamandua"
+],
+"exampleMember": "giant anteater",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Myrmecophagidae",
+"popularAncestors": [
+"anteater",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": [
+"giant anteater",
+"tamandua"
+]
+}

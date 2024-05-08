@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Acanthostomatops","parentTaxon":"zatrachydidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Acanthostomatops10.jpg/220px-Acanthostomatops10.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Acanthostomatops"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Acanthostomatops",
+"parentTaxon": "zatrachydidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Acanthostomatops10.jpg/220px-Acanthostomatops10.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Acanthostomatops"
+}

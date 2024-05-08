@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eudromaeosauria","parentTaxon":"dromaeosauridae subclade 2","popularSubtaxa":["velociraptor","deinonychus","utahraptor"],"exampleMember":"saurornitholestes","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Eudromaeosauria","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["eudromaeosauria subclade 1","saurornitholestinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eudromaeosauria",
+"parentTaxon": "dromaeosauridae subclade 2",
+"popularSubtaxa": [
+"velociraptor",
+"deinonychus",
+"utahraptor"
+],
+"exampleMember": "saurornitholestes",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Eudromaeosauria",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"eudromaeosauria subclade 1",
+"saurornitholestinae"
+]
+}

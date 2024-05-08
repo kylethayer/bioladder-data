@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Zosterophyllopsida","parentTaxon":"lycophytina","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Sawdonia_ornata.gif/220px-Sawdonia_ornata.gif","wikipediaPage":"https://en.wikipedia.org/wiki/Zosterophyllopsida","popularAncestors":["vascular plant","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Zosterophyllopsida",
+"parentTaxon": "lycophytina",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Sawdonia_ornata.gif/220px-Sawdonia_ornata.gif",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Zosterophyllopsida",
+"popularAncestors": [
+"vascular plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

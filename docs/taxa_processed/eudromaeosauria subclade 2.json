@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Eudromaeosauria subclade 2","parentTaxon":"eudromaeosauria subclade 1","popularSubtaxa":["velociraptor","utahraptor","yurgovuchia"],"exampleMember":"velociraptor","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Eudromaeosauria#Phylogeny","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["dromaeosaurinae","velociraptorinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Eudromaeosauria subclade 2",
+"parentTaxon": "eudromaeosauria subclade 1",
+"popularSubtaxa": [
+"velociraptor",
+"utahraptor",
+"yurgovuchia"
+],
+"exampleMember": "velociraptor",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Eudromaeosauria#Phylogeny",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"dromaeosaurinae",
+"velociraptorinae"
+]
+}

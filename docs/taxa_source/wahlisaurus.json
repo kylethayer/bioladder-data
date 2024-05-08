@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Wahlisaurus","parentTaxon":"leptonectidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wahlisaurus_NT_small.jpg/220px-Wahlisaurus_NT_small.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Wahlisaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Wahlisaurus",
+"parentTaxon": "leptonectidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wahlisaurus_NT_small.jpg/220px-Wahlisaurus_NT_small.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Wahlisaurus"
+}

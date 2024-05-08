@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Pygmy rabbit","parentTaxon":"leporinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Brachylagus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BRACHYLAGUS_IDAHOENSIS.jpg/220px-BRACHYLAGUS_IDAHOENSIS.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Pygmy_rabbit"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Pygmy rabbit",
+"parentTaxon": "leporinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Brachylagus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BRACHYLAGUS_IDAHOENSIS.jpg/220px-BRACHYLAGUS_IDAHOENSIS.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pygmy_rabbit"
+}

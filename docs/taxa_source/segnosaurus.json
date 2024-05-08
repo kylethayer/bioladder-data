@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Segnosaurus","parentTaxon":"therizinosauridae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Segno.jpg/220px-Segno.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Segnosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Segnosaurus",
+"parentTaxon": "therizinosauridae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Segno.jpg/220px-Segno.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Segnosaurus"
+}

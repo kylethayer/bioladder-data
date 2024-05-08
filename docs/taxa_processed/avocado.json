@@ -1,1 +1,24 @@
-{"description":"","popularity":70,"extinct":false,"name":"Avocado","parentTaxon":"persea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Persea americana","otherNames":["Alligator pear"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/220px-Persea_americana_fruit_2.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Avocado","popularAncestors":["laurel","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Avocado",
+"parentTaxon": "persea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Persea americana",
+"otherNames": [
+"Alligator pear"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/220px-Persea_americana_fruit_2.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Avocado",
+"popularAncestors": [
+"laurel",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

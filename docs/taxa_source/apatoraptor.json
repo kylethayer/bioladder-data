@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Apatoraptor","parentTaxon":"elmisaurinae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Apatoraptor_NT_small.jpg/330px-Apatoraptor_NT_small.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Apatoraptor"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Apatoraptor",
+"parentTaxon": "elmisaurinae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Apatoraptor_NT_small.jpg/330px-Apatoraptor_NT_small.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Apatoraptor"
+}

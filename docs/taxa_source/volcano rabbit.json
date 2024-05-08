@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Volcano rabbit","parentTaxon":"leporinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Romerolagus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Romerolagus_diazi_%28dispale%29_001.jpg/220px-Romerolagus_diazi_%28dispale%29_001.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Volcano_rabbit"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Volcano rabbit",
+"parentTaxon": "leporinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Romerolagus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Romerolagus_diazi_%28dispale%29_001.jpg/220px-Romerolagus_diazi_%28dispale%29_001.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Volcano_rabbit"
+}

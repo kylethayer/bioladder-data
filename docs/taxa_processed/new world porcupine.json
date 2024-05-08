@@ -1,1 +1,22 @@
-{"description":"","popularity":70,"extinct":false,"name":"New world porcupine","parentTaxon":"caviomorpha","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Erethizontidae","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porcupine-BioDome.jpg/220px-Porcupine-BioDome.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/New_World_porcupine","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "New world porcupine",
+"parentTaxon": "caviomorpha",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Erethizontidae",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porcupine-BioDome.jpg/220px-Porcupine-BioDome.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/New_World_porcupine",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

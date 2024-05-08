@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Centrosaurinae subclade 1","parentTaxon":"centrosaurinae","popularSubtaxa":["pachyrhinosaurus","styracosaurus","avaceratops"],"exampleMember":"avaceratops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Centrosaurinae#Classification","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["avaceratops","centrosaurinae subclade 2"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Centrosaurinae subclade 1",
+"parentTaxon": "centrosaurinae",
+"popularSubtaxa": [
+"pachyrhinosaurus",
+"styracosaurus",
+"avaceratops"
+],
+"exampleMember": "avaceratops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Centrosaurinae#Classification",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"avaceratops",
+"centrosaurinae subclade 2"
+]
+}

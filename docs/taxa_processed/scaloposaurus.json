@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Scaloposaurus","parentTaxon":"baurioidea subclade 3","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ScaloposaurusDB.jpg/220px-ScaloposaurusDB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Scaloposaurus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Scaloposaurus",
+"parentTaxon": "baurioidea subclade 3",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ScaloposaurusDB.jpg/220px-ScaloposaurusDB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Scaloposaurus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

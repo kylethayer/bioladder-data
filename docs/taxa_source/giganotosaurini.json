@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Giganotosaurini","parentTaxon":"carcharodontosaurinae","exampleMember":"tyrannotitan","exampleMemberType":"Example Member","taxonomicRank":"","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Carcharodontosauridae"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Giganotosaurini",
+"parentTaxon": "carcharodontosaurinae",
+"exampleMember": "tyrannotitan",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Carcharodontosauridae"
+}

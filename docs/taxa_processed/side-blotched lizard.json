@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Side-blotched lizard","parentTaxon":"phrynosomatidae subclade 1","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Uta","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Uta3.jpg/220px-Uta3.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Side-blotched_lizard","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Side-blotched lizard",
+"parentTaxon": "phrynosomatidae subclade 1",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Uta",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Uta3.jpg/220px-Uta3.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Side-blotched_lizard",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

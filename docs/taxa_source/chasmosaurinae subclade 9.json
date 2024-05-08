@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Chasmosaurinae subclade 9","parentTaxon":"chasmosaurinae subclade 8","exampleMember":"ojoceratops","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Triceratops#Classification"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Chasmosaurinae subclade 9",
+"parentTaxon": "chasmosaurinae subclade 8",
+"exampleMember": "ojoceratops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Triceratops#Classification"
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Zanabazar","parentTaxon":"troodontidae subclade 3","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zanabazar.jpg/220px-Zanabazar.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Zanabazar_%28dinosaur%29"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Zanabazar",
+"parentTaxon": "troodontidae subclade 3",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zanabazar.jpg/220px-Zanabazar.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Zanabazar_%28dinosaur%29"
+}

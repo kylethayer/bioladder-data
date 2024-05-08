@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Diplodocinae subclade 1","parentTaxon":"diplodocinae","exampleMember":"diplodocus","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Diplodocid"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Diplodocinae subclade 1",
+"parentTaxon": "diplodocinae",
+"exampleMember": "diplodocus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Diplodocid"
+}

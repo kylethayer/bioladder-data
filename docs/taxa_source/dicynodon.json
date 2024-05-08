@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Dicynodon","parentTaxon":"dicynodontoidea","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dicynodon_BW.jpg/220px-Dicynodon_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Dicynodont"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Dicynodon",
+"parentTaxon": "dicynodontoidea",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dicynodon_BW.jpg/220px-Dicynodon_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dicynodont"
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Halitherium","parentTaxon":"halitheriinae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Halitherium_BW.jpg/220px-Halitherium_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Halitherium"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Halitherium",
+"parentTaxon": "halitheriinae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Halitherium_BW.jpg/220px-Halitherium_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Halitherium"
+}

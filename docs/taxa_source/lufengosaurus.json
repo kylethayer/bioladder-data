@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Lufengosaurus","parentTaxon":"massospondylidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lufengosaurus_sketch2.jpg/220px-Lufengosaurus_sketch2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Lufengosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Lufengosaurus",
+"parentTaxon": "massospondylidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lufengosaurus_sketch2.jpg/220px-Lufengosaurus_sketch2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Lufengosaurus"
+}

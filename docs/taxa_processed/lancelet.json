@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":false,"name":"Lancelet","parentTaxon":"leptocardii","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Order","scientificName":"Amphioxiformes","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/250px-Branchiostoma_lanceolatum.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Lancelet","popularAncestors":["chordate","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": false,
+"name": "Lancelet",
+"parentTaxon": "leptocardii",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Order",
+"scientificName": "Amphioxiformes",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/250px-Branchiostoma_lanceolatum.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Lancelet",
+"popularAncestors": [
+"chordate",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

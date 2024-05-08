@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Theropoda subclade 1","parentTaxon":"theropoda","exampleMember":"eoraptor","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Theropoda"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Theropoda subclade 1",
+"parentTaxon": "theropoda",
+"exampleMember": "eoraptor",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Theropoda"
+}

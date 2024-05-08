@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Edopoidea","parentTaxon":"amphibian","popularSubtaxa":["edops","cochleosaurus","nigerpeton"],"exampleMember":"edops","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Edopoidea","popularAncestors":["amphibian","tetrapod","animal","life"],"subtaxa":["cochleosauridae","edops"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Edopoidea",
+"parentTaxon": "amphibian",
+"popularSubtaxa": [
+"edops",
+"cochleosaurus",
+"nigerpeton"
+],
+"exampleMember": "edops",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Edopoidea",
+"popularAncestors": [
+"amphibian",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"cochleosauridae",
+"edops"
+]
+}

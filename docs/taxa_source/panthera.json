@@ -1,1 +1,14 @@
-{"name":"Panthera","parentTaxon":"pantherinae","description":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"popularity":"","extinct":false,"exampleMember":"snow leopard","exampleMemberType":"Basal Member","wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Panthera"}
+{
+"name": "Panthera",
+"parentTaxon": "pantherinae",
+"description": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"popularity": "",
+"extinct": false,
+"exampleMember": "snow leopard",
+"exampleMemberType": "Basal Member",
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Panthera"
+}

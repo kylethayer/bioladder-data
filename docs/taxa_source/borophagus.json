@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Borophagus","parentTaxon":"canidae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Borophagus_Knight.jpg/220px-Borophagus_Knight.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Borophagus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Borophagus",
+"parentTaxon": "canidae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Borophagus_Knight.jpg/220px-Borophagus_Knight.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Borophagus"
+}

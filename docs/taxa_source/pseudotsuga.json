@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Pseudotsuga","parentTaxon":"laricoideae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pseudotsuga_menziesii_28236.JPG/220px-Pseudotsuga_menziesii_28236.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Pseudotsuga"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Pseudotsuga",
+"parentTaxon": "laricoideae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pseudotsuga_menziesii_28236.JPG/220px-Pseudotsuga_menziesii_28236.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Pseudotsuga"
+}

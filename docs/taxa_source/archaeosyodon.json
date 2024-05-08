@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Archaeosyodon","parentTaxon":"anteosauridae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Archaeosyodon_DB.jpg/220px-Archaeosyodon_DB.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Archaeosyodon"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Archaeosyodon",
+"parentTaxon": "anteosauridae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Archaeosyodon_DB.jpg/220px-Archaeosyodon_DB.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Archaeosyodon"
+}

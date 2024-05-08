@@ -1,1 +1,22 @@
-{"description":"","popularity":65,"extinct":false,"name":"Kangaroo rat","parentTaxon":"dipodomyinae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"Dipodomys","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kangaroo-rat.jpg/220px-Kangaroo-rat.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Kangaroo_rat","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 65,
+"extinct": false,
+"name": "Kangaroo rat",
+"parentTaxon": "dipodomyinae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "Dipodomys",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kangaroo-rat.jpg/220px-Kangaroo-rat.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kangaroo_rat",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

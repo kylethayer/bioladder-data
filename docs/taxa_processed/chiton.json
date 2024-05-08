@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":false,"name":"Chiton","parentTaxon":"aculifera","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Class","scientificName":"Polyplacophora","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptoconchus_porosus_%28butterfly_chiton%29.JPG/220px-Cryptoconchus_porosus_%28butterfly_chiton%29.JPG","wikipediaPage":"https://en.wikipedia.org/wiki/Chiton","popularAncestors":["mollusk","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Chiton",
+"parentTaxon": "aculifera",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Class",
+"scientificName": "Polyplacophora",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cryptoconchus_porosus_%28butterfly_chiton%29.JPG/220px-Cryptoconchus_porosus_%28butterfly_chiton%29.JPG",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chiton",
+"popularAncestors": [
+"mollusk",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

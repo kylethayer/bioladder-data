@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Procolophonoidea","parentTaxon":"procolophonia subclade 1","popularSubtaxa":["owenetta","sclerosaurus","procolophon"],"exampleMember":"owenetta","exampleMemberType":"Example Member","taxonomicRank":"Superfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Procolophonoidea","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["owenetta","procolophonidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Procolophonoidea",
+"parentTaxon": "procolophonia subclade 1",
+"popularSubtaxa": [
+"owenetta",
+"sclerosaurus",
+"procolophon"
+],
+"exampleMember": "owenetta",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Superfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Procolophonoidea",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"owenetta",
+"procolophonidae"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Chordate","parentTaxon":"deuterostome","exampleMember":"pikaia","exampleMemberType":"Early Member","taxonomicRank":"Phylum","scientificName":"Chordata","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Chordate"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Chordate",
+"parentTaxon": "deuterostome",
+"exampleMember": "pikaia",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Phylum",
+"scientificName": "Chordata",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Chordate"
+}

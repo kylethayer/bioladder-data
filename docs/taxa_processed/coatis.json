@@ -1,1 +1,29 @@
-{"description":"","popularity":40,"extinct":false,"name":"Coatis","parentTaxon":"procyonidae subclade 3","popularSubtaxa":["white-nosed coati","south american coati","western mountain coati"],"exampleMember":"south american coati","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Nasuella","popularAncestors":["caniformia","carnivora","animal","life"],"subtaxa":["coatis subclade 1","south american coati"]}
+{
+"description": "",
+"popularity": 40,
+"extinct": false,
+"name": "Coatis",
+"parentTaxon": "procyonidae subclade 3",
+"popularSubtaxa": [
+"white-nosed coati",
+"south american coati",
+"western mountain coati"
+],
+"exampleMember": "south american coati",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Nasuella",
+"popularAncestors": [
+"caniformia",
+"carnivora",
+"animal",
+"life"
+],
+"subtaxa": [
+"coatis subclade 1",
+"south american coati"
+]
+}

@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Compsognathidae subclade 4","parentTaxon":"compsognathidae subclade 3","popularSubtaxa":["juravenator","scipionyx"],"exampleMember":"juravenator","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Compsognathidae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["juravenator","scipionyx"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Compsognathidae subclade 4",
+"parentTaxon": "compsognathidae subclade 3",
+"popularSubtaxa": [
+"juravenator",
+"scipionyx"
+],
+"exampleMember": "juravenator",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Compsognathidae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"juravenator",
+"scipionyx"
+]
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":false,"name":"Magnoliaceae","parentTaxon":"magnoliales subclade 1","popularSubtaxa":["tulip tree","michelia","magnolia"],"exampleMember":"tulip tree","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Magnoliaceae","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":["magnolieae","michelia","tulip tree"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Magnoliaceae",
+"parentTaxon": "magnoliales subclade 1",
+"popularSubtaxa": [
+"tulip tree",
+"michelia",
+"magnolia"
+],
+"exampleMember": "tulip tree",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Magnoliaceae",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"magnolieae",
+"michelia",
+"tulip tree"
+]
+}

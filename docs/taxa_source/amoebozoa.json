@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":false,"name":"Amoebozoa","parentTaxon":"unikont","exampleMember":"chaos","exampleMemberType":"Example Member","taxonomicRank":"Unranked","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Amoebozoa"}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Amoebozoa",
+"parentTaxon": "unikont",
+"exampleMember": "chaos",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unranked",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Amoebozoa"
+}

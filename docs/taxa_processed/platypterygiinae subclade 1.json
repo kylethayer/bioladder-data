@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Platypterygiinae subclade 1","parentTaxon":"platypterygiinae","popularSubtaxa":["platypterygius","caypullisaurus"],"exampleMember":"platypterygius","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Platypterygiinae","popularAncestors":["ichthyosaur","amniote","animal","life"],"subtaxa":["caypullisaurus","platypterygius"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Platypterygiinae subclade 1",
+"parentTaxon": "platypterygiinae",
+"popularSubtaxa": [
+"platypterygius",
+"caypullisaurus"
+],
+"exampleMember": "platypterygius",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Platypterygiinae",
+"popularAncestors": [
+"ichthyosaur",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"caypullisaurus",
+"platypterygius"
+]
+}

@@ -1,1 +1,30 @@
-{"description":"","popularity":"","extinct":true,"name":"Anteosauridae","parentTaxon":"anteosaur","popularSubtaxa":["archaeosyodon","anteosaurus","syodon"],"exampleMember":"archaeosyodon","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Anteosauridae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["anteosaurinae","archaeosyodon","syodontinae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Anteosauridae",
+"parentTaxon": "anteosaur",
+"popularSubtaxa": [
+"archaeosyodon",
+"anteosaurus",
+"syodon"
+],
+"exampleMember": "archaeosyodon",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Anteosauridae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"anteosaurinae",
+"archaeosyodon",
+"syodontinae"
+]
+}

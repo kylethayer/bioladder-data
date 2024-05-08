@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Diictodontia","parentTaxon":"therochelonia","popularSubtaxa":["eosimops","robertia","myosaurus"],"exampleMember":"dicynodontoides","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Diictodontia","popularAncestors":["dicynodont","amniote","animal","life"],"subtaxa":["kistecephalia","pylaecephalidae"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Diictodontia",
+"parentTaxon": "therochelonia",
+"popularSubtaxa": [
+"eosimops",
+"robertia",
+"myosaurus"
+],
+"exampleMember": "dicynodontoides",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Diictodontia",
+"popularAncestors": [
+"dicynodont",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"kistecephalia",
+"pylaecephalidae"
+]
+}

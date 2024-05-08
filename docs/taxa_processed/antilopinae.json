@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Antilopinae","parentTaxon":"aegodontia","popularSubtaxa":["springbok","thomson's gazelle","dik-dik"],"exampleMember":"beira","exampleMemberType":"Example Member","taxonomicRank":"Subfamily","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Antilopinae","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["antilopinae subclade 1","neotragini"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Antilopinae",
+"parentTaxon": "aegodontia",
+"popularSubtaxa": [
+"springbok",
+"thomson's gazelle",
+"dik-dik"
+],
+"exampleMember": "beira",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Subfamily",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Antilopinae",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"antilopinae subclade 1",
+"neotragini"
+]
+}

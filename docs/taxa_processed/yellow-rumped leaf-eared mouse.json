@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Yellow-rumped leaf-eared mouse","parentTaxon":"phyllotis","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Phyllotis xanthopygus","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Phyllotis_xanthopygus.jpg/220px-Phyllotis_xanthopygus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Yellow-rumped_leaf-eared_mouse","popularAncestors":["rodent","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Yellow-rumped leaf-eared mouse",
+"parentTaxon": "phyllotis",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Phyllotis xanthopygus",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Phyllotis_xanthopygus.jpg/220px-Phyllotis_xanthopygus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Yellow-rumped_leaf-eared_mouse",
+"popularAncestors": [
+"rodent",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

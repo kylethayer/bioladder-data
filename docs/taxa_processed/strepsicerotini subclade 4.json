@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Strepsicerotini subclade 4","parentTaxon":"strepsicerotini subclade 2","popularSubtaxa":["greater kudu","mountain nyala","sitatunga"],"exampleMember":"greater kudu","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Strepsicerotini","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":["greater kudu","strepsicerotini subclade 5"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Strepsicerotini subclade 4",
+"parentTaxon": "strepsicerotini subclade 2",
+"popularSubtaxa": [
+"greater kudu",
+"mountain nyala",
+"sitatunga"
+],
+"exampleMember": "greater kudu",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strepsicerotini",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": [
+"greater kudu",
+"strepsicerotini subclade 5"
+]
+}

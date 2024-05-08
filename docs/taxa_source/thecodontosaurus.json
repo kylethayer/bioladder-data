@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Thecodontosaurus","parentTaxon":"sauropodomorpha subclade 2","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Thecodontosaurus.jpg/220px-Thecodontosaurus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Thecodontosaurus"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Thecodontosaurus",
+"parentTaxon": "sauropodomorpha subclade 2",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Thecodontosaurus.jpg/220px-Thecodontosaurus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Thecodontosaurus"
+}

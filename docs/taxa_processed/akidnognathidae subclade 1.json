@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Akidnognathidae subclade 1","parentTaxon":"akidnognathidae","popularSubtaxa":["euchambersia","moschorhinus"],"exampleMember":"euchambersia","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Akidnognathidae","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":["euchambersia","moschorhinus"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Akidnognathidae subclade 1",
+"parentTaxon": "akidnognathidae",
+"popularSubtaxa": [
+"euchambersia",
+"moschorhinus"
+],
+"exampleMember": "euchambersia",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Akidnognathidae",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": [
+"euchambersia",
+"moschorhinus"
+]
+}

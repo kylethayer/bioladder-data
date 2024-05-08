@@ -1,1 +1,28 @@
-{"description":"","popularity":"","extinct":true,"name":"Dilophosauridae","parentTaxon":"neotheropoda subclade 3","popularSubtaxa":["dilophosaurus","dracovenator"],"exampleMember":"dilophosaurus","exampleMemberType":"Example Member","taxonomicRank":"Family","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Dilophosauridae","popularAncestors":["saurischia","dinosaur","animal","life"],"subtaxa":["dilophosaurus","dracovenator"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Dilophosauridae",
+"parentTaxon": "neotheropoda subclade 3",
+"popularSubtaxa": [
+"dilophosaurus",
+"dracovenator"
+],
+"exampleMember": "dilophosaurus",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Family",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Dilophosauridae",
+"popularAncestors": [
+"saurischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"dilophosaurus",
+"dracovenator"
+]
+}

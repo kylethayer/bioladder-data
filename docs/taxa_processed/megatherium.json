@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Megatherium","parentTaxon":"megatheriina","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Megatherum_DB.jpg/170px-Megatherum_DB.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Megatherium","popularAncestors":["sloth","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Megatherium",
+"parentTaxon": "megatheriina",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Megatherum_DB.jpg/170px-Megatherum_DB.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Megatherium",
+"popularAncestors": [
+"sloth",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

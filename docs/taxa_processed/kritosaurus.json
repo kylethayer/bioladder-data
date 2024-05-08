@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Kritosaurus","parentTaxon":"kritosaurini","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kritosaurus_BW.jpg/220px-Kritosaurus_BW.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Kritosaurus","popularAncestors":["hadrosaurid","dinosaur","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Kritosaurus",
+"parentTaxon": "kritosaurini",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kritosaurus_BW.jpg/220px-Kritosaurus_BW.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Kritosaurus",
+"popularAncestors": [
+"hadrosaurid",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": []
+}

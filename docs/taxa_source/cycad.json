@@ -1,1 +1,14 @@
-{"description":"","popularity":20,"extinct":false,"name":"Cycad","parentTaxon":"acrogymnospermae","exampleMember":"macroneuropteris","exampleMemberType":"Example Member","taxonomicRank":"Class","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Cycad"}
+{
+"description": "",
+"popularity": 20,
+"extinct": false,
+"name": "Cycad",
+"parentTaxon": "acrogymnospermae",
+"exampleMember": "macroneuropteris",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Class",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Cycad"
+}

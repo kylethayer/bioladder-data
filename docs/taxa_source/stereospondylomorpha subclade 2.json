@@ -1,1 +1,14 @@
-{"description":"","popularity":"","extinct":true,"name":"Stereospondylomorpha subclade 2","parentTaxon":"stereospondylomorpha subclade 1","exampleMember":"australerpeton","exampleMemberType":"Example Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Stereospondylomorpha"}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Stereospondylomorpha subclade 2",
+"parentTaxon": "stereospondylomorpha subclade 1",
+"exampleMember": "australerpeton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stereospondylomorpha"
+}

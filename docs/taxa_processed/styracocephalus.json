@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":true,"name":"Styracocephalus","parentTaxon":"tapinocephalia","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/STYRACOCEPHALUS_2_copia.jpg/220px-STYRACOCEPHALUS_2_copia.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Styracocephalus","popularAncestors":["amniote","tetrapod","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Styracocephalus",
+"parentTaxon": "tapinocephalia",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/STYRACOCEPHALUS_2_copia.jpg/220px-STYRACOCEPHALUS_2_copia.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Styracocephalus",
+"popularAncestors": [
+"amniote",
+"tetrapod",
+"animal",
+"life"
+],
+"subtaxa": []
+}

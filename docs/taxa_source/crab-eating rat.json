@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Crab-eating rat","parentTaxon":"sigmodontalia","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Ichthyomys hydrobates","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ichthyomys_hydrobates_soderstromi_Smit.jpg/220px-Ichthyomys_hydrobates_soderstromi_Smit.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Crab-eating_rat"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Crab-eating rat",
+"parentTaxon": "sigmodontalia",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Ichthyomys hydrobates",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ichthyomys_hydrobates_soderstromi_Smit.jpg/220px-Ichthyomys_hydrobates_soderstromi_Smit.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Crab-eating_rat"
+}

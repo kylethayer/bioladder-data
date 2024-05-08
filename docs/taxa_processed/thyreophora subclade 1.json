@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":true,"name":"Thyreophora subclade 1","parentTaxon":"thyreophora","popularSubtaxa":["scutellosaurus","ankylosaurus","stegosaurus"],"exampleMember":"scutellosaurus","exampleMemberType":"Early Member","taxonomicRank":"Unnamed Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"http://en.wikipedia.org/wiki/Thyreophora","popularAncestors":["ornithischia","dinosaur","animal","life"],"subtaxa":["scutellosaurus","thyreophoroidea"]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Thyreophora subclade 1",
+"parentTaxon": "thyreophora",
+"popularSubtaxa": [
+"scutellosaurus",
+"ankylosaurus",
+"stegosaurus"
+],
+"exampleMember": "scutellosaurus",
+"exampleMemberType": "Early Member",
+"taxonomicRank": "Unnamed Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Thyreophora",
+"popularAncestors": [
+"ornithischia",
+"dinosaur",
+"animal",
+"life"
+],
+"subtaxa": [
+"scutellosaurus",
+"thyreophoroidea"
+]
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":"","extinct":true,"name":"Aulophyseter","parentTaxon":"physeteroidea","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aulophyseter_BW.jpg/275px-Aulophyseter_BW.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Aulophyseter","popularAncestors":["toothed whale","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": "",
+"extinct": true,
+"name": "Aulophyseter",
+"parentTaxon": "physeteroidea",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aulophyseter_BW.jpg/275px-Aulophyseter_BW.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Aulophyseter",
+"popularAncestors": [
+"toothed whale",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

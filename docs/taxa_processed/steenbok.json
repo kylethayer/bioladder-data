@@ -1,1 +1,22 @@
-{"description":"","popularity":50,"extinct":false,"name":"Steenbok","parentTaxon":"raphicerus","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"Raphicerus campestris","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg/220px-Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Steenbok","popularAncestors":["mammal","amniote","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Steenbok",
+"parentTaxon": "raphicerus",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "Raphicerus campestris",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg/220px-Raphicerus_campestris_male_%28Etosha%2C_2012%29.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Steenbok",
+"popularAncestors": [
+"mammal",
+"amniote",
+"animal",
+"life"
+],
+"subtaxa": []
+}

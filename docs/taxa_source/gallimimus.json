@@ -1,1 +1,14 @@
-{"description":"","popularity":60,"extinct":true,"name":"Gallimimus","parentTaxon":"ornithomimidae subclade 1","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gallimimus_Steveoc86.jpg/220px-Gallimimus_Steveoc86.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Gallimimus"}
+{
+"description": "",
+"popularity": 60,
+"extinct": true,
+"name": "Gallimimus",
+"parentTaxon": "ornithomimidae subclade 1",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gallimimus_Steveoc86.jpg/220px-Gallimimus_Steveoc86.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Gallimimus"
+}

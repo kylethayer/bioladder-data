@@ -1,1 +1,29 @@
-{"description":"","popularity":"","extinct":false,"name":"Euphyllophytes","parentTaxon":"eutracheophytes","popularSubtaxa":["fern","grass","onion"],"exampleMember":"psilophyton","exampleMemberType":"Example Member","taxonomicRank":"Clade","scientificName":"","otherNames":[],"wikipediaImg":"","wikipediaPage":"https://en.wikipedia.org/wiki/Euphyllophyte","popularAncestors":["vascular plant","land plant","cellular life","life"],"subtaxa":["megaphylla","psilophyton"]}
+{
+"description": "",
+"popularity": "",
+"extinct": false,
+"name": "Euphyllophytes",
+"parentTaxon": "eutracheophytes",
+"popularSubtaxa": [
+"fern",
+"grass",
+"onion"
+],
+"exampleMember": "psilophyton",
+"exampleMemberType": "Example Member",
+"taxonomicRank": "Clade",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Euphyllophyte",
+"popularAncestors": [
+"vascular plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": [
+"megaphylla",
+"psilophyton"
+]
+}

@@ -1,1 +1,14 @@
-{"description":"","popularity":70,"extinct":false,"name":"Water buffalo","parentTaxon":"bubalus","exampleMember":"","exampleMemberType":"","taxonomicRank":"Species","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Water_buffalo.jpg/220px-Water_buffalo.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Water_buffalo"}
+{
+"description": "",
+"popularity": 70,
+"extinct": false,
+"name": "Water buffalo",
+"parentTaxon": "bubalus",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Species",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Water_buffalo.jpg/220px-Water_buffalo.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Water_buffalo"
+}

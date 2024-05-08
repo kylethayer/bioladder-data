@@ -1,1 +1,22 @@
-{"description":"","popularity":10,"extinct":false,"name":"Monoplacophora","parentTaxon":"conchifera","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Unranked","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neopilina.jpg/220px-Neopilina.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Monoplacophora","popularAncestors":["mollusk","animal","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 10,
+"extinct": false,
+"name": "Monoplacophora",
+"parentTaxon": "conchifera",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Unranked",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neopilina.jpg/220px-Neopilina.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Monoplacophora",
+"popularAncestors": [
+"mollusk",
+"animal",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}

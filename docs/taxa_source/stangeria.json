@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Stangeria","parentTaxon":"stangeriaceae","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Stangeria_eriopus.jpg/220px-Stangeria_eriopus.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Stangeria"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Stangeria",
+"parentTaxon": "stangeriaceae",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Stangeria_eriopus.jpg/220px-Stangeria_eriopus.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Stangeria"
+}

@@ -1,1 +1,22 @@
-{"description":"","popularity":30,"extinct":true,"name":"Diprotodon","parentTaxon":"diprotodontidae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Diprotodon11122.jpg/220px-Diprotodon11122.jpg","wikipediaPage":"http://en.wikipedia.org/wiki/Diprotodon","popularAncestors":["marsupial","mammal","animal","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 30,
+"extinct": true,
+"name": "Diprotodon",
+"parentTaxon": "diprotodontidae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Diprotodon11122.jpg/220px-Diprotodon11122.jpg",
+"wikipediaPage": "http://en.wikipedia.org/wiki/Diprotodon",
+"popularAncestors": [
+"marsupial",
+"mammal",
+"animal",
+"life"
+],
+"subtaxa": []
+}

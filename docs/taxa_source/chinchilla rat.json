@@ -1,1 +1,14 @@
-{"description":"","popularity":50,"extinct":false,"name":"Chinchilla rat","parentTaxon":"chinchilloidea","exampleMember":"","exampleMemberType":"","taxonomicRank":"Family","scientificName":"Abrocomidae","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abrocoma_bennettii.png/220px-Abrocoma_bennettii.png","wikipediaPage":"https://en.wikipedia.org/wiki/Chinchilla_rat"}
+{
+"description": "",
+"popularity": 50,
+"extinct": false,
+"name": "Chinchilla rat",
+"parentTaxon": "chinchilloidea",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Family",
+"scientificName": "Abrocomidae",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abrocoma_bennettii.png/220px-Abrocoma_bennettii.png",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Chinchilla_rat"
+}

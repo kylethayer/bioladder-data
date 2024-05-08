@@ -1,1 +1,14 @@
-{"description":"","popularity":10,"extinct":true,"name":"Loxomma","parentTaxon":"stegocephalia subclade 8","exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":[],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/LoxommaB2.jpg/220px-LoxommaB2.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Loxomma"}
+{
+"description": "",
+"popularity": 10,
+"extinct": true,
+"name": "Loxomma",
+"parentTaxon": "stegocephalia subclade 8",
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/LoxommaB2.jpg/220px-LoxommaB2.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Loxomma"
+}

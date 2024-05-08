@@ -1,1 +1,24 @@
-{"description":"","popularity":55,"extinct":false,"name":"Bird of paradise flower","parentTaxon":"strelitziaceae","popularSubtaxa":[],"exampleMember":"","exampleMemberType":"","taxonomicRank":"Genus","scientificName":"","otherNames":["Crane flower"],"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bird_of_paradise_--_Strelitzia.jpg/220px-Bird_of_paradise_--_Strelitzia.jpg","wikipediaPage":"https://en.wikipedia.org/wiki/Strelitzia","popularAncestors":["flowering plant","land plant","cellular life","life"],"subtaxa":[]}
+{
+"description": "",
+"popularity": 55,
+"extinct": false,
+"name": "Bird of paradise flower",
+"parentTaxon": "strelitziaceae",
+"popularSubtaxa": [],
+"exampleMember": "",
+"exampleMemberType": "",
+"taxonomicRank": "Genus",
+"scientificName": "",
+"otherNames": [
+"Crane flower"
+],
+"wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bird_of_paradise_--_Strelitzia.jpg/220px-Bird_of_paradise_--_Strelitzia.jpg",
+"wikipediaPage": "https://en.wikipedia.org/wiki/Strelitzia",
+"popularAncestors": [
+"flowering plant",
+"land plant",
+"cellular life",
+"life"
+],
+"subtaxa": []
+}
