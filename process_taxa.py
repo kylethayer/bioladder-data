@@ -30,7 +30,7 @@ for taxonSourceFile in taxaSourceFiles:
         taxonProcessedInfo["needs_to_be_processed"] = True
 
         print("**saving updated version of file " + taxonSourceFile)
-        taxonInfoString = json.dumps(taxonProcessedInfo, separators=(',', ':'), ensure_ascii=False).encode('utf8')
+        taxonInfoString = json.dumps(taxonProcessedInfo, separators=(',', ':'), indent=0, ensure_ascii=False)
         f = open("docs/taxa_processed/" + taxonSourceFile, "w", encoding="utf-8")
         f.write(taxonInfoString)
         f.close()
@@ -89,11 +89,11 @@ AncestorPopWeight = 0.85 # For popular ancestors, weight slightly toward picking
 
 def getPopularity(taxonName):
     if(not taxonName): # taxonName is null 
-        return 0
+        return ""
     taxonInfo = taxaInfo[taxonName.lower()]
     taxonPopularity = taxonInfo["popularity"]
     if(not taxonPopularity): # popularity is ""
-        return 0
+        return ""
     return taxonPopularity
 
 while len(taxaForProcessing.keys())> 0:
@@ -114,16 +114,16 @@ while len(taxaForProcessing.keys())> 0:
     if(parentTaxon and parentTaxon != ""):
         parentTaxonInfo = taxaInfo[parentTaxon.lower()]
         parentPopularity = parentTaxonInfo["popularity"] # may be ""
+        parentPopularityActual = parentPopularity
         if not parentPopularity:
             parentPopularity = 0
 
         # start with copying the parent lists and update them
         parentPopAncestorNames = parentTaxonInfo["popularAncestors"] # values may be null
         popAncestorNames = parentPopAncestorNames[:] # make a clone of the names list
+        popAncestorPopsActual = list(map(getPopularity, parentPopAncestorNames))
         popAncestorPops = list(map(getPopularity, parentPopAncestorNames))
-
-        print(type(popAncestorPops))
-        print(str(popAncestorPops))
+        popAncestorPops = list(map(lambda x: x if x else 0, popAncestorPops))
 
         #Now see if it deserves a spot on the list
         if(  parentPopularity > popAncestorPops[0] * (AncestorPopWeight ** 3) or
@@ -142,23 +142,36 @@ while len(taxaForProcessing.keys())> 0:
                     if(popAncestorPops[2] > popAncestorPops[3] or not popAncestorNames[3]):
                         popAncestorNames[3] = popAncestorNames[2]
                         popAncestorPops[3] = popAncestorPops[2]
+                        popAncestorPopsActual[3] = popAncestorPopsActual[2]
                     popAncestorNames[2] = popAncestorNames[1]
                     popAncestorPops[2] = popAncestorPops[1]
+                    popAncestorPopsActual[2] = popAncestorPopsActual[1]
                 popAncestorNames[1] = popAncestorNames[0]
                 popAncestorPops[1] = popAncestorPops[0]
+                popAncestorPopsActual[1] = popAncestorPopsActual[0]
             popAncestorNames[0] = parentTaxon
-            popAncestorPops[0] = parentPopularity
+            popAncestorPops[0] = popAncestorPops
+            popAncestorPopsActual[0] = parentPopularityActual
 
     # check and see if our newly calculated popAncestorNames or popAncestorPops
     # are different from what is currently saved
     if(popAncestorNames != taxonInfo["popularAncestors"] or
-       popAncestorPops != taxonInfo["popularAncestorPops"] ):
+       popAncestorPopsActual != taxonInfo["popularAncestorPops"] ):
+        print("updated " + taxonInfo["name"] + "--------------")
+        print(" ancestor was " + str(taxonInfo["popularAncestors"]))
+        print(" ancestor now " + str(popAncestorNames))
+        taxonInfo["popularAncestors"] = popAncestorNames
+        print(" ancestor was " + str(taxonInfo["popularAncestorPops"]))
+        print(" ancestor now " + str(popAncestorPopsActual))
+        taxonInfo["popularAncestorPops"] = popAncestorPopsActual
+
         taxaForSaving[taxonName.lower()] = True
         
         # mark children as needing update if there was a change
 
         if("subtaxa" in taxonInfo):
             for subtaxonName in taxonInfo["subtaxa"]:
+                print(" --- adding to processing list " + subtaxonName.lower())
                 taxaForProcessing[subtaxonName.lower()] = True
 
 
@@ -200,34 +213,43 @@ while len(taxaForProcessing.keys())> 0:
     for i in range(3):
         #sort possible popSubtaxa to get most popular entry
         if(len(possiblePopSubtaxa) > 0):
-            print("going to sort ",  str(possiblePopSubtaxa))
+            #print("presorted: " + str(possiblePopSubtaxa))
             possiblePopSubtaxa = sorted(possiblePopSubtaxa, key=lambda x: x['relative_popularity'], reverse=True)
-            print("sorted ",  str(possiblePopSubtaxa))
+            #print("sorted: " + str(possiblePopSubtaxa))
 
-            newPopSubtaxon = possiblePopSubtaxa.pop()
+            newPopSubtaxon = possiblePopSubtaxa.pop(0)
+            #print("newPopSubtaxon 1: " + str(newPopSubtaxon))
 
-            newPopSubtaxa.append(newPopSubtaxon)
+            newPopSubtaxa.append(newPopSubtaxon["name"].lower())
 
             # weigh against the remaining possiblePopSubtaxa in that same branch
             for popSubtaxon in possiblePopSubtaxa:
                 if(popSubtaxon['branch'] == newPopSubtaxon['branch']):
                     popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
 
+    
 
     # check if there was a change that needs to be saved
     # and mark parent as needing update if there was a change
-    if(newPopSubtaxa != taxonInfo["popularSubtaxa"]):
+    if(set(newPopSubtaxa) != set(taxonInfo["popularSubtaxa"])):
+        print("updated " + taxonInfo["name"] + "--------------")
+        print(" popsubtaxa was " + str(taxonInfo["popularSubtaxa"]))
+        print(" popsubtaxa now " + str(newPopSubtaxa))
+        taxonInfo["popularSubtaxa"] = newPopSubtaxa
         taxaForSaving[taxonName.lower()] = True
         
         # mark parent as needing update if there was a change
 
         if(taxonInfo["parentTaxon"]):
+            print(" --- adding to processing list " + taxonInfo["parentTaxon"].lower())
             taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
 
 
     # We are done processing this taxon, mark as complete
-    del taxonInfo["needs_to_be_processed"]
-    del taxaForProcessing[taxonName]
+    if("needs_to_be_processed" in taxonInfo):
+        del taxonInfo["needs_to_be_processed"]
+    if(taxonName in taxaForProcessing):
+        del taxaForProcessing[taxonName]
     
 
 
@@ -235,11 +257,10 @@ while len(taxaForProcessing.keys())> 0:
 # Output all files
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
-    taxonInfoString = json.dumps(taxaInfo[taxonName.lower()], separators=(',', ':'), indent=0, ensure_ascii=False).encode('utf8')
-    print("prentending: ")
-    #f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
-    #f.write(taxonInfoString)
-    #f.close()
+    taxonInfoString = json.dumps(taxaInfo[taxonName.lower()], separators=(',', ':'), indent=0, ensure_ascii=False)
+    # f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
+    # f.write(taxonInfoString)
+    # f.close()
 
 # TODO: update taxon_list.json and taxon_parent_summary.json
 # Note: Taxon search could use a csv that has taxon name, other names, scientific name, and popularity
