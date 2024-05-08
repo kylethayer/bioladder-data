@@ -1,13 +1,15 @@
 {
 "name":"Crocodile subclade 1",
-"parentTaxon":"Crocodile",
+"parentTaxon":"crocodile",
 "description":"",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
-"otherNames":[],
+"otherNames":[
+"test"
+],
 "popularity":"",
 "extinct":false,
-"exampleMember":"Voay",
+"exampleMember":"voay",
 "exampleMemberType":"Early Member",
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
@@ -16,7 +18,7 @@
 "osteolaeminae"
 ],
 "popularAncestors":[
-"Crocodile",
+"crocodile",
 "amniote",
 "animal",
 "life"

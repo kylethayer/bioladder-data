@@ -59,6 +59,12 @@ for taxonFile in taxaFiles:
     taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
     if taxonInfo.get("needs_to_be_processed"):
         taxaForProcessing[taxonInfo["name"].lower()] = True
+        # for initial needs_to_be_processed, add children and parent
+        if("parentTaxon" in taxonInfo):
+            taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+        if("subtaxa" in taxonInfo):
+            for subtaxonName in taxonInfo["subtaxa"]:
+                taxaForProcessing[subtaxonName.lower()] = True
 
 counter = 0
 # Find all subtaxa
@@ -75,8 +81,8 @@ for taxonName in taxaInfo:
         potentialSubtaxonInfo = taxaInfo[potentialSubtaxonName.lower()]
         if(potentialSubtaxonInfo["parentTaxon"].lower() == taxonName.lower()):
             subtaxa.append(potentialSubtaxonName.lower())
-    
-    if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"].sort() != subtaxa.sort():
+
+    if "subtaxa" not in taxonInfo or sorted(taxonInfo["subtaxa"]) != sorted(subtaxa):
         print("**Updating subtaxa for " + taxonName)
         taxonInfo["subtaxa"] = subtaxa
         taxaForProcessing[taxonName.lower()] = True
