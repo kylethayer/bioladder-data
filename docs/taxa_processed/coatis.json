@@ -25,5 +25,11 @@
 "subtaxa": [
 "coatis subclade 1",
 "south american coati"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

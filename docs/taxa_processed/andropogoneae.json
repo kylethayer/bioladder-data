@@ -24,5 +24,11 @@
 "subtaxa": [
 "corn",
 "sugarcane"
+],
+"popularAncestorPops": [
+80,
+95,
+50,
+100
 ]
 }

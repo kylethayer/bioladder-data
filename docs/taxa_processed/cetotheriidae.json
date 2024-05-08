@@ -24,5 +24,11 @@
 "subtaxa": [
 "cetotherium",
 "pygmy right whale"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

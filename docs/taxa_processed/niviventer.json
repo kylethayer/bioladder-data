@@ -24,5 +24,11 @@
 "subtaxa": [
 "chestnut white-bellied rat",
 "dark-tailed tree rat"
+],
+"popularAncestorPops": [
+70,
+70,
+95,
+100
 ]
 }

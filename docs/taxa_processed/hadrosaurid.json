@@ -27,5 +27,11 @@
 "subtaxa": [
 "hadrosaurus",
 "saurolophidae"
+],
+"popularAncestorPops": [
+20,
+95,
+95,
+100
 ]
 }

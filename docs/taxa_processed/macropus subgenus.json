@@ -24,5 +24,11 @@
 "subtaxa": [
 "eastern grey kangaroo",
 "western grey kangaroo"
+],
+"popularAncestorPops": [
+70,
+70,
+95,
+100
 ]
 }

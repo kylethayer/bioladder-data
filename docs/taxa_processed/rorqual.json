@@ -24,5 +24,11 @@
 "subtaxa": [
 "balaenoptera",
 "humpback whale"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

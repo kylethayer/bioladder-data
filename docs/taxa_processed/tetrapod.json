@@ -25,5 +25,11 @@
 "subtaxa": [
 "amphibian",
 "reptiliomorpha"
+],
+"popularAncestorPops": [
+60,
+50,
+95,
+100
 ]
 }

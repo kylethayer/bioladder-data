@@ -25,5 +25,11 @@
 "subtaxa": [
 "aetosaur",
 "revueltosaurus"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

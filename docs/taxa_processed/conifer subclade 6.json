@@ -25,5 +25,11 @@
 "subtaxa": [
 "cephalotaxaceae",
 "taxaceae"
+],
+"popularAncestorPops": [
+55,
+95,
+50,
+100
 ]
 }

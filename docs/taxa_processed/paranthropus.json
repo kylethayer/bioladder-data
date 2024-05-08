@@ -11,5 +11,18 @@
 "otherNames": [],
 "wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Paranthropus_boisei_-_forensic_facial_reconstruction.png/250px-Paranthropus_boisei_-_forensic_facial_reconstruction.png",
 "wikipediaPage": "http://en.wikipedia.org/wiki/Paranthropus",
-"subtaxa": []
+"subtaxa": [],
+"needs_to_be_processed": true,
+"popularAncestorPops": [
+null,
+null,
+null,
+null
+],
+"popularAncestors": [
+null,
+null,
+null,
+null
+]
 }

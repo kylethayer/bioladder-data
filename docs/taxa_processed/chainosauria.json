@@ -25,5 +25,11 @@
 "subtaxa": [
 "chainosauria subclade 1",
 "dicynodont"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

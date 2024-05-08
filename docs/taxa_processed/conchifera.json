@@ -25,5 +25,11 @@
 "subtaxa": [
 "conchifera subclade 1",
 "monoplacophora"
+],
+"popularAncestorPops": [
+50,
+95,
+50,
+100
 ]
 }

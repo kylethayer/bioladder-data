@@ -25,5 +25,11 @@
 "subtaxa": [
 "hog badger",
 "meles"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

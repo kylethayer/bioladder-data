@@ -24,5 +24,11 @@
 "subtaxa": [
 "metriacanthosaurus",
 "sinraptor"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

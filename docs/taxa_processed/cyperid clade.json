@@ -25,5 +25,11 @@
 "subtaxa": [
 "cyperid clade subclade 1",
 "cyperid clade subclade 2"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

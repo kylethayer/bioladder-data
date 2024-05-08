@@ -25,5 +25,11 @@
 "subtaxa": [
 "homininae",
 "orangutan"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

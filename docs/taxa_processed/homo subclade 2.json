@@ -24,5 +24,11 @@
 "subtaxa": [
 "homo antecessor",
 "homo subclade 1"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

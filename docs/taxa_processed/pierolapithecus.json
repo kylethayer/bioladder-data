@@ -11,5 +11,18 @@
 "otherNames": [],
 "wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pierolapithecus_catalaunicus_%28Kopie%29.jpg/150px-Pierolapithecus_catalaunicus_%28Kopie%29.jpg",
 "wikipediaPage": "http://en.wikipedia.org/wiki/Pierolapithecus",
-"subtaxa": []
+"subtaxa": [],
+"needs_to_be_processed": true,
+"popularAncestorPops": [
+null,
+null,
+null,
+null
+],
+"popularAncestors": [
+null,
+null,
+null,
+null
+]
 }

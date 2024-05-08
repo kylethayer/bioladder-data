@@ -24,5 +24,11 @@
 "subtaxa": [
 "dwarf sperm whale",
 "pygmy sperm whale"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

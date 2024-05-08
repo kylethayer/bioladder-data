@@ -25,5 +25,11 @@
 "subtaxa": [
 "eosauropterygia subclade 1",
 "pistosauria"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "ceratosauria",
 "tetanurae"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

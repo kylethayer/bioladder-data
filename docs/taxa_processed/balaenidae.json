@@ -24,5 +24,11 @@
 "subtaxa": [
 "bowhead whale",
 "right whale"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

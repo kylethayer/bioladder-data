@@ -26,5 +26,11 @@ null
 "archaea",
 "bacteria",
 "eukaryote"
+],
+"popularAncestorPops": [
+100,
+null,
+null,
+null
 ]
 }

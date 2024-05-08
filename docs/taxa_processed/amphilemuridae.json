@@ -24,5 +24,11 @@
 "subtaxa": [
 "macrocranion",
 "pholidocercus"
+],
+"popularAncestorPops": [
+60,
+70,
+95,
+100
 ]
 }

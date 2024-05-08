@@ -25,5 +25,11 @@
 "subtaxa": [
 "bop clade subclade 1",
 "oryzoideae"
+],
+"popularAncestorPops": [
+80,
+95,
+50,
+100
 ]
 }

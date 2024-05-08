@@ -24,5 +24,11 @@
 "subtaxa": [
 "apatosaurus",
 "brontosaurus"
+],
+"popularAncestorPops": [
+50,
+95,
+95,
+100
 ]
 }

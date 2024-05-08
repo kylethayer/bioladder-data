@@ -22,5 +22,11 @@
 "life"
 ],
 "subtaxa": [],
-"needs_to_be_processed": true
+"needs_to_be_processed": true,
+"popularAncestorPops": [
+50,
+60,
+95,
+100
+]
 }

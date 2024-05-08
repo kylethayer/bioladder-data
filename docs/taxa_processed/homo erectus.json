@@ -11,5 +11,18 @@
 "otherNames": [],
 "wikipediaImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg/220px-Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg",
 "wikipediaPage": "http://en.wikipedia.org/wiki/Homo_erectus",
-"subtaxa": []
+"subtaxa": [],
+"needs_to_be_processed": true,
+"popularAncestorPops": [
+null,
+null,
+null,
+null
+],
+"popularAncestors": [
+null,
+null,
+null,
+null
+]
 }

@@ -24,5 +24,11 @@
 "subtaxa": [
 "fungus",
 "nucleariid"
+],
+"popularAncestorPops": [
+"",
+"",
+50,
+100
 ]
 }

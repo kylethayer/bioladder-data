@@ -25,5 +25,11 @@
 "subtaxa": [
 "iguanodontia",
 "thescelosaurus"
+],
+"popularAncestorPops": [
+30,
+95,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "poeae",
 "triticodae"
+],
+"popularAncestorPops": [
+80,
+95,
+50,
+100
 ]
 }

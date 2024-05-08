@@ -25,5 +25,11 @@
 "subtaxa": [
 "acanthodii",
 "bony fish"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

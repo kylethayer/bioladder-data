@@ -25,5 +25,11 @@
 "subtaxa": [
 "capitosauria",
 "trematosauria"
+],
+"popularAncestorPops": [
+70,
+50,
+95,
+100
 ]
 }

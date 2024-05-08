@@ -25,5 +25,11 @@
 "subtaxa": [
 "cannariae",
 "zingiberariae"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

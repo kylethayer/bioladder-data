@@ -25,5 +25,11 @@
 "subtaxa": [
 "catarrhini",
 "new world monkey"
+],
+"popularAncestorPops": [
+50,
+70,
+95,
+100
 ]
 }

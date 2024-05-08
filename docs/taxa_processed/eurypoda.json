@@ -25,5 +25,11 @@
 "subtaxa": [
 "ankylosauria",
 "stegosauria"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

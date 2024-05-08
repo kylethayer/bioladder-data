@@ -24,5 +24,11 @@
 "subtaxa": [
 "isisaurus",
 "saltasaurus"
+],
+"popularAncestorPops": [
+50,
+95,
+95,
+100
 ]
 }

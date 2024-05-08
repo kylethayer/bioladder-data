@@ -26,5 +26,11 @@
 "subtaxa": [
 "common warthog",
 "desert warthog"
+],
+"popularAncestorPops": [
+70,
+50,
+95,
+100
 ]
 }

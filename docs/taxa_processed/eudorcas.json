@@ -26,5 +26,11 @@
 "mongalla gazelle",
 "red-fronted gazelle",
 "thomson's gazelle"
+],
+"popularAncestorPops": [
+70,
+50,
+95,
+100
 ]
 }

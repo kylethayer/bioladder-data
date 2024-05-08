@@ -26,5 +26,11 @@
 "barley",
 "rye",
 "wheat"
+],
+"popularAncestorPops": [
+80,
+95,
+50,
+100
 ]
 }

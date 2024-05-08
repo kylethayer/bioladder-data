@@ -24,5 +24,11 @@
 "subtaxa": [
 "achelousaurus",
 "pachyrhinosaurus"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

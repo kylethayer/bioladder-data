@@ -25,5 +25,11 @@
 "subtaxa": [
 "kistecephalia",
 "pylaecephalidae"
+],
+"popularAncestorPops": [
+35,
+50,
+95,
+100
 ]
 }

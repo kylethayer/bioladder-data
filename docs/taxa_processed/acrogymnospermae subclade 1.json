@@ -25,5 +25,11 @@
 "subtaxa": [
 "conifer",
 "ginkgo"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

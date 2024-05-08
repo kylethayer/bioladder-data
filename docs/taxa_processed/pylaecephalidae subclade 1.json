@@ -24,5 +24,11 @@
 "subtaxa": [
 "eosimops",
 "robertia"
+],
+"popularAncestorPops": [
+35,
+50,
+95,
+100
 ]
 }

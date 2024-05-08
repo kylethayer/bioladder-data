@@ -21,5 +21,11 @@
 "animal",
 "life"
 ],
-"subtaxa": []
+"subtaxa": [],
+"popularAncestorPops": [
+60,
+50,
+95,
+100
+]
 }

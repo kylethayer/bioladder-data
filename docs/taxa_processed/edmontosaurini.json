@@ -24,5 +24,11 @@
 "subtaxa": [
 "edmontosaurus",
 "shantungosaurus"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

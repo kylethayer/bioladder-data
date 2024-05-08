@@ -25,5 +25,11 @@
 "subtaxa": [
 "eumetazoa",
 "parazoa"
+],
+"popularAncestorPops": [
+"",
+"",
+50,
+100
 ]
 }

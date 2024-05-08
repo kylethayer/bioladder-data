@@ -25,5 +25,11 @@
 "subtaxa": [
 "pristerodon",
 "therochelonia"
+],
+"popularAncestorPops": [
+35,
+50,
+95,
+100
 ]
 }

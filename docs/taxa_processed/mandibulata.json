@@ -26,5 +26,11 @@
 "crustacean",
 "hexapoda",
 "myriapod"
+],
+"popularAncestorPops": [
+50,
+95,
+50,
+100
 ]
 }

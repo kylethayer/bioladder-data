@@ -25,5 +25,11 @@
 "subtaxa": [
 "conifer subclade 3",
 "conifer subclade 4"
+],
+"popularAncestorPops": [
+55,
+95,
+50,
+100
 ]
 }

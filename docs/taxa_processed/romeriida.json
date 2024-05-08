@@ -25,5 +25,11 @@
 "subtaxa": [
 "diapsida",
 "hylonomus"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

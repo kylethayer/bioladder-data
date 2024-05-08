@@ -23,5 +23,11 @@
 "subtaxa": [
 "imagotaria",
 "walrus"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "eoichthyosauria",
 "utatsusaurus"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

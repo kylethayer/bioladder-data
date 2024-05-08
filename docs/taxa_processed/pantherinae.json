@@ -25,5 +25,11 @@
 "subtaxa": [
 "neofelis",
 "panthera"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

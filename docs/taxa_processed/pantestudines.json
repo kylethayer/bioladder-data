@@ -25,5 +25,11 @@
 "subtaxa": [
 "pantestudines subclade 1",
 "sauropterygia"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

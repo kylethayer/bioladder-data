@@ -26,5 +26,11 @@
 "gobiconodonta",
 "trechnotheria"
 ],
-"needs_to_be_processed": true
+"needs_to_be_processed": true,
+"popularAncestorPops": [
+70,
+50,
+95,
+100
+]
 }

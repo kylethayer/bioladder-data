@@ -25,5 +25,11 @@
 "subtaxa": [
 "omomyidae",
 "tarsier"
+],
+"popularAncestorPops": [
+50,
+70,
+95,
+100
 ]
 }

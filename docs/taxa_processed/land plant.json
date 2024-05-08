@@ -27,5 +27,11 @@
 "subtaxa": [
 "liverworts",
 "stomatophytes"
+],
+"popularAncestorPops": [
+"",
+"",
+50,
+100
 ]
 }

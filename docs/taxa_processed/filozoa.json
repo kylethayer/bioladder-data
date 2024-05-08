@@ -25,5 +25,11 @@
 "subtaxa": [
 "animal",
 "choanoflagellate"
+],
+"popularAncestorPops": [
+"",
+"",
+50,
+100
 ]
 }

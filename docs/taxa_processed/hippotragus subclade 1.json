@@ -24,5 +24,11 @@
 "subtaxa": [
 "roan antelope",
 "sable antelope"
+],
+"popularAncestorPops": [
+55,
+70,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "lemur",
 "lorisoidea"
+],
+"popularAncestorPops": [
+50,
+70,
+95,
+100
 ]
 }

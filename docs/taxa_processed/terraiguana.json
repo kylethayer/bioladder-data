@@ -25,5 +25,11 @@
 "subtaxa": [
 "terraiguana subclade 1",
 "terraiguana subclade 2"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

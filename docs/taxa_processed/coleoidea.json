@@ -25,5 +25,11 @@
 "subtaxa": [
 "belemnoidea",
 "neocoleoidea"
+],
+"popularAncestorPops": [
+40,
+50,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "conifer subclade 1",
 "cordaites"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

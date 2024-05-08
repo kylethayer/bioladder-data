@@ -25,5 +25,11 @@
 "subtaxa": [
 "american lion",
 "panthera subclade 4"
+],
+"popularAncestorPops": [
+50,
+60,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "encephalartoideae",
 "zamioideae"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

@@ -24,5 +24,11 @@
 "subtaxa": [
 "necrolemur",
 "tetonius"
+],
+"popularAncestorPops": [
+50,
+70,
+95,
+100
 ]
 }

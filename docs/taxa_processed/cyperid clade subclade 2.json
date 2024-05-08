@@ -25,5 +25,11 @@
 "subtaxa": [
 "cyperid clade subclade 3",
 "thurniaceae"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }

@@ -24,5 +24,11 @@
 "subtaxa": [
 "domestic yak",
 "wild yak"
+],
+"popularAncestorPops": [
+70,
+50,
+95,
+100
 ]
 }

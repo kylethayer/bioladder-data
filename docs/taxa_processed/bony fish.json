@@ -25,5 +25,11 @@
 "subtaxa": [
 "ray-finned fish",
 "sarcopterygii"
+],
+"popularAncestorPops": [
+50,
+50,
+95,
+100
 ]
 }

@@ -25,5 +25,11 @@ null
 "subtaxa": [
 "amoebozoa",
 "opisthokonta"
+],
+"popularAncestorPops": [
+"",
+50,
+100,
+null
 ]
 }

@@ -25,5 +25,11 @@
 "subtaxa": [
 "lambeosaurini",
 "parasaurolophini"
+],
+"popularAncestorPops": [
+40,
+95,
+95,
+100
 ]
 }

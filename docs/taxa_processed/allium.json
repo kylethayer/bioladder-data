@@ -25,5 +25,11 @@
 "subtaxa": [
 "allium subclade 1",
 "allium subclade 2"
+],
+"popularAncestorPops": [
+40,
+95,
+50,
+100
 ]
 }
