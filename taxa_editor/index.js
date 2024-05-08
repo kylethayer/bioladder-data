@@ -62,11 +62,56 @@ async function loadTaxon(taxonName){
     document.getElementById("parentTaxon_link").innerText = resultJSON.parentTaxon
     document.getElementById("description_input").value=resultJSON.description
     document.getElementById("taxonomicRank_input").value=resultJSON.taxonomicRank
+// Life
+// Domain
+// Kingdom
+// Subkingdom
+// Division
+// Superphylum
+// Phylum
+// Subphylum
+// Infraphylum
+// Superclass
+// Class
+// Subclass
+// Infraclass
+// Superlegion
+// Legion
+// Sublegion
+// Infralegion
+// Supercohort
+// Cohort
+// Subcohort
+// Magnorder
+// Superorder
+// Order
+// Suborder
+// Infraorder
+// Parvorder
+// Superfamily
+// Family
+// Subfamily
+// Tribe
+// Subtribe
+// Genus
+// Subgenus
+// Species
+// Subspecies
+// Unranked
+// Branch
+// Clade
+// Unnamed Clade
     document.getElementById("scientificName_input").value=resultJSON.scientificName
     document.getElementById("otherNames_input").value=resultJSON.otherNames
     document.getElementById("popularity_input").value=resultJSON.popularity
     document.getElementById("extinct_input").checked=resultJSON.extinct
     document.getElementById("exampleMember_input").value=resultJSON.exampleMember
+// Earliest Known Member
+// Early Member
+// Basal Member
+// First Looked Like
+// None
+// Example Member
     document.getElementById("exampleMember_link").setAttribute("href", "#"+ resultJSON.exampleMember)
     document.getElementById("exampleMember_link").innerText = resultJSON.exampleMember
     document.getElementById("exampleMemberType_input").value=resultJSON.exampleMemberType

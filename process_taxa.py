@@ -82,7 +82,87 @@ for taxonName in taxaInfo:
         taxaForProcessing[taxonName] = True
         taxaForSaving[taxonName] = True
 
+#######################################
+## process popularSubtaxa and popularAncestors
+WeightAgainstBranchFraction = 0.7 # for popularSubtaxa, try to prevent too many from same branch
+AncestorPopWeight = 0.85 # For popular ancestors, weight slightly toward picking up closer ancestors
 
+def getPopularity(taxonName):
+    if(not taxonName): # taxonName is null 
+        return 0
+    taxonInfo = taxaInfo[taxonName]
+    taxonPopularity = taxonInfo["popularity"]
+    if(not taxonPopularity): # popularity is ""
+        return 0
+    return taxonPopularity
+
+while len(taxaForProcessing.keys() > 0):
+    taxonName = taxaForProcessing.keys()[0]
+    
+    taxonInfo = taxaInfo[taxonName]
+
+    #####
+    # Popular Ancestors
+    # given parent popular ancestors and parent popularity, does parent go into the current taxon's popular ancestor list?
+    # parentTaxon = taxonInfo["parentTaxon"]
+    # if(parentTaxon and parentTaxon != ""):
+    #     parentTaxonInfo = taxaInfo[parentTaxon]
+    #     parentPopularity = parentTaxonInfo["popularity"] # may be ""
+
+    #     # start with copying the parent lists and update them
+    #     parentPopAncestorNames = parentTaxonInfo["popularAncestors"] # values may be null
+    #     popAncestorNames = parentPopAncestorNames[:] # make a clone of the names list
+    #     popAncestorPops = map(getPopularity, parentPopAncestorNames)
+
+    #     #Now see if it deserves a spot on the list
+    #     if(  parentPopularity > popAncestorPops[0] * (AncestorPopWeight ** 3) or
+ 	#      parentPopularity > popAncestorPops[1] * (AncestorPopWeight ** 2) or
+    #       parentPopularity > popAncestorPops[2] * (AncestorPopWeight ** 1) or	   
+ 	#      parentPopularity > popAncestorPops[3] or not popAncestorNames[3]):
+    #         #We now will put parent in the ancestor[0] spot. 
+    #         #See if Ancestor[0] should go into Ancestor[1] (each level works similarly)
+    #         if(  popAncestorPops[0] > popAncestorPops[1] * (AncestorPopWeight ** 2) or
+    #             popAncestorPops[0] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
+    #  	        popAncestorPops[0] > popAncestorPops[3] or not popAncestorNames[3]):
+		  
+    #             if(  popAncestorPops[1] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
+    #                 popAncestorPops[1] > popAncestorPops[3] or not popAncestorNames[3]):
+			
+    #                 if(popAncestorPops[2] > popAncestorPops[3] or not popAncestorNames[3]):
+    #                     popAncestorNames[3] = popAncestorNames[2]
+    #                     popAncestorPops[3] = popAncestorPops[2]
+    #                 popAncestorNames[2] = popAncestorNames[1]
+    #                 popAncestorPops[2] = popAncestorPops[1]
+    #             popAncestorNames[1] = popAncestorNames[0]
+    #             popAncestorPops[1] = popAncestorPops[0]
+    #         popAncestorNames[0] = parentTaxon
+    #         popAncestorPops[0] = parentPopularity
+
+
+    # check and see if our newly calculated popAncestorNames or popAncestorPops
+    # are different from what is currently saved
+
+#     end
+#   end
+
+#   if(anyChanges)
+#     currentTaxonText = markChildrenNeedUpdateInText(currentTaxonText)
+#   end
+
+    # mark children as needing update if there was a change
+
+    #####
+    # Popular Subtaxa
+
+    # Add children as possibilities (self as branch)
+    # Add children's popular subtaxa as possibilities (the child we got them from as the branch)
+
+    #mark parent as needing update if there was a change
+
+    del taxaForProcessing["taxonName"]
+
+
+######################################################3
 # Output all files
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
@@ -92,8 +172,7 @@ for taxonName in taxaForSaving.keys():
     f.close()
 
 # TODO: update taxon_list.json and taxon_parent_summary.json
-
-
+# Note: Taxon search could use a csv that has taxon name, other names, scientific name, and popularity
 
 #### Relevant ruby code
 
