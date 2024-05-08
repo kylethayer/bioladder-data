@@ -26,7 +26,50 @@
             <p> <label for "description">description</label>
                 <textarea id="description_input" name="description" rows="4" cols="50"></textarea></p>
             <p> <label for "taxonomicRank">taxonomicRank</label>
-                <input id="taxonomicRank_input" name="taxonomicRank" type="text"/></p>
+                <input id="taxonomicRank_input" name="taxonomicRank" type="text"/>
+                <select id="taxonomicRank_input" name="taxonomicRank">
+                    <option value=""></option>
+                    <option value="Unnamed Clade">Unnamed Clade</option>
+                    <option value="Clade">Clade</option>
+                    <option value="Branch">Branch</option>
+                    <option value="Unranked">Unranked</option>
+                    <option value="Subspecies">Subspecies</option>
+                    <option value="Species">Species</option>
+                    <option value="Subgenus">Subgenus</option>
+                    <option value="Genus">Genus</option>
+                    <option value="Subtribe">Subtribe</option>
+                    <option value="Tribe">Tribe</option>
+                    <option value="Subfamily">Subfamily</option>
+                    <option value="Family">Family</option>
+                    <option value="Superfamily">Superfamily</option>
+                    <option value="Parvorder">Parvorder</option>
+                    <option value="Infraorder">Infraorder</option>
+                    <option value="Suborder">Suborder</option>
+                    <option value="Order">Order</option>
+                    <option value="Superorder">Superorder</option>
+                    <option value="Magnorder">Magnorder</option>
+                    <option value="Subcohort">Subcohort</option>
+                    <option value="Cohort">Cohort</option>
+                    <option value="Supercohort">Supercohort</option>
+                    <option value="Infralegion">Infralegion</option>
+                    <option value="Sublegion">Sublegion</option>
+                    <option value="Legion">Legion</option>
+                    <option value="Superlegion">Superlegion</option>
+                    <option value="Infraclass">Infraclass</option>
+                    <option value="Subclass">Subclass</option>
+                    <option value="Class">Class</option>
+                    <option value="Superclass">Superclass</option>
+                    <option value="Infraphylum">Infraphylum</option>
+                    <option value="Subphylum">Subphylum</option>
+                    <option value="Phylum">Phylum</option>
+                    <option value="Superphylum">Superphylum</option>
+                    <option value="Division">Division</option>
+                    <option value="Subkingdom">Subkingdom</option>
+                    <option value="Kingdom">Kingdom</option>
+                    <option value="Domain">Domain</option>
+                    <option value="Life">Life</option>
+                </select>
+                (raw value in case not in list: <span id="taxonomicRank_rawval"></span>)</p>
             <p> <label for "scientificName">scientificName</label>
                 <input id="scientificName_input" name="scientificName" type="text"/></p>
             <p> <label for "otherNames">otherNames</label>
@@ -39,7 +82,17 @@
                 <input id="exampleMember_input" name="exampleMember" type="text"/>
                 <a href="#" id="exampleMember_link"></a></p>  
             <p> <label for "exampleMemberType">exampleMemberType</label>
-                <input id="exampleMemberType_input" name="exampleMemberType" type="text"/></p>
+                <select id="exampleMemberType_input" name="exampleMemberType_input">
+                    <option value=""></option>
+                    <option value="Example Member">Example Member</option>
+                    <option value="Earliest Known Member">Earliest Known Member</option>
+                    <option value="Early Member">Early Member</option>
+                    <option value="Basal Member">Basal Member</option>
+                    <option value="First Looked Like">First Looked Like</option>
+                    <option value="None">None</option>
+                </select>
+                (raw value in case not in list: <span id="exampleMemberType_rawval"></span>)
+            </p>
             <p> <label for "wikipediaImg">wikipediaImg</label>
                 <input id="wikipediaImg_input" name="wikipediaImg" type="text" size="100"/>
                 <image id="wikipediaImg_preview" style="max-width: 75px; max-height: 75Spx;" /></p>
@@ -48,24 +101,26 @@
                 <a href="#" id="wikipediaPage_link" target="_blank" rel="noopener noreferrer"></a></p>  
             <p><button onclick="saveTaxon()">Save</button></p>
             <h3>Processed fields</h3>
-            <p><strong>Subtaxa</strong><span id="subtaxa"></span></p>
-            <p><strong>popularSubtaxa</strong><span id="popularSubtaxa"></span></p>
-            <p><strong>popularAncestors</strong><span id="popularAncestors"></span></p>
+            <p><strong>Subtaxa</strong> <span id="subtaxa"></span></p>
+            <p><strong>popularSubtaxa</strong> <span id="popularSubtaxa"></span></p>
+            <p><strong>popularAncestors</strong> <span id="popularAncestors"></span></p>
         </div>
         <hr>
-        <h2>New Taxon</h2>
+        <h2>Goto Taxon / New Taxon</h2>
         <input id="new_taxon_name" />
-        <button onclick="createNewTaxon()">Create New Taxon</button>
+        <button onclick="createNewTaxon()">Goto Taxon / New Taxon</button>
         <hr>
         <h2>Search Taxon</h2>
         <p>
             <label for "searchTaxon">Search</label>
+            <h3>NOT WORKING YET</h3>
             <input id="searchTaxon_input" name="searchTaxon" type="text"/>
             <div id="searchTaxon_results"></div>
         </p>
         <div></div>
         <hr>
         <h2>Process Taxa</h2>
+        <h3>NOT WORKING YET</h3>
         <div></div>
 
 

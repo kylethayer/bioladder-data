@@ -65,59 +65,16 @@ async function loadTaxon(taxonName){
     document.getElementById("parentTaxon_link").innerText = resultJSON.parentTaxon
     document.getElementById("description_input").value=resultJSON.description
     document.getElementById("taxonomicRank_input").value=resultJSON.taxonomicRank
-// Life
-// Domain
-// Kingdom
-// Subkingdom
-// Division
-// Superphylum
-// Phylum
-// Subphylum
-// Infraphylum
-// Superclass
-// Class
-// Subclass
-// Infraclass
-// Superlegion
-// Legion
-// Sublegion
-// Infralegion
-// Supercohort
-// Cohort
-// Subcohort
-// Magnorder
-// Superorder
-// Order
-// Suborder
-// Infraorder
-// Parvorder
-// Superfamily
-// Family
-// Subfamily
-// Tribe
-// Subtribe
-// Genus
-// Subgenus
-// Species
-// Subspecies
-// Unranked
-// Branch
-// Clade
-// Unnamed Clade
+    document.getElementById("taxonomicRank_rawval").value=resultJSON.taxonomicRank
     document.getElementById("scientificName_input").value=resultJSON.scientificName
     document.getElementById("otherNames_input").value=resultJSON.otherNames
     document.getElementById("popularity_input").value=resultJSON.popularity
     document.getElementById("extinct_input").checked=resultJSON.extinct
     document.getElementById("exampleMember_input").value=resultJSON.exampleMember
-// Earliest Known Member
-// Early Member
-// Basal Member
-// First Looked Like
-// None
-// Example Member
     document.getElementById("exampleMember_link").setAttribute("href", "#"+ resultJSON.exampleMember)
     document.getElementById("exampleMember_link").innerText = resultJSON.exampleMember
     document.getElementById("exampleMemberType_input").value=resultJSON.exampleMemberType
+    document.getElementById("exampleMemberType_rawval").innerText=resultJSON.exampleMemberType
     document.getElementById("wikipediaImg_input").value=resultJSON.wikipediaImg
     document.getElementById("wikipediaImg_preview").src=resultJSON.wikipediaImg
     document.getElementById("wikipediaPage_input").value=resultJSON.wikipediaPage
@@ -143,6 +100,7 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("parentTaxon_link").innerText = null
     document.getElementById("description_input").value=null
     document.getElementById("taxonomicRank_input").value=null
+    document.getElementById("taxonomicRank_rawval").value=null
     document.getElementById("scientificName_input").value=null
     document.getElementById("otherNames_input").value=null
     document.getElementById("popularity_input").value=null
@@ -151,6 +109,7 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("exampleMember_link").setAttribute("href", null)
     document.getElementById("exampleMember_link").innerText = null
     document.getElementById("exampleMemberType_input").value=null
+    document.getElementById("exampleMemberType_rawval").innerText=null
     document.getElementById("wikipediaImg_input").value=null
     document.getElementById("wikipediaImg_preview").src=null
     document.getElementById("wikipediaPage_input").value=null
@@ -207,17 +166,25 @@ async function loadTaxonProcessedFields(taxonName){
 
 async function saveTaxon(){
     let taxonName = document.getElementById("name_input").value
+
+    // get values from select boxes
+    taxonomicRank_input = document.getElementById("taxonomicRank_input")
+    taxonomicRank = taxonomicRank_input.options[taxonomicRank_input.selectedIndex].value;
+    
+    exampleMemberType_input = document.getElementById("exampleMemberType_input")
+    exampleMemberType = exampleMemberType_input.options[exampleMemberType_input.selectedIndex].value;
+    
     let taxonJSON = {
         name: document.getElementById("name_input").value,
-        parentTaxon: document.getElementById("parentTaxon_input").value,
+        parentTaxon: document.getElementById("parentTaxon_input").value.toLowerCase(),
         description: document.getElementById("description_input").value,
-        taxonomicRank: document.getElementById("taxonomicRank_input").value,
+        taxonomicRank: taxonomicRank,
         scientificName: document.getElementById("scientificName_input").value,
         otherNames: document.getElementById("otherNames_input").value ? document.getElementById("otherNames_input").value.split(",") : [],
         popularity: document.getElementById("popularity_input").value,
         extinct: document.getElementById("extinct_input").checked,
-        exampleMember: document.getElementById("exampleMember_input").value,
-        exampleMemberType: document.getElementById("exampleMemberType_input").value,
+        exampleMember: document.getElementById("exampleMember_input").value.toLowerCase(),
+        exampleMemberType: exampleMemberType,
         wikipediaImg: document.getElementById("wikipediaImg_input").value,
         wikipediaPage: document.getElementById("wikipediaPage_input").value
     }
