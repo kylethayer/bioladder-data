@@ -5,7 +5,7 @@ import json, os
 
 
 ####################################3
-# Add popularAncestorPops
+# Add popularSubtaxaPops
 
 taxaProcessedFiles = os.listdir("docs/taxa_processed")
 
@@ -14,7 +14,7 @@ counter = 0
 
 for taxonFile in taxaProcessedFiles:
     if(counter % 1000 == 0):
-        print("loading for processing" + taxonFile)
+        print("loading for processing " + taxonFile)
     counter += 1
     
     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
@@ -23,26 +23,59 @@ for taxonFile in taxaProcessedFiles:
 
 for taxonName in taxaInfo.keys():
     taxonInfo = taxaInfo[taxonName]
-    popularAncestorPops = [None, None, None, None]
-    if("popularAncestors" not in taxonInfo):
-        print("could not find popularAncestors in " + str(taxonName))
-        taxonInfo["popularAncestors"] = [None, None, None, None]
+    popularSubtaxaPops = []
+    if("popularSubtaxa" not in taxonInfo):
+        print("could not find popularSubtaxa in " + str(taxonName))
+        taxonInfo["popularSubtaxa"] = []
         taxonInfo["needs_to_be_processed"] = True
     else:
-        for i, popAncestor in enumerate(taxonInfo["popularAncestors"]):
-            if(popAncestor):
-                if(popAncestor.lower() in taxaInfo): 
-                    popularAncestorPops[i] = taxaInfo[popAncestor.lower()]["popularity"]
-                else: 
-                    popularAncestorPops[i] = None
-                    taxonInfo["needs_to_be_processed"] = True
-            else:
-                popularAncestorPops[i] = None
+        for popSubtaxa in taxonInfo["popularSubtaxa"]:
+            popularSubtaxaPops.append(taxaInfo[popSubtaxa.lower()]["popularity"])
     
-    taxonInfo["popularAncestorPops"] = popularAncestorPops
+    taxonInfo["popularSubtaxaPops"] = popularSubtaxaPops
 
     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w') as f:
         json.dump(taxonInfo, f, indent=0)
+
+# ####################################3
+# # Add popularAncestorPops
+
+# taxaProcessedFiles = os.listdir("docs/taxa_processed")
+
+# taxaInfo = {}
+# counter = 0
+
+# for taxonFile in taxaProcessedFiles:
+#     if(counter % 1000 == 0):
+#         print("loading for processing" + taxonFile)
+#     counter += 1
+    
+#     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
+#     taxonInfo = json.loads(f.read())
+#     taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
+
+# for taxonName in taxaInfo.keys():
+#     taxonInfo = taxaInfo[taxonName]
+#     popularAncestorPops = [None, None, None, None]
+#     if("popularAncestors" not in taxonInfo):
+#         print("could not find popularAncestors in " + str(taxonName))
+#         taxonInfo["popularAncestors"] = [None, None, None, None]
+#         taxonInfo["needs_to_be_processed"] = True
+#     else:
+#         for i, popAncestor in enumerate(taxonInfo["popularAncestors"]):
+#             if(popAncestor):
+#                 if(popAncestor.lower() in taxaInfo): 
+#                     popularAncestorPops[i] = taxaInfo[popAncestor.lower()]["popularity"]
+#                 else: 
+#                     popularAncestorPops[i] = None
+#                     taxonInfo["needs_to_be_processed"] = True
+#             else:
+#                 popularAncestorPops[i] = None
+    
+#     taxonInfo["popularAncestorPops"] = popularAncestorPops
+
+#     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w') as f:
+#         json.dump(taxonInfo, f, indent=0)
 
 
 ##############################
