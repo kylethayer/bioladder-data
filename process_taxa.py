@@ -56,7 +56,7 @@ for taxonFile in taxaFiles:
     
     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
     taxonInfo = json.loads(f.read())
-    taxaInfo[taxonInfo["name"]] = taxonInfo 
+    taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
     if taxonInfo.get("needs_to_be_processed"):
         taxaForProcessing[taxonInfo["name"].lower()] = True
 
@@ -64,15 +64,15 @@ counter = 0
 # Find all subtaxa
 for taxonName in taxaInfo:
     if(counter % 1000 == 0):
-        print("processing taxon " + taxonName)
+        print("loading all info (including subtaxa) for taxon " + taxonName)
     counter += 1
 
     
-    taxonInfo = taxaInfo[taxonName]
+    taxonInfo = taxaInfo[taxonName.lower()]
     # find all subtaxa
     subtaxa = []
     for potentialSubtaxonName in taxaInfo:
-        potentialSubtaxonInfo = taxaInfo[potentialSubtaxonName]
+        potentialSubtaxonInfo = taxaInfo[potentialSubtaxonName.lower()]
         if(potentialSubtaxonInfo["parentTaxon"].lower() == taxonName.lower()):
             subtaxa.append(potentialSubtaxonName.lower())
     
@@ -90,16 +90,17 @@ AncestorPopWeight = 0.85 # For popular ancestors, weight slightly toward picking
 def getPopularity(taxonName):
     if(not taxonName): # taxonName is null 
         return 0
-    taxonInfo = taxaInfo[taxonName]
+    taxonInfo = taxaInfo[taxonName.lower()]
     taxonPopularity = taxonInfo["popularity"]
     if(not taxonPopularity): # popularity is ""
         return 0
     return taxonPopularity
 
-while len(taxaForProcessing.keys() > 0):
-    taxonName = taxaForProcessing.keys()[0]
+while len(taxaForProcessing.keys())> 0:
+    taxonName = list(taxaForProcessing.keys())[0]
+    print("processing taxon: " + taxonName)
     
-    taxonInfo = taxaInfo[taxonName]
+    taxonInfo = taxaInfo[taxonName.lower()]
 
     #####
     #Popular Ancestors
@@ -111,13 +112,18 @@ while len(taxaForProcessing.keys() > 0):
     
     parentTaxon = taxonInfo["parentTaxon"]
     if(parentTaxon and parentTaxon != ""):
-        parentTaxonInfo = taxaInfo[parentTaxon]
+        parentTaxonInfo = taxaInfo[parentTaxon.lower()]
         parentPopularity = parentTaxonInfo["popularity"] # may be ""
+        if not parentPopularity:
+            parentPopularity = 0
 
         # start with copying the parent lists and update them
         parentPopAncestorNames = parentTaxonInfo["popularAncestors"] # values may be null
         popAncestorNames = parentPopAncestorNames[:] # make a clone of the names list
-        popAncestorPops = map(getPopularity, parentPopAncestorNames)
+        popAncestorPops = list(map(getPopularity, parentPopAncestorNames))
+
+        print(type(popAncestorPops))
+        print(str(popAncestorPops))
 
         #Now see if it deserves a spot on the list
         if(  parentPopularity > popAncestorPops[0] * (AncestorPopWeight ** 3) or
@@ -166,13 +172,29 @@ while len(taxaForProcessing.keys() > 0):
     # Add children's popular subtaxa as possibilities (the child we got them from as the branch)
 
     for childTaxon in taxonInfo["subtaxa"]:
-        for childPopSubTaxon in taxonInfo[childTaxon]["popularSubtaxa"]:
-            possiblePopSubtaxa.append({
+        newPossibleSubtaxa = {
+            "name": childTaxon,
+            "popularity": taxaInfo[childTaxon.lower()]["popularity"],
+            "relative_popularity": taxaInfo[childTaxon.lower()]["popularity"], #will change as we choose children from different branches
+            "branch": childTaxon
+        }
+        if not newPossibleSubtaxa["relative_popularity"]: # might be ""
+            newPossibleSubtaxa["relative_popularity"] = 0
+        
+        possiblePopSubtaxa.append(newPossibleSubtaxa)
+
+
+        for childPopSubTaxon in taxaInfo[childTaxon.lower()]["popularSubtaxa"]:
+            newPossibleSubtaxa = {
                 "name": childPopSubTaxon,
-                "popularity": taxonInfo[childPopSubTaxon]["popularity"],
-                "relative_popularity": taxonInfo[childPopSubTaxon]["popularity"], #will change as we choose children from different branches
+                "popularity": taxaInfo[childPopSubTaxon.lower()]["popularity"],
+                "relative_popularity": taxaInfo[childPopSubTaxon.lower()]["popularity"], #will change as we choose children from different branches
                 "branch": childTaxon
-            })
+            }
+            if not newPossibleSubtaxa["relative_popularity"]: # might be ""
+                newPossibleSubtaxa["relative_popularity"] = 0
+            
+            possiblePopSubtaxa.append(newPossibleSubtaxa)
 
     # Find what should be the three popular subtaxa
     for i in range(3):
@@ -213,7 +235,7 @@ while len(taxaForProcessing.keys() > 0):
 # Output all files
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
-    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'), indent=0, ensure_ascii=False).encode('utf8')
+    taxonInfoString = json.dumps(taxaInfo[taxonName.lower()], separators=(',', ':'), indent=0, ensure_ascii=False).encode('utf8')
     print("prentending: ")
     #f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
     #f.write(taxonInfoString)
