@@ -57,7 +57,7 @@ async function loadTaxon(taxonName){
     }
 
     document.getElementById("view_edit_taxon_message").innerText = 
-    "Loaded " + taxonName + " for editing"
+    'Loaded "' + taxonName + '" for editing'
 
     document.getElementById("name_input").value=resultJSON.name
     document.getElementById("parentTaxon_input").value=resultJSON.parentTaxon
@@ -65,7 +65,7 @@ async function loadTaxon(taxonName){
     document.getElementById("parentTaxon_link").innerText = resultJSON.parentTaxon
     document.getElementById("description_input").value=resultJSON.description
     document.getElementById("taxonomicRank_input").value=resultJSON.taxonomicRank
-    document.getElementById("taxonomicRank_rawval").value=resultJSON.taxonomicRank
+    document.getElementById("taxonomicRank_rawval").innerText=resultJSON.taxonomicRank
     document.getElementById("scientificName_input").value=resultJSON.scientificName
     document.getElementById("otherNames_input").value=resultJSON.otherNames
     document.getElementById("popularity_input").value=resultJSON.popularity
@@ -100,7 +100,7 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("parentTaxon_link").innerText = null
     document.getElementById("description_input").value=null
     document.getElementById("taxonomicRank_input").value=null
-    document.getElementById("taxonomicRank_rawval").value=null
+    document.getElementById("taxonomicRank_rawval").innerText=null
     document.getElementById("scientificName_input").value=null
     document.getElementById("otherNames_input").value=null
     document.getElementById("popularity_input").value=null
@@ -212,4 +212,22 @@ function createNewTaxon(){
     }
     window.location.hash = "#" + newTaxonName
     showTaxonEditingView()
+}
+
+function togglePopularity(){
+    popExpEl = document.getElementById("popularity-explanation")
+    if(popExpEl.getAttribute("hidden")){
+        popExpEl.removeAttribute("hidden")
+    }else {
+        popExpEl.setAttribute("hidden", true)
+    }
+}
+
+function toggleWikiImg(){
+    wikiImgExpEl = document.getElementById("wikipediaImg-explanation")
+    if(wikiImgExpEl.getAttribute("hidden")){
+        wikiImgExpEl.removeAttribute("hidden")
+    }else {
+        wikiImgExpEl.setAttribute("hidden", true)
+    }
 }

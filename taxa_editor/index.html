@@ -26,7 +26,6 @@
             <p> <label for "description">description</label>
                 <textarea id="description_input" name="description" rows="4" cols="50"></textarea></p>
             <p> <label for "taxonomicRank">taxonomicRank</label>
-                <input id="taxonomicRank_input" name="taxonomicRank" type="text"/>
                 <select id="taxonomicRank_input" name="taxonomicRank">
                     <option value=""></option>
                     <option value="Unnamed Clade">Unnamed Clade</option>
@@ -75,7 +74,33 @@
             <p> <label for "otherNames">otherNames</label>
                 <input id="otherNames_input" name="otherNames" type="text"/></p>
             <p> <label for "popularity">popularity</label>
-                <input id="popularity_input" name="popularity" type="number"/></p>
+                <input id="popularity_input" name="popularity" type="number"/><br>
+                <button onclick="togglePopularity()" style="margin-left: 10px;">See more about popularity</button>
+
+                <div id="popularity-explanation" hidden="true" style="margin: 5px; padding: 5px; border:solid 1px black">
+
+                    <p>Popularity values are used to calculate the popular ancestors and popular subtaxa, as well as a visual highlight of more popular taxa.</p>
+
+                    <p>Every leaf in the evolutionary tree (Any taxon with no subtaxa) should have a popularity value between 0 and 100. Most taxa that have some subtaxa should have this field empty unless it is a well known taxa (eg. Mammals)</p>
+                    
+                    <p>This is a general guide to deciding the popularity of an animal/organism. This will have to be updated when plants/bacteria/etc. are added.</p>
+                    <ul>
+                        <li>100 - Reserved for Humans and Life</li>
+                        <li>90 - Animals small children learn the sounds for (dog, cat, cow, chicken)</li>
+                        <li>80 - Most common animals in kids picture books</li>
+                        <li>70 - Animals most kids know well</li>
+                        <li>60 - Animals Most kids have heard of</li>
+                        <li>50 - Animals People who like biology know (lowest popularity for non-extinct leaves with common names)</li>
+                        <li>40 - People who like this type of animal know</li>
+                        <li>30 - Specialists know this type of animal (lowest popularity for non-extinct leaves with only scientific names)</li>
+                        <li>20 - Specialists have heard of this animal</li>
+                        <li>10 - (lowest popularity for extinct leaves)</li>
+                        <li>blank - not well known taxa that have subtaxa (in our dataset) </li>
+                    </ul>
+                    <p>Well known Larger clades should be given slight preference in popularity (Eg. make dinosaurs more popular than any dinosaur).</p>
+    
+                </div>
+            </p>
             <p> <label for "extinct">extinct</label>
                 <input id="extinct_input" name="extinct" type="checkbox"/></p>
             <p> <label for "exampleMember">exampleMember</label>
@@ -95,7 +120,11 @@
             </p>
             <p> <label for "wikipediaImg">wikipediaImg</label>
                 <input id="wikipediaImg_input" name="wikipediaImg" type="text" size="100"/>
-                <image id="wikipediaImg_preview" style="max-width: 75px; max-height: 75Spx;" /></p>
+                <image id="wikipediaImg_preview" style="max-width: 75px; max-height: 75Spx;" /><br>
+                <button onclick="toggleWikiImg()" style="margin-left: 10px;">See more about wikipediaImg</button>
+                <div id="wikipediaImg-explanation" hidden="true" style="margin: 5px; padding: 5px; border:solid 1px black">
+                     This is a property of type URL to an image on wikipedia or wikimedia commons. The image should be around 200-250px wide unless it is a very tall image.
+                </div></p>
             <p> <label for "wikipediaPage">wikipediaPage</label>
                 <input id="wikipediaPage_input" name="wikipediaPage" type="text"  size="75"/>
                 <a href="#" id="wikipediaPage_link" target="_blank" rel="noopener noreferrer"></a></p>  
