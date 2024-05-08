@@ -42,7 +42,7 @@ def postProcessedTaxon():
     taxonData = request.json
     lowCaseTaxonName = taxonData["name"].lower()
 
-    taxonInfoString = json.dumps(taxonData, separators=(',', ':'))
+    taxonInfoString = json.dumps(taxonData, separators=(',', ':'), indent=0, ensure_ascii=False)
     f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json", "w", encoding="utf-8")
     f.write(taxonInfoString)
     f.close()
