@@ -30,7 +30,7 @@ for taxonSourceFile in taxaSourceFiles:
         taxonProcessedInfo["needs_to_be_processed"] = True
 
         print("**saving updated version of file " + taxonSourceFile)
-        taxonInfoString = json.dumps(taxonProcessedInfo, separators=(',', ':'))
+        taxonInfoString = json.dumps(taxonProcessedInfo, separators=(',', ':'), ensure_ascii=False).encode('utf8')
         f = open("docs/taxa_processed/" + taxonSourceFile, "w", encoding="utf-8")
         f.write(taxonInfoString)
         f.close()
@@ -213,7 +213,7 @@ while len(taxaForProcessing.keys() > 0):
 # Output all files
 for taxonName in taxaForSaving.keys():
     print("saving " + taxonName)
-    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'), indent=0)
+    taxonInfoString = json.dumps(taxaInfo[taxonName], separators=(',', ':'), indent=0, ensure_ascii=False).encode('utf8')
     print("prentending: ")
     #f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
     #f.write(taxonInfoString)

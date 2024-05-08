@@ -7,35 +7,35 @@ import json, os
 ####################################3
 # Add popularSubtaxaPops
 
-taxaProcessedFiles = os.listdir("docs/taxa_processed")
+# taxaProcessedFiles = os.listdir("docs/taxa_processed")
 
-taxaInfo = {}
-counter = 0
+# taxaInfo = {}
+# counter = 0
 
-for taxonFile in taxaProcessedFiles:
-    if(counter % 1000 == 0):
-        print("loading for processing " + taxonFile)
-    counter += 1
+# for taxonFile in taxaProcessedFiles:
+#     if(counter % 1000 == 0):
+#         print("loading for processing " + taxonFile)
+#     counter += 1
     
-    f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
-    taxonInfo = json.loads(f.read())
-    taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
+#     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
+#     taxonInfo = json.loads(f.read())
+#     taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
 
-for taxonName in taxaInfo.keys():
-    taxonInfo = taxaInfo[taxonName]
-    popularSubtaxaPops = []
-    if("popularSubtaxa" not in taxonInfo):
-        print("could not find popularSubtaxa in " + str(taxonName))
-        taxonInfo["popularSubtaxa"] = []
-        taxonInfo["needs_to_be_processed"] = True
-    else:
-        for popSubtaxa in taxonInfo["popularSubtaxa"]:
-            popularSubtaxaPops.append(taxaInfo[popSubtaxa.lower()]["popularity"])
+# for taxonName in taxaInfo.keys():
+#     taxonInfo = taxaInfo[taxonName]
+#     popularSubtaxaPops = []
+#     if("popularSubtaxa" not in taxonInfo):
+#         print("could not find popularSubtaxa in " + str(taxonName))
+#         taxonInfo["popularSubtaxa"] = []
+#         taxonInfo["needs_to_be_processed"] = True
+#     else:
+#         for popSubtaxa in taxonInfo["popularSubtaxa"]:
+#             popularSubtaxaPops.append(taxaInfo[popSubtaxa.lower()]["popularity"])
     
-    taxonInfo["popularSubtaxaPops"] = popularSubtaxaPops
+#     taxonInfo["popularSubtaxaPops"] = popularSubtaxaPops
 
-    with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
-        json.dump(taxonInfo, f, indent=0)
+#     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
+#         json.dump(taxonInfo, f, indent=0, ensure_ascii=False)
 
 # ####################################3
 # # Add popularAncestorPops
@@ -75,7 +75,7 @@ for taxonName in taxaInfo.keys():
 #     taxonInfo["popularAncestorPops"] = popularAncestorPops
 
 #     with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
-#         json.dump(taxonInfo, f, indent=0)
+#         json.dump(taxonInfo, f, indent=0, ensure_ascii=False)
 
 
 ##############################
@@ -97,7 +97,7 @@ for taxonName in taxaInfo.keys():
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
 #     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0)
+#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
 
 # counter = 0
 # for taxonSourceFile in taxaSourceFiles:
@@ -113,13 +113,14 @@ for taxonName in taxaInfo.keys():
 #         taxonSourceInfo["wikipediaImg"] = taxonSourceInfo["wikipediaImg"].replace("http://", "https://")
 
 #     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0)
+#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
 
 
 #######################################33
 # make all json files have newlines (for checking value changes in git commits easier)
 # taxaSourceFiles = os.listdir("docs/taxa_source")
 
+# taxaSourceFiles = os.listdir("docs/taxa_source")
 # counter = 0
 
 # for taxonSourceFile in taxaSourceFiles:
@@ -132,7 +133,7 @@ for taxonName in taxaInfo.keys():
 #     taxonSourceInfo = json.loads(f.read())
 
 #     with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0)
+#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
 
 
 # for taxonSourceFile in taxaSourceFiles:
@@ -145,7 +146,7 @@ for taxonName in taxaInfo.keys():
 #     taxonSourceInfo = json.loads(f.read())
 
 #     with open("docs/taxa_processed/" + taxonSourceFile, 'w', encoding="utf-8") as f:
-#         json.dump(taxonSourceInfo, f, indent=0)
+#         json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
 
 
 
