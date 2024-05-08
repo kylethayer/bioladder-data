@@ -5,9 +5,9 @@
 "name":"Cryptodontia",
 "parentTaxon":"bidentalia",
 "popularSubtaxa":[
+"aulacocephalodon",
 "oudenodon",
-"australobarbarus",
-"geikia"
+"australobarbarus"
 ],
 "exampleMember":"aulacocephalodon",
 "exampleMemberType":"Example Member",

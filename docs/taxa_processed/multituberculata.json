@@ -5,9 +5,9 @@
 "name":"Multituberculata",
 "parentTaxon":"allotheria",
 "popularSubtaxa":[
+"cimolomys",
 "sunnyodon",
-"taeniolabis",
-"nemegtbaatar"
+"catopsbaatar"
 ],
 "exampleMember":"sunnyodon",
 "exampleMemberType":"Example Member",

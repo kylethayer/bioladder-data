@@ -5,9 +5,9 @@
 "name":"Phytosauridae subclade 1",
 "parentTaxon":"phytosauridae",
 "popularSubtaxa":[
-"protome",
-"rutiodon",
-"smilosuchus"
+"smilosuchus",
+"machaeroprosopus",
+"protome"
 ],
 "exampleMember":"rutiodon",
 "exampleMemberType":"Example Member",

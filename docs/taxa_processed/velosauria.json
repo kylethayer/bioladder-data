@@ -5,9 +5,9 @@
 "name":"Velosauria",
 "parentTaxon":"pareiasaur subclade 2",
 "popularSubtaxa":[
-"pumiliopareia",
 "pareiasaurus",
-"scutosaurus"
+"scutosaurus",
+"anthodon"
 ],
 "exampleMember":"anthodon",
 "exampleMemberType":"Example Member",

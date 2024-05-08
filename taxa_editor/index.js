@@ -50,6 +50,9 @@ async function loadTaxon(taxonName){
     if(resultJSON.error){
         document.getElementById("view_edit_taxon_message").innerText = 
         "Response: "+ JSON.stringify(resultJSON)
+        if(resultJSON.error.includes("No such file")){
+            clearAndDisplayEditor(taxonName)
+        }
         return
     }
 
@@ -128,6 +131,38 @@ async function loadTaxon(taxonName){
 
     document.getElementById("view_edit_taxon_box").removeAttribute("hidden")
     loadTaxonProcessedFields(taxonName)
+}
+
+function clearAndDisplayEditor(taxonName){
+    document.getElementById("view_edit_taxon_message").innerText = 
+    "Creating new taxon: " + taxonName 
+
+    document.getElementById("name_input").value=null
+    document.getElementById("parentTaxon_input").value=null
+    document.getElementById("parentTaxon_link").setAttribute("href", null)
+    document.getElementById("parentTaxon_link").innerText = null
+    document.getElementById("description_input").value=null
+    document.getElementById("taxonomicRank_input").value=null
+    document.getElementById("scientificName_input").value=null
+    document.getElementById("otherNames_input").value=null
+    document.getElementById("popularity_input").value=null
+    document.getElementById("extinct_input").checked=null
+    document.getElementById("exampleMember_input").value=null
+    document.getElementById("exampleMember_link").setAttribute("href", null)
+    document.getElementById("exampleMember_link").innerText = null
+    document.getElementById("exampleMemberType_input").value=null
+    document.getElementById("wikipediaImg_input").value=null
+    document.getElementById("wikipediaImg_preview").src=null
+    document.getElementById("wikipediaPage_input").value=null
+    document.getElementById("wikipediaPage_link").href=null
+    document.getElementById("wikipediaPage_link").innerText=null
+
+    document.getElementById("subtaxa").innerHTML = ""
+    document.getElementById("popularSubtaxa").innerHTML = ""
+    document.getElementById("popularAncestors").innerHTML = ""
+
+
+    document.getElementById("view_edit_taxon_box").removeAttribute("hidden")
 }
 
 

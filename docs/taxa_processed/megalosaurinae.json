@@ -5,9 +5,9 @@
 "name":"Megalosaurinae",
 "parentTaxon":"megalosauridae subclade 1",
 "popularSubtaxa":[
-"duriavenator",
 "megalosaurus",
-"wiehenvenator"
+"duriavenator",
+"torvosaurus"
 ],
 "exampleMember":"duriavenator",
 "exampleMemberType":"Example Member",

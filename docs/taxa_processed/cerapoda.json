@@ -5,9 +5,9 @@
 "name":"Cerapoda",
 "parentTaxon":"neornithischia subclade 2",
 "popularSubtaxa":[
+"triceratops",
 "iguanodon",
-"parasaurolophus",
-"triceratops"
+"hadrosaurus"
 ],
 "exampleMember":"hypsilophodon",
 "exampleMemberType":"Early Member",

@@ -5,7 +5,8 @@
 "name":"Flowering plant subclade 6",
 "parentTaxon":"flowering plant subclade 5",
 "popularSubtaxa":[
-"ceratophyllum"
+"ceratophyllum",
+"eudicot"
 ],
 "exampleMember":"ceratophyllum",
 "exampleMemberType":"Example Member",

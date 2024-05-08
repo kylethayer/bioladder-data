@@ -5,9 +5,9 @@
 "name":"Core pooideae subclade 1",
 "parentTaxon":"core pooideae",
 "popularSubtaxa":[
-"bromus",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"bromus"
 ],
 "exampleMember":"poeae",
 "exampleMemberType":"Example Member",

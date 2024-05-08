@@ -5,9 +5,9 @@
 "name":"Ankylosauria",
 "parentTaxon":"eurypoda",
 "popularSubtaxa":[
-"polacanthus",
-"sauropelta",
-"ankylosaurus"
+"ankylosaurus",
+"mymoorapelta",
+"animantarx"
 ],
 "exampleMember":"minmi",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Troodontidae subclade 2",
 "parentTaxon":"troodontidae",
 "popularSubtaxa":[
-"xixiasaurus",
-"sinornithoides",
-"troodon"
+"troodon",
+"byronosaurus",
+"jinfengopteryx"
 ],
 "exampleMember":"jinfengopteryx",
 "exampleMemberType":"Example Member",

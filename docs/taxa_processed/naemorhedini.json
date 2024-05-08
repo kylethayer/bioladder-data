@@ -5,9 +5,9 @@
 "name":"Naemorhedini",
 "parentTaxon":"caprinae",
 "popularSubtaxa":[
-"serow",
 "mountain goat",
-"pyrenean chamois"
+"goral",
+"chamois"
 ],
 "exampleMember":"serow",
 "exampleMemberType":"First Looked Like",

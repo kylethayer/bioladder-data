@@ -6,8 +6,8 @@
 "parentTaxon":"eukaryote",
 "popularSubtaxa":[
 "land plant",
-"grass",
-"onion"
+"banana",
+"grass"
 ],
 "exampleMember":"excavata",
 "exampleMemberType":"Example Member",
@@ -30,7 +30,7 @@ null
 "",
 50,
 100,
-null
+""
 ],
 "popularSubtaxaPops":[
 95,

@@ -5,9 +5,9 @@
 "name":"Heterodontosaurinae",
 "parentTaxon":"heterodontosauridae",
 "popularSubtaxa":[
-"pegomastax",
-"manidens",
-"heterodontosaurus"
+"heterodontosaurus",
+"abrictosaurus",
+"manidens"
 ],
 "exampleMember":"abrictosaurus",
 "exampleMemberType":"Example Member",

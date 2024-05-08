@@ -5,9 +5,9 @@
 "name":"Schizotarsata",
 "parentTaxon":"tetrapulmonata",
 "popularSubtaxa":[
+"amblypygi",
 "plesiosiro",
-"thelyphonida",
-"schizomida"
+"thelyphonida"
 ],
 "exampleMember":"plesiosiro",
 "exampleMemberType":"Example Member",

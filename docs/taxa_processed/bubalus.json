@@ -5,9 +5,9 @@
 "name":"Bubalus",
 "parentTaxon":"bovini",
 "popularSubtaxa":[
+"water buffalo",
 "wild water buffalo",
-"tamaraw",
-"water buffalo"
+"anoa"
 ],
 "exampleMember":"wild water buffalo",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Sphenodontia",
 "parentTaxon":"rhynchocephalia",
 "popularSubtaxa":[
+"tuatara",
 "brachyrhinodon",
-"pleurosaurus",
-"tuatara"
+"palaeopleurosaurus"
 ],
 "exampleMember":"brachyrhinodon",
 "exampleMemberType":"Early Member",

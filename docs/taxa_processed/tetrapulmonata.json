@@ -5,9 +5,9 @@
 "name":"Tetrapulmonata",
 "parentTaxon":"pantetrapulmonata",
 "popularSubtaxa":[
-"thelyphonida",
-"schizomida",
-"spider"
+"spider",
+"amblypygi",
+"plesiosiro"
 ],
 "exampleMember":"plesiosiro",
 "exampleMemberType":"Example Member",

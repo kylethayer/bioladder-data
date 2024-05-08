@@ -5,9 +5,9 @@
 "name":"Arvicolini",
 "parentTaxon":"arvicolinae",
 "popularSubtaxa":[
-"southwestern water vole",
-"european snow vole",
-"vole"
+"vole",
+"european water vole",
+"brandt's vole"
 ],
 "exampleMember":"vole",
 "exampleMemberType":"Example Member",

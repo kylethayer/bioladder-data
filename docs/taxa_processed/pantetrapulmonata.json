@@ -5,9 +5,9 @@
 "name":"Pantetrapulmonata",
 "parentTaxon":"arachnid subclade 3",
 "popularSubtaxa":[
+"spider",
 "trigonotarbida",
-"thelyphonida",
-"spider"
+"amblypygi"
 ],
 "exampleMember":"trigonotarbida",
 "exampleMemberType":"Example Member",

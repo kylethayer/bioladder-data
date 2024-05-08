@@ -5,9 +5,9 @@
 "name":"Alvarezsaur",
 "parentTaxon":"maniraptora",
 "popularSubtaxa":[
+"achillesaurus",
 "haplocheirus",
-"alvarezsaurus",
-"shuvuuia"
+"alvarezsauridae subclade 1"
 ],
 "exampleMember":"haplocheirus",
 "exampleMemberType":"Early Member",

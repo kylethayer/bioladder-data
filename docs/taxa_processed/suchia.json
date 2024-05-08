@@ -5,9 +5,9 @@
 "name":"Suchia",
 "parentTaxon":"pseudosuchia",
 "popularSubtaxa":[
-"typothorax",
 "alligator",
-"crocodile"
+"crocodile",
+"gracilisuchus"
 ],
 "exampleMember":"gracilisuchus",
 "exampleMemberType":"Early Member",

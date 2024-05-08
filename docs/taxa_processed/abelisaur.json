@@ -5,9 +5,9 @@
 "name":"Abelisaur",
 "parentTaxon":"neoceratosauria",
 "popularSubtaxa":[
+"carnotaurus",
 "noasaurus",
-"majungasaurus",
-"carnotaurus"
+"abelisaurus"
 ],
 "exampleMember":"noasaurus",
 "exampleMemberType":"Example Member",

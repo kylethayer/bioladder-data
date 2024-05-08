@@ -5,9 +5,9 @@
 "name":"Orchid subclade 1",
 "parentTaxon":"orchid",
 "popularSubtaxa":[
+"vanilla",
 "lady's slipper orchids",
-"pseudovanilla",
-"vanilla"
+"cyrtosia"
 ],
 "exampleMember":"lady's slipper orchids",
 "exampleMemberType":"Example Member",

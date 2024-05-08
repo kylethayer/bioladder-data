@@ -5,9 +5,9 @@
 "name":"Osphranter",
 "parentTaxon":"macropus",
 "popularSubtaxa":[
+"red kangaroo",
 "common wallaroo",
-"black wallaroo",
-"red kangaroo"
+"antilopine kangaroo"
 ],
 "exampleMember":"red kangaroo",
 "exampleMemberType":"Example Member",

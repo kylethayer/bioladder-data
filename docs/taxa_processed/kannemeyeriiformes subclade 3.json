@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes subclade 3",
 "parentTaxon":"kannemeyeriiformes subclade 2",
 "popularSubtaxa":[
+"stahleckeria",
 "dolichuranus",
-"zambiasaurus",
-"stahleckeria"
+"rabidosaurus"
 ],
 "exampleMember":"dolichuranus",
 "exampleMemberType":"Example Member",

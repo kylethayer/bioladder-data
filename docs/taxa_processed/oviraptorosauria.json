@@ -5,9 +5,9 @@
 "name":"Oviraptorosauria",
 "parentTaxon":"chuniaoae",
 "popularSubtaxa":[
-"protarchaeopteryx",
+"oviraptor",
 "gigantoraptor",
-"oviraptor"
+"incisivosaurus"
 ],
 "exampleMember":"protarchaeopteryx",
 "exampleMemberType":"Early Member",

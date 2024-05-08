@@ -5,8 +5,8 @@
 "name":"Bovini",
 "parentTaxon":"bovinae",
 "popularSubtaxa":[
-"water buffalo",
 "cattle",
+"african buffalo",
 "bison"
 ],
 "exampleMember":"pelorovis",

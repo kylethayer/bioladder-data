@@ -5,8 +5,9 @@
 "name":"Opisthokonta subclade 1",
 "parentTaxon":"opisthokonta",
 "popularSubtaxa":[
+"fungus",
 "nuclearia",
-"fungus"
+"nucleariid"
 ],
 "exampleMember":"nuclearia",
 "exampleMemberType":"Example Member",

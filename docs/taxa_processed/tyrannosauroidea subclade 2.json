@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea subclade 2",
 "parentTaxon":"tyrannosauroidea subclade 1",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "dryptosaurus",
-"tyrannosaurus"
+"xiongguanlong"
 ],
 "exampleMember":"dryptosaurus",
 "exampleMemberType":"Early Member",

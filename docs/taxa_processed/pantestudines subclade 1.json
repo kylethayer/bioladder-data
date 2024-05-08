@@ -5,9 +5,9 @@
 "name":"Pantestudines subclade 1",
 "parentTaxon":"pantestudines",
 "popularSubtaxa":[
+"turtle",
 "eunotosaurus",
-"proganochelys",
-"turtle"
+"pappochelys"
 ],
 "exampleMember":"eunotosaurus",
 "exampleMemberType":"Early Member",

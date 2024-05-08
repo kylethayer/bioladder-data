@@ -5,9 +5,9 @@
 "name":"Oryza",
 "parentTaxon":"oryzinae",
 "popularSubtaxa":[
+"asian rice",
 "african rice",
-"oryza rufipogon",
-"asian rice"
+"oryza australiensis"
 ],
 "exampleMember":"oryza australiensis",
 "exampleMemberType":"Example Member",

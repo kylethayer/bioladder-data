@@ -5,9 +5,9 @@
 "name":"Hallucicrania",
 "parentTaxon":"parareptilia",
 "popularSubtaxa":[
-"lanthanosuchus",
 "pareiasaur",
-"scutosaurus"
+"bradysaurus",
+"lanthanosuchus"
 ],
 "exampleMember":"lanthanosuchus",
 "exampleMemberType":"Example Member",

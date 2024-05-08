@@ -5,9 +5,9 @@
 "name":"Allotheria",
 "parentTaxon":"trechnotheria",
 "popularSubtaxa":[
+"cimolomys",
 "vintana",
-"sunnyodon",
-"taeniolabis"
+"patagonia"
 ],
 "exampleMember":"vintana",
 "exampleMemberType":"Example Member",

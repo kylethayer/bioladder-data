@@ -5,9 +5,9 @@
 "name":"Pooideae subclade 1",
 "parentTaxon":"pooideae",
 "popularSubtaxa":[
+"wheat",
 "matgrass",
-"rye",
-"wheat"
+"barley"
 ],
 "exampleMember":"matgrass",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Capitosauria subclade 3",
 "parentTaxon":"capitosauria subclade 2",
 "popularSubtaxa":[
+"cherninia",
 "xenotosuchus",
-"paracyclotosaurus",
-"eocyclotosaurus"
+"paracyclotosaurus"
 ],
 "exampleMember":"xenotosuchus",
 "exampleMemberType":"Example Member",

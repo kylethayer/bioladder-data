@@ -5,9 +5,9 @@
 "name":"Caprini",
 "parentTaxon":"caprinae",
 "popularSubtaxa":[
-"goat",
 "sheep",
-"nilgiri tahr"
+"goat",
+"arabian tahr"
 ],
 "exampleMember":"arabian tahr",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Bop clade subclade 1",
 "parentTaxon":"bop clade",
 "popularSubtaxa":[
+"wheat",
 "bamboo",
-"rye",
-"wheat"
+"barley"
 ],
 "exampleMember":"bamboo",
 "exampleMemberType":"Example Member",

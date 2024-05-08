@@ -5,9 +5,9 @@
 "name":"Eureptilia subclade 1",
 "parentTaxon":"eureptilia",
 "popularSubtaxa":[
+"captorhinus",
 "paleothyris",
-"labidosaurus",
-"labidosaurikos"
+"labidosaurus"
 ],
 "exampleMember":"paleothyris",
 "exampleMemberType":"Example Member",

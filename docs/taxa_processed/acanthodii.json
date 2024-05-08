@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Acanthodii",
 "parentTaxon":"teleostomi",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"acanthodes"
+],
 "exampleMember":"acanthodes",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Class",

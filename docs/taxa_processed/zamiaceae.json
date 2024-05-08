@@ -5,9 +5,9 @@
 "name":"Zamiaceae",
 "parentTaxon":"zamiineae",
 "popularSubtaxa":[
-"macrozamia",
-"microcycas",
-"zamia"
+"dioon",
+"ceratozamia",
+"microcycas"
 ],
 "exampleMember":"dioon",
 "exampleMemberType":"Example Member",

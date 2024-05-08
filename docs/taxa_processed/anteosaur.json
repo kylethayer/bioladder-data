@@ -6,8 +6,8 @@
 "parentTaxon":"dinocephalia",
 "popularSubtaxa":[
 "anteosaurus",
-"syodon",
-"deuterosaurus"
+"deuterosaurus",
+"archaeosyodon"
 ],
 "exampleMember":"deuterosaurus",
 "exampleMemberType":"Example Member",

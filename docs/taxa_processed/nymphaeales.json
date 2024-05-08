@@ -5,9 +5,9 @@
 "name":"Nymphaeales",
 "parentTaxon":"flowering plant subclade 1",
 "popularSubtaxa":[
-"trithuria",
 "water lily",
-"cabomba"
+"brasenia",
+"trithuria"
 ],
 "exampleMember":"water lily",
 "exampleMemberType":"Example Member",

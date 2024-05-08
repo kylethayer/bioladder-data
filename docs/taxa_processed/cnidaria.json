@@ -5,7 +5,8 @@
 "name":"Cnidaria",
 "parentTaxon":"radiata",
 "popularSubtaxa":[
-"jellyfish"
+"jellyfish",
+"anthozoa"
 ],
 "exampleMember":"anthozoa",
 "exampleMemberType":"Example Member",

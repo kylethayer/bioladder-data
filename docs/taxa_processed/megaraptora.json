@@ -5,9 +5,9 @@
 "name":"Megaraptora",
 "parentTaxon":"neovenatoridae subclade 3",
 "popularSubtaxa":[
+"megaraptor",
 "fukuiraptor",
-"orkoraptor",
-"megaraptor"
+"australovenator"
 ],
 "exampleMember":"fukuiraptor",
 "exampleMemberType":"Example Member",

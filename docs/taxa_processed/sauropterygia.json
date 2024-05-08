@@ -5,9 +5,9 @@
 "name":"Sauropterygia",
 "parentTaxon":"pantestudines",
 "popularSubtaxa":[
-"psephoderma",
-"yunguisaurus",
-"plesiosaurs"
+"plesiosaurs",
+"paraplacodus",
+"placodus"
 ],
 "exampleMember":"paraplacodus",
 "exampleMemberType":"Example Member",

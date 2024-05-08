@@ -5,9 +5,9 @@
 "name":"Decapodiformes",
 "parentTaxon":"neocoleoidea",
 "popularSubtaxa":[
-"spirula",
+"squid",
 "cuttlefish",
-"squid"
+"bobtail squid"
 ],
 "exampleMember":"spirula",
 "exampleMemberType":"Example Member",

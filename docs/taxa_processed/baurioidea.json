@@ -5,9 +5,9 @@
 "name":"Baurioidea",
 "parentTaxon":"eutherocephalia subclade 2",
 "popularSubtaxa":[
+"karenites",
 "ictidosuchoides",
-"scaloposaurus",
-"silphedosuchus"
+"regisaurus"
 ],
 "exampleMember":"ictidosuchoides",
 "exampleMemberType":"Example Member",

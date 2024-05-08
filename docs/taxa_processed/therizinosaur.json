@@ -5,9 +5,9 @@
 "name":"Therizinosaur",
 "parentTaxon":"maniraptora",
 "popularSubtaxa":[
+"therizinosaurus",
 "falcarius",
-"neimongosaurus",
-"therizinosaurus"
+"beipiaosaurus"
 ],
 "exampleMember":"falcarius",
 "exampleMemberType":"Early Member",

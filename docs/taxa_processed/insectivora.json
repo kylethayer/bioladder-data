@@ -5,9 +5,9 @@
 "name":"Insectivora",
 "parentTaxon":"laurasiatheria",
 "popularSubtaxa":[
-"solenodon",
 "hedgehog",
-"shrew"
+"new world mole",
+"solenodon"
 ],
 "exampleMember":"nesophontes",
 "exampleMemberType":"Early Member",

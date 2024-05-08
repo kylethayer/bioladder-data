@@ -5,9 +5,9 @@
 "name":"Erinaceomorpha",
 "parentTaxon":"insectivora subclade 2",
 "popularSubtaxa":[
+"hedgehog",
 "gymnure",
-"pholidocercus",
-"hedgehog"
+"macrocranion"
 ],
 "exampleMember":"macrocranion",
 "exampleMemberType":"Early Member",

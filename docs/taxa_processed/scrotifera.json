@@ -5,9 +5,9 @@
 "name":"Scrotifera",
 "parentTaxon":"laurasiatheria",
 "popularSubtaxa":[
-"sheep",
 "dog",
-"bat"
+"bat",
+"blue whale"
 ],
 "exampleMember":"agriochoerus",
 "exampleMemberType":"Example Member",

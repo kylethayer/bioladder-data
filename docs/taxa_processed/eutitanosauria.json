@@ -5,9 +5,9 @@
 "name":"Eutitanosauria",
 "parentTaxon":"titanosaur",
 "popularSubtaxa":[
-"rapetosaurus",
 "rinconsaurus",
-"saltasaurus"
+"opisthocoelicaudia",
+"rapetosaurus"
 ],
 "exampleMember":"rapetosaurus",
 "exampleMemberType":"Example Member",

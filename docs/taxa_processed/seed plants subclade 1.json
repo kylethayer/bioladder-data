@@ -5,9 +5,9 @@
 "name":"Seed plants subclade 1",
 "parentTaxon":"seed plants",
 "popularSubtaxa":[
+"banana",
 "pine",
-"grass",
-"onion"
+"grass"
 ],
 "exampleMember":"macroneuropteris",
 "exampleMemberType":"Example Member",

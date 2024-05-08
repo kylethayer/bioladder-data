@@ -5,9 +5,9 @@
 "name":"Olsoniformes",
 "parentTaxon":"dissorophoidea",
 "popularSubtaxa":[
-"tambachia",
 "platyhystrix",
-"zygosaurus"
+"fedexia",
+"tambachia"
 ],
 "exampleMember":"fedexia",
 "exampleMemberType":"Example Member",

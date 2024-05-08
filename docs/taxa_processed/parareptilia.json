@@ -5,9 +5,9 @@
 "name":"Parareptilia",
 "parentTaxon":"sauropsida",
 "popularSubtaxa":[
-"mesosaur",
 "pareiasaur",
-"scutosaurus"
+"mesosaur",
+"bradysaurus"
 ],
 "exampleMember":"milleretta",
 "exampleMemberType":"Example Member",

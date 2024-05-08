@@ -5,9 +5,9 @@
 "name":"Biarmosuchia subclade 1",
 "parentTaxon":"biarmosuchia",
 "popularSubtaxa":[
+"burnetia",
 "hipposaurus",
-"lophorhinus",
-"proburnetia"
+"herpetoskylax"
 ],
 "exampleMember":"hipposaurus",
 "exampleMemberType":"Example Member",

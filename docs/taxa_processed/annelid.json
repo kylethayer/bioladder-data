@@ -5,9 +5,9 @@
 "name":"Annelid",
 "parentTaxon":"trochozoa subclade 1",
 "popularSubtaxa":[
-"sipuncula",
 "echiura",
-"siboglinidae"
+"sipuncula",
+"clitellata"
 ],
 "exampleMember":"sipuncula",
 "exampleMemberType":"Example Member",

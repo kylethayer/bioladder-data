@@ -5,9 +5,9 @@
 "name":"Embolomeri",
 "parentTaxon":"reptiliomorpha",
 "popularSubtaxa":[
+"archeria",
 "eoherpeton",
-"proterogyrinus",
-"pholiderpeton"
+"proterogyrinus"
 ],
 "exampleMember":"eoherpeton",
 "exampleMemberType":"Example Member",

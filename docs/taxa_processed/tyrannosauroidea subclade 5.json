@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea subclade 5",
 "parentTaxon":"tyrannosauroidea subclade 4",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "alioramus",
-"tyrannosaurus"
+"albertosaurus"
 ],
 "exampleMember":"alioramus",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Camelini",
 "parentTaxon":"camelinae",
 "popularSubtaxa":[
-"procamelus",
-"poebrotherium",
-"camel"
+"camel",
+"aepycamelus",
+"camelops"
 ],
 "exampleMember":"procamelus",
 "exampleMemberType":"Early Member",

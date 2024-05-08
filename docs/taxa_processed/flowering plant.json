@@ -5,9 +5,9 @@
 "name":"Flowering plant",
 "parentTaxon":"seed plants subclade 1",
 "popularSubtaxa":[
-"amborella",
+"banana",
 "grass",
-"onion"
+"amborella"
 ],
 "exampleMember":"amborella",
 "exampleMemberType":"Example Member",

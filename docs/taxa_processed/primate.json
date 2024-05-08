@@ -5,9 +5,9 @@
 "name":"Primate",
 "parentTaxon":"primatomorpha",
 "popularSubtaxa":[
-"lemur",
 "human",
-"gorilla"
+"lemur",
+"chimpanzee"
 ],
 "exampleMember":"darwinius",
 "exampleMemberType":"Early Member",

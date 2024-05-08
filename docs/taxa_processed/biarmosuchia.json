@@ -5,9 +5,9 @@
 "name":"Biarmosuchia",
 "parentTaxon":"therapsida",
 "popularSubtaxa":[
+"burnetia",
 "biarmosuchus",
-"lophorhinus",
-"proburnetia"
+"hipposaurus"
 ],
 "exampleMember":"biarmosuchus",
 "exampleMemberType":"Example Member",

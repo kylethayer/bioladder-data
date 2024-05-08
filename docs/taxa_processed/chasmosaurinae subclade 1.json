@@ -5,9 +5,9 @@
 "name":"Chasmosaurinae subclade 1",
 "parentTaxon":"chasmosaurinae",
 "popularSubtaxa":[
-"vagaceratops",
+"triceratops",
 "agujaceratops",
-"triceratops"
+"utahceratops"
 ],
 "exampleMember":"agujaceratops",
 "exampleMemberType":"Example Member",

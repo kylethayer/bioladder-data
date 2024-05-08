@@ -5,9 +5,9 @@
 "name":"Spalacidae",
 "parentTaxon":"muroidea",
 "popularSubtaxa":[
-"zokor",
-"east african mole-rat",
-"blind mole rats"
+"blind mole rats",
+"bamboo rat",
+"zokor"
 ],
 "exampleMember":"zokor",
 "exampleMemberType":"Example Member",

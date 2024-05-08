@@ -5,9 +5,9 @@
 "name":"Titanosaur",
 "parentTaxon":"somphospondyli",
 "popularSubtaxa":[
-"malawisaurus",
 "rinconsaurus",
-"saltasaurus"
+"futalognkosaurus",
+"malawisaurus"
 ],
 "exampleMember":"futalognkosaurus",
 "exampleMemberType":"Example Member",

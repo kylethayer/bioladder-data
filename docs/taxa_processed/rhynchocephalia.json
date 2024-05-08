@@ -5,9 +5,9 @@
 "name":"Rhynchocephalia",
 "parentTaxon":"lepidosauria",
 "popularSubtaxa":[
+"tuatara",
 "gephyrosaurus",
-"pleurosaurus",
-"tuatara"
+"brachyrhinodon"
 ],
 "exampleMember":"gephyrosaurus",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Euphyllophytes",
 "parentTaxon":"eutracheophytes",
 "popularSubtaxa":[
-"fern",
+"banana",
 "grass",
-"onion"
+"fern"
 ],
 "exampleMember":"psilophyton",
 "exampleMemberType":"Example Member",

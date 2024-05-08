@@ -5,9 +5,9 @@
 "name":"Pacmad clade subclade 1",
 "parentTaxon":"pacmad clade",
 "popularSubtaxa":[
-"micrairoideae",
+"corn",
 "sugarcane",
-"corn"
+"chloridoideae"
 ],
 "exampleMember":"centothecoid clade",
 "exampleMemberType":"Example Member",

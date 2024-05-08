@@ -5,9 +5,9 @@
 "name":"Stomatophytes",
 "parentTaxon":"land plant",
 "popularSubtaxa":[
+"banana",
 "moss",
-"grass",
-"onion"
+"grass"
 ],
 "exampleMember":"moss",
 "exampleMemberType":"Example Member",

@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Anaspida",
 "parentTaxon":"vertebrate subclade 2",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"birkenia"
+],
 "exampleMember":"birkenia",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Class",

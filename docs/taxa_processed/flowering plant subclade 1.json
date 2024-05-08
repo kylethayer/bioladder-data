@@ -5,9 +5,9 @@
 "name":"Flowering plant subclade 1",
 "parentTaxon":"flowering plant",
 "popularSubtaxa":[
+"banana",
 "water lily",
-"grass",
-"onion"
+"grass"
 ],
 "exampleMember":"water lily",
 "exampleMemberType":"Example Member",

@@ -5,8 +5,8 @@
 "name":"Rodent subclade 2",
 "parentTaxon":"rodent subclade 1",
 "popularSubtaxa":[
-"gopher",
 "rat",
+"beaver",
 "mouse"
 ],
 "exampleMember":"palaeocastor",

@@ -5,9 +5,9 @@
 "name":"Procyonidae subclade 1",
 "parentTaxon":"procyonidae",
 "popularSubtaxa":[
+"raccoon",
 "olinguito",
-"ring-tailed cat",
-"raccoon"
+"coatis"
 ],
 "exampleMember":"ring-tailed cat",
 "exampleMemberType":"Example Member",

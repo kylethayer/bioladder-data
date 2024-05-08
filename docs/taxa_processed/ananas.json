@@ -5,9 +5,9 @@
 "name":"Ananas",
 "parentTaxon":"bromelioideae",
 "popularSubtaxa":[
-"ananas bracteatus",
 "pineapple",
-"ananas lucidus"
+"ananas bracteatus",
+"ananas ananassoides"
 ],
 "exampleMember":"ananas ananassoides",
 "exampleMemberType":"Example Member",

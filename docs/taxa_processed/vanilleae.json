@@ -5,9 +5,9 @@
 "name":"Vanilleae",
 "parentTaxon":"vanilloideae",
 "popularSubtaxa":[
-"galeola",
-"pseudovanilla",
-"vanilla"
+"vanilla",
+"cyrtosia",
+"epistephium"
 ],
 "exampleMember":"cyrtosia",
 "exampleMemberType":"Example Member",

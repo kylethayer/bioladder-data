@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Pteraspidomorphi",
 "parentTaxon":"vertebrate subclade 1",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"arandaspida"
+],
 "exampleMember":"arandaspida",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Class",

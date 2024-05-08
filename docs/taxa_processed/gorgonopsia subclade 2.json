@@ -5,9 +5,9 @@
 "name":"Gorgonopsia subclade 2",
 "parentTaxon":"gorgonopsia subclade 1",
 "popularSubtaxa":[
-"aelurosaurus",
+"gorgonops",
 "lycaenops",
-"rubidgea"
+"aelurosaurus"
 ],
 "exampleMember":"aelurosaurus",
 "exampleMemberType":"Example Member",

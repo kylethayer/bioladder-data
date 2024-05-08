@@ -5,9 +5,9 @@
 "name":"Dicynodontoidea subclade 2",
 "parentTaxon":"dicynodontoidea subclade 1",
 "popularSubtaxa":[
+"stahleckeria",
 "lystrosaurus",
-"zambiasaurus",
-"stahleckeria"
+"dinodontosaurus"
 ],
 "exampleMember":"lystrosaurus",
 "exampleMemberType":"Example Member",

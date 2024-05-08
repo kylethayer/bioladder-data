@@ -5,9 +5,9 @@
 "name":"Cynognathia",
 "parentTaxon":"eucynodontia",
 "popularSubtaxa":[
-"trirachodon",
-"massetognathus",
-"cynognathus"
+"cynognathus",
+"diademodon",
+"trirachodon"
 ],
 "exampleMember":"cynognathus",
 "exampleMemberType":"Early Member",

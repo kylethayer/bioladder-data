@@ -5,9 +5,9 @@
 "name":"Suidae",
 "parentTaxon":"suina",
 "popularSubtaxa":[
-"red river hog",
+"pig",
 "common warthog",
-"pig"
+"babirusa"
 ],
 "exampleMember":"kubanochoerus",
 "exampleMemberType":"Example Member",

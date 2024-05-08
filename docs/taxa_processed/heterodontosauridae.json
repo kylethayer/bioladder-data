@@ -5,9 +5,9 @@
 "name":"Heterodontosauridae",
 "parentTaxon":"ornithischia subclade 1",
 "popularSubtaxa":[
-"tianyulong",
-"pegomastax",
-"heterodontosaurus"
+"heterodontosaurus",
+"heterodontosauridae subclade 1",
+"fruitadens"
 ],
 "exampleMember":"fruitadens",
 "exampleMemberType":"Early Member",

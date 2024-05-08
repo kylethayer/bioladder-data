@@ -5,9 +5,9 @@
 "name":"Eutherocephalia",
 "parentTaxon":"scylacosauria",
 "popularSubtaxa":[
+"annatherapsidus",
 "scylacosuchus",
-"perplexisaurus",
-"viatkosuchus"
+"chthonosaurus"
 ],
 "exampleMember":"scylacosuchus",
 "exampleMemberType":"Example Member",

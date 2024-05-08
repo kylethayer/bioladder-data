@@ -5,9 +5,9 @@
 "name":"Rubidgeinae",
 "parentTaxon":"gorgonopsidae subclade 4",
 "popularSubtaxa":[
+"rubidgea",
 "smilesaurus",
-"sycosaurus",
-"rubidgea"
+"aelurognathus"
 ],
 "exampleMember":"smilesaurus",
 "exampleMemberType":"Example Member",

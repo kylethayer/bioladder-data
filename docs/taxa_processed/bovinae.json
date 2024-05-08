@@ -5,9 +5,9 @@
 "name":"Bovinae",
 "parentTaxon":"bovid",
 "popularSubtaxa":[
-"nilgai",
 "cattle",
-"sitatunga"
+"nilgai",
+"lesser kudu"
 ],
 "exampleMember":"nilgai",
 "exampleMemberType":"Example Member",

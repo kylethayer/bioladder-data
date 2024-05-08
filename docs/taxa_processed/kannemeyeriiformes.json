@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes",
 "parentTaxon":"dicynodontoidea subclade 2",
 "popularSubtaxa":[
+"stahleckeria",
 "dinodontosaurus",
-"zambiasaurus",
-"stahleckeria"
+"kannemeyeria"
 ],
 "exampleMember":"dinodontosaurus",
 "exampleMemberType":"Example Member",

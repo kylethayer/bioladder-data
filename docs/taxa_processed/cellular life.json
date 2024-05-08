@@ -5,9 +5,9 @@
 "name":"Cellular life",
 "parentTaxon":"life",
 "popularSubtaxa":[
-"land plant",
+"human",
 "bacteria",
-"human"
+"insect"
 ],
 "exampleMember":"bacteria",
 "exampleMemberType":"Example Member",
@@ -29,9 +29,9 @@ null
 ],
 "popularAncestorPops":[
 100,
-null,
-null,
-null
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[
 95,

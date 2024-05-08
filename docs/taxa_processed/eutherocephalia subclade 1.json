@@ -5,9 +5,9 @@
 "name":"Eutherocephalia subclade 1",
 "parentTaxon":"eutherocephalia",
 "popularSubtaxa":[
-"perplexisaurus",
-"moschorhinus",
-"viatkosuchus"
+"annatherapsidus",
+"chthonosaurus",
+"karenites"
 ],
 "exampleMember":"perplexisaurus",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Tyrannosauridae",
 "parentTaxon":"tyrannosauroidea subclade 5",
 "popularSubtaxa":[
-"zhuchengtyrannus",
-"gorgosaurus",
-"tyrannosaurus"
+"tyrannosaurus",
+"albertosaurus",
+"gorgosaurus"
 ],
 "exampleMember":"albertosaurus",
 "exampleMemberType":"Early Member",

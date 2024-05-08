@@ -5,9 +5,9 @@
 "name":"Therizinosauroidea subclade 1",
 "parentTaxon":"therizinosauroidea",
 "popularSubtaxa":[
+"therizinosaurus",
 "alxasaurus",
-"neimongosaurus",
-"therizinosaurus"
+"erliansaurus"
 ],
 "exampleMember":"alxasaurus",
 "exampleMemberType":"Example Member",

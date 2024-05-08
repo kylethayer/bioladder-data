@@ -4,7 +4,9 @@
 "extinct":false,
 "name":"Amoebozoa",
 "parentTaxon":"unikont",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"chaos"
+],
 "exampleMember":"chaos",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unranked",

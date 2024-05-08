@@ -5,9 +5,9 @@
 "name":"Conifer subclade 1",
 "parentTaxon":"conifer",
 "popularSubtaxa":[
-"redwood",
 "pine",
-"spruce"
+"redwood",
+"common yew"
 ],
 "exampleMember":"pine",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Caninae",
 "parentTaxon":"canidae",
 "popularSubtaxa":[
-"raccoon dog",
 "dog",
-"wolf"
+"wolf",
+"bat-eared fox"
 ],
 "exampleMember":"raccoon dog",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Neornithischia",
 "parentTaxon":"genasauria",
 "popularSubtaxa":[
+"triceratops",
 "iguanodon",
-"parasaurolophus",
-"triceratops"
+"hadrosaurus"
 ],
 "exampleMember":"stormbergia",
 "exampleMemberType":"Early Member",

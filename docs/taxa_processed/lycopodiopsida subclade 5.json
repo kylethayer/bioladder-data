@@ -5,9 +5,9 @@
 "name":"Lycopodiopsida subclade 5",
 "parentTaxon":"lycopodiopsida subclade 4",
 "popularSubtaxa":[
+"quillwort",
 "pleuromeia",
-"tomiostrobus",
-"quillwort"
+"cylostrobus"
 ],
 "exampleMember":"pleuromeia",
 "exampleMemberType":"Example Member",

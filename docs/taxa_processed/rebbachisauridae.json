@@ -5,9 +5,9 @@
 "name":"Rebbachisauridae",
 "parentTaxon":"diplodocimorpha",
 "popularSubtaxa":[
+"rebbachisaurus",
 "amazonsaurus",
-"rebbachisaurinae subclade 1",
-"rebbachisaurus"
+"nigersaurus"
 ],
 "exampleMember":"amazonsaurus",
 "exampleMemberType":"Example Member",

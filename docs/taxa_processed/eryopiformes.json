@@ -5,9 +5,9 @@
 "name":"Eryopiformes",
 "parentTaxon":"rhachitomi",
 "popularSubtaxa":[
-"onchiodon",
-"uranocentrodon",
-"xenotosuchus"
+"clamorosaurus",
+"sclerocephalus",
+"archegosaurus"
 ],
 "exampleMember":"clamorosaurus",
 "exampleMemberType":"Example Member",

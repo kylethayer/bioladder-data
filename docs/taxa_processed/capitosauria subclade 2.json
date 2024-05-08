@@ -5,9 +5,9 @@
 "name":"Capitosauria subclade 2",
 "parentTaxon":"capitosauria subclade 1",
 "popularSubtaxa":[
+"cherninia",
 "edingerella",
-"xenotosuchus",
-"paracyclotosaurus"
+"xenotosuchus"
 ],
 "exampleMember":"edingerella",
 "exampleMemberType":"Example Member",

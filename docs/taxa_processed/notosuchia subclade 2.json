@@ -5,8 +5,9 @@
 "name":"Notosuchia subclade 2",
 "parentTaxon":"notosuchia subclade 1",
 "popularSubtaxa":[
-"notosuchus",
-"simosuchus"
+"baurusuchus",
+"simosuchus",
+"notosuchus"
 ],
 "exampleMember":"simosuchus",
 "exampleMemberType":"Example Member",

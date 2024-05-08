@@ -5,8 +5,8 @@
 "name":"Cricetidae",
 "parentTaxon":"eumuroida",
 "popularSubtaxa":[
-"muskrat",
 "hamster",
+"lemming",
 "pack rat"
 ],
 "exampleMember":"",

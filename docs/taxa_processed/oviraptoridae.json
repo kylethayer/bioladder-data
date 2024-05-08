@@ -5,9 +5,9 @@
 "name":"Oviraptoridae",
 "parentTaxon":"caenagnathoidea",
 "popularSubtaxa":[
-"nomingia",
 "oviraptor",
-"nemegtomaia"
+"nemegtomaia",
+"nankangia"
 ],
 "exampleMember":"nankangia",
 "exampleMemberType":"Example Member",

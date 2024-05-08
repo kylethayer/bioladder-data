@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes subclade 5",
 "parentTaxon":"kannemeyeriiformes subclade 4",
 "popularSubtaxa":[
+"stahleckeria",
 "sinokannemeyeria",
-"zambiasaurus",
-"stahleckeria"
+"wadiasaurus"
 ],
 "exampleMember":"sinokannemeyeria",
 "exampleMemberType":"Example Member",

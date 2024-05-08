@@ -5,9 +5,9 @@
 "name":"Megalosauridae subclade 1",
 "parentTaxon":"megalosauridae",
 "popularSubtaxa":[
+"afrovenator",
 "megalosaurus",
-"wiehenvenator",
-"afrovenator"
+"duriavenator"
 ],
 "exampleMember":"afrovenator",
 "exampleMemberType":"Example Member",

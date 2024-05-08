@@ -5,9 +5,9 @@
 "name":"Capitosauria",
 "parentTaxon":"stereospondyli subclade 3",
 "popularSubtaxa":[
+"cherninia",
 "wetlugasaurus",
-"xenotosuchus",
-"parotosuchus"
+"cyclotosaurus"
 ],
 "exampleMember":"wetlugasaurus",
 "exampleMemberType":"Example Member",

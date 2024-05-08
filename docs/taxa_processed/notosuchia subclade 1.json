@@ -5,9 +5,9 @@
 "name":"Notosuchia subclade 1",
 "parentTaxon":"notosuchus",
 "popularSubtaxa":[
-"notosuchus",
-"uruguaysuchus",
-"simosuchus"
+"baurusuchus",
+"simosuchus",
+"uruguaysuchus"
 ],
 "exampleMember":"uruguaysuchus",
 "exampleMemberType":"Example Member",

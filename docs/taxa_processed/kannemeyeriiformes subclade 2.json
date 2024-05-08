@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes subclade 2",
 "parentTaxon":"kannemeyeriiformes subclade 1",
 "popularSubtaxa":[
+"stahleckeria",
 "parakannemeyeria",
-"zambiasaurus",
-"stahleckeria"
+"dolichuranus"
 ],
 "exampleMember":"parakannemeyeria",
 "exampleMemberType":"",

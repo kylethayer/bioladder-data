@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Trilobozoa",
 "parentTaxon":"radiata",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"tribrachidium"
+],
 "exampleMember":"tribrachidium",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Phylum",

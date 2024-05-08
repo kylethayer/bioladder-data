@@ -5,9 +5,9 @@
 "name":"Core pooideae",
 "parentTaxon":"pooideae subclade 7",
 "popularSubtaxa":[
-"brachypodium",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"brachypodium"
 ],
 "exampleMember":"brachypodium",
 "exampleMemberType":"Example Member",

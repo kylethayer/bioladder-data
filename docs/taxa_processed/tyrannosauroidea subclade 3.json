@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea subclade 3",
 "parentTaxon":"tyrannosauroidea subclade 2",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "xiongguanlong",
-"tyrannosaurus"
+"appalachiosaurus"
 ],
 "exampleMember":"xiongguanlong",
 "exampleMemberType":"Early Member",

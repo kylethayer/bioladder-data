@@ -5,9 +5,9 @@
 "name":"Lycopodiopsida subclade 3",
 "parentTaxon":"lycopodiopsida subclade 2",
 "popularSubtaxa":[
+"quillwort",
 "spikemoss",
-"tomiostrobus",
-"quillwort"
+"sigillaria"
 ],
 "exampleMember":"spikemoss",
 "exampleMemberType":"Example Member",

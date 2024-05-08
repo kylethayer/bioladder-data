@@ -5,8 +5,8 @@
 "name":"Eosauropterygia",
 "parentTaxon":"sauropterygia",
 "popularSubtaxa":[
-"yunguisaurus",
 "plesiosaurs",
+"nothosaurus",
 "pachypleurosaur"
 ],
 "exampleMember":"pistosaurus",

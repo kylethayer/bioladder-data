@@ -5,9 +5,9 @@
 "name":"Cavioidea",
 "parentTaxon":"caviomorpha",
 "popularSubtaxa":[
+"guinea pig",
 "paca",
-"pacarana",
-"guinea pig"
+"common agouti"
 ],
 "exampleMember":"paca",
 "exampleMemberType":"Example Member",

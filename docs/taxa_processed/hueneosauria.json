@@ -5,9 +5,9 @@
 "name":"Hueneosauria",
 "parentTaxon":"ichthyosaur",
 "popularSubtaxa":[
-"phalarodon",
 "ichthyosaurus",
-"stenopterygius"
+"stenopterygius",
+"mixosaurus"
 ],
 "exampleMember":"mixosaurus",
 "exampleMemberType":"Example Member",

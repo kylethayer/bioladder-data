@@ -5,9 +5,9 @@
 "name":"Scylacosauria",
 "parentTaxon":"therocephalia",
 "popularSubtaxa":[
-"scylacosaurus",
-"scylacosuchus",
-"viatkosuchus"
+"annatherapsidus",
+"scylacosauridae",
+"pristerognathus"
 ],
 "exampleMember":"pristerognathus",
 "exampleMemberType":"Example Member",

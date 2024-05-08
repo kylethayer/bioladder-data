@@ -5,9 +5,9 @@
 "name":"Biarmosuchia subclade 3",
 "parentTaxon":"biarmosuchia subclade 2",
 "popularSubtaxa":[
+"burnetia",
 "ictidorhinus",
-"lophorhinus",
-"proburnetia"
+"lemurosaurus"
 ],
 "exampleMember":"ictidorhinus",
 "exampleMemberType":"Example Member",

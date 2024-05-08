@@ -5,9 +5,9 @@
 "name":"Pareiasauromorpha",
 "parentTaxon":"procolophonia",
 "popularSubtaxa":[
-"rhipaeosaurus",
 "pareiasaur",
-"scutosaurus"
+"bradysaurus",
+"macroleter"
 ],
 "exampleMember":"macroleter",
 "exampleMemberType":"Example Member",

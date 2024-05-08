@@ -5,9 +5,9 @@
 "name":"Thunnosauria subclade 2",
 "parentTaxon":"thunnosauria subclade 1",
 "popularSubtaxa":[
-"chacaicosaurus",
 "ophthalmosaurinae",
-"platypterygius"
+"chacaicosaurus",
+"brachypterygius"
 ],
 "exampleMember":"chacaicosaurus",
 "exampleMemberType":"Example Member",

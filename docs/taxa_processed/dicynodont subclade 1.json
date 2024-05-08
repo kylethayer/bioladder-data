@@ -5,9 +5,9 @@
 "name":"Dicynodont subclade 1",
 "parentTaxon":"dicynodont",
 "popularSubtaxa":[
+"stahleckeria",
 "endothiodon",
-"zambiasaurus",
-"stahleckeria"
+"pristerodon"
 ],
 "exampleMember":"endothiodon",
 "exampleMemberType":"Example Member",

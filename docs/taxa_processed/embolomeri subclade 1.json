@@ -5,9 +5,9 @@
 "name":"Embolomeri subclade 1",
 "parentTaxon":"embolomeri",
 "popularSubtaxa":[
+"archeria",
 "proterogyrinus",
-"pholiderpeton",
-"eogyrinus"
+"pholiderpeton"
 ],
 "exampleMember":"proterogyrinus",
 "exampleMemberType":"Example Member",

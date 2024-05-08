@@ -5,9 +5,9 @@
 "name":"Pooideae subclade 7",
 "parentTaxon":"pooideae subclade 5",
 "popularSubtaxa":[
-"brachypodium",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"brachypodium"
 ],
 "exampleMember":"diarrheneae",
 "exampleMemberType":"Example Member",

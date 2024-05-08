@@ -5,9 +5,9 @@
 "name":"Megaphylla",
 "parentTaxon":"euphyllophytes",
 "popularSubtaxa":[
+"banana",
 "fern",
-"grass",
-"onion"
+"grass"
 ],
 "exampleMember":"fern",
 "exampleMemberType":"Example Member",

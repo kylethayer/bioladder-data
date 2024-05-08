@@ -5,9 +5,9 @@
 "name":"Gorgonopsia",
 "parentTaxon":"theriodont",
 "popularSubtaxa":[
-"aloposaurus",
+"gorgonops",
 "lycaenops",
-"rubidgea"
+"aloposaurus"
 ],
 "exampleMember":"aloposaurus",
 "exampleMemberType":"Example Member",

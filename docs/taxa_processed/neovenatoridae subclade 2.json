@@ -5,9 +5,9 @@
 "name":"Neovenatoridae subclade 2",
 "parentTaxon":"neovenatoridae",
 "popularSubtaxa":[
+"megaraptor",
 "neovenator",
-"orkoraptor",
-"megaraptor"
+"chilantaisaurus"
 ],
 "exampleMember":"neovenator",
 "exampleMemberType":"Example Member",

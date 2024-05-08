@@ -5,9 +5,9 @@
 "name":"Saurolophinae subclade 1",
 "parentTaxon":"saurolophinae",
 "popularSubtaxa":[
-"shantungosaurus",
 "edmontosaurus",
-"saurolophus"
+"saurolophus",
+"kritosaurus"
 ],
 "exampleMember":"shantungosaurus",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Stegosauria",
 "parentTaxon":"eurypoda",
 "popularSubtaxa":[
-"wuerhosaurus",
-"tuojiangosaurus",
-"stegosaurus"
+"stegosaurus",
+"huayangosaurus",
+"wuerhosaurus"
 ],
 "exampleMember":"huayangosaurus",
 "exampleMemberType":"Example Member",

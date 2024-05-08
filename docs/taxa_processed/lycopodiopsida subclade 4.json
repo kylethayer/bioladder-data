@@ -5,9 +5,9 @@
 "name":"Lycopodiopsida subclade 4",
 "parentTaxon":"lycopodiopsida subclade 3",
 "popularSubtaxa":[
+"quillwort",
 "sigillaria",
-"tomiostrobus",
-"quillwort"
+"lepidodendron"
 ],
 "exampleMember":"sigillaria",
 "exampleMemberType":"Example Member",

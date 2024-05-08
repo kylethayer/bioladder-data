@@ -4,7 +4,10 @@
 "extinct":false,
 "name":"Bikonta subclade 2",
 "parentTaxon":"bikonta subclade 1",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"hacrobia",
+"sar supergroup"
+],
 "exampleMember":"hacrobia",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",

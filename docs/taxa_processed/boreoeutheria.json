@@ -5,9 +5,9 @@
 "name":"Boreoeutheria",
 "parentTaxon":"exafroplacentalia",
 "popularSubtaxa":[
-"sheep",
 "human",
-"dog"
+"dog",
+"blue whale"
 ],
 "exampleMember":"zalambdalestes",
 "exampleMemberType":"Early Member",

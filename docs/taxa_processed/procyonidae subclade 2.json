@@ -5,9 +5,9 @@
 "name":"Procyonidae subclade 2",
 "parentTaxon":"procyonidae subclade 1",
 "popularSubtaxa":[
+"raccoon",
 "ring-tailed cat",
-"crab-eating raccoon",
-"raccoon"
+"cacomistle"
 ],
 "exampleMember":"ring-tailed cat",
 "exampleMemberType":"Example Member",

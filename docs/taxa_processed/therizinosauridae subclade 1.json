@@ -5,9 +5,9 @@
 "name":"Therizinosauridae subclade 1",
 "parentTaxon":"therizinosauridae",
 "popularSubtaxa":[
-"suzhousaurus",
-"segnosaurus",
-"therizinosaurus"
+"therizinosaurus",
+"erlikosaurus",
+"nothronychus"
 ],
 "exampleMember":"suzhousaurus",
 "exampleMemberType":"Example Member",

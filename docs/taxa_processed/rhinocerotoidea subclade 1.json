@@ -5,9 +5,9 @@
 "name":"Rhinocerotoidea subclade 1",
 "parentTaxon":"rhinocerotoidea",
 "popularSubtaxa":[
-"hyracodon",
+"rhinoceros",
 "paraceratherium",
-"rhinoceros"
+"eggysodon"
 ],
 "exampleMember":"hyracodon",
 "exampleMemberType":"Example Member",

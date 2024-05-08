@@ -5,9 +5,9 @@
 "name":"Gorgonopsidae subclade 2",
 "parentTaxon":"gorgonopsidae subclade 1",
 "popularSubtaxa":[
+"rubidgea",
 "lycaenops",
-"sycosaurus",
-"rubidgea"
+"arctognathus"
 ],
 "exampleMember":"lycaenops",
 "exampleMemberType":"Example Member",

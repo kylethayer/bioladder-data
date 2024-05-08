@@ -5,9 +5,9 @@
 "name":"Brontotheriinae",
 "parentTaxon":"brontotheriidae",
 "popularSubtaxa":[
+"embolotherium",
 "sphenocoelus",
-"protitanops",
-"megacerops"
+"protitanops"
 ],
 "exampleMember":"sphenocoelus",
 "exampleMemberType":"Example Member",

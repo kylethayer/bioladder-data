@@ -5,9 +5,9 @@
 "name":"Muroidea",
 "parentTaxon":"myomorpha",
 "popularSubtaxa":[
-"zokor",
 "rat",
-"mouse"
+"mouse",
+"malabar spiny dormouse"
 ],
 "exampleMember":"malabar spiny dormouse",
 "exampleMemberType":"Example Member",

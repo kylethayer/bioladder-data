@@ -5,9 +5,9 @@
 "name":"Giraffidae",
 "parentTaxon":"giraffoidea",
 "popularSubtaxa":[
+"giraffe",
 "okapi",
-"sivatherium",
-"giraffe"
+"samotherium"
 ],
 "exampleMember":"honanotherium",
 "exampleMemberType":"Early Member",

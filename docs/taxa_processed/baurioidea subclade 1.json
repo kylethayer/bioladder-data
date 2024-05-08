@@ -5,9 +5,9 @@
 "name":"Baurioidea subclade 1",
 "parentTaxon":"baurioidea",
 "popularSubtaxa":[
+"karenites",
 "regisaurus",
-"scaloposaurus",
-"silphedosuchus"
+"scaloposaurus"
 ],
 "exampleMember":"regisaurus",
 "exampleMemberType":"Example Member",

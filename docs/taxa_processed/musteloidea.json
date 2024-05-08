@@ -5,9 +5,9 @@
 "name":"Musteloidea",
 "parentTaxon":"arctoidea subclade 1",
 "popularSubtaxa":[
-"skunk",
-"raccoon",
-"red panda"
+"otter",
+"red panda",
+"skunk"
 ],
 "exampleMember":"red panda",
 "exampleMemberType":"Example Member",

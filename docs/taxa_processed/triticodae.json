@@ -5,9 +5,9 @@
 "name":"Triticodae",
 "parentTaxon":"core pooideae subclade 1",
 "popularSubtaxa":[
-"bromus",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"bromus"
 ],
 "exampleMember":"bromus",
 "exampleMemberType":"Example Member",

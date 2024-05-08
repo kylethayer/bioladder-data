@@ -5,9 +5,9 @@
 "name":"Land plant",
 "parentTaxon":"streptophytina",
 "popularSubtaxa":[
-"liverworts",
+"banana",
 "grass",
-"onion"
+"liverworts"
 ],
 "exampleMember":"liverworts",
 "exampleMemberType":"Example Member",

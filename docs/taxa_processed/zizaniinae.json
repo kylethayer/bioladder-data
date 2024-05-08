@@ -5,9 +5,9 @@
 "name":"Zizaniinae",
 "parentTaxon":"oryzeae",
 "popularSubtaxa":[
-"potamophila",
 "wild rice",
-"zizaniopsis"
+"hygroryza",
+"potamophila"
 ],
 "exampleMember":"zizaniopsis",
 "exampleMemberType":"Example Member",

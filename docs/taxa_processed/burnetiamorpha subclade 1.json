@@ -5,9 +5,9 @@
 "name":"Burnetiamorpha subclade 1",
 "parentTaxon":"burnetiamorpha",
 "popularSubtaxa":[
+"burnetia",
 "lobalopex",
-"lophorhinus",
-"proburnetia"
+"lophorhinus"
 ],
 "exampleMember":"lobalopex",
 "exampleMemberType":"Example Member",

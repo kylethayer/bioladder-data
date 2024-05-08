@@ -5,9 +5,9 @@
 "name":"Potoroidae",
 "parentTaxon":"macropodiformes",
 "popularSubtaxa":[
-"potoroo",
-"rufous rat-kangaroo",
-"desert rat-kangaroo"
+"bettong",
+"desert rat-kangaroo",
+"potoroo"
 ],
 "exampleMember":"potoroo",
 "exampleMemberType":"Example Member",

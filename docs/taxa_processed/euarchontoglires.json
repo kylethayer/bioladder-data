@@ -5,9 +5,9 @@
 "name":"Euarchontoglires",
 "parentTaxon":"boreoeutheria",
 "popularSubtaxa":[
-"rat",
 "human",
-"gorilla"
+"rat",
+"chimpanzee"
 ],
 "exampleMember":"zalambdalestes",
 "exampleMemberType":"Early Member",

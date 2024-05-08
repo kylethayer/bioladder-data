@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea subclade 4",
 "parentTaxon":"tyrannosauroidea subclade 3",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "appalachiosaurus",
-"tyrannosaurus"
+"alioramus"
 ],
 "exampleMember":"appalachiosaurus",
 "exampleMemberType":"Early Member",

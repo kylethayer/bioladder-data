@@ -5,9 +5,9 @@
 "name":"Strepsicerotini subclade 2",
 "parentTaxon":"strepsicerotini subclade 1",
 "popularSubtaxa":[
-"giant eland",
-"mountain nyala",
-"sitatunga"
+"common eland",
+"greater kudu",
+"mountain nyala"
 ],
 "exampleMember":"common eland",
 "exampleMemberType":"Example Member",

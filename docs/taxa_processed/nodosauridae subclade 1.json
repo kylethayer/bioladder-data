@@ -5,9 +5,9 @@
 "name":"Nodosauridae subclade 1",
 "parentTaxon":"nodosauridae",
 "popularSubtaxa":[
-"polacanthus",
-"gastonia",
-"sauropelta"
+"animantarx",
+"gargoyleosaurus",
+"polacanthus"
 ],
 "exampleMember":"gargoyleosaurus",
 "exampleMemberType":"Example Member",

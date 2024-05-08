@@ -5,9 +5,9 @@
 "name":"Acrogymnospermae",
 "parentTaxon":"seed plants subclade 1",
 "popularSubtaxa":[
-"zamia",
-"redwood",
-"pine"
+"pine",
+"cycas",
+"redwood"
 ],
 "exampleMember":"macroneuropteris",
 "exampleMemberType":"Example Member",

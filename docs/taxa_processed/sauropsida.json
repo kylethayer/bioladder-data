@@ -5,9 +5,9 @@
 "name":"Sauropsida",
 "parentTaxon":"amniote",
 "popularSubtaxa":[
-"pareiasaur",
 "dinosaur",
-"bird"
+"bird",
+"pareiasaur"
 ],
 "exampleMember":"milleretta",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Sphenacodontidae",
 "parentTaxon":"sphenacodontoidea",
 "popularSubtaxa":[
+"dimetrodon",
 "secodontosaurus",
-"steppesaurus",
-"dimetrodon"
+"ctenorhachis"
 ],
 "exampleMember":"cutleria",
 "exampleMemberType":"Example Member",

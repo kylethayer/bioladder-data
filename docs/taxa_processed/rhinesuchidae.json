@@ -5,9 +5,9 @@
 "name":"Rhinesuchidae",
 "parentTaxon":"stereospondyli subclade 2",
 "popularSubtaxa":[
-"rhinesuchus",
-"rhineceps",
-"uranocentrodon"
+"broomistega",
+"muchocephalus",
+"rhineceps"
 ],
 "exampleMember":"rhinesuchus",
 "exampleMemberType":"Example Member",

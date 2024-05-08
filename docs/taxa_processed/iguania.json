@@ -5,9 +5,9 @@
 "name":"Iguania",
 "parentTaxon":"toxicofera subclade 1",
 "popularSubtaxa":[
-"chinese water dragon",
 "iguana",
-"horned lizard"
+"chinese water dragon",
+"australian water dragon"
 ],
 "exampleMember":"chinese water dragon",
 "exampleMemberType":"Example Member",

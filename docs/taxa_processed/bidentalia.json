@@ -5,9 +5,9 @@
 "name":"Bidentalia",
 "parentTaxon":"therochelonia",
 "popularSubtaxa":[
-"oudenodon",
-"zambiasaurus",
-"stahleckeria"
+"stahleckeria",
+"aulacocephalodon",
+"oudenodon"
 ],
 "exampleMember":"dicynodon",
 "exampleMemberType":"Example Member",

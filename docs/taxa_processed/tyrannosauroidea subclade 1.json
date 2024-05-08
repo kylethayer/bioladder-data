@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea subclade 1",
 "parentTaxon":"tyrannosauroidea",
 "popularSubtaxa":[
+"tyrannosaurus",
 "raptorex",
-"zhuchengtyrannus",
-"tyrannosaurus"
+"dryptosaurus"
 ],
 "exampleMember":"raptorex",
 "exampleMemberType":"Early Member",

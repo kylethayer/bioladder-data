@@ -5,9 +5,9 @@
 "name":"Seed plants",
 "parentTaxon":"metalignophytes",
 "popularSubtaxa":[
-"pine",
+"banana",
 "grass",
-"onion"
+"pine"
 ],
 "exampleMember":"callospermarion",
 "exampleMemberType":"Example Member",

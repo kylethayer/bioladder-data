@@ -5,9 +5,9 @@
 "name":"Gorgonopsidae subclade 3",
 "parentTaxon":"gorgonopsidae subclade 2",
 "popularSubtaxa":[
+"rubidgea",
 "arctognathus",
-"sycosaurus",
-"rubidgea"
+"inostrancevia"
 ],
 "exampleMember":"arctognathus",
 "exampleMemberType":"Example Member",

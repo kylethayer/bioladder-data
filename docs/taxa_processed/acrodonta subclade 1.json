@@ -5,9 +5,9 @@
 "name":"Acrodonta subclade 1",
 "parentTaxon":"acrodonta",
 "popularSubtaxa":[
-"uromastyx",
-"leiolepis",
-"rhampholeon"
+"agama",
+"rhampholeon",
+"brookesia"
 ],
 "exampleMember":"rhampholeon",
 "exampleMemberType":"Example Member",

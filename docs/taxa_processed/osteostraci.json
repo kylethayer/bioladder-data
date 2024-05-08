@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Osteostraci",
 "parentTaxon":"vertebrate subclade 4",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"hemicyclaspis"
+],
 "exampleMember":"hemicyclaspis",
 "exampleMemberType":"Early Member",
 "taxonomicRank":"Class",

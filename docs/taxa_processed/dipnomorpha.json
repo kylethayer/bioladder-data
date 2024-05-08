@@ -5,8 +5,9 @@
 "name":"Dipnomorpha",
 "parentTaxon":"rhipidistia",
 "popularSubtaxa":[
+"lungfish",
 "holoptychius",
-"lungfish"
+"porolepiformes"
 ],
 "exampleMember":"holoptychius",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Aegodontia",
 "parentTaxon":"bovid",
 "popularSubtaxa":[
-"waterbuck",
+"sheep",
 "impala",
-"sheep"
+"duiker"
 ],
 "exampleMember":"impala",
 "exampleMemberType":"Example Member",

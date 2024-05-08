@@ -5,9 +5,9 @@
 "name":"Asparagales subclade 2",
 "parentTaxon":"asparagales subclade 1",
 "popularSubtaxa":[
-"boryaceae",
 "blandfordia",
-"hypoxidaceae"
+"boryaceae",
+"asteliaceae"
 ],
 "exampleMember":"boryaceae",
 "exampleMemberType":"Example Member",

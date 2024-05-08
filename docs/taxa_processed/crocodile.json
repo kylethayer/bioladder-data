@@ -5,9 +5,9 @@
 "name":"Crocodile",
 "parentTaxon":"crocodylidae",
 "popularSubtaxa":[
-"dwarf crocodile",
-"nile crocodile",
-"saltwater crocodile"
+"trilophosuchus",
+"quinkana",
+"mekosuchinae"
 ],
 "exampleMember":"trilophosuchus",
 "exampleMemberType":"Early Member",

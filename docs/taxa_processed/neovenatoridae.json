@@ -5,9 +5,9 @@
 "name":"Neovenatoridae",
 "parentTaxon":"carcharodontosauria",
 "popularSubtaxa":[
-"gualicho",
-"orkoraptor",
-"megaraptor"
+"megaraptor",
+"deltadromeus",
+"gualicho"
 ],
 "exampleMember":"deltadromeus",
 "exampleMemberType":"Example Member",

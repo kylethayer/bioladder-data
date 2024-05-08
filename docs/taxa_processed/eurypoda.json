@@ -5,9 +5,9 @@
 "name":"Eurypoda",
 "parentTaxon":"thyreophoroidea",
 "popularSubtaxa":[
-"wuerhosaurus",
+"stegosaurus",
 "ankylosaurus",
-"stegosaurus"
+"mymoorapelta"
 ],
 "exampleMember":"minmi",
 "exampleMemberType":"Early Member",

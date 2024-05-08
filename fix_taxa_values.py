@@ -3,6 +3,31 @@
 
 import json, os
 
+####################################3
+# Mark all as needing to be processed
+
+# taxaProcessedFiles = os.listdir("docs/taxa_processed")
+
+# taxaInfo = {}
+# counter = 0
+
+
+# counter = 0
+# for taxonProcessedFile in taxaProcessedFiles:
+    
+#     if(counter % 1000 == 0):
+#         print("copying over info for taxon " + taxonProcessedFile)
+#     counter += 1
+
+#     f = open("docs/taxa_processed/" + taxonProcessedFile, encoding="utf-8")
+#     taxonProcessedInfo = json.loads(f.read())
+
+#     taxonProcessedInfo["needs_to_be_processed"] = True
+
+#     with open("docs/taxa_processed/" + taxonProcessedFile, 'w', encoding="utf-8") as f:
+#         json.dump(taxonProcessedInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+
+
 #################################3
 # Make sure all popularities are numbers or ""
 

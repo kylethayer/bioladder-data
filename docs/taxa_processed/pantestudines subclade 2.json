@@ -5,9 +5,9 @@
 "name":"Pantestudines subclade 2",
 "parentTaxon":"pantestudines subclade 1",
 "popularSubtaxa":[
+"turtle",
 "pappochelys",
-"proganochelys",
-"turtle"
+"odontochelys"
 ],
 "exampleMember":"pappochelys",
 "exampleMemberType":"Early Member",

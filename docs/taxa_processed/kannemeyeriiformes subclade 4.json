@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes subclade 4",
 "parentTaxon":"kannemeyeriiformes subclade 3",
 "popularSubtaxa":[
+"stahleckeria",
 "rabidosaurus",
-"zambiasaurus",
-"stahleckeria"
+"sinokannemeyeria"
 ],
 "exampleMember":"rabidosaurus",
 "exampleMemberType":"Example Member",

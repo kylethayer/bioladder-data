@@ -5,9 +5,9 @@
 "name":"Conifer subclade 6",
 "parentTaxon":"conifer subclade 5",
 "popularSubtaxa":[
-"plum yew",
 "common yew",
-"nutmeg yew"
+"catkin-yews",
+"plum yew"
 ],
 "exampleMember":"plum yew",
 "exampleMemberType":"Example Member",

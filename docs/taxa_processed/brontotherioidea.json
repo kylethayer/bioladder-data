@@ -5,9 +5,9 @@
 "name":"Brontotherioidea",
 "parentTaxon":"hippomorpha",
 "popularSubtaxa":[
-"sphenocoelus",
-"protitanops",
-"lambdotherium"
+"embolotherium",
+"lambdotherium",
+"eotitanops"
 ],
 "exampleMember":"lambdotherium",
 "exampleMemberType":"Example Member",

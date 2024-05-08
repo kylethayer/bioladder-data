@@ -5,9 +5,9 @@
 "name":"Orchid",
 "parentTaxon":"asparagales",
 "popularSubtaxa":[
+"vanilla",
 "lady's slipper orchids",
-"pseudovanilla",
-"vanilla"
+"cyrtosia"
 ],
 "exampleMember":"apostasioideae",
 "exampleMemberType":"Example Member",

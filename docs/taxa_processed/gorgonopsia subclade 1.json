@@ -5,9 +5,9 @@
 "name":"Gorgonopsia subclade 1",
 "parentTaxon":"gorgonopsia",
 "popularSubtaxa":[
-"cyonosaurus",
+"gorgonops",
 "lycaenops",
-"rubidgea"
+"cyonosaurus"
 ],
 "exampleMember":"cyonosaurus",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Chelicerata",
 "parentTaxon":"arthropod",
 "popularSubtaxa":[
+"spider",
 "horseshoe crab",
-"tick",
-"spider"
+"arachnid"
 ],
 "exampleMember":"eurypterida",
 "exampleMemberType":"Early Member",

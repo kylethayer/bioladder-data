@@ -22,7 +22,7 @@ for taxonSourceFile in taxaSourceFiles:
 
     anyChanges = False
     for key, value in taxonSourceInfo.items():
-        if(taxonProcessedInfo[key] != value):
+        if(key not in taxonProcessedInfo or taxonProcessedInfo[key] != value):
             taxonProcessedInfo[key] = value
             anyChanges = True
     
@@ -76,7 +76,7 @@ for taxonName in taxaInfo:
         if(potentialSubtaxonInfo["parentTaxon"].lower() == taxonName.lower()):
             subtaxa.append(potentialSubtaxonName.lower())
     
-    if "subtaxa" in taxonInfo and taxonInfo["subtaxa"].sort() != subtaxa.sort():
+    if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"].sort() != subtaxa.sort():
         print("**Updating subtaxa for " + taxonName)
         taxonInfo["subtaxa"] = subtaxa
         taxaForProcessing[taxonName.lower()] = True
@@ -155,8 +155,15 @@ while len(taxaForProcessing.keys())> 0:
 
     # check and see if our newly calculated popAncestorNames or popAncestorPops
     # are different from what is currently saved
-    if(popAncestorNames != taxonInfo["popularAncestors"] or
-       popAncestorPopsActual != taxonInfo["popularAncestorPops"] ):
+    if("popularAncestors" not in taxonInfo or 
+        "popularAncestorPops" not in popAncestorPopsActual):
+        print("updated missing pop ancestors " + taxonInfo["name"] + "--------------")
+        taxonInfo["popularAncestors"] = popAncestorNames
+        taxonInfo["popularAncestorPops"] = popAncestorPopsActual
+
+        taxaForSaving[taxonName.lower()] = True
+    elif(popAncestorNames != taxonInfo["popularAncestors"] or
+            popAncestorPopsActual != taxonInfo["popularAncestorPops"] ):
         print("updated " + taxonInfo["name"] + "--------------")
         print(" ancestor was " + str(taxonInfo["popularAncestors"]))
         print(" ancestor now " + str(popAncestorNames))
@@ -231,6 +238,16 @@ while len(taxaForProcessing.keys())> 0:
 
     # check if there was a change that needs to be saved
     # and mark parent as needing update if there was a change
+    if("popularSubtaxa" not in taxonInfo):
+        print("add missing popularSubtaxa to " + taxonInfo["name"] + "--------------")
+        taxonInfo["popularSubtaxa"] = newPopSubtaxa
+        taxaForSaving[taxonName.lower()] = True
+        
+        # mark parent as needing update if there was a change
+
+        if(taxonInfo["parentTaxon"]):
+            print(" --- adding to processing list " + taxonInfo["parentTaxon"].lower())
+            taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
     if(set(newPopSubtaxa) != set(taxonInfo["popularSubtaxa"])):
         print("updated " + taxonInfo["name"] + "--------------")
         print(" popsubtaxa was " + str(taxonInfo["popularSubtaxa"]))

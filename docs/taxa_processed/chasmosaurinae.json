@@ -5,9 +5,9 @@
 "name":"Chasmosaurinae",
 "parentTaxon":"ceratopsidae",
 "popularSubtaxa":[
+"triceratops",
 "chasmosaurus",
-"vagaceratops",
-"triceratops"
+"agujaceratops"
 ],
 "exampleMember":"chasmosaurus",
 "exampleMemberType":"Example Member",

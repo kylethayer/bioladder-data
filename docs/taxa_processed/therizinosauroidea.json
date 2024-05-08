@@ -5,9 +5,9 @@
 "name":"Therizinosauroidea",
 "parentTaxon":"therizinosaur",
 "popularSubtaxa":[
+"therizinosaurus",
 "beipiaosaurus",
-"neimongosaurus",
-"therizinosaurus"
+"alxasaurus"
 ],
 "exampleMember":"beipiaosaurus",
 "exampleMemberType":"Example Member",

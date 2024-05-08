@@ -5,9 +5,9 @@
 "name":"Anchitheriinae",
 "parentTaxon":"equidae",
 "popularSubtaxa":[
+"hypohippus",
 "kalobatippus",
-"mesohippus",
-"parahippus"
+"mesohippus"
 ],
 "exampleMember":"mesohippus",
 "exampleMemberType":"Example Member",

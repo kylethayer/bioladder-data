@@ -5,9 +5,9 @@
 "name":"Conifer subclade 4",
 "parentTaxon":"conifer subclade 2",
 "popularSubtaxa":[
-"sciadopitys",
 "redwood",
-"juniper"
+"sciadopitys",
+"common yew"
 ],
 "exampleMember":"sciadopitys",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Dicynodont",
 "parentTaxon":"chainosauria",
 "popularSubtaxa":[
+"stahleckeria",
 "eodicynodon",
-"zambiasaurus",
-"stahleckeria"
+"endothiodon"
 ],
 "exampleMember":"eodicynodon",
 "exampleMemberType":"Example Member",

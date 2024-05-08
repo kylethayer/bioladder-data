@@ -1,0 +1,35 @@
+{
+"name":"Crocodile subclade 1",
+"parentTaxon":"Crocodile",
+"description":"",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"popularity":"",
+"extinct":false,
+"exampleMember":"Voay",
+"exampleMemberType":"Early Member",
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Crocodile",
+"subtaxa":[
+"crocodile subclade 2",
+"osteolaeminae"
+],
+"popularAncestors":[
+"Crocodile",
+"amniote",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+80,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"nile crocodile",
+"saltwater crocodile",
+"dwarf crocodile"
+]
+}

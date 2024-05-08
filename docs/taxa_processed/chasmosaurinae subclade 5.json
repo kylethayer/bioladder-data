@@ -5,9 +5,9 @@
 "name":"Chasmosaurinae subclade 5",
 "parentTaxon":"chasmosaurinae subclade 4",
 "popularSubtaxa":[
+"triceratops",
 "vagaceratops",
-"ojoceratops",
-"triceratops"
+"kosmoceratops"
 ],
 "exampleMember":"vagaceratops",
 "exampleMemberType":"Example Member",

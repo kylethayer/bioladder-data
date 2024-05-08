@@ -5,9 +5,9 @@
 "name":"Somphospondyli",
 "parentTaxon":"titanosauriformes",
 "popularSubtaxa":[
-"qiaowanlong",
 "titanosaur",
-"saltasaurus"
+"euhelopus",
+"qiaowanlong"
 ],
 "exampleMember":"euhelopus",
 "exampleMemberType":"Example Member",

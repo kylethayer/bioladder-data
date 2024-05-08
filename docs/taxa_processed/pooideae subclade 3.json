@@ -5,9 +5,9 @@
 "name":"Pooideae subclade 3",
 "parentTaxon":"pooideae subclade 1",
 "popularSubtaxa":[
-"ampelodesmos",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"ampelodesmos"
 ],
 "exampleMember":"phaenospermateae",
 "exampleMemberType":"Example Member",

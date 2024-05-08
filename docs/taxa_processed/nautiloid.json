@@ -5,9 +5,9 @@
 "name":"Nautiloid",
 "parentTaxon":"cephalopod",
 "popularSubtaxa":[
-"endocerida",
-"discosorida",
-"nautilus"
+"nautilus",
+"actinocerida",
+"discosorida"
 ],
 "exampleMember":"",
 "exampleMemberType":"",

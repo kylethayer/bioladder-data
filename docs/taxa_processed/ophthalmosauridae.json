@@ -5,8 +5,8 @@
 "name":"Ophthalmosauridae",
 "parentTaxon":"thunnosauria subclade 2",
 "popularSubtaxa":[
-"ophthalmosaurus",
 "ophthalmosaurinae",
+"brachypterygius",
 "platypterygius"
 ],
 "exampleMember":"ophthalmosaurus",

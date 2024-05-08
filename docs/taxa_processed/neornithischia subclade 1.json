@@ -5,9 +5,9 @@
 "name":"Neornithischia subclade 1",
 "parentTaxon":"neornithischia",
 "popularSubtaxa":[
+"triceratops",
 "iguanodon",
-"parasaurolophus",
-"triceratops"
+"hadrosaurus"
 ],
 "exampleMember":"agilisaurus",
 "exampleMemberType":"Early Member",

@@ -5,9 +5,9 @@
 "name":"Gorgonopsidae subclade 4",
 "parentTaxon":"gorgonopsidae subclade 3",
 "popularSubtaxa":[
+"rubidgea",
 "inostrancevia",
-"sycosaurus",
-"rubidgea"
+"smilesaurus"
 ],
 "exampleMember":"inostrancevia",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Stereospondyli subclade 3",
 "parentTaxon":"stereospondyli subclade 2",
 "popularSubtaxa":[
-"wetlugasaurus",
-"xenotosuchus",
-"trematosaurus"
+"cherninia",
+"benthosuchus",
+"thoosuchus"
 ],
 "exampleMember":"benthosuchus",
 "exampleMemberType":"Example Member",

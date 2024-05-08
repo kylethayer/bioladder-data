@@ -5,9 +5,9 @@
 "name":"Cupressoideae",
 "parentTaxon":"cupressaceae subclade 5",
 "popularSubtaxa":[
-"thujopsis",
 "juniper",
-"siberian carpet cypress"
+"thuja",
+"incense cedar"
 ],
 "exampleMember":"thuja",
 "exampleMemberType":"Example Member",

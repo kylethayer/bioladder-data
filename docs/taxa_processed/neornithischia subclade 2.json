@@ -5,9 +5,9 @@
 "name":"Neornithischia subclade 2",
 "parentTaxon":"neornithischia subclade 1",
 "popularSubtaxa":[
+"triceratops",
 "iguanodon",
-"parasaurolophus",
-"triceratops"
+"hadrosaurus"
 ],
 "exampleMember":"othnielosaurus",
 "exampleMemberType":"Early Member",

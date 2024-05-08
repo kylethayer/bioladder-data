@@ -5,9 +5,9 @@
 "name":"Pooideae",
 "parentTaxon":"bop clade subclade 1",
 "popularSubtaxa":[
-"brachyelytrum",
-"rye",
-"wheat"
+"wheat",
+"barley",
+"brachyelytrum"
 ],
 "exampleMember":"brachyelytrum",
 "exampleMemberType":"Example Member",

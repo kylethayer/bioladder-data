@@ -5,7 +5,8 @@
 "name":"Vicugna",
 "parentTaxon":"lamini",
 "popularSubtaxa":[
-"vicuña"
+"vicuña",
+"alpaca"
 ],
 "exampleMember":"alpaca",
 "exampleMemberType":"Example Member",

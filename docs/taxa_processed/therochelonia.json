@@ -5,9 +5,9 @@
 "name":"Therochelonia",
 "parentTaxon":"dicynodont subclade 2",
 "popularSubtaxa":[
-"robertia",
-"zambiasaurus",
-"stahleckeria"
+"stahleckeria",
+"dicynodontoides",
+"diictodon"
 ],
 "exampleMember":"dicynodontoides",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Fereuungulata",
 "parentTaxon":"scrotifera",
 "popularSubtaxa":[
-"horse",
-"sheep",
-"dog"
+"dog",
+"blue whale",
+"horse"
 ],
 "exampleMember":"agriochoerus",
 "exampleMemberType":"Example Member",

@@ -5,9 +5,9 @@
 "name":"Abelisauridae subclade 1",
 "parentTaxon":"abelisauridae",
 "popularSubtaxa":[
-"rugops",
-"majungasaurus",
-"carnotaurus"
+"carnotaurus",
+"abelisaurus",
+"rugops"
 ],
 "exampleMember":"rugops",
 "exampleMemberType":"Example Member",

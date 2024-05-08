@@ -5,9 +5,9 @@
 "name":"Cimolodonta",
 "parentTaxon":"multituberculata",
 "popularSubtaxa":[
-"ectypodus",
-"taeniolabis",
-"nemegtbaatar"
+"cimolomys",
+"catopsbaatar",
+"ectypodus"
 ],
 "exampleMember":"taeniolabis",
 "exampleMemberType":"Example Member",

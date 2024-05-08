@@ -5,9 +5,9 @@
 "name":"Dicynodontoidea",
 "parentTaxon":"bidentalia",
 "popularSubtaxa":[
+"stahleckeria",
 "dicynodon",
-"zambiasaurus",
-"stahleckeria"
+"vivaxosaurus"
 ],
 "exampleMember":"dicynodon",
 "exampleMemberType":"Example Member",

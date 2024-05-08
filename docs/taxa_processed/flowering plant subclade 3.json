@@ -5,9 +5,9 @@
 "name":"Flowering plant subclade 3",
 "parentTaxon":"flowering plant subclade 2",
 "popularSubtaxa":[
+"banana",
 "pepper plant",
-"grass",
-"onion"
+"grass"
 ],
 "exampleMember":"sarcandra",
 "exampleMemberType":"Example Member",

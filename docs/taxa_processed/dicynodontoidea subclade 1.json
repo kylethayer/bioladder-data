@@ -5,9 +5,9 @@
 "name":"Dicynodontoidea subclade 1",
 "parentTaxon":"dicynodontoidea",
 "popularSubtaxa":[
+"stahleckeria",
 "vivaxosaurus",
-"zambiasaurus",
-"stahleckeria"
+"lystrosaurus"
 ],
 "exampleMember":"vivaxosaurus",
 "exampleMemberType":"",

@@ -5,9 +5,9 @@
 "name":"Gorgonopsidae",
 "parentTaxon":"gorgonopsia subclade 2",
 "popularSubtaxa":[
-"eriphostoma",
+"gorgonops",
 "lycaenops",
-"rubidgea"
+"eriphostoma"
 ],
 "exampleMember":"eriphostoma",
 "exampleMemberType":"Example Member",

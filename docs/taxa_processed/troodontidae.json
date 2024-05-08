@@ -5,9 +5,9 @@
 "name":"Troodontidae",
 "parentTaxon":"eumaniraptora subclade 1",
 "popularSubtaxa":[
-"eosinopteryx",
-"xixiasaurus",
-"troodon"
+"troodon",
+"anchiornis",
+"aurornis"
 ],
 "exampleMember":"anchiornis",
 "exampleMemberType":"Early Member",

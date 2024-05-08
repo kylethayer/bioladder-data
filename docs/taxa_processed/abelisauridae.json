@@ -5,9 +5,9 @@
 "name":"Abelisauridae",
 "parentTaxon":"abelisaur",
 "popularSubtaxa":[
-"eoabelisaurus",
-"majungasaurus",
-"carnotaurus"
+"carnotaurus",
+"abelisaurus",
+"eoabelisaurus"
 ],
 "exampleMember":"eoabelisaurus",
 "exampleMemberType":"Example Member",

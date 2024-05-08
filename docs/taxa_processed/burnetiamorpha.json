@@ -5,9 +5,9 @@
 "name":"Burnetiamorpha",
 "parentTaxon":"biarmosuchia subclade 3",
 "popularSubtaxa":[
+"burnetia",
 "lemurosaurus",
-"lophorhinus",
-"proburnetia"
+"lobalopex"
 ],
 "exampleMember":"lemurosaurus",
 "exampleMemberType":"Example Member",

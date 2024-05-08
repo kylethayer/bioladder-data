@@ -5,9 +5,9 @@
 "name":"Rauisuchidae",
 "parentTaxon":"loricata subclade 3",
 "popularSubtaxa":[
-"polonosuchus",
 "postosuchus",
-"teratosaurus"
+"luperosuchus",
+"polonosuchus"
 ],
 "exampleMember":"postosuchus",
 "exampleMemberType":"Example Member",

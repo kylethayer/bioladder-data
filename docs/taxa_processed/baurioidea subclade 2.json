@@ -5,9 +5,9 @@
 "name":"Baurioidea subclade 2",
 "parentTaxon":"baurioidea subclade 1",
 "popularSubtaxa":[
-"karenites",
 "scaloposaurus",
-"silphedosuchus"
+"karenites",
+"microgomphodon"
 ],
 "exampleMember":"karenites",
 "exampleMemberType":"Example Member",

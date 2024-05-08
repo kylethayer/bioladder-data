@@ -4,7 +4,9 @@
 "extinct":true,
 "name":"Placodermi",
 "parentTaxon":"gnathostomata",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"coccosteus"
+],
 "exampleMember":"coccosteus",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Class",

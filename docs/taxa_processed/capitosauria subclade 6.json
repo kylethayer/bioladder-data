@@ -5,9 +5,9 @@
 "name":"Capitosauria subclade 6",
 "parentTaxon":"capitosauria subclade 1",
 "popularSubtaxa":[
+"cyclotosaurus",
 "parotosuchus",
-"eryosuchus",
-"mastodonsaurus"
+"eryosuchus"
 ],
 "exampleMember":"parotosuchus",
 "exampleMemberType":"Example Member",

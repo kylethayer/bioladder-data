@@ -5,9 +5,9 @@
 "name":"Megalosauria",
 "parentTaxon":"megalosauroidea",
 "popularSubtaxa":[
-"baryonyx",
 "spinosaurus",
-"megalosaurus"
+"megalosaurus",
+"afrovenator"
 ],
 "exampleMember":"streptospondylus",
 "exampleMemberType":"Example Member",

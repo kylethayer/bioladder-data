@@ -5,9 +5,9 @@
 "name":"Octodontidae",
 "parentTaxon":"octodontoidea",
 "popularSubtaxa":[
-"degu",
-"mountain degu",
-"plains viscacha rat"
+"chilean rock rat",
+"coruro",
+"degu"
 ],
 "exampleMember":"degu",
 "exampleMemberType":"Example Member",

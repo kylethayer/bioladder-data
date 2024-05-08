@@ -23,7 +23,7 @@ def getTaxon():
         f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json")
         return jsonify(json.loads(f.read()))
     except Exception as e:
-        return jsonify({"error": e, "taxonName": lowCaseTaxonName})
+        return jsonify({"error": str(e), "taxonName": lowCaseTaxonName})
     
 @app.route("/getProcessedTaxon")
 def getProcessedTaxon():
@@ -34,7 +34,7 @@ def getProcessedTaxon():
         f = open("../docs/taxa_processed/" + lowCaseTaxonName + ".json")
         return jsonify(json.loads(f.read()))
     except Exception as e:
-        return jsonify({"error": e, "taxonName": lowCaseTaxonName})
+        return jsonify({"error": str(e), "taxonName": lowCaseTaxonName})
 
 
 @app.route("/saveTaxon", methods = ["POST"])

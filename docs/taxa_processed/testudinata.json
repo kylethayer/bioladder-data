@@ -5,9 +5,9 @@
 "name":"Testudinata",
 "parentTaxon":"pantestudines subclade 3",
 "popularSubtaxa":[
+"turtle",
 "proganochelys",
-"niolamia",
-"turtle"
+"kayentachelys"
 ],
 "exampleMember":"proganochelys",
 "exampleMemberType":"Early Member",
