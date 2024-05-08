@@ -3,6 +3,28 @@
 
 import json, os
 
+#################################3
+# Make sure all popularities are numbers or ""
+
+taxaSourceFiles = os.listdir("docs/taxa_source")
+counter = 0
+
+for taxonSourceFile in taxaSourceFiles:
+    
+    if(counter % 1000 == 0):
+        print("copying over info for taxon " + taxonSourceFile)
+    counter += 1
+
+    f = open("docs/taxa_source/" + taxonSourceFile, encoding="utf-8")
+    taxonSourceInfo = json.loads(f.read())
+
+    if(taxonSourceInfo["popularity"]):
+        taxonSourceInfo["popularity"] = int(taxonSourceInfo["popularity"])
+
+    with open("docs/taxa_source/" + taxonSourceFile, 'w', encoding="utf-8") as f:
+        json.dump(taxonSourceInfo, f, indent=0, ensure_ascii=False)
+
+
 
 ####################################3
 # Add popularSubtaxaPops
