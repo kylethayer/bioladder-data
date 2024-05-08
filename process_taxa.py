@@ -102,64 +102,84 @@ while len(taxaForProcessing.keys() > 0):
     taxonInfo = taxaInfo[taxonName]
 
     #####
-    # Popular Ancestors
-    # given parent popular ancestors and parent popularity, does parent go into the current taxon's popular ancestor list?
-    # parentTaxon = taxonInfo["parentTaxon"]
-    # if(parentTaxon and parentTaxon != ""):
-    #     parentTaxonInfo = taxaInfo[parentTaxon]
-    #     parentPopularity = parentTaxonInfo["popularity"] # may be ""
+    #Popular Ancestors
+    #given parent popular ancestors and parent popularity, does parent go into the current taxon's popular ancestor list?
+    
+    # where we will save our newly updated info
+    popAncestorNames = [None, None, None, None]
+    popAncestorPops = [None, None, None, None]
+    
+    parentTaxon = taxonInfo["parentTaxon"]
+    if(parentTaxon and parentTaxon != ""):
+        parentTaxonInfo = taxaInfo[parentTaxon]
+        parentPopularity = parentTaxonInfo["popularity"] # may be ""
 
-    #     # start with copying the parent lists and update them
-    #     parentPopAncestorNames = parentTaxonInfo["popularAncestors"] # values may be null
-    #     popAncestorNames = parentPopAncestorNames[:] # make a clone of the names list
-    #     popAncestorPops = map(getPopularity, parentPopAncestorNames)
+        # start with copying the parent lists and update them
+        parentPopAncestorNames = parentTaxonInfo["popularAncestors"] # values may be null
+        popAncestorNames = parentPopAncestorNames[:] # make a clone of the names list
+        popAncestorPops = map(getPopularity, parentPopAncestorNames)
 
-    #     #Now see if it deserves a spot on the list
-    #     if(  parentPopularity > popAncestorPops[0] * (AncestorPopWeight ** 3) or
- 	#      parentPopularity > popAncestorPops[1] * (AncestorPopWeight ** 2) or
-    #       parentPopularity > popAncestorPops[2] * (AncestorPopWeight ** 1) or	   
- 	#      parentPopularity > popAncestorPops[3] or not popAncestorNames[3]):
-    #         #We now will put parent in the ancestor[0] spot. 
-    #         #See if Ancestor[0] should go into Ancestor[1] (each level works similarly)
-    #         if(  popAncestorPops[0] > popAncestorPops[1] * (AncestorPopWeight ** 2) or
-    #             popAncestorPops[0] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
-    #  	        popAncestorPops[0] > popAncestorPops[3] or not popAncestorNames[3]):
+        #Now see if it deserves a spot on the list
+        if(  parentPopularity > popAncestorPops[0] * (AncestorPopWeight ** 3) or
+ 	     parentPopularity > popAncestorPops[1] * (AncestorPopWeight ** 2) or
+          parentPopularity > popAncestorPops[2] * (AncestorPopWeight ** 1) or	   
+ 	     parentPopularity > popAncestorPops[3] or not popAncestorNames[3]):
+            #We now will put parent in the ancestor[0] spot. 
+            #See if Ancestor[0] should go into Ancestor[1] (each level works similarly)
+            if(  popAncestorPops[0] > popAncestorPops[1] * (AncestorPopWeight ** 2) or
+                popAncestorPops[0] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
+     	        popAncestorPops[0] > popAncestorPops[3] or not popAncestorNames[3]):
 		  
-    #             if(  popAncestorPops[1] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
-    #                 popAncestorPops[1] > popAncestorPops[3] or not popAncestorNames[3]):
+                if(  popAncestorPops[1] > popAncestorPops[2] * (AncestorPopWeight ** 1) or
+                    popAncestorPops[1] > popAncestorPops[3] or not popAncestorNames[3]):
 			
-    #                 if(popAncestorPops[2] > popAncestorPops[3] or not popAncestorNames[3]):
-    #                     popAncestorNames[3] = popAncestorNames[2]
-    #                     popAncestorPops[3] = popAncestorPops[2]
-    #                 popAncestorNames[2] = popAncestorNames[1]
-    #                 popAncestorPops[2] = popAncestorPops[1]
-    #             popAncestorNames[1] = popAncestorNames[0]
-    #             popAncestorPops[1] = popAncestorPops[0]
-    #         popAncestorNames[0] = parentTaxon
-    #         popAncestorPops[0] = parentPopularity
-
+                    if(popAncestorPops[2] > popAncestorPops[3] or not popAncestorNames[3]):
+                        popAncestorNames[3] = popAncestorNames[2]
+                        popAncestorPops[3] = popAncestorPops[2]
+                    popAncestorNames[2] = popAncestorNames[1]
+                    popAncestorPops[2] = popAncestorPops[1]
+                popAncestorNames[1] = popAncestorNames[0]
+                popAncestorPops[1] = popAncestorPops[0]
+            popAncestorNames[0] = parentTaxon
+            popAncestorPops[0] = parentPopularity
 
     # check and see if our newly calculated popAncestorNames or popAncestorPops
     # are different from what is currently saved
+    if(popAncestorNames != taxonInfo["popularAncestors"] or
+       popAncestorPops != taxonInfo["popularAncestorPops"] ):
+        taxaForSaving[taxonName] = True
+        
+        # mark children as needing update if there was a change
 
-#     end
-#   end
+        if("subtaxa" in taxonInfo):
+            for subtaxonName in taxonInfo["subtaxa"]:
+                taxaForProcessing[subtaxonName] = True
 
-#   if(anyChanges)
-#     currentTaxonText = markChildrenNeedUpdateInText(currentTaxonText)
-#   end
-
-    # mark children as needing update if there was a change
 
     #####
     # Popular Subtaxa
 
+    possiblePopSubtaxa = []
+
     # Add children as possibilities (self as branch)
     # Add children's popular subtaxa as possibilities (the child we got them from as the branch)
 
+    for childTaxon in taxonInfo["subtaxa"]:
+        for childPopSubTaxon in taxonInfo[childTaxon]["popularSubtaxa"]:
+            possiblePopSubtaxa.append({
+                "name": childPopSubTaxon,
+                "popularity": taxonInfo[childPopSubTaxon]["popularity"],
+                "branch": childTaxon
+            })
+
+    # Find what should be the subtaxa
+    
+
     #mark parent as needing update if there was a change
 
-    del taxaForProcessing["taxonName"]
+    del taxonInfo["needs_to_be_processed"]
+    del taxaForProcessing[taxonName]
+    
 
 
 ######################################################3
