@@ -9,6 +9,30 @@ function init(){
     showTaxonEditingView()
 }
 
+const socketUrl = "ws://"+ location.host +"/terminal"
+let webSocket = new WebSocket(socketUrl)
+
+webSocket.onmessage = (event) => {
+    console.log("socket message received", event)
+    const msg = JSON.parse(event.data)
+    if(msg.type == "success"){
+        document.getElementById("processOutput").innerText = 
+            "Successfully connected to server"
+    } else if(msg.type == "cl"){
+        outputDiv = document.getElementById("processOutput")
+        outputDiv.innerText += msg.line
+        outputDiv.scrollTop = outputDiv.scrollHeight;
+    }
+    
+}
+
+function processTaxa(){
+    document.getElementById("processOutput").innerText = ""
+    fetch("/processTaxa", {
+        method: "POST"
+    })
+}
+
 window.onhashchange = function () {
     showTaxonEditingView()
 }
@@ -231,3 +255,5 @@ function toggleWikiImg(){
         wikiImgExpEl.setAttribute("hidden", true)
     }
 }
+
+

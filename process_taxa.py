@@ -1,5 +1,6 @@
 import json, os
 
+print("start of process taxa")
 
 # copy any changes from taxa_source to taxa_processed
 taxaSourceFiles = os.listdir("docs/taxa_source")
@@ -285,5 +286,9 @@ for taxonName in taxaForSaving.keys():
     f.write(taxonInfoString)
     f.close()
 
+
+print("-------------------------")
+print("finished processing taxa")
+print("-------------------------")
 # TODO: update taxon_list.json and taxon_parent_summary.json
 # Note: Taxon search could use a csv that has taxon name, other names, scientific name, and popularity

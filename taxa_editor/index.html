@@ -9,6 +9,14 @@
             #searchTaxon_results{
                 max-height: 400px;
             }
+            #processOutput{
+                overflow: scroll;
+                max-height: 500px;
+                margin-bottom: 50px;
+                background-color: black;
+                color:white;
+                font-family: monospace;
+            }
         </style>
     </header>
     <body onload="init()">
@@ -149,8 +157,8 @@
         <div></div>
         <hr>
         <h2>Process Taxa</h2>
-        <h3>NOT WORKING YET</h3>
-        <div></div>
+        <button onclick="processTaxa()">ProcessTaxa</button>
+        <div id="processOutput"></div>
 
 
     </body>
