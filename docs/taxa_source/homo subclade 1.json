@@ -1,10 +1,10 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Homo subclade 1",
 "parentTaxon":"homo subclade 2",
-"exampleMember":"homo rhodesiensis",
+"exampleMember":"neanderthal",
 "exampleMemberType":"Earliest Known Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
