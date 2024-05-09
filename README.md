@@ -2,6 +2,9 @@
 
 This is the project for holding the dataset for the [bioladder](https://github.com/kylethayer/bioladder) project (in the docs directory).
 
+The data is hosted at: https://kylethayer.github.io/bioladder-data/
+- e.g., https://kylethayer.github.io/bioladder-data/taxa_processed/human.json
+
 There is also a program to help edit and process the data. 
 * Make sure you have python installed
 * Make sure you have the flask library installed
