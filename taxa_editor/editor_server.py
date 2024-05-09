@@ -86,22 +86,35 @@ class SubprocessProtocol(asyncio.SubprocessProtocol):
             print(data.decode("utf-8"))
             terminalWs.send(json.dumps({"type": "cl", "line": str(data.decode("utf-8"))}))
 
+    def error_received(self, exc): # This doesn't seem to catch errors
+        terminalWs.send(json.dumps({"type": "cl", "line": "Error: " + str(exc)}))
+        print('Error received:', exc)
+
     def connection_lost(self, exc):
-        
+        terminalWs.send(json.dumps({"type": "cl", "line": "closed process connection " + str(exc) + "\n"}))
         loop.stop() # end loop.run_forever()
 
 def runProcessTaxa():
     global loop
+    global terminalWs
     if os.name == 'nt':
         loop = asyncio.ProactorEventLoop() # for subprocess' pipes on Windows
         asyncio.set_event_loop(loop)
     else:
         loop = asyncio.get_event_loop()
     try:
+        # This doesn't seem to catch errors
+        # loop.set_exception_handler(lambda loop, context : terminalWs.send(json.dumps({"type": "cl", "line": "process error + " + str(context.get('exception')) + " \n"})))
+        
         loop.run_until_complete(loop.subprocess_exec(SubprocessProtocol, 
-            "python", "process_taxa.py", cwd ="..", env={'PYTHONUNBUFFERED': '1'}))
+            "python", "process_taxa.py", stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
+            cwd ="..", env={'PYTHONUNBUFFERED': '1'}))
         loop.run_forever()
+    # except Exception as e: # This doesn't seem to catch errors
+    #     terminalWs.send(json.dumps({"type": "cl", "line": "error " + str(e) + "\n"}))
+    #     loop.close()
     finally:
+        terminalWs.send(json.dumps({"type": "cl", "line": "process ended \n"}))
         loop.close()
 
 

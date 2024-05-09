@@ -199,16 +199,16 @@ async function saveTaxon(){
     exampleMemberType = exampleMemberType_input.options[exampleMemberType_input.selectedIndex].value;
     
     let taxonJSON = {
+        description: document.getElementById("description_input").value,
+        popularity: document.getElementById("popularity_input").valueAsNumber,
+        extinct: document.getElementById("extinct_input").checked,
         name: document.getElementById("name_input").value,
         parentTaxon: document.getElementById("parentTaxon_input").value.toLowerCase(),
-        description: document.getElementById("description_input").value,
+        exampleMember: document.getElementById("exampleMember_input").value.toLowerCase(),
+        exampleMemberType: exampleMemberType,
         taxonomicRank: taxonomicRank,
         scientificName: document.getElementById("scientificName_input").value,
         otherNames: document.getElementById("otherNames_input").value ? document.getElementById("otherNames_input").value.split(",") : [],
-        popularity: document.getElementById("popularity_input").value,
-        extinct: document.getElementById("extinct_input").checked,
-        exampleMember: document.getElementById("exampleMember_input").value.toLowerCase(),
-        exampleMemberType: exampleMemberType,
         wikipediaImg: document.getElementById("wikipediaImg_input").value,
         wikipediaPage: document.getElementById("wikipediaPage_input").value
     }
