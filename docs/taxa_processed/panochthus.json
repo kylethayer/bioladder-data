@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":10,
-"extinct":false,
+"extinct":true,
 "name":"Panochthus",
 "parentTaxon":"glyptodontidae",
 "popularSubtaxa":[],
