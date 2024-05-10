@@ -69,7 +69,6 @@ for taxonName in taxaInfo:
 counter = 0
 taxaNameList = list(taxaInfo.keys())
 print("taxaNameList" + str(taxaNameList))
-taxaNameList.reverse()
 # Find all subtaxa
 for taxonName in taxaNameList:
     if(counter % 100 == 0):
@@ -129,3 +128,13 @@ for taxonName in taxaNameList:
 
             with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
                 json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+
+
+print("****************************")
+print("broken images")
+for taxonName in taxaInfo:
+
+    taxonInfo = taxaInfo[taxonName.lower()]
+
+    if("wiki_broken_img_checked" in taxonInfo):
+        print("  " + taxonName)

@@ -231,7 +231,7 @@ async function saveTaxon(){
         alert(responseText)
     }
 
-    if(currentTaxon == taxonName){
+    if(currentTaxon.toLowerCase() == taxonName.toLowerCase()){
         loadTaxon(taxonName)
     }
 }

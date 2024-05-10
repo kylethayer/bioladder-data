@@ -1,10 +1,10 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Placeriinae",
 "parentTaxon":"stahleckeriidae",
-"exampleMember":"zambiasaurus",
+"exampleMember":"placerias",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Subfamily",
 "scientificName":"",

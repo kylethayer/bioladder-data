@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Scylacosauria",
 "parentTaxon":"therocephalia",
@@ -9,7 +9,7 @@
 "scylacosauridae",
 "pristerognathus"
 ],
-"exampleMember":"pristerognathus",
+"exampleMember":"scylacosaurus",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Clade",
 "scientificName":"",

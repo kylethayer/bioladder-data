@@ -1,10 +1,10 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Scylacosauria",
 "parentTaxon":"therocephalia",
-"exampleMember":"pristerognathus",
+"exampleMember":"scylacosaurus",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Clade",
 "scientificName":"",
