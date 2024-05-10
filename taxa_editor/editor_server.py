@@ -94,7 +94,7 @@ class SubprocessProtocol(asyncio.SubprocessProtocol):
         terminalWs.send(json.dumps({"type": "cl", "line": "closed process connection " + str(exc) + "\n"}))
         loop.stop() # end loop.run_forever()
 
-def runProcessTaxa():
+def runProcessCommand(pythonScriptName):
     global loop
     global terminalWs
     if os.name == 'nt':
@@ -107,7 +107,7 @@ def runProcessTaxa():
         # loop.set_exception_handler(lambda loop, context : terminalWs.send(json.dumps({"type": "cl", "line": "process error + " + str(context.get('exception')) + " \n"})))
         
         loop.run_until_complete(loop.subprocess_exec(SubprocessProtocol, 
-            "python", "process_taxa.py", stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
+            "python", pythonScriptName, stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
             cwd ="..", env={'PYTHONUNBUFFERED': '1'}))
         loop.run_forever()
     # except Exception as e: # This doesn't seem to catch errors
@@ -121,7 +121,15 @@ def runProcessTaxa():
 @app.route("/processTaxa", methods = ["POST"])
 def processTaxa():
     #asyncio.run(runProcessTaxa())
-    runProcessTaxa()
+    runProcessCommand("process_taxa.py")
+    return json.dumps({"status": "started"})
+
+
+
+@app.route("/auditTaxa", methods = ["POST"])
+def auditTaxa():
+    #asyncio.run(runProcessTaxa())
+    runProcessCommand("audit_taxa.py")
     return json.dumps({"status": "started"})
 
 

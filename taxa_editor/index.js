@@ -33,6 +33,14 @@ function processTaxa(){
     })
 }
 
+function auditTaxa(){
+    document.getElementById("processOutput").innerText = ""
+    fetch("/auditTaxa", {
+        method: "POST"
+    })
+}
+
+
 window.onhashchange = function () {
     showTaxonEditingView()
 }
