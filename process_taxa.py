@@ -1,4 +1,4 @@
-import json, os
+import json, os, csv
 
 print("start of process taxa")
 
@@ -285,6 +285,33 @@ for taxonName in taxaForSaving.keys():
     f = open("docs/taxa_processed/" + taxonName.lower() + ".json", "w", encoding="utf-8")
     f.write(taxonInfoString)
     f.close()
+
+
+
+# Output taxon_search_list.csv
+
+# make list of taxons
+# make sure example names set to blank or json strings
+taxonList = []
+for taxonName in taxaInfo:
+    taxonInfo = taxaInfo[taxonName]
+    if not taxonInfo['otherNames'] or len(taxonInfo['otherNames']) == 0:
+        taxonInfo['otherNames'] = ''
+    else:
+        taxonInfo['otherNames'] = json.dumps(taxonInfo['otherNames'])
+
+    taxonList.append(taxonInfo)
+
+
+with open('docs/taxon_search_list.csv', 'w',  newline='\n') as taxon_search_list_file:
+   
+    fieldnames = ['name', 'otherNames', 'scientificName', 'popularity']
+    
+    writer = csv.DictWriter(taxon_search_list_file, fieldnames=fieldnames, extrasaction='ignore')
+
+    writer.writeheader()
+
+    writer.writerows(taxonList)
 
 
 print("-------------------------")
