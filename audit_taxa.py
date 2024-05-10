@@ -67,8 +67,11 @@ for taxonName in taxaInfo:
 ## check all marked taxa for their wiki images
 
 counter = 0
+taxaNameList = list(taxaInfo.keys())
+print("taxaNameList" + str(taxaNameList))
+taxaNameList.reverse()
 # Find all subtaxa
-for taxonName in taxaInfo:
+for taxonName in taxaNameList:
     if(counter % 100 == 0):
         print("checking image file for " + taxonName)
     counter += 1
@@ -89,8 +92,18 @@ for taxonName in taxaInfo:
                     print("   - url: "+ wikiImage)
                     imgSucceeded = False
                     if(r.status_code == 403):
-                        time.sleep(80)
-                time.sleep(10) # 500 requests per hour (7.5 is 480 per hour)
+                        time.sleep(1)
+                    else:
+                        print("#########################################")
+                        print("#########################################")
+                        print("#########################################")
+                        print("marking taxon " + taxonName + " as having broken image ")
+                        del taxonInfo["needs_wiki_img_checked"]
+                        taxonInfo["wiki_broken_img_checked"] = True
+
+                        with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
+                            json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+                time.sleep(2) # 500 requests per hour (7.5 is 480 per hour)
                 
             except requests.exceptions.RequestException as e:
                 print("error loading image for " + taxonName)
