@@ -82,18 +82,15 @@ for taxonName in taxaInfo:
                 r = requests.get(wikiImage, timeout = 5)
                 
                 if(r.status_code > 200):
-                    time.sleep(10) # retry one after one second
-                    r = requests.get(wikiImage, timeout = 5)
-                    if(r.status_code > 200):
-                        time.sleep(30) # retry 2 after three seconds
-                        r = requests.get(wikiImage, timeout = 5)
-                        if(r.status_code > 200):
-                            print("*** Error loading '" + taxonName + "' (" + str(r.status_code) + ")")
-                            print("   - url: "+ wikiImage)
-                            imgSucceeded = False
-                            if(r.status_code == 403):
-                                time.sleep(60)
-                time.sleep(7.5) # 500 requests per hour (this is 480 per hour)
+                   # time.sleep(60) # retry one after one second
+                   # r = requests.get(wikiImage, timeout = 5)
+                   # if(r.status_code > 200):
+                    print("*** Error loading '" + taxonName + "' (" + str(r.status_code) + ")")
+                    print("   - url: "+ wikiImage)
+                    imgSucceeded = False
+                    if(r.status_code == 403):
+                        time.sleep(80)
+                time.sleep(10) # 500 requests per hour (7.5 is 480 per hour)
                 
             except requests.exceptions.RequestException as e:
                 print("error loading image for " + taxonName)
