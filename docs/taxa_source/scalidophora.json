@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":true,
+"popularity":null,
+"extinct":false,
 "name":"Scalidophora",
 "parentTaxon":"ecdysozoa",
 "exampleMember":"",

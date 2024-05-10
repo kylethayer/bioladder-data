@@ -82,7 +82,11 @@ for taxonName in taxaNameList:
         if "needs_wiki_img_checked" in taxonInfo:
             imgSucceeded = True
             try:
-                r = requests.get(wikiImage, timeout = 5)
+                headers = {
+                    'User-Agent': 'Bot to make sure image links work for bioladder evolution viewer (https://kylethayer.github.io/bioladder)',
+                    'From': 'kyle.thayer@gmail.com' 
+                }
+                r = requests.get(wikiImage, headers=headers, timeout = 5)
                 
                 if(r.status_code > 200):
                    # time.sleep(60) # retry one after one second
@@ -92,7 +96,7 @@ for taxonName in taxaNameList:
                     print("   - url: "+ wikiImage)
                     imgSucceeded = False
                     if(r.status_code == 403):
-                        time.sleep(1)
+                        time.sleep(.2)
                     else:
                         print("#########################################")
                         print("#########################################")
@@ -103,7 +107,7 @@ for taxonName in taxaNameList:
 
                         with open("docs/taxa_processed/" + taxonName.lower() + ".json", 'w', encoding="utf-8") as f:
                             json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
-                time.sleep(2) # 500 requests per hour (7.5 is 480 per hour)
+                time.sleep(0.1) # 500 requests per hour (7.5 is 480 per hour)
                 
             except requests.exceptions.RequestException as e:
                 print("error loading image for " + taxonName)
