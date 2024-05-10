@@ -303,7 +303,7 @@ for taxonName in taxaInfo:
     taxonList.append(taxonInfo)
 
 
-with open('docs/taxon_search_list.csv', 'w',  newline='\n') as taxon_search_list_file:
+with open('docs/taxon_search_list.csv', 'w',  newline='\n', encoding="utf-8") as taxon_search_list_file:
    
     fieldnames = ['name', 'otherNames', 'scientificName', 'popularity']
     
