@@ -23,6 +23,12 @@
         <h1>taxa editor</h1>
         <p>This is only intended as an aide to create, edit, and process the taxa locally. 
             It is not secure and not intended to be run as a public website.</p>
+        
+        <h2>Goto Taxon / New Taxon</h2>
+        <input id="new_taxon_name" />
+        <button onclick="createNewTaxon()">Goto Taxon / New Taxon</button>
+        <hr>
+        
         <h2>View/Edit Taxon</h2>
         <h3><div id="view_edit_taxon_message">Loading...</div></h3>
         <div id="view_edit_taxon_box" hidden="true">
@@ -131,7 +137,7 @@
                 <image id="wikipediaImg_preview" style="max-width: 75px; max-height: 75Spx;" /><br>
                 <button onclick="toggleWikiImg()" style="margin-left: 10px;">See more about wikipediaImg</button>
                 <div id="wikipediaImg-explanation" hidden="true" style="margin: 5px; padding: 5px; border:solid 1px black">
-                     This is a property of type URL to an image on wikipedia or wikimedia commons. The image should be around 200-250px wide unless it is a very tall image.
+                     This is a property of type URL to an image on wikipedia or wikimedia commons. The image should be 330px wide (we'll try to resize it for you).
                 </div></p>
             <p> <label for "wikipediaPage">wikipediaPage</label>
                 <input id="wikipediaPage_input" name="wikipediaPage" type="text"  size="75"/>
@@ -142,10 +148,6 @@
             <p><strong>popularSubtaxa</strong> <span id="popularSubtaxa"></span></p>
             <p><strong>popularAncestors</strong> <span id="popularAncestors"></span></p>
         </div>
-        <hr>
-        <h2>Goto Taxon / New Taxon</h2>
-        <input id="new_taxon_name" />
-        <button onclick="createNewTaxon()">Goto Taxon / New Taxon</button>
         <hr>
         <h2>Search Taxon</h2>
         <p>

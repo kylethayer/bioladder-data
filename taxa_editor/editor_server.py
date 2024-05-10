@@ -1,4 +1,4 @@
-import json
+import json, re
 from flask import Flask, render_template, Response, request, jsonify
 # run with: python -m flask --app editor_server run
 # Note: You will have to install flask (e.g., run "pip install flask")
@@ -54,6 +54,10 @@ def getProcessedTaxon():
 def postProcessedTaxon():
     taxonData = request.json
     lowCaseTaxonName = taxonData["name"].lower()
+
+    # make sure wiki image is 300px
+    if(taxonData["wikipediaImg"]):
+        taxonData["wikipediaImg"] = re.sub(r'\d+px-', "330px-", taxonData["wikipediaImg"])
 
     taxonInfoString = json.dumps(taxonData, separators=(',', ':'), indent=0, ensure_ascii=False)
     f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json", "w", encoding="utf-8")
