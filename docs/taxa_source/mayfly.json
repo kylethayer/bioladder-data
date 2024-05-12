@@ -1,0 +1,17 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Mayfly",
+"parentTaxon":"palaeoptera",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Ephemeroptera",
+"otherNames":[
+"shadflies",
+"fishflies "
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mayfly_-_atalophlebia.jpg/330px-Mayfly_-_atalophlebia.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mayfly"
+}

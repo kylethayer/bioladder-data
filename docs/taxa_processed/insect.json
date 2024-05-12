@@ -4,9 +4,13 @@
 "extinct":false,
 "name":"Insect",
 "parentTaxon":"hexapoda",
-"popularSubtaxa":[],
-"exampleMember":"",
-"exampleMemberType":"",
+"popularSubtaxa":[
+"mayfly",
+"jumping bristletails",
+"diaphanopterodea"
+],
+"exampleMember":"jumping bristletails",
+"exampleMemberType":"Early Member",
 "taxonomicRank":"Class",
 "scientificName":"Insecta",
 "otherNames":[],
@@ -18,7 +22,10 @@
 "cellular life",
 "life"
 ],
-"subtaxa":[],
+"subtaxa":[
+"dicondylia",
+"jumping bristletails"
+],
 "popularAncestorPops":[
 50,
 95,

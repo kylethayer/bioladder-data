@@ -888,10 +888,12 @@ Deuterostome,,Deuterostomia,30
 Diabloceratops,,,10
 Diademodon,,,10
 Diandongosuchus,,,10
+Diaphanopterodea,"[""Paramegasecoptera ""]",,10
 Diapsida,,,
 Diarrheneae,,,10
 Dibatag,,Ammodorcas clarkei,50
 Dibothrosuchus,,,10
+Dicondylia,,,
 Dicraeosauridae subclade 1,,,
 Dicraeosauridae,,,
 Dicraeosaurus,,,10
@@ -1485,6 +1487,7 @@ Jingshanosaurus,,,10
 Jobaria,,,10
 Joinvillea,,,30
 Josephoartigasia,,,50
+Jumping bristletails,"[""Microcoryphia""]",Archaeognatha,50
 Jumping mouse,,Zapodinae,50
 Juncaceae,"[""rush family""]",,10
 Juniper,,,60
@@ -1734,6 +1737,8 @@ Mastodonsaurus,,,10
 Mastomys,,,
 Matgrass,,,50
 Mayaca,,,30
+Mayfly,"[""shadflies"", ""fishflies ""]",Ephemeroptera,50
+mazothairos,,,10
 Megacerops,,,10
 Megalonychidae,,,
 Megalonychini,,,
@@ -1750,6 +1755,7 @@ Megaraptor,,,30
 Megaraptora subclade 1,,,
 Megaraptora,,,
 Megaraptoridae,,,
+megasecoptera,,,10
 Megatheriidae,,,
 Megatheriina,,,
 Megatherium,,,50
@@ -1926,6 +1932,7 @@ Neofelis,,,
 Neohipparion,,,10
 Neoichthyosauria subclade 1,,,
 Neoichthyosauria,,,
+Neoptera,,,
 Neornithischia subclade 1,,,
 Neornithischia subclade 2,,,
 Neornithischia,,,
@@ -2012,6 +2019,7 @@ Octopus,,Octopoda,75
 Odd-toed ungulate,,Perissodactyla,30
 Odobenidae,,,
 Odobenocetops,,,10
+Odonatoptera,,,
 Odontochelys,,,10
 Oedaleops,,,10
 Ojoceratops,,,10
@@ -2131,11 +2139,13 @@ Pakicetidae,,,
 Pakicetus,,,30
 Palaeoanguimorpha,,,
 Palaeocastor,,,10
+palaeodictyopteroidea,,,
 Palaeohatteria,,,10
 Palaeolagus,,,10
 Palaeomastodon,,,10
 Palaeomerycidae,,,
 Palaeopleurosaurus,,,10
+Palaeoptera,,,
 Palaeotherium,,,10
 Paleoparadoxia,,,10
 Paleothyris,,,10
@@ -2424,6 +2434,7 @@ Pseudovanilla,,,30
 Psilophyton,,,10
 Pteraspidomorphi,,,
 Pterosaur,,Pterosauria,60
+pterygota,,,
 Puelia,,,30
 Puijila,,,
 Puku,,,50
@@ -3163,6 +3174,7 @@ Zonosaurinae,,,
 Zosterophyllopsida,,,10
 Zuniceratops,,,10
 Zupaysaurus,,,10
+zygentoma,,,
 Zygomaturinae,,,
 Zygomaturus,,,20
 Zygophyseter,,,
