@@ -7,6 +7,12 @@ function isTaxonNameValid(taxonName){
 
 function init(){
     showTaxonEditingView()
+
+
+    document.getElementById("new_taxon_name").onchange = UpdateTaxonName
+    document.getElementById("new_taxon_name").onclick = UpdateTaxonName
+    document.getElementById("new_taxon_name").onkeydown = UpdateTaxonName
+    document.getElementById("new_taxon_name").onkeyup = UpdateTaxonName
 }
 
 const socketUrl = "ws://"+ location.host +"/terminal"
@@ -43,6 +49,11 @@ function auditTaxa(){
 
 window.onhashchange = function () {
     showTaxonEditingView()
+}
+
+function UpdateTaxonName(){
+    document.getElementById("gotoOrNewTaxon").href="#" + document.getElementById("new_taxon_name").value
+    document.getElementById("newTaxonNameSpan").innerText = document.getElementById("new_taxon_name").value
 }
 
 async function showTaxonEditingView(){
@@ -126,18 +137,18 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("view_edit_taxon_message").innerText = 
     "Creating new taxon: " + taxonName 
 
-    document.getElementById("name_input").value=null
+    document.getElementById("name_input").value=taxonName.toLowerCase()
     document.getElementById("parentTaxon_input").value=null
     document.getElementById("parentTaxon_link").setAttribute("href", null)
     document.getElementById("parentTaxon_link").innerText = null
     document.getElementById("description_input").value=null
-    document.getElementById("taxonomicRank_input").value=null
+    document.getElementById("taxonomicRank_input").value=""
     document.getElementById("taxonomicRank_rawval").innerText=null
     document.getElementById("scientificName_input").value=null
     document.getElementById("otherNames_input").value=null
     document.getElementById("popularity_input").value=null
     document.getElementById("extinct_input").checked=null
-    document.getElementById("exampleMember_input").value=null
+    document.getElementById("exampleMember_input").value=""
     document.getElementById("exampleMember_link").setAttribute("href", null)
     document.getElementById("exampleMember_link").innerText = null
     document.getElementById("exampleMemberType_input").value=null
