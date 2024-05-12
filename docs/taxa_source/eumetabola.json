@@ -2,13 +2,13 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Neoptera",
-"parentTaxon":"pterygota",
+"name":"Eumetabola",
+"parentTaxon":"neoptera",
 "exampleMember":"",
 "exampleMemberType":"",
-"taxonomicRank":"",
+"taxonomicRank":"Unranked",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Neoptera"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eumetabola"
 }
