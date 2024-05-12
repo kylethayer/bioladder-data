@@ -84,10 +84,15 @@ for taxonName in taxaInfo:
             subtaxa.append(potentialSubtaxonName.lower())
 
     if "subtaxa" not in taxonInfo or sorted(taxonInfo["subtaxa"]) != sorted(subtaxa):
-        print("**Updating subtaxa for " + taxonName)
+        print("**Updating subtaxa for " + taxonName + " (" + str(subtaxa) + ")")
         taxonInfo["subtaxa"] = subtaxa
         taxaForProcessing[taxonName.lower()] = True
         taxaForSaving[taxonName.lower()] = True
+
+    # make sure popularAncestors in taxonInfo, even if blank
+    if "popularAncestors" not in taxonInfo:
+        taxonInfo["popularAncestors"] = [None, None, None, None]
+        taxonInfo["popularAncestorPops"] = [None, None, None, None]
 
 #######################################
 ## process popularSubtaxa and popularAncestors
@@ -210,6 +215,8 @@ while len(taxaForProcessing.keys())> 0:
         
         possiblePopSubtaxa.append(newPossibleSubtaxa)
 
+        if "popularSubtaxa" not in taxaInfo[childTaxon.lower()]:
+            taxaInfo[childTaxon.lower()]["popularSubtaxa"] = []
 
         for childPopSubTaxon in taxaInfo[childTaxon.lower()]["popularSubtaxa"]:
             newPossibleSubtaxa = {

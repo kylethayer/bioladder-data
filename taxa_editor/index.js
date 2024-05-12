@@ -13,6 +13,11 @@ function init(){
     document.getElementById("new_taxon_name").onclick = UpdateTaxonName
     document.getElementById("new_taxon_name").onkeydown = UpdateTaxonName
     document.getElementById("new_taxon_name").onkeyup = UpdateTaxonName
+
+    document.getElementById("subtaxon_name_input").onchange = UpdateCreateSubTaxonName
+    document.getElementById("subtaxon_name_input").onclick = UpdateCreateSubTaxonName
+    document.getElementById("subtaxon_name_input").onkeydown = UpdateCreateSubTaxonName
+    document.getElementById("subtaxon_name_input").onkeyup = UpdateCreateSubTaxonName
 }
 
 const socketUrl = "ws://"+ location.host +"/terminal"
@@ -55,6 +60,13 @@ function UpdateTaxonName(){
     document.getElementById("gotoOrNewTaxon").href="#" + document.getElementById("new_taxon_name").value
     document.getElementById("newTaxonNameSpan").innerText = document.getElementById("new_taxon_name").value
 }
+
+function UpdateCreateSubTaxonName(){
+    document.getElementById("create_subtaxon_link").href= "?parentTaxon="+ currentTaxon + "#" + document.getElementById("subtaxon_name_input").value 
+    document.getElementById("create_subtaxon_name").innerText = document.getElementById("subtaxon_name_input").value
+}
+
+
 
 async function showTaxonEditingView(){
     let taxonName = window.location.hash.substring(1)
@@ -137,8 +149,8 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("view_edit_taxon_message").innerText = 
     "Creating new taxon: " + taxonName 
 
-    document.getElementById("name_input").value=taxonName.toLowerCase()
-    document.getElementById("parentTaxon_input").value=null
+    document.getElementById("name_input").value=taxonName.toLowerCase().charAt(0).toUpperCase() + taxonName.toLowerCase().slice(1)
+    document.getElementById("parentTaxon_input").value= (new URLSearchParams(window.location.search)).get("parentTaxon")? (new URLSearchParams(window.location.search)).get("parentTaxon") : null
     document.getElementById("parentTaxon_link").setAttribute("href", null)
     document.getElementById("parentTaxon_link").innerText = null
     document.getElementById("description_input").value=null
@@ -148,10 +160,10 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("otherNames_input").value=null
     document.getElementById("popularity_input").value=null
     document.getElementById("extinct_input").checked=null
-    document.getElementById("exampleMember_input").value=""
+    document.getElementById("exampleMember_input").value=null
     document.getElementById("exampleMember_link").setAttribute("href", null)
     document.getElementById("exampleMember_link").innerText = null
-    document.getElementById("exampleMemberType_input").value=null
+    document.getElementById("exampleMemberType_input").value=""
     document.getElementById("exampleMemberType_rawval").innerText=null
     document.getElementById("wikipediaImg_input").value=null
     document.getElementById("wikipediaImg_preview").src=null
@@ -207,6 +219,14 @@ async function loadTaxonProcessedFields(taxonName){
     }
 }
 
+function trim(possibleString){
+    if(possibleString){
+        return possibleString.trim()
+    }else{
+        return possibleString
+    }
+}
+
 async function saveTaxon(){
     let taxonName = document.getElementById("name_input").value
 
@@ -218,18 +238,18 @@ async function saveTaxon(){
     exampleMemberType = exampleMemberType_input.options[exampleMemberType_input.selectedIndex].value;
     
     let taxonJSON = {
-        description: document.getElementById("description_input").value,
+        description: trim(document.getElementById("description_input").value),
         popularity: document.getElementById("popularity_input").valueAsNumber,
         extinct: document.getElementById("extinct_input").checked,
-        name: document.getElementById("name_input").value,
-        parentTaxon: document.getElementById("parentTaxon_input").value.toLowerCase(),
-        exampleMember: document.getElementById("exampleMember_input").value.toLowerCase(),
+        name: trim(document.getElementById("name_input").value),
+        parentTaxon: trim(document.getElementById("parentTaxon_input").value.toLowerCase()),
+        exampleMember: trim(document.getElementById("exampleMember_input").value.toLowerCase()),
         exampleMemberType: exampleMemberType,
         taxonomicRank: taxonomicRank,
-        scientificName: document.getElementById("scientificName_input").value,
+        scientificName: trim(document.getElementById("scientificName_input").value),
         otherNames: document.getElementById("otherNames_input").value ? document.getElementById("otherNames_input").value.split(",") : [],
-        wikipediaImg: document.getElementById("wikipediaImg_input").value,
-        wikipediaPage: document.getElementById("wikipediaPage_input").value
+        wikipediaImg: trim(document.getElementById("wikipediaImg_input").value),
+        wikipediaPage: trim(document.getElementById("wikipediaPage_input").value)
     }
 
     let response = await fetch("saveTaxon", {
