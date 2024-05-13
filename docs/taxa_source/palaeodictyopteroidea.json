@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":null,
-"extinct":false,
+"extinct":true,
 "name":"palaeodictyopteroidea",
 "parentTaxon":"palaeoptera",
 "exampleMember":"mazothairos",
