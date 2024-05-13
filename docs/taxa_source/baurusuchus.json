@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":20,
-"extinct":"",
+"extinct":true,
 "name":"Baurusuchus",
 "parentTaxon":"baurusuchidae",
 "exampleMember":"",

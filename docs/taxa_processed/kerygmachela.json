@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Kerygmachela",
 "subtaxa":[],
 "popularAncestors":[
-"arthropod subclade 1",
 "arthropod",
-"tactopoda subclade 3",
-null
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
 50,
-"",
-""
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

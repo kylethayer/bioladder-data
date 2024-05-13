@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Megacheira",
 "subtaxa":[],
 "popularAncestors":[
-"deuteropoda subclade 2",
-"deuteropoda subclade 1",
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

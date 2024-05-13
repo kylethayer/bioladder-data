@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Kylinxia",
 "subtaxa":[],
 "popularAncestors":[
-"arthropod subclade 2",
-"arthropod subclade 1",
 "arthropod",
-"tactopoda subclade 3"
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-"",
-"",
 50,
-""
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

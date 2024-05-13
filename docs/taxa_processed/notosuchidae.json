@@ -1,13 +1,13 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchidae",
 "parentTaxon":"notosuchia subclade 3",
 "popularSubtaxa":[
 "notosuchus",
-"baurusuchus",
-"comahuesuchus"
+"comahuesuchus",
+"mariliasuchus"
 ],
 "exampleMember":"notosuchus",
 "exampleMemberType":"Example Member",
@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Notosuchidae",
 "popularAncestors":[
-"notosuchus",
-"notosuchus",
-"notosuchus",
-"notosuchus"
+"amniote",
+"tetrapod",
+"animal",
+"life"
 ],
 "subtaxa":[
 "notosuchidae subclade 1",
 "notosuchus"
 ],
 "popularAncestorPops":[
-20,
-20,
-20,
-20
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[
 20,

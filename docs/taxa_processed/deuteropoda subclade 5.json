@@ -16,16 +16,16 @@
 "mandibulata"
 ],
 "popularAncestors":[
-"deuteropoda subclade 4",
-"deuteropoda subclade 3",
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[
 "insect",

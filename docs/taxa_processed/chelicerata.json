@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Chelicerate",
 "popularAncestors":[
-"deuteropoda subclade 2",
-null,
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "subtaxa":[
 "arachnid",
 "merostomata"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxaPops":[
 60,

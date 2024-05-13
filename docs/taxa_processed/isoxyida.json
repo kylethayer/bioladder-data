@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Isoxyida",
 "subtaxa":[],
 "popularAncestors":[
-"deuteropoda subclade 3",
-"deuteropoda subclade 1",
-"deuteropoda",
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

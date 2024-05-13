@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchia subclade 3",
 "parentTaxon":"notosuchia subclade 2",
 "exampleMember":"armadillosuchus",

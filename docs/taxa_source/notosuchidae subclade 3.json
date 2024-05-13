@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchidae subclade 3",
-"parentTaxon":"notosuchidae subclade 3",
+"parentTaxon":"notosuchidae subclade 2",
 "exampleMember":"yacarerani",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",

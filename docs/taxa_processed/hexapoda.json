@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Hexapoda",
 "popularAncestors":[
-"pancrustacea",
-"mandibulata subclade 1",
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "subtaxa":[
 "entognatha",
 "insect"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxaPops":[
 95,

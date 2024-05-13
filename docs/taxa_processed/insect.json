@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Insect",
 "popularAncestors":[
-"hexapoda",
-"pancrustacea",
-"mandibulata subclade 1",
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "subtaxa":[
 "dicondylia",
 "jumping bristletails"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxaPops":[]
 }

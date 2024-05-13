@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":10,
-"extinct":"",
+"extinct":true,
 "name":"Uruguaysuchus",
 "parentTaxon":"notosuchia subclade 1",
 "exampleMember":"",

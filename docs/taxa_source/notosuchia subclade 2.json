@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchia subclade 2",
 "parentTaxon":"notosuchia subclade 1",
 "exampleMember":"simosuchus",

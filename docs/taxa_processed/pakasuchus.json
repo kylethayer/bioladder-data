@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":10,
-"extinct":"",
+"extinct":true,
 "name":"Pakasuchus",
 "parentTaxon":"notosuchidae subclade 3",
 "popularSubtaxa":[],
@@ -13,17 +13,17 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pakasuchus.jpg/330px-Pakasuchus.jpg",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Pakasuchus",
 "popularAncestors":[
-"notosuchidae subclade 3",
-"notosuchidae subclade 3",
-"notosuchidae subclade 3",
-"notosuchidae subclade 3"
+"amniote",
+"tetrapod",
+"animal",
+"life"
 ],
 "subtaxa":[],
 "popularAncestorPops":[
-"",
-"",
-"",
-""
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[]
 }

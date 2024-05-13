@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":10,
-"extinct":"",
+"extinct":true,
 "name":"Pakasuchus",
 "parentTaxon":"notosuchidae subclade 3",
 "exampleMember":"",

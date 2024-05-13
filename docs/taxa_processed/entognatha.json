@@ -13,17 +13,17 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/330px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Entognatha",
 "popularAncestors":[
-"hexapoda",
-"pancrustacea",
-"mandibulata subclade 1",
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "subtaxa":[],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxaPops":[]
 }

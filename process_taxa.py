@@ -102,6 +102,12 @@ AncestorPopWeight = 0.85 # For popular ancestors, weight slightly toward picking
 def getPopularity(taxonName):
     if(not taxonName): # taxonName is null 
         return ""
+    
+    if(taxonName not in taxaInfo):
+        print("********WARNING**********")
+        print("taxon " + taxonName + " does not exist (tried to look up popularity)")
+        return -100
+
     taxonInfo = taxaInfo[taxonName.lower()]
     taxonPopularity = taxonInfo["popularity"]
     if(not taxonPopularity): # popularity is ""
@@ -168,12 +174,22 @@ while len(taxaForProcessing.keys())> 0:
     # check and see if our newly calculated popAncestorNames or popAncestorPops
     # are different from what is currently saved
     if("popularAncestors" not in taxonInfo or 
-        "popularAncestorPops" not in popAncestorPopsActual):
+        "popularAncestorPops" not in taxonInfo):
         print("updated missing pop ancestors " + taxonInfo["name"] + "--------------")
         taxonInfo["popularAncestors"] = popAncestorNames
         taxonInfo["popularAncestorPops"] = popAncestorPopsActual
 
         taxaForSaving[taxonName.lower()] = True
+
+        # mark children as needing update since there was a change
+
+        if("subtaxa" in taxonInfo):
+            for subtaxonName in taxonInfo["subtaxa"]:
+                print(" --- adding to processing list " + subtaxonName.lower() + " (since "+ taxonName +" no popularAncestors, now are)")
+                print(" ---  - " + str(taxonInfo["popularAncestors"]))
+                print(" ---  - " + str(taxonInfo["popularAncestorPops"]))
+                taxaForProcessing[subtaxonName.lower()] = True
+
     elif(popAncestorNames != taxonInfo["popularAncestors"] or
             popAncestorPopsActual != taxonInfo["popularAncestorPops"] ):
         print("updated " + taxonInfo["name"] + "--------------")
@@ -279,6 +295,7 @@ while len(taxaForProcessing.keys())> 0:
     # We are done processing this taxon, mark as complete
     if("needs_to_be_processed" in taxonInfo):
         del taxonInfo["needs_to_be_processed"]
+        taxaForSaving[taxonName.lower()] = True
     if(taxonName in taxaForProcessing):
         del taxaForProcessing[taxonName]
     

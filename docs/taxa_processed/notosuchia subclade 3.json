@@ -1,13 +1,13 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchia subclade 3",
 "parentTaxon":"notosuchia subclade 2",
 "popularSubtaxa":[
 "baurusuchus",
 "notosuchus",
-"notosuchus"
+"armadillosuchus"
 ],
 "exampleMember":"armadillosuchus",
 "exampleMemberType":"Example Member",
@@ -17,10 +17,10 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Metasuchia",
 "popularAncestors":[
-"notosuchus",
-"notosuchus",
-"notosuchus",
-"notosuchus"
+"amniote",
+"tetrapod",
+"animal",
+"life"
 ],
 "subtaxa":[
 "armadillosuchus",
@@ -28,10 +28,10 @@
 "notosuchidae"
 ],
 "popularAncestorPops":[
-20,
-20,
-20,
-20
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[
 20,

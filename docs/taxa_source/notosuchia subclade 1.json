@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchia subclade 1",
-"parentTaxon":"notosuchus",
+"parentTaxon":"notosuchia",
 "exampleMember":"uruguaysuchus",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",

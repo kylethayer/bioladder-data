@@ -3,10 +3,7 @@
 
 import json, os, re
 
-####################################3
-# Make all images 320px (one of wikimedia's defaults)
-
-import re
+### Set all taxa with no popular ancestors as needs processing (there was a bug)
 
 taxaProcessedFiles = os.listdir("docs/taxa_processed")
 
@@ -20,47 +17,77 @@ for taxonFile in taxaProcessedFiles:
     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
     taxonInfo = json.loads(f.read())
 
-    if(taxonInfo["wikipediaImg"]):
-        wikiImg = taxonInfo["wikipediaImg"]
-        oldWikiImg = wikiImg
-        wikiImg = re.sub(r'\d+px-', "330px-", wikiImg)
-        taxonInfo["wikipediaImg"] = wikiImg
+    if(taxonInfo["name"] != "Life"):
+        if("popularAncestors" not in taxonInfo or
+           "life" not in taxonInfo["popularAncestors"]):
+            
+            taxonInfo["needs_to_be_processed"] = True
 
-        if(wikiImg != oldWikiImg):
-
-            with open("docs/taxa_processed/" + taxonFile, 'w', encoding="utf-8") as f:
-                #print("saving updated image to " + taxonFile)
-                json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
-        else:
-            if("330px" not in oldWikiImg):
-                print("Failed to update taxon " + taxonFile)
-                print("wiki image " + oldWikiImg)
-
-counter = 0
-for taxonFile in taxaProcessedFiles:
+            print("saving taxon as needing to be processed " + taxonFile)
     
-    if(counter % 1000 == 0):
-        print("copying over info for taxon " + taxonFile)
-    counter += 1
-
-    f = open("docs/taxa_source/" + taxonFile, encoding="utf-8")
-    taxonInfo = json.loads(f.read())
-
-    if(taxonInfo["wikipediaImg"]):
-        wikiImg = taxonInfo["wikipediaImg"]
-        oldWikiImg = wikiImg
-        wikiImg = re.sub(r'\d+px-', "330px-", wikiImg)
-        taxonInfo["wikipediaImg"] = wikiImg
-
-        if(wikiImg != oldWikiImg):
-
-            with open("docs/taxa_source/" + taxonFile, 'w', encoding="utf-8") as f:
-                #print("saving updated image to " + taxonFile)
+            with open("docs/taxa_processed/" + taxonFile, 'w', encoding="utf-8") as f:
+                print("saving taxon as needing to be processed " + taxonFile)
                 json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
-        else:
-            if("330px" not in oldWikiImg):
-                print("Failed to update taxon " + taxonFile)
-                print("wiki image " + oldWikiImg)
+       
+
+####################################3
+# Make all images 320px (one of wikimedia's defaults)
+
+# import re
+
+# taxaProcessedFiles = os.listdir("docs/taxa_processed")
+
+# counter = 0
+# for taxonFile in taxaProcessedFiles:
+    
+#     if(counter % 1000 == 0):
+#         print("copying over info for taxon " + taxonFile)
+#     counter += 1
+
+#     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
+#     taxonInfo = json.loads(f.read())
+
+#     if(taxonInfo["wikipediaImg"]):
+#         wikiImg = taxonInfo["wikipediaImg"]
+#         oldWikiImg = wikiImg
+#         wikiImg = re.sub(r'\d+px-', "330px-", wikiImg)
+#         taxonInfo["wikipediaImg"] = wikiImg
+
+#         if(wikiImg != oldWikiImg):
+
+#             with open("docs/taxa_processed/" + taxonFile, 'w', encoding="utf-8") as f:
+#                 #print("saving updated image to " + taxonFile)
+#                 json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+#         else:
+#             if("330px" not in oldWikiImg):
+#                 print("Failed to update taxon " + taxonFile)
+#                 print("wiki image " + oldWikiImg)
+
+# counter = 0
+# for taxonFile in taxaProcessedFiles:
+    
+#     if(counter % 1000 == 0):
+#         print("copying over info for taxon " + taxonFile)
+#     counter += 1
+
+#     f = open("docs/taxa_source/" + taxonFile, encoding="utf-8")
+#     taxonInfo = json.loads(f.read())
+
+#     if(taxonInfo["wikipediaImg"]):
+#         wikiImg = taxonInfo["wikipediaImg"]
+#         oldWikiImg = wikiImg
+#         wikiImg = re.sub(r'\d+px-', "330px-", wikiImg)
+#         taxonInfo["wikipediaImg"] = wikiImg
+
+#         if(wikiImg != oldWikiImg):
+
+#             with open("docs/taxa_source/" + taxonFile, 'w', encoding="utf-8") as f:
+#                 #print("saving updated image to " + taxonFile)
+#                 json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+#         else:
+#             if("330px" not in oldWikiImg):
+#                 print("Failed to update taxon " + taxonFile)
+#                 print("wiki image " + oldWikiImg)
 
 
 ####################################3

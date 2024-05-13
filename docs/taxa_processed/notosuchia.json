@@ -5,6 +5,8 @@
 "name":"Notosuchia",
 "parentTaxon":"metasuchia",
 "popularSubtaxa":[
+"baurusuchus",
+"simosuchus",
 "araripesuchus"
 ],
 "exampleMember":"araripesuchus",
@@ -21,7 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"araripesuchus"
+"araripesuchus",
+"notosuchia subclade 1"
 ],
 "popularAncestorPops":[
 50,

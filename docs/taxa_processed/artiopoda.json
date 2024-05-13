@@ -15,16 +15,16 @@
 "squamacula"
 ],
 "popularAncestors":[
-"deuteropoda subclade 4",
-null,
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[
 "squamacula"

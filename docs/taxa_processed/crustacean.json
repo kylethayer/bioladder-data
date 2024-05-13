@@ -13,17 +13,17 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Abludomelita_obtusata.jpg/330px-Abludomelita_obtusata.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Crustacean",
 "popularAncestors":[
-"pancrustacea",
-null,
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "subtaxa":[],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxaPops":[]
 }

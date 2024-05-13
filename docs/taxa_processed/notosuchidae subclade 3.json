@@ -1,13 +1,13 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchidae subclade 3",
-"parentTaxon":"notosuchidae subclade 3",
+"parentTaxon":"notosuchidae subclade 2",
 "popularSubtaxa":[
 "adamantinasuchus",
-"yacarerani",
-"pakasuchus"
+"pakasuchus",
+"yacarerani"
 ],
 "exampleMember":"yacarerani",
 "exampleMemberType":"Example Member",
@@ -17,22 +17,21 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Notosuchidae",
 "popularAncestors":[
-"notosuchidae subclade 3",
-"notosuchidae subclade 3",
-"notosuchidae subclade 3",
-"notosuchidae subclade 3"
+"amniote",
+"tetrapod",
+"animal",
+"life"
 ],
 "subtaxa":[
 "adamantinasuchus",
-"notosuchidae subclade 3",
 "pakasuchus",
 "yacarerani"
 ],
 "popularAncestorPops":[
-"",
-"",
-"",
-""
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[
 10,

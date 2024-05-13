@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Baurusuchidae",
 "parentTaxon":"notosuchia subclade 3",
 "exampleMember":"stratiotosuchus",

@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Euthycarcinoidea",
 "subtaxa":[],
 "popularAncestors":[
-"mandibulata",
-"deuteropoda subclade 5",
-null,
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

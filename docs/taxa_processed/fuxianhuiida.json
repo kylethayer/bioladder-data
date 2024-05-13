@@ -13,16 +13,16 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Fuxianhuiida",
 "subtaxa":[],
 "popularAncestors":[
-"deuteropoda subclade 5",
-"deuteropoda subclade 4",
-"deuteropoda subclade 3",
-null
+"arthropod",
+"animal",
+"cellular life",
+"life"
 ],
 "popularAncestorPops":[
-null,
-"",
-"",
-""
+50,
+95,
+50,
+100
 ],
 "popularSubtaxa":[]
 }

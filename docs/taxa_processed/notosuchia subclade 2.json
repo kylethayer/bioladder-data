@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":"",
+"popularity":null,
+"extinct":true,
 "name":"Notosuchia subclade 2",
 "parentTaxon":"notosuchia subclade 1",
 "popularSubtaxa":[
@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Metasuchia",
 "popularAncestors":[
-"notosuchus",
-"notosuchus",
-"notosuchus",
-"notosuchus"
+"amniote",
+"tetrapod",
+"animal",
+"life"
 ],
 "subtaxa":[
 "notosuchia subclade 3",
 "simosuchus"
 ],
 "popularAncestorPops":[
-20,
-20,
-20,
-20
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[
 20,
