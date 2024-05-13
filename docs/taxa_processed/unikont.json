@@ -5,9 +5,9 @@
 "name":"Unikont",
 "parentTaxon":"eukaryote",
 "popularSubtaxa":[
-"insect",
-"fungus",
-"human"
+"human",
+"animal",
+"fungus"
 ],
 "exampleMember":"chaos",
 "exampleMemberType":"Example Member",

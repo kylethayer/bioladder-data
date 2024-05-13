@@ -5,9 +5,9 @@
 "name":"Filozoa",
 "parentTaxon":"holozoa",
 "popularSubtaxa":[
-"insect",
+"human",
 "animal",
-"human"
+"insect"
 ],
 "exampleMember":"choanoflagellate",
 "exampleMemberType":"Example Member",

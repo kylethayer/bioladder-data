@@ -5,9 +5,9 @@
 "name":"Holozoa",
 "parentTaxon":"opisthokonta",
 "popularSubtaxa":[
-"insect",
+"human",
 "animal",
-"human"
+"insect"
 ],
 "exampleMember":"mesomycetozoea",
 "exampleMemberType":"Example Member",

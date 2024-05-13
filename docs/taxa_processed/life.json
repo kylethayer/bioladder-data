@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "human",
 "virus",
-"insect"
+"land plant"
 ],
 "exampleMember":"bacteria",
 "exampleMemberType":"Example Member",
@@ -28,10 +28,10 @@ null
 "virus"
 ],
 "popularAncestorPops":[
-70,
-50,
-95,
-100
+100,
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[
 95,

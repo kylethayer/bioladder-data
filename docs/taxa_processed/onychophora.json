@@ -1,15 +1,19 @@
 {
 "description":"",
-"popularity":"",
+"popularity":10,
 "extinct":false,
 "name":"Onychophora",
 "parentTaxon":"panarthropoda",
-"popularSubtaxa":[],
-"exampleMember":"",
-"exampleMemberType":"",
+"popularSubtaxa":[
+"antennacanthopodia"
+],
+"exampleMember":"antennacanthopodia",
+"exampleMemberType":"Early Member",
 "taxonomicRank":"Phylum",
 "scientificName":"",
-"otherNames":[],
+"otherNames":[
+"velvet worms"
+],
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Euperipatoides_kanangrensis_crop.jpg/330px-Euperipatoides_kanangrensis_crop.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Onychophora",
 "popularAncestors":[
@@ -18,7 +22,9 @@
 "cellular life",
 "life"
 ],
-"subtaxa":[],
+"subtaxa":[
+"antennacanthopodia"
+],
 "popularAncestorPops":[
 40,
 95,

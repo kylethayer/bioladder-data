@@ -1,0 +1,28 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Fuxianhuiida",
+"parentTaxon":"deuteropoda subclade 5",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20211117_Fuxianhuiida_Fuxianhuiids.png/330px-20211117_Fuxianhuiida_Fuxianhuiids.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Fuxianhuiida",
+"subtaxa":[],
+"popularAncestors":[
+"deuteropoda subclade 5",
+"deuteropoda subclade 4",
+"deuteropoda subclade 3",
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[]
+}

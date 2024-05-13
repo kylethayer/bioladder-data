@@ -5,9 +5,9 @@
 "name":"Animal",
 "parentTaxon":"filozoa",
 "popularSubtaxa":[
+"human",
 "insect",
-"jellyfish",
-"human"
+"jellyfish"
 ],
 "exampleMember":"parazoa",
 "exampleMemberType":"Example Member",

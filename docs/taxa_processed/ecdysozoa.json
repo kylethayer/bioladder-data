@@ -6,8 +6,8 @@
 "parentTaxon":"protostomia",
 "popularSubtaxa":[
 "insect",
-"centipede",
-"spider"
+"spider",
+"centipede"
 ],
 "exampleMember":"scalidophora",
 "exampleMemberType":"Example Member",
@@ -23,7 +23,6 @@
 "life"
 ],
 "subtaxa":[
-"loricifera",
 "nematoida",
 "panarthropoda",
 "scalidophora"

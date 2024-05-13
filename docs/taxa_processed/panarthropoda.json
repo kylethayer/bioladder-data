@@ -1,16 +1,16 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Panarthropoda",
 "parentTaxon":"ecdysozoa",
 "popularSubtaxa":[
 "insect",
-"centipede",
-"spider"
+"spider",
+"centipede"
 ],
-"exampleMember":"onychophora",
-"exampleMemberType":"Example Member",
+"exampleMember":"antennacanthopodia",
+"exampleMemberType":"Early Member",
 "taxonomicRank":"Unranked",
 "scientificName":"",
 "otherNames":[],
@@ -23,9 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"arthropod",
 "onychophora",
-"tardigrade"
+"tactopoda"
 ],
 "popularAncestorPops":[
 40,

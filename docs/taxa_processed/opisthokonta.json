@@ -5,9 +5,9 @@
 "name":"Opisthokonta",
 "parentTaxon":"unikont",
 "popularSubtaxa":[
-"insect",
+"human",
 "fungus",
-"human"
+"animal"
 ],
 "exampleMember":"nuclearia",
 "exampleMemberType":"Example Member",

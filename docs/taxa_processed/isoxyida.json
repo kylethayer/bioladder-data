@@ -1,0 +1,28 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Isoxyida",
+"parentTaxon":"deuteropoda subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Surusicaris_reconstruction.png/330px-Surusicaris_reconstruction.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Isoxyida",
+"subtaxa":[],
+"popularAncestors":[
+"deuteropoda subclade 3",
+"deuteropoda subclade 1",
+"deuteropoda",
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[]
+}

@@ -1,0 +1,36 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Deuteropoda",
+"parentTaxon":"arthropod subclade 3",
+"exampleMember":"kylinxia",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
+"subtaxa":[
+"deuteropoda subclade 1",
+"fengzhengia",
+"kylinxia"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"insect",
+"spider",
+"centipede"
+]
+}

@@ -1,9 +1,9 @@
 {
 "description":"The name Mandibulata refers to the mandibles or jaws, which are the characterizing feature of its member arthropods.",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Mandibulata",
-"parentTaxon":"arthropod",
+"parentTaxon":"deuteropoda subclade 5",
 "exampleMember":"crustacean",
 "exampleMemberType":"",
 "taxonomicRank":"Unranked",

@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Loricifera",
-"parentTaxon":"ecdysozoa",
+"parentTaxon":"scalidophora",
 "popularSubtaxa":[],
 "exampleMember":"",
 "exampleMemberType":"",

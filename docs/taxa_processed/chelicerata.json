@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Chelicerata",
-"parentTaxon":"arthropod",
+"parentTaxon":"deuteropoda subclade 2",
 "popularSubtaxa":[
 "spider",
 "horseshoe crab",
@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Chelicerate",
 "popularAncestors":[
-"arthropod",
-"animal",
-"cellular life",
-"life"
+"deuteropoda subclade 2",
+null,
+null,
+null
 ],
 "subtaxa":[
 "arachnid",
 "merostomata"
 ],
 "popularAncestorPops":[
-50,
-95,
-50,
-100
+null,
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[
 60,

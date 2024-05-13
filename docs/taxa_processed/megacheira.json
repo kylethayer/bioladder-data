@@ -1,0 +1,28 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Megacheira",
+"parentTaxon":"deuteropoda subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/20191020_Haikoucaris_ercaiensis.png/330px-20191020_Haikoucaris_ercaiensis.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Megacheira",
+"subtaxa":[],
+"popularAncestors":[
+"deuteropoda subclade 2",
+"deuteropoda subclade 1",
+null,
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[]
+}

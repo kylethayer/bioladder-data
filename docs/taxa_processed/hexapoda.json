@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Hexapoda",
-"parentTaxon":"mandibulata",
+"parentTaxon":"pancrustacea",
 "popularSubtaxa":[
 "insect",
 "mayfly",
@@ -17,20 +17,20 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Hexapoda",
 "popularAncestors":[
-"arthropod",
-"animal",
-"cellular life",
-"life"
+"pancrustacea",
+"mandibulata subclade 1",
+null,
+null
 ],
 "subtaxa":[
 "entognatha",
 "insect"
 ],
 "popularAncestorPops":[
-50,
-95,
-50,
-100
+null,
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[
 95,

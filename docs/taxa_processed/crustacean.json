@@ -3,7 +3,7 @@
 "popularity":50,
 "extinct":false,
 "name":"Crustacean",
-"parentTaxon":"mandibulata",
+"parentTaxon":"pancrustacea",
 "popularSubtaxa":[],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -13,17 +13,17 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Abludomelita_obtusata.jpg/330px-Abludomelita_obtusata.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Crustacean",
 "popularAncestors":[
-"arthropod",
-"animal",
-"cellular life",
-"life"
+"pancrustacea",
+null,
+null,
+null
 ],
 "subtaxa":[],
 "popularAncestorPops":[
-50,
-95,
-50,
-100
+null,
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[]
 }

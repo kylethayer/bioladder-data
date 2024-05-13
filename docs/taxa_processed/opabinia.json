@@ -1,0 +1,28 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Opabinia",
+"parentTaxon":"arthropod subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20191108_Opabinia_regalis.png/330px-20191108_Opabinia_regalis.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Opabinia",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[]
+}

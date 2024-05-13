@@ -3,7 +3,7 @@
 "popularity":50,
 "extinct":false,
 "name":"Crustacean",
-"parentTaxon":"mandibulata",
+"parentTaxon":"pancrustacea",
 "exampleMember":"",
 "exampleMemberType":"",
 "taxonomicRank":"Subphylum",

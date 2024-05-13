@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Chelicerata",
-"parentTaxon":"arthropod",
+"parentTaxon":"deuteropoda subclade 2",
 "exampleMember":"eurypterida",
 "exampleMemberType":"Early Member",
 "taxonomicRank":"Subphylum",

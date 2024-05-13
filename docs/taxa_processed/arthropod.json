@@ -3,13 +3,13 @@
 "popularity":50,
 "extinct":false,
 "name":"Arthropod",
-"parentTaxon":"panarthropoda",
+"parentTaxon":"tactopoda",
 "popularSubtaxa":[
 "insect",
-"centipede",
-"spider"
+"spider",
+"centipede"
 ],
-"exampleMember":"eurypterida",
+"exampleMember":"megadictyon",
 "exampleMemberType":"Early Member",
 "taxonomicRank":"Phylum",
 "scientificName":"Arthropoda",
@@ -23,8 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"chelicerata",
-"mandibulata"
+"arthropod subclade 1",
+"jianshanopodia",
+"megadictyon"
 ],
 "popularAncestorPops":[
 40,

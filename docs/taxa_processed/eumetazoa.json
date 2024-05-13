@@ -5,9 +5,9 @@
 "name":"Eumetazoa",
 "parentTaxon":"animal",
 "popularSubtaxa":[
-"insect",
+"human",
 "jellyfish",
-"human"
+"insect"
 ],
 "exampleMember":"tribrachidium",
 "exampleMemberType":"Early Member",

@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Hexapoda",
-"parentTaxon":"mandibulata",
+"parentTaxon":"pancrustacea",
 "exampleMember":"entognatha",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Subphylum",

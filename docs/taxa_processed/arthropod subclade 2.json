@@ -1,0 +1,36 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Arthropod subclade 2",
+"parentTaxon":"arthropod subclade 1",
+"exampleMember":"opabinia",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
+"subtaxa":[
+"arthropod subclade 3",
+"opabinia",
+"utaurora"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"insect",
+"spider",
+"centipede"
+]
+}

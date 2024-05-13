@@ -1,0 +1,28 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Kylinxia",
+"parentTaxon":"deuteropoda",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20210310_Kylinxia_zhangi.png/330px-20210310_Kylinxia_zhangi.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kylinxia",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod subclade 2",
+"arthropod subclade 1",
+"arthropod",
+"tactopoda subclade 3"
+],
+"popularAncestorPops":[
+"",
+"",
+50,
+""
+],
+"popularSubtaxa":[]
+}

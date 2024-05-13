@@ -1,0 +1,35 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Deuteropoda subclade 3",
+"parentTaxon":"deuteropoda subclade 1",
+"exampleMember":"isoxyida",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
+"subtaxa":[
+"deuteropoda subclade 4",
+"isoxyida"
+],
+"popularAncestors":[
+"arthropod subclade 2",
+"arthropod subclade 1",
+"arthropod",
+"tactopoda subclade 3"
+],
+"popularAncestorPops":[
+"",
+"",
+50,
+""
+],
+"popularSubtaxa":[
+"insect",
+"centipede",
+"millipede"
+]
+}

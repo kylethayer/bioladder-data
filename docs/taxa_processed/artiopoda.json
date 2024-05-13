@@ -1,0 +1,32 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"artiopoda",
+"parentTaxon":"deuteropoda subclade 4",
+"exampleMember":"",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Artiopoda",
+"subtaxa":[
+"squamacula"
+],
+"popularAncestors":[
+"deuteropoda subclade 4",
+null,
+null,
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[
+"squamacula"
+]
+}

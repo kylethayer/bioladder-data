@@ -5,8 +5,8 @@
 "name":"Bilateria",
 "parentTaxon":"eumetazoa",
 "popularSubtaxa":[
-"insect",
 "human",
+"insect",
 "dinosaur"
 ],
 "exampleMember":"bryozoa",

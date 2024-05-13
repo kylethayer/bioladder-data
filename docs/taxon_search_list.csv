@@ -205,6 +205,7 @@ Anomodontia subclade 3,,,
 Anomodontia subclade 4,,,
 Anomodontia,,,
 Anteater,,Vermilingua,70
+Antennacanthopodia,,,10
 Anteosaur,,Anteosauria,30
 Anteosauridae,,,
 Anteosaurinae subclade 1,,,
@@ -274,8 +275,12 @@ Armadillosuchus,,,10
 Armored rat,,Hoplomys gymnurus,50
 Arrhinoceratops,,,10
 Arsinoitheriidae,,,10
+Arthropod subclade 1,,,
+Arthropod subclade 2,,,
+Arthropod subclade 3,,,
 Arthropod,,Arthropoda,50
 Artiofabula,,,
+artiopoda,,,
 Arundinelleae,,,10
 Arundinoideae,,,10
 Arvicola,,,
@@ -883,6 +888,12 @@ Desmatosuchinae,,,
 Desmatosuchus,,,10
 Desmostylia,,,
 Desmostylus,,,20
+Deuteropoda subclade 1,,,
+Deuteropoda subclade 2,,,
+Deuteropoda subclade 3,,,
+Deuteropoda subclade 4,,,
+Deuteropoda subclade 5,,,
+Deuteropoda,,,
 Deuterosaurus,,,10
 Deuterostome,,Deuterostomia,30
 Diabloceratops,,,10
@@ -1143,6 +1154,7 @@ Eutherocephalia subclade 1,,,
 Eutherocephalia subclade 2,,,
 Eutherocephalia subclade 3,,,
 Eutherocephalia,,,
+Euthycarcinoidea,,,
 Eutitanosauria subclade 1,,,
 Eutitanosauria subclade 2,,,
 Eutitanosauria,,,
@@ -1160,6 +1172,7 @@ Felidae,,,
 Feliformia,"[""Feloidea""]",,50
 Felinae,,,
 Felis,,,
+Fengzhengia,,,10
 Ferae,,,
 Fereuungulata,,,
 Fern,,Polypodiopsida,60
@@ -1188,6 +1201,7 @@ Fruitafossor,,,
 Fukuiraptor,,,10
 Fungus,,Fungi,70
 Futalognkosaurus,,,10
+Fuxianhuiida,,,10
 Galago,"[""Bushbabies"", ""Bush babies"", ""or Nagapie""]",Galagidae,50
 Galbulimima,,,40
 Galea,"[""Yellow-toothed cavy""]",,50
@@ -1319,6 +1333,7 @@ Halitheriinae,,,
 Halitherium,,,10
 Hallucicrania subclade 1,,,
 Hallucicrania,,,
+Hallucigenia,,,10
 Hamster,,Cricetinae,75
 Hapalops,,,10
 Haplocanthosaurus,,,10
@@ -1471,6 +1486,7 @@ Isisfordia,,,10
 Isodectes,,,10
 Isoetaceae,,,
 Isoetales,,,
+Isoxyida,,,10
 Itasuchus,,,10
 Ixalerpeton,,,10
 Ixiolirion,,,30
@@ -1483,6 +1499,7 @@ Jarvikina,,,10
 Jellyfish,,Medusozoa,80
 Jerboa,,,60
 Jiangxisaurus,,,10
+Jianshanopodia,,,
 Jinfengopteryx,,,10
 Jingshanosaurus,,,10
 Jobaria,,,10
@@ -1516,6 +1533,7 @@ Keeled plated lizard,,Tracheloptychus,50
 Kentriodon,,,10
 Kentrosaurus,,,10
 Keratocephalus,,,10
+Kerygmachela,,,10
 Keteleeria,,,50
 Kiang,"[""ibetan wild ass"", ""khyang"", ""gorkhar""]",Equus kiang,40
 Killer whale,,Orcinus,85
@@ -1540,6 +1558,7 @@ Kritosaurus,,,10
 Kubanochoerus,,,10
 Kuehneosauridae,,,20
 Kutchicetus,,,10
+Kylinxia,,,10
 Labidosaurikos,,,10
 Labidosaurus,,,10
 Lacertibaenia,,,
@@ -1707,6 +1726,7 @@ Mammal,,Mammalia,70
 Mammaliaformes,,,
 Mammoth,,Mammuthus,60
 Manatee,,Trichechidae,60
+Mandibulata subclade 1,,,
 Mandibulata,,,
 Maned rat,"[""Crested rat""]",Lophiomys imhausi,50
 Manglietia,,,40
@@ -1741,6 +1761,8 @@ Mayaca,,,30
 Mayfly,"[""shadflies"", ""fishflies ""]",Ephemeroptera,50
 mazothairos,,,10
 Megacerops,,,10
+Megacheira,,,10
+Megadictyon,,,
 Megalonychidae,,,
 Megalonychini,,,
 Megalonyx,,,10
@@ -2040,7 +2062,8 @@ Onohippidium,,,10
 Onychodontidae subclade 1,,,
 Onychodontidae,,,
 Onychodus,,,10
-Onychophora,,,
+Onychophora,"[""velvet worms""]",,10
+Opabinia,,,10
 Ophidia,,,
 Ophthalmosauridae,,,
 Ophthalmosaurinae,,,30
@@ -2102,6 +2125,7 @@ Otter,,Lutrinae,70
 Oudenodon,,,10
 Oudenodontidae,,,
 Ouranosaurus,,,10
+Ovatiovermis,,,10
 Ovibovini,,,
 Oviraptor,,,50
 Oviraptoridae subclade 1,,,
@@ -2152,8 +2176,10 @@ Paleoparadoxia,,,10
 Paleothyris,,,10
 Palm tree,,Arecaceae,70
 Palorchestes,,,20
+Pambdelurion,,,10
 Pamparaptor,,,10
 Panarthropoda,,,
+Pancrustacea,,,
 Pandanales,,,10
 Panderichthys,,Panderichthyidae,
 Pangolin,,Pholidota,30
@@ -2216,6 +2242,7 @@ Patagonia,,,10
 Patagonykus,,,10
 Patagosaurus,,,10
 Patranomodon,,,10
+Paucipodia,,,10
 Pauropoda,,,10
 Peccary,"[""javelina"", ""skunk pig""]",Tayassuidae,50
 Pecora,,,
@@ -2460,6 +2487,7 @@ Raccoon dog,,Nyctereutes procyonoides,50
 Raccoon,,Procyon lotor,70
 Radiata,,,
 Radiatopses,,,
+Radiodonta,,,
 Rahonavis,,,10
 Rajasaurus,,,10
 Ramoceros,,,10
@@ -2732,6 +2760,7 @@ Spirula,"[""ram's horn squid""]",,40
 Springbok,,Antidorcas marsupialis,60
 Spruce,,,60
 Squalodon,,,10
+Squamacula,,,10
 Squamata,,,
 Squid,,Teuthida,70
 Stagonolepis,,,10
@@ -2819,6 +2848,7 @@ Syodon,,,10
 Syodontinae,,,
 Tacca,,,10
 Tachyoryctes,,,
+Tactopoda,,,
 Taeniolabis,,,10
 Taiwania,,,50
 Takin,,Budorcas taxicolor,50
@@ -3034,6 +3064,7 @@ Uruguaysuchus,,,10
 Utahceratops,,,10
 Utahraptor,,,50
 Utatsusaurus,,,10
+Utaurora,,,10
 Vagaceratops,,,10
 Vampire squid,,Vampyroteuthis,40
 Vanilla,,,70

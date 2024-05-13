@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Myriapod",
-"parentTaxon":"mandibulata",
+"parentTaxon":"mandibulata subclade 1",
 "exampleMember":"symphyla",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Subphylum",

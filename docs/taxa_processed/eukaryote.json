@@ -5,9 +5,9 @@
 "name":"Eukaryote",
 "parentTaxon":"cellular life",
 "popularSubtaxa":[
-"insect",
+"human",
 "land plant",
-"human"
+"animal"
 ],
 "exampleMember":"excavata",
 "exampleMemberType":"Example Member",

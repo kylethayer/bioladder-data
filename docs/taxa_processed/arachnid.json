@@ -17,10 +17,10 @@
 "wikipediaImg":"",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Arachnid",
 "popularAncestors":[
-"arthropod",
-"animal",
-"cellular life",
-"life"
+"chelicerata",
+"deuteropoda subclade 2",
+null,
+null
 ],
 "subtaxa":[
 "acariformes",
@@ -29,10 +29,10 @@
 "parasitiformes"
 ],
 "popularAncestorPops":[
-50,
-95,
-50,
-100
+null,
+"",
+"",
+""
 ],
 "popularSubtaxaPops":[
 60,

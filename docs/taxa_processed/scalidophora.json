@@ -4,7 +4,9 @@
 "extinct":false,
 "name":"Scalidophora",
 "parentTaxon":"ecdysozoa",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"loricifera"
+],
 "exampleMember":"",
 "exampleMemberType":"",
 "taxonomicRank":"Superphylum",
@@ -18,7 +20,9 @@
 "cellular life",
 "life"
 ],
-"subtaxa":[],
+"subtaxa":[
+"loricifera"
+],
 "popularAncestorPops":[
 40,
 95,

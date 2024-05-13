@@ -1,0 +1,35 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Pancrustacea",
+"parentTaxon":"mandibulata subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"subtaxa":[
+"crustacean",
+"hexapoda"
+],
+"popularAncestors":[
+"mandibulata subclade 1",
+null,
+null,
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[
+"insect",
+"crustacean",
+"mayfly"
+]
+}

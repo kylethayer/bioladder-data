@@ -1,0 +1,35 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Deuteropoda subclade 4",
+"parentTaxon":"deuteropoda subclade 3",
+"exampleMember":"squamacula",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
+"subtaxa":[
+"artiopoda",
+"deuteropoda subclade 5"
+],
+"popularAncestors":[
+"deuteropoda subclade 3",
+"deuteropoda subclade 1",
+"deuteropoda",
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[
+"insect",
+"centipede",
+"millipede"
+]
+}

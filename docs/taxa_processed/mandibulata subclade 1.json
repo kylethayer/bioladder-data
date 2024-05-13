@@ -1,0 +1,35 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Mandibulata subclade 1",
+"parentTaxon":"mandibulata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Arthropod",
+"subtaxa":[
+"myriapod",
+"pancrustacea"
+],
+"popularAncestors":[
+"mandibulata",
+"deuteropoda subclade 5",
+null,
+null
+],
+"popularAncestorPops":[
+null,
+"",
+"",
+""
+],
+"popularSubtaxa":[
+"insect",
+"centipede",
+"millipede"
+]
+}
