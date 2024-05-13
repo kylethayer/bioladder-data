@@ -1,7 +1,7 @@
 {
 "description":"",
-"popularity":"",
-"extinct":false,
+"popularity":null,
+"extinct":true,
 "name":"Coronosauria",
 "parentTaxon":"neoceratopsia subclade 2",
 "popularSubtaxa":[
