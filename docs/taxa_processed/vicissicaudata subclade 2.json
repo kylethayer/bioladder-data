@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Vicissicaudata subclade 2",
+"parentTaxon":"vicissicaudata subclade 1",
+"exampleMember":"kodymirus",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vicissicaudata",
+"subtaxa":[
+"aglaspidida",
+"kodymirus"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"aglaspis",
+"beckwithia",
+"kodymirus"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
+}

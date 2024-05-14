@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Aglaspidida",
+"parentTaxon":"vicissicaudata subclade 2",
+"exampleMember":"aglaspis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aglaspidida",
+"subtaxa":[
+"aglaspis",
+"beckwithia"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"aglaspis",
+"beckwithia"
+],
+"popularSubtaxaPops":[
+10,
+10
+],
+"popularSubtaxaSameBranch":""
+}

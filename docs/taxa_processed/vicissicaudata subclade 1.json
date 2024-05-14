@@ -1,0 +1,42 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Vicissicaudata subclade 1",
+"parentTaxon":"vicissicaudata",
+"exampleMember":"emeraldella",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vicissicaudata",
+"subtaxa":[
+"vicissicaudata subclade 2",
+"cheloniellon",
+"emeraldella"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"aglaspis",
+"cheloniellon",
+"emeraldella"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":""
+}

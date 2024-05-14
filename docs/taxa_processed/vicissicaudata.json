@@ -12,6 +12,7 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Vicissicaudata",
 "subtaxa":[
+"vicissicaudata subclade 1",
 "sidneyia"
 ],
 "popularAncestors":[
@@ -27,10 +28,14 @@
 100
 ],
 "popularSubtaxa":[
+"aglaspis",
+"cheloniellon",
 "sidneyia"
 ],
 "popularSubtaxaPops":[
+10,
+10,
 10
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,1"
 }

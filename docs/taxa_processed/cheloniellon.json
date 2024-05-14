@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Cheloniellon",
+"parentTaxon":"vicissicaudata subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/20200415_Cheloniellon_calmani.png/330px-20200415_Cheloniellon_calmani.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Cheloniellon",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}
