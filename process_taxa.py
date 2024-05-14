@@ -245,32 +245,46 @@ while len(taxaForProcessing.keys())> 0:
     # Popular Subtaxa
 
     possiblePopSubtaxa = []
-    newPopSubtaxa = []
+    newPopSubtaxaInfo = []
 
     # Add children as possibilities (self as branch)
     # Add children's popular subtaxa as possibilities (the child we got them from as the branch)
 
     for childTaxon in taxonInfo["subtaxa"]:
+        childTaxonInfo = taxaInfo[childTaxon.lower()]
+        if "popularSubtaxa" not in childTaxonInfo:
+            childTaxonInfo["popularSubtaxa"] = []
+
         newPossibleSubtaxa = {
             "name": childTaxon,
-            "popularity": taxaInfo[childTaxon.lower()]["popularity"],
-            "relative_popularity": taxaInfo[childTaxon.lower()]["popularity"], #will change as we choose children from different branches
-            "branch": childTaxon
+            "popularity":childTaxonInfo["popularity"],
+            "relative_popularity": childTaxonInfo["popularity"], #will change as we choose children from different branches
+            "branch": childTaxon,
+            "branchBuddies": childTaxonInfo["popularSubtaxa"] #all popularSubtaxa are considered branch buddies
         }
         if not newPossibleSubtaxa["relative_popularity"]: # might be ""
             newPossibleSubtaxa["relative_popularity"] = 0
         
         possiblePopSubtaxa.append(newPossibleSubtaxa)
 
-        if "popularSubtaxa" not in taxaInfo[childTaxon.lower()]:
-            taxaInfo[childTaxon.lower()]["popularSubtaxa"] = []
 
-        for childPopSubTaxon in taxaInfo[childTaxon.lower()]["popularSubtaxa"]:
+
+        sameBranchPairing = {}
+        if "popularSubtaxaSameBranch" in childTaxonInfo and childTaxonInfo["popularSubtaxaSameBranch"]:
+            sameBranchNums = childTaxonInfo["popularSubtaxaSameBranch"].split(",")
+            sameBranchPairing = {
+                childTaxonInfo["popularSubtaxa"][int(sameBranchNums[0])]: childTaxonInfo["popularSubtaxa"][int(sameBranchNums[1])],
+                childTaxonInfo["popularSubtaxa"][int(sameBranchNums[1])]: childTaxonInfo["popularSubtaxa"][int(sameBranchNums[0])]
+                }
+
+        for childPopSubTaxon in childTaxonInfo["popularSubtaxa"]:
             newPossibleSubtaxa = {
                 "name": childPopSubTaxon,
-                "popularity": taxaInfo[childPopSubTaxon.lower()]["popularity"],
-                "relative_popularity": taxaInfo[childPopSubTaxon.lower()]["popularity"], #will change as we choose children from different branches
-                "branch": childTaxon
+                "popularity": taxaInfo[childPopSubTaxon]["popularity"],
+                "relative_popularity": taxaInfo[childPopSubTaxon]["popularity"], #will change as we choose children from different branches
+                "branch": childTaxon.lower(),
+                "branchBuddies": [sameBranchPairing[childPopSubTaxon] if childPopSubTaxon in sameBranchPairing else "",
+                                  childTaxon.lower()] #the branch is also considered a close relative / branch buddy
             }
             if not newPossibleSubtaxa["relative_popularity"]: # might be ""
                 newPossibleSubtaxa["relative_popularity"] = 0
@@ -282,39 +296,75 @@ while len(taxaForProcessing.keys())> 0:
         #sort possible popSubtaxa to get most popular entry
         if(len(possiblePopSubtaxa) > 0):
             #print("presorted: " + str(possiblePopSubtaxa))
-            #TODO: ADD SECONDARY SORT to make deterministic and prevent random switching up
-            possiblePopSubtaxa = sorted(possiblePopSubtaxa, key=lambda x: x['relative_popularity'], reverse=True)
+            #sorted by relative popularity and name (should be deterministic)
+            possiblePopSubtaxa = sorted(possiblePopSubtaxa, key=lambda x: (-x['relative_popularity'], x['name'].lower()))
             #print("sorted: " + str(possiblePopSubtaxa))
 
             newPopSubtaxon = possiblePopSubtaxa.pop(0)
             #print("newPopSubtaxon 1: " + str(newPopSubtaxon))
 
-            newPopSubtaxa.append(newPopSubtaxon["name"].lower())
+            newPopSubtaxaInfo.append(newPopSubtaxon)
 
             # weigh against the remaining possiblePopSubtaxa in that same branch
             for popSubtaxon in possiblePopSubtaxa:
                 if(popSubtaxon['branch'] == newPopSubtaxon['branch']):
                     popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
+                    # further weight against any other popular subtaxon that was in the same branch within the inheretid popular descendents
+                    if(popSubtaxon["name"].lower() in newPopSubtaxon['branchBuddies']):
+                        popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
 
-    
+    newPopSubtaxaInfo = sorted(newPopSubtaxaInfo, key=lambda x: ( 100 if not x['popularity'] else -x['popularity'], x['name'].lower())) #Note: popularity negative to sort highest popularity first
+    newPopSubtaxa = list(map(lambda x: x['name'].lower(), newPopSubtaxaInfo))
+    newPopularSubtaxaPops = list(map(lambda x: x['popularity'], newPopSubtaxaInfo))
+
+    # Which two are closer in branches than the others
+    newPopSubtaxaSameBranch = ""
+    if(len(newPopSubtaxaInfo) == 3): # need 3 for this to be meaningful
+        if(newPopSubtaxaInfo[0]["branch"] == newPopSubtaxaInfo[1]["branch"]): #maybe 0 and 1
+            if(newPopSubtaxaInfo[0]["branch"] == newPopSubtaxaInfo[2]["branch"]): #all three are same, inherit
+                #ALL THREE SAME, Inherit branch info
+                branchInfo = taxaInfo[newPopSubtaxaInfo[0]["branch"]]
+                if("popularSubtaxaSameBranch" in branchInfo and branchInfo["popularSubtaxaSameBranch"] != ""): # if it's empty, we already set ours as ""
+                    branchPopSubtaxa = branchInfo["popularSubtaxa"]
+                    if(set(branchPopSubtaxa) == set(newPopSubtaxa)):
+                        inheretbranchPopSubtaxon1 = branchPopSubtaxa[int(branchInfo["popularSubtaxaSameBranch"].split(",")[0])]
+                        inheretbranchPopSubtaxon2 = branchPopSubtaxa[int(branchInfo["popularSubtaxaSameBranch"].split(",")[1])]
+                        newPopSubtaxaSameBranchNums = [newPopSubtaxa.index(inheretbranchPopSubtaxon1), newPopSubtaxa.index(inheretbranchPopSubtaxon2)]
+                        newPopSubtaxaSameBranch = ",".join(str(i) for i in sorted(newPopSubtaxaSameBranchNums))
+            else: #0 and 1 are closer!
+                newPopSubtaxaSameBranch = "0,1"
+        elif(newPopSubtaxaInfo[0]["branch"] == newPopSubtaxaInfo[2]["branch"]): # 0 and 2 (already checked for all three)
+            newPopSubtaxaSameBranch = "0,2"
+        elif(newPopSubtaxaInfo[1]["branch"] == newPopSubtaxaInfo[2]["branch"]): # 1 and 2 (already checked for all three)
+            newPopSubtaxaSameBranch = "0,2"
+        else: #all three different branches
+            newPopSubtaxaSameBranch = ""
 
     # check if there was a change that needs to be saved
     # and mark parent as needing update if there was a change
-    if("popularSubtaxa" not in taxonInfo):
+    if("popularSubtaxa" not in taxonInfo or "popularSubtaxaPops" not in taxonInfo or "popularSubtaxaSameBranch" not in taxonInfo):
         print("add missing popularSubtaxa to " + taxonInfo["name"] + "--------------")
         taxonInfo["popularSubtaxa"] = newPopSubtaxa
+        taxonInfo["popularSubtaxaPops"] = newPopularSubtaxaPops
+        taxonInfo["popularSubtaxaSameBranch"] = newPopSubtaxaSameBranch
+
         taxaForSaving[taxonName.lower()] = True
         
         # mark parent as needing update if there was a change
 
         if(taxonInfo["parentTaxon"] and taxonInfo["parentTaxon"] != ''):
             print(" --- adding to processing list '" + taxonInfo["parentTaxon"].lower() + "'")
-            taxaForProcessing[taxonInfo["parent Taxon"].lower()] = True
-    if(set(newPopSubtaxa) != set(taxonInfo["popularSubtaxa"])):
+            taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+    if(newPopSubtaxa != taxonInfo["popularSubtaxa"] 
+            or newPopularSubtaxaPops != taxonInfo["popularSubtaxaPops"]
+            or newPopSubtaxaSameBranch != taxonInfo["popularSubtaxaSameBranch"]):
         print("updated " + taxonInfo["name"] + "--------------")
         print(" popsubtaxa was " + str(taxonInfo["popularSubtaxa"]))
         print(" popsubtaxa now " + str(newPopSubtaxa))
         taxonInfo["popularSubtaxa"] = newPopSubtaxa
+        taxonInfo["popularSubtaxaPops"] = newPopularSubtaxaPops
+        taxonInfo["popularSubtaxaSameBranch"] = newPopSubtaxaSameBranch
+
         taxaForSaving[taxonName.lower()] = True
         
         # mark parent as needing update if there was a change
@@ -322,6 +372,8 @@ while len(taxaForProcessing.keys())> 0:
         if(taxonInfo["parentTaxon"] and taxonInfo["parentTaxon"] != ''):
             print(" --- adding to processing list '" + taxonInfo["parentTaxon"].lower() + ' (parent taxon)')
             taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+    
+    
     # resort subtaxa
     sortedSubtaxa = sorted(taxonInfo["subtaxa"], key=subtaxonSortKey)
 

@@ -3,31 +3,34 @@
 
 import json, os, re
 
+
+
+
 ### Set all taxa with no popular ancestors as needs processing (there was a bug)
 
-taxaProcessedFiles = os.listdir("docs/taxa_processed")
+# taxaProcessedFiles = os.listdir("docs/taxa_processed")
 
-counter = 0
-for taxonFile in taxaProcessedFiles:
+# counter = 0
+# for taxonFile in taxaProcessedFiles:
     
-    if(counter % 1000 == 0):
-        print("copying over info for taxon " + taxonFile)
-    counter += 1
+#     if(counter % 1000 == 0):
+#         print("copying over info for taxon " + taxonFile)
+#     counter += 1
 
-    f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
-    taxonInfo = json.loads(f.read())
+#     f = open("docs/taxa_processed/" + taxonFile, encoding="utf-8")
+#     taxonInfo = json.loads(f.read())
 
-    if(taxonInfo["name"] != "Life"):
-        if("popularAncestors" not in taxonInfo or
-           "life" not in taxonInfo["popularAncestors"]):
+#     if(taxonInfo["name"] != "Life"):
+#         if("popularAncestors" not in taxonInfo or
+#            "life" not in taxonInfo["popularAncestors"]):
             
-            taxonInfo["needs_to_be_processed"] = True
+#             taxonInfo["needs_to_be_processed"] = True
 
-            print("saving taxon as needing to be processed " + taxonFile)
+#             print("saving taxon as needing to be processed " + taxonFile)
     
-            with open("docs/taxa_processed/" + taxonFile, 'w', encoding="utf-8") as f:
-                print("saving taxon as needing to be processed " + taxonFile)
-                json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
+#             with open("docs/taxa_processed/" + taxonFile, 'w', encoding="utf-8") as f:
+#                 print("saving taxon as needing to be processed " + taxonFile)
+#                 json.dump(taxonInfo, f, separators=(',', ':'), indent=0, ensure_ascii=False)
        
 
 ####################################3
