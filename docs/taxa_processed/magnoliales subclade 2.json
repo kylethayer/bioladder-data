@@ -5,8 +5,8 @@
 "name":"Magnoliales subclade 2",
 "parentTaxon":"magnoliales subclade 1",
 "popularSubtaxa":[
-"eupomatia",
 "annonaceae",
+"eupomatia",
 "galbulimima"
 ],
 "exampleMember":"galbulimima",
@@ -36,5 +36,6 @@
 40,
 40,
 40
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

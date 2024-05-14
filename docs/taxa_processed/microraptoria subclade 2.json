@@ -6,8 +6,8 @@
 "parentTaxon":"microraptoria subclade 1",
 "popularSubtaxa":[
 "microraptor",
-"sinornithosaurus",
-"graciliraptor"
+"graciliraptor",
+"sinornithosaurus"
 ],
 "exampleMember":"sinornithosaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"graciliraptor",
 "microraptor",
-"sinornithosaurus"
+"sinornithosaurus",
+"graciliraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

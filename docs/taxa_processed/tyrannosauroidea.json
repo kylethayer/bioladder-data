@@ -5,9 +5,9 @@
 "name":"Tyrannosauroidea",
 "parentTaxon":"coelurosauria",
 "popularSubtaxa":[
+"tyrannosaurus",
 "dilong",
-"proceratosaurus",
-"tyrannosaurus"
+"guanlong"
 ],
 "exampleMember":"dilong",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"tyrannosauroidea subclade 1",
 "dilong",
-"proceratosauridae",
-"tyrannosauroidea subclade 1"
+"proceratosauridae"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

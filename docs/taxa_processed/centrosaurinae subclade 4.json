@@ -5,9 +5,9 @@
 "name":"Centrosaurinae subclade 4",
 "parentTaxon":"centrosaurinae subclade 3",
 "popularSubtaxa":[
-"styracosaurus",
-"spinops",
-"centrosaurus"
+"centrosaurus",
+"rubeosaurus",
+"spinops"
 ],
 "exampleMember":"rubeosaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

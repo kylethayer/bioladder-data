@@ -6,7 +6,7 @@
 "parentTaxon":"stomatophytes subclade 1",
 "popularSubtaxa":[
 "banana",
-"grass",
+"fern",
 "clubmoss"
 ],
 "exampleMember":"horneophyton",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"horneophytopsida",
-"polysporangiophyte subclade 1"
+"polysporangiophyte subclade 1",
+"horneophytopsida"
 ],
 "popularAncestorPops":[
 95,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 80,
-80
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"postosuchus",
 "luperosuchus",
 "polonosuchus",
-"postosuchus",
 "teratosaurus"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 30,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

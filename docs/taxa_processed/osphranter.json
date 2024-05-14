@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"antilopine kangaroo",
-"black wallaroo",
+"red kangaroo",
 "common wallaroo",
-"red kangaroo"
+"black wallaroo",
+"antilopine kangaroo"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-40,
-80
-]
+40
+],
+"popularSubtaxaSameBranch":""
 }

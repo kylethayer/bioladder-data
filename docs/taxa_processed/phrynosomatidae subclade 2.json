@@ -6,8 +6,8 @@
 "parentTaxon":"phrynosomatidae subclade 1",
 "popularSubtaxa":[
 "california rock lizard",
-"spiny lizard",
-"urosaurus"
+"sand lizard",
+"spiny lizard"
 ],
 "exampleMember":"california rock lizard",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"phrynosomatidae subclade 3",
-"phrynosomatidae subclade 4"
+"phrynosomatidae subclade 4",
+"phrynosomatidae subclade 3"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

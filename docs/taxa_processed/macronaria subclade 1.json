@@ -5,9 +5,9 @@
 "name":"Macronaria subclade 1",
 "parentTaxon":"macronaria",
 "popularSubtaxa":[
-"tehuelchesaurus",
+"brachiosaurus",
 "giraffatitan",
-"brachiosaurus"
+"tehuelchesaurus"
 ],
 "exampleMember":"tehuelchesaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"tehuelchesaurus",
-"titanosauriformes"
+"titanosauriformes",
+"tehuelchesaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 50,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"eutherapsida",
 "popularSubtaxa":[
 "anteosaur",
-"anteosaurus",
-"estemmenosuchus"
+"estemmenosuchus",
+"keratocephalus"
 ],
 "exampleMember":"phthinosuchus",
 "exampleMemberType":"Example Member",
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 30,
-20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

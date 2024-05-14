@@ -5,9 +5,9 @@
 "name":"Thyreophora subclade 1",
 "parentTaxon":"thyreophora",
 "popularSubtaxa":[
-"scutellosaurus",
+"stegosaurus",
 "ankylosaurus",
-"stegosaurus"
+"scutellosaurus"
 ],
 "exampleMember":"scutellosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"scutellosaurus",
-"thyreophoroidea"
+"thyreophoroidea",
+"scutellosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 70,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

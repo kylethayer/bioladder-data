@@ -5,8 +5,8 @@
 "name":"Edmontosaurini",
 "parentTaxon":"saurolophinae subclade 1",
 "popularSubtaxa":[
-"shantungosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"shantungosaurus"
 ],
 "exampleMember":"shantungosaurus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-60
-]
+60,
+10
+],
+"popularSubtaxaSameBranch":""
 }

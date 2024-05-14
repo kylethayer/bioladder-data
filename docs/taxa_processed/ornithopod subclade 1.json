@@ -6,8 +6,8 @@
 "parentTaxon":"ornithopod",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"parksosaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"gasparinisaura",
 "ornithopod subclade 2",
-"parksosaurus"
+"parksosaurus",
+"gasparinisaura"
 ],
 "popularAncestorPops":[
 30,
@@ -37,5 +37,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

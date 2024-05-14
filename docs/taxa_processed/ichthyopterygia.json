@@ -5,9 +5,9 @@
 "name":"Ichthyopterygia",
 "parentTaxon":"ichthyosauromorpha",
 "popularSubtaxa":[
-"ichthyosaur",
 "ichthyosaurus",
-"stenopterygius"
+"ichthyosaur",
+"utatsusaurus"
 ],
 "exampleMember":"utatsusaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
-30
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

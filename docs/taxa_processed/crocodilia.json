@@ -5,9 +5,9 @@
 "name":"Crocodilia",
 "parentTaxon":"eusuchia subclade 1",
 "popularSubtaxa":[
-"gharial",
 "alligator",
-"crocodile"
+"crocodile",
+"gharial"
 ],
 "exampleMember":"allodaposuchus",
 "exampleMemberType":"Early Member",
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

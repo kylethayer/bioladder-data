@@ -5,8 +5,8 @@
 "name":"Heteromyidae subclade 1",
 "parentTaxon":"heteromyidae",
 "popularSubtaxa":[
-"spiny pocket mice",
-"pocket mice"
+"pocket mice",
+"spiny pocket mice"
 ],
 "exampleMember":"pocket mice",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

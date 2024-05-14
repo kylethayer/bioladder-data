@@ -5,9 +5,9 @@
 "name":"Neoichthyosauria",
 "parentTaxon":"parvipelvia",
 "popularSubtaxa":[
-"temnodontosaurus",
 "ichthyosaurus",
-"stenopterygius"
+"ophthalmosaurinae",
+"temnodontosaurus"
 ],
 "exampleMember":"temnodontosaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 60,
-30
-]
+30,
+20
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "stegosaurus",
 "ankylosaurus",
-"mymoorapelta"
+"animantarx"
 ],
 "exampleMember":"minmi",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ankylosauria",
-"stegosauria"
+"stegosauria",
+"ankylosauria"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 70,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

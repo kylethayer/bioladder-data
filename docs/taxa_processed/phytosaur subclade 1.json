@@ -5,9 +5,9 @@
 "name":"Phytosaur subclade 1",
 "parentTaxon":"phytosaur",
 "popularSubtaxa":[
-"parasuchus",
 "angistorhinus",
-"smilosuchus"
+"machaeroprosopus",
+"parasuchus"
 ],
 "exampleMember":"parasuchus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

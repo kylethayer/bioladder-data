@@ -5,8 +5,8 @@
 "name":"Ameridelphia",
 "parentTaxon":"marsupial",
 "popularSubtaxa":[
-"shrew opossum",
-"opossum"
+"opossum",
+"shrew opossum"
 ],
 "exampleMember":"opossum",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-70
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":""
 }

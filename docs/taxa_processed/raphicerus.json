@@ -5,9 +5,9 @@
 "name":"Raphicerus",
 "parentTaxon":"neotragini",
 "popularSubtaxa":[
-"steenbok",
 "cape grysbok",
-"sharpe's grysbok"
+"sharpe's grysbok",
+"steenbok"
 ],
 "exampleMember":"steenbok",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"cape grysbok",
 "sharpe's grysbok",
-"steenbok"
+"steenbok",
+"cape grysbok"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

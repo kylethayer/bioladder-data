@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "quillwort",
 "spikemoss",
-"sigillaria"
+"lepidodendron"
 ],
 "exampleMember":"spikemoss",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lycopodiopsida subclade 4",
-"spikemoss"
+"spikemoss",
+"lycopodiopsida subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 50,
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

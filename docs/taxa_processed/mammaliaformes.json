@@ -6,8 +6,8 @@
 "parentTaxon":"prozostrodontia",
 "popularSubtaxa":[
 "human",
-"dog",
-"mammal"
+"koala",
+"platypus"
 ],
 "exampleMember":"megazostrodon",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"castorocauda",
 "mammal",
-"morganucodontidae"
+"morganucodontidae",
+"castorocauda"
 ],
 "popularAncestorPops":[
 50,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

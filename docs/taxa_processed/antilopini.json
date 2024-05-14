@@ -5,8 +5,8 @@
 "name":"Antilopini",
 "parentTaxon":"antilopinae subclade 1",
 "popularSubtaxa":[
-"springbok",
 "blackbuck",
+"springbok",
 "dibatag"
 ],
 "exampleMember":"dibatag",
@@ -38,5 +38,6 @@
 60,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

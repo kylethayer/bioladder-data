@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dryptosaurus",
-"tyrannosauroidea subclade 3"
+"tyrannosauroidea subclade 3",
+"dryptosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

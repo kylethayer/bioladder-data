@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"benthosuchus",
-"trematosauroidea"
+"trematosauroidea",
+"benthosuchus"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

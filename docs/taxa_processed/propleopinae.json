@@ -5,8 +5,8 @@
 "name":"Propleopinae",
 "parentTaxon":"hypsiprymnodontidae",
 "popularSubtaxa":[
-"propleopus",
-"ekaltadeta"
+"ekaltadeta",
+"propleopus"
 ],
 "exampleMember":"propleopus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"ekaltadeta",
-"propleopus"
+"propleopus",
+"ekaltadeta"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

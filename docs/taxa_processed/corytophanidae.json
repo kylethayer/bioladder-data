@@ -5,8 +5,8 @@
 "name":"Corytophanidae",
 "parentTaxon":"euiguana",
 "popularSubtaxa":[
-"eastern casquehead iguana",
 "basiliscus",
+"eastern casquehead iguana",
 "helmeted iguana"
 ],
 "exampleMember":"eastern casquehead iguana",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"corytophanidae subclade 1",
-"eastern casquehead iguana"
+"eastern casquehead iguana",
+"corytophanidae subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

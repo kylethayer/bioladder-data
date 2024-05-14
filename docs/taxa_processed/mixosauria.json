@@ -5,8 +5,8 @@
 "name":"Mixosauria",
 "parentTaxon":"hueneosauria",
 "popularSubtaxa":[
-"mixosaurus",
 "contectopalatus",
+"mixosaurus",
 "phalarodon"
 ],
 "exampleMember":"mixosaurus",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

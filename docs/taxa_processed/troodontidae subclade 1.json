@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"anchiornis",
 "aurornis",
-"eosinopteryx"
+"eosinopteryx",
+"anchiornis"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

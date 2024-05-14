@@ -5,9 +5,9 @@
 "name":"Hystricognathi",
 "parentTaxon":"hystricomorpha",
 "popularSubtaxa":[
+"guinea pig",
 "old world porcupine",
-"dassie rat",
-"new world porcupine"
+"blesmol"
 ],
 "exampleMember":"dassie rat",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"caviomorpha",
 "old world porcupine",
+"caviomorpha",
 "phiomorpha"
 ],
 "popularAncestorPops":[
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 70,
-50,
-70
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":""
 }

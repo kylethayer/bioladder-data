@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"hygroryza",
-"potamophila",
 "wild rice",
-"zizaniopsis"
+"potamophila",
+"zizaniopsis",
+"hygroryza"
 ],
 "popularAncestorPops":[
 80,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 65,
+30,
 30
-]
+],
+"popularSubtaxaSameBranch":""
 }

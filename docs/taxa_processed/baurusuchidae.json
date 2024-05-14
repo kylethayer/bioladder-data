@@ -5,8 +5,8 @@
 "name":"Baurusuchidae",
 "parentTaxon":"notosuchia subclade 3",
 "popularSubtaxa":[
-"stratiotosuchus",
-"baurusuchus"
+"baurusuchus",
+"stratiotosuchus"
 ],
 "exampleMember":"stratiotosuchus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

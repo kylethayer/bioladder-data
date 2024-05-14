@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"curly-tailed lizards",
-"tropidurinae"
+"tropidurinae",
+"curly-tailed lizards"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

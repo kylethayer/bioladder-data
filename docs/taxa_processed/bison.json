@@ -5,8 +5,8 @@
 "name":"Bison",
 "parentTaxon":"bovini",
 "popularSubtaxa":[
-"european bison",
-"american bison"
+"american bison",
+"european bison"
 ],
 "exampleMember":"european bison",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"american bison",
-"european bison"
+"european bison",
+"american bison"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":""
 }

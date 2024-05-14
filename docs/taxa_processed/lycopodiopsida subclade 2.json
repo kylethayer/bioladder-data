@@ -6,7 +6,7 @@
 "parentTaxon":"lycopodiopsida subclade 1",
 "popularSubtaxa":[
 "clubmoss",
-"spikemoss",
+"firmoss",
 "quillwort"
 ],
 "exampleMember":"firmoss",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lycopodiales",
-"lycopodiopsida subclade 3"
+"lycopodiopsida subclade 3",
+"lycopodiales"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

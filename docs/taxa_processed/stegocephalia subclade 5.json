@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 5",
 "parentTaxon":"stegocephalia subclade 4",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"pederpes",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

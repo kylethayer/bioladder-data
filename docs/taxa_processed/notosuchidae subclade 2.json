@@ -5,8 +5,8 @@
 "name":"Notosuchidae subclade 2",
 "parentTaxon":"notosuchidae subclade 1",
 "popularSubtaxa":[
-"mariliasuchus",
 "adamantinasuchus",
+"mariliasuchus",
 "pakasuchus"
 ],
 "exampleMember":"mariliasuchus",
@@ -33,6 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+10,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

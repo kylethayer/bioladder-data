@@ -5,8 +5,8 @@
 "name":"Macrozamiinae",
 "parentTaxon":"encephalarteae",
 "popularSubtaxa":[
-"macrozamia",
-"lepidozamia"
+"lepidozamia",
+"macrozamia"
 ],
 "exampleMember":"macrozamia",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

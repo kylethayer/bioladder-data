@@ -5,8 +5,8 @@
 "name":"Aetosaur",
 "parentTaxon":"suchia subclade 1",
 "popularSubtaxa":[
-"typothorax",
 "aetosaurus",
+"typothorax",
 "neoaetosauroides"
 ],
 "exampleMember":"aetosaurus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aetosaur subclade 1",
 "aetosaurus",
+"aetosaur subclade 1",
 "neoaetosauroides",
 "stagonolepis"
 ],
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 20,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

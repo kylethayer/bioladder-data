@@ -6,8 +6,8 @@
 "parentTaxon":"therocephalia",
 "popularSubtaxa":[
 "annatherapsidus",
-"scylacosauridae",
-"pristerognathus"
+"pristerognathus",
+"scylacosaurus"
 ],
 "exampleMember":"scylacosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eutherocephalia",
-"scylacosauridae"
+"scylacosauridae",
+"eutherocephalia"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

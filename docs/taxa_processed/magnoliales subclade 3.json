@@ -5,8 +5,8 @@
 "name":"Magnoliales subclade 3",
 "parentTaxon":"magnoliales subclade 2",
 "popularSubtaxa":[
-"eupomatia",
-"annonaceae"
+"annonaceae",
+"eupomatia"
 ],
 "exampleMember":"eupomatia",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"annonaceae",
-"eupomatia"
+"eupomatia",
+"annonaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 40,
 40
-]
+],
+"popularSubtaxaSameBranch":""
 }

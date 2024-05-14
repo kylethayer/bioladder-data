@@ -6,8 +6,8 @@
 "parentTaxon":"chainosauria",
 "popularSubtaxa":[
 "stahleckeria",
-"eodicynodon",
-"endothiodon"
+"endothiodon",
+"eodicynodon"
 ],
 "exampleMember":"eodicynodon",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+30,
 10,
-10,
-30
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Sedge",
 "parentTaxon":"cyperid clade subclade 3",
 "popularSubtaxa":[
-"papyrus sedge",
-"water chestnut"
+"water chestnut",
+"papyrus sedge"
 ],
 "exampleMember":"papyrus sedge",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"papyrus sedge",
-"water chestnut"
+"water chestnut",
+"papyrus sedge"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-55,
-60
-]
+60,
+55
+],
+"popularSubtaxaSameBranch":""
 }

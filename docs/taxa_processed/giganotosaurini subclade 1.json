@@ -5,8 +5,8 @@
 "name":"Giganotosaurini subclade 1",
 "parentTaxon":"giganotosaurini",
 "popularSubtaxa":[
-"mapusaurus",
-"giganotosaurus"
+"giganotosaurus",
+"mapusaurus"
 ],
 "exampleMember":"mapusaurus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

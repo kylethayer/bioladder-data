@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "pepper plant",
 "aristolochia",
-"wild ginger"
+"lizard's tail"
 ],
 "exampleMember":"aristolochia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aristolochiaceae",
-"piperales subclade 1"
+"piperales subclade 1",
+"aristolochiaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 55,
-55,
-70
-]
+55
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"protocetidae",
 "popularSubtaxa":[
 "rodhocetus",
-"protocetus",
-"maiacetus"
+"maiacetus",
+"protocetus"
 ],
 "exampleMember":"rodhocetus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"maiacetus",
+"rodhocetus",
 "protocetus",
-"rodhocetus"
+"maiacetus"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

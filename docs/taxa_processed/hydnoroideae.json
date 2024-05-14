@@ -5,8 +5,8 @@
 "name":"Hydnoroideae",
 "parentTaxon":"aristolochiaceae",
 "popularSubtaxa":[
-"prosopanche",
-"hydnora"
+"hydnora",
+"prosopanche"
 ],
 "exampleMember":"prosopanche",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

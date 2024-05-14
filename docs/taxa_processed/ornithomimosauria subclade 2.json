@@ -5,9 +5,9 @@
 "name":"Ornithomimosauria subclade 2",
 "parentTaxon":"ornithomimosauria subclade 1",
 "popularSubtaxa":[
-"shenzhousaurus",
 "gallimimus",
-"ornithomimus"
+"ornithomimus",
+"shenzhousaurus"
 ],
 "exampleMember":"shenzhousaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 60,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Echimyidae",
 "parentTaxon":"octodontoidea",
 "popularSubtaxa":[
-"white-tailed olalla rat",
-"colombian soft-furred spiny rat",
-"armored rat"
+"amazon bamboo rat",
+"armored rat",
+"colombian soft-furred spiny rat"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dactylomyinae",
 "echimyinae",
+"dactylomyinae",
 "eumysopinae"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -13,8 +13,8 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Palaeoptera",
 "subtaxa":[
 "mayfly",
-"odonatoptera",
-"palaeodictyopteroidea"
+"palaeodictyopteroidea",
+"odonatoptera"
 ],
 "popularAncestors":[
 "insect",
@@ -32,5 +32,11 @@
 "mayfly",
 "diaphanopterodea",
 "mazothairos"
-]
+],
+"popularSubtaxaPops":[
+50,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

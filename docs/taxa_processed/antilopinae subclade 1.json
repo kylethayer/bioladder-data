@@ -5,9 +5,9 @@
 "name":"Antilopinae subclade 1",
 "parentTaxon":"antilopinae",
 "popularSubtaxa":[
+"blackbuck",
 "springbok",
-"tibetan antelope",
-"blackbuck"
+"saiga antelope"
 ],
 "exampleMember":"tibetan antelope",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

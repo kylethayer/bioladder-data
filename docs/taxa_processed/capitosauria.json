@@ -6,8 +6,8 @@
 "parentTaxon":"stereospondyli subclade 3",
 "popularSubtaxa":[
 "cherninia",
-"wetlugasaurus",
-"cyclotosaurus"
+"cyclotosaurus",
+"wetlugasaurus"
 ],
 "exampleMember":"wetlugasaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"capitosauria subclade 1",
-"wetlugasaurus"
+"wetlugasaurus",
+"capitosauria subclade 1"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

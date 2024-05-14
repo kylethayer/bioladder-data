@@ -5,8 +5,8 @@
 "name":"Baurioidea subclade 4",
 "parentTaxon":"baurioidea subclade 3",
 "popularSubtaxa":[
-"microgomphodon",
 "ericiolacerta",
+"microgomphodon",
 "silphedosuchus"
 ],
 "exampleMember":"microgomphodon",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

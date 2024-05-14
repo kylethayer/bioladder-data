@@ -6,7 +6,7 @@
 "parentTaxon":"centrosaurinae",
 "popularSubtaxa":[
 "pachyrhinosaurus",
-"styracosaurus",
+"albertaceratops",
 "avaceratops"
 ],
 "exampleMember":"avaceratops",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"avaceratops",
-"centrosaurinae subclade 2"
+"centrosaurinae subclade 2",
+"avaceratops"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

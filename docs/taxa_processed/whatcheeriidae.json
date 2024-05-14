@@ -5,8 +5,8 @@
 "name":"Whatcheeriidae",
 "parentTaxon":"stegocephalia subclade 5",
 "popularSubtaxa":[
-"pederpes",
-"ossinodus"
+"ossinodus",
+"pederpes"
 ],
 "exampleMember":"pederpes",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"ossinodus",
-"pederpes"
+"pederpes",
+"ossinodus"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

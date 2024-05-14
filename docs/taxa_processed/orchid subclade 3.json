@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"epidendroideae",
-"orchidoideae"
+"orchidoideae",
+"epidendroideae"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

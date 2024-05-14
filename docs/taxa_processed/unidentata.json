@@ -6,8 +6,8 @@
 "parentTaxon":"bifurcata",
 "popularSubtaxa":[
 "snake",
-"skink",
-"mosasaur"
+"gila monster",
+"skink"
 ],
 "exampleMember":"skink",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 90,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

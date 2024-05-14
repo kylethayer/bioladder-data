@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"nankangia",
-"nomingia"
+"nomingia",
+"nankangia"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

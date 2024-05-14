@@ -5,9 +5,9 @@
 "name":"Neosuchia subclade 1",
 "parentTaxon":"neosuchia",
 "popularSubtaxa":[
-"gharial",
 "alligator",
-"crocodile"
+"crocodile",
+"gharial"
 ],
 "exampleMember":"bernissartia",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bernissartia",
-"eusuchia"
+"eusuchia",
+"bernissartia"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

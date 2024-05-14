@@ -6,8 +6,8 @@
 "parentTaxon":"tyrannosauroidea",
 "popularSubtaxa":[
 "tyrannosaurus",
-"raptorex",
-"dryptosaurus"
+"dryptosaurus",
+"raptorex"
 ],
 "exampleMember":"raptorex",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"raptorex",
-"tyrannosauroidea subclade 2"
+"tyrannosauroidea subclade 2",
+"raptorex"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

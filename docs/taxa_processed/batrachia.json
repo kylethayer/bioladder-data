@@ -5,8 +5,8 @@
 "name":"Batrachia",
 "parentTaxon":"lissamphibia",
 "popularSubtaxa":[
-"salamander",
 "frog",
+"salamander",
 "albanerpeton"
 ],
 "exampleMember":"albanerpeton",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"albanerpeton",
+"salientia",
 "caudata",
-"salientia"
+"albanerpeton"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
+60,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

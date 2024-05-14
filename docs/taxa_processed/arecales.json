@@ -5,8 +5,8 @@
 "name":"Arecales",
 "parentTaxon":"commelinids",
 "popularSubtaxa":[
-"dasypogonaceae",
-"palm tree"
+"palm tree",
+"dasypogonaceae"
 ],
 "exampleMember":"dasypogonaceae",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"dasypogonaceae",
-"palm tree"
+"palm tree",
+"dasypogonaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-70
-]
+70,
+10
+],
+"popularSubtaxaSameBranch":""
 }

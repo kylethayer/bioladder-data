@@ -24,10 +24,10 @@
 ],
 "subtaxa":[
 "giraffe",
-"honanotherium",
 "okapi",
 "samotherium",
-"sivatherium"
+"sivatherium",
+"honanotherium"
 ],
 "popularAncestorPops":[
 70,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

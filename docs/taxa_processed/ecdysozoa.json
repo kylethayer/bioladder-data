@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"nematoida",
 "panarthropoda",
+"nematoida",
 "scalidophora"
 ],
 "popularAncestorPops":[
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-70,
-80
-]
+80,
+55
+],
+"popularSubtaxaSameBranch":"0,1"
 }

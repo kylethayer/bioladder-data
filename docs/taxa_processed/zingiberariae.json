@@ -5,9 +5,9 @@
 "name":"Zingiberariae",
 "parentTaxon":"zingiberineae",
 "popularSubtaxa":[
-"costaceae",
+"ginger",
 "turmeric",
-"ginger"
+"costaceae"
 ],
 "exampleMember":"costaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"costaceae",
-"zingiberaceae"
+"zingiberaceae",
+"costaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
+65,
 60,
-65
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

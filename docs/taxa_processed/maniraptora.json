@@ -5,9 +5,9 @@
 "name":"Maniraptora",
 "parentTaxon":"maniraptoriformes",
 "popularSubtaxa":[
+"bird",
 "velociraptor",
-"therizinosaurus",
-"bird"
+"therizinosaurus"
 ],
 "exampleMember":"ornitholestes",
 "exampleMemberType":"Early Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"alvarezsaur",
 "chuniaoae",
-"ornitholestes",
-"therizinosaur"
+"therizinosaur",
+"alvarezsaur",
+"ornitholestes"
 ],
 "popularAncestorPops":[
 40,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+95,
 75,
-40,
-95
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

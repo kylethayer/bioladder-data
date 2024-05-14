@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"araripesuchus",
-"notosuchia subclade 1"
+"notosuchia subclade 1",
+"araripesuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,6 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
+20,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

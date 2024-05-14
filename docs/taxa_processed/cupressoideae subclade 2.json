@@ -6,8 +6,8 @@
 "parentTaxon":"cupressoideae",
 "popularSubtaxa":[
 "juniper",
-"chamaecyparis",
-"incense cedar"
+"chinese arborvitae",
+"chamaecyparis"
 ],
 "exampleMember":"chamaecyparis",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chamaecyparis",
-"cupressoideae subclade 3"
+"cupressoideae subclade 3",
+"chamaecyparis"
 ],
 "popularAncestorPops":[
 55,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

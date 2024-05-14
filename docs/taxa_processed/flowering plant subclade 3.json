@@ -6,8 +6,8 @@
 "parentTaxon":"flowering plant subclade 2",
 "popularSubtaxa":[
 "banana",
-"pepper plant",
-"grass"
+"avocado",
+"ascarina"
 ],
 "exampleMember":"sarcandra",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"flowering plant subclade 4",
-"flowering plant subclade 5"
+"flowering plant subclade 5",
+"flowering plant subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 80,
-80
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

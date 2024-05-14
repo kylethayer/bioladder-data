@@ -5,8 +5,8 @@
 "name":"Apatosaurinae",
 "parentTaxon":"diplodocid subclade 1",
 "popularSubtaxa":[
-"apatosaurus",
-"brontosaurus"
+"brontosaurus",
+"apatosaurus"
 ],
 "exampleMember":"apatosaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"apatosaurus",
-"brontosaurus"
+"brontosaurus",
+"apatosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":""
 }

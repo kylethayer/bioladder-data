@@ -5,8 +5,8 @@
 "name":"Caudata",
 "parentTaxon":"batrachia",
 "popularSubtaxa":[
-"karaurus",
-"salamander"
+"salamander",
+"karaurus"
 ],
 "exampleMember":"karaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"karaurus",
-"salamander"
+"salamander",
+"karaurus"
 ],
 "popularAncestorPops":[
 70,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-60
-]
+60,
+10
+],
+"popularSubtaxaSameBranch":""
 }

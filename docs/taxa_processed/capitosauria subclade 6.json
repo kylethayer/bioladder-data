@@ -6,8 +6,8 @@
 "parentTaxon":"capitosauria subclade 1",
 "popularSubtaxa":[
 "cyclotosaurus",
-"parotosuchus",
-"eryosuchus"
+"eryosuchus",
+"parotosuchus"
 ],
 "exampleMember":"parotosuchus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

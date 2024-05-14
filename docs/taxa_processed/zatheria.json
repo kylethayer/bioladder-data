@@ -6,8 +6,8 @@
 "parentTaxon":"cladotheria",
 "popularSubtaxa":[
 "human",
-"dog",
-"red kangaroo"
+"african elephant",
+"koala"
 ],
 "exampleMember":"vincelestes",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+85,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Flagellicaudata",
 "parentTaxon":"diplodocimorpha",
 "popularSubtaxa":[
-"amargasaurus",
 "brontosaurus",
-"diplodocus"
+"diplodocus",
+"amargasaurus"
 ],
 "exampleMember":"amphicoelias",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dicraeosauridae",
-"diplodocid"
+"diplodocid",
+"dicraeosauridae"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 80,
-60
-]
+60,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

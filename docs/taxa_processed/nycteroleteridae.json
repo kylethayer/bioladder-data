@@ -5,9 +5,9 @@
 "name":"Nycteroleteridae",
 "parentTaxon":"pareiasauromorpha",
 "popularSubtaxa":[
-"macroleter",
 "emeroleter",
-"rhipaeosaurus"
+"macroleter",
+"nycteroleter"
 ],
 "exampleMember":"macroleter",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

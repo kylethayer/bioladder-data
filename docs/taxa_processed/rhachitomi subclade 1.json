@@ -5,8 +5,8 @@
 "name":"Rhachitomi subclade 1",
 "parentTaxon":"rhachitomi",
 "popularSubtaxa":[
-"salamander",
 "frog",
+"caecilian",
 "zatrachys"
 ],
 "exampleMember":"neldasaurus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dvinosauria",
-"rhachitomi subclade 2"
+"rhachitomi subclade 2",
+"dvinosauria"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
+50,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

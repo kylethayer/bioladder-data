@@ -5,9 +5,9 @@
 "name":"Vertebrate subclade 3",
 "parentTaxon":"vertebrate subclade 2",
 "popularSubtaxa":[
-"cartilaginous fish",
 "human",
-"dinosaur"
+"frog",
+"cartilaginous fish"
 ],
 "exampleMember":"galeaspida",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"galeaspida",
-"vertebrate subclade 4"
+"vertebrate subclade 4",
+"galeaspida"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 100,
-95
-]
+85,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

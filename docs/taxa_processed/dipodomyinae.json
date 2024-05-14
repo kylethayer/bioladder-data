@@ -5,8 +5,8 @@
 "name":"Dipodomyinae",
 "parentTaxon":"heteromyidae",
 "popularSubtaxa":[
-"kangaroo rat",
-"kangaroo mouse"
+"kangaroo mouse",
+"kangaroo rat"
 ],
 "exampleMember":"kangaroo rat",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 65,
 65
-]
+],
+"popularSubtaxaSameBranch":""
 }

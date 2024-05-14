@@ -5,8 +5,8 @@
 "name":"Mastomys",
 "parentTaxon":"murinae subclade 10",
 "popularSubtaxa":[
-"southern multimammate mouse",
-"natal multimammate mouse"
+"natal multimammate mouse",
+"southern multimammate mouse"
 ],
 "exampleMember":"southern multimammate mouse",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

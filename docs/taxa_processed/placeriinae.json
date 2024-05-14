@@ -5,9 +5,9 @@
 "name":"Placeriinae",
 "parentTaxon":"stahleckeriidae",
 "popularSubtaxa":[
-"zambiasaurus",
+"moghreberia",
 "placerias",
-"moghreberia"
+"zambiasaurus"
 ],
 "exampleMember":"placerias",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"placeriinae subclade 1",
-"zambiasaurus"
+"zambiasaurus",
+"placeriinae subclade 1"
 ],
 "popularAncestorPops":[
 35,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

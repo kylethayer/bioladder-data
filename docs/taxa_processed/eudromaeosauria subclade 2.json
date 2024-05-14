@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "velociraptor",
 "utahraptor",
-"yurgovuchia"
+"adasaurus"
 ],
 "exampleMember":"velociraptor",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dromaeosaurinae",
-"velociraptorinae"
+"velociraptorinae",
+"dromaeosaurinae"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 75,
 50,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

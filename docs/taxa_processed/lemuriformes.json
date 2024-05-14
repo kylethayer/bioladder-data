@@ -6,8 +6,8 @@
 "parentTaxon":"strepsirrhini",
 "popularSubtaxa":[
 "lemur",
-"galago",
-"loris"
+"angwantibo",
+"galago"
 ],
 "exampleMember":"lemur",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

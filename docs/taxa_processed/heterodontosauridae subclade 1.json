@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"fruitadens",
-"tianyulong"
+"tianyulong",
+"fruitadens"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

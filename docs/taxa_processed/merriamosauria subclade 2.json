@@ -5,9 +5,9 @@
 "name":"Merriamosauria subclade 2",
 "parentTaxon":"merriamosauria subclade 1",
 "popularSubtaxa":[
-"shonisaurus",
 "ichthyosaurus",
-"stenopterygius"
+"ophthalmosaurinae",
+"shonisaurus"
 ],
 "exampleMember":"shonisaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 60,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

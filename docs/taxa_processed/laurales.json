@@ -5,9 +5,9 @@
 "name":"Laurales",
 "parentTaxon":"magnoliids",
 "popularSubtaxa":[
-"southern sassafras",
+"avocado",
 "cinnamon",
-"avocado"
+"gomortega"
 ],
 "exampleMember":"calycanthaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"calycanthaceae",
-"laurales subclade 1"
+"laurales subclade 1",
+"calycanthaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
+70,
 65,
-70
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

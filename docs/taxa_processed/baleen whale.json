@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"balaenidae",
-"cetotheriidae",
+"rorqual",
 "gray whale",
-"janjucetus",
-"rorqual"
+"cetotheriidae",
+"balaenidae",
+"janjucetus"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 90,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

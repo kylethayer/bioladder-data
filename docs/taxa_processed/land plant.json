@@ -6,7 +6,7 @@
 "parentTaxon":"streptophytina",
 "popularSubtaxa":[
 "banana",
-"grass",
+"moss",
 "liverworts"
 ],
 "exampleMember":"liverworts",
@@ -25,8 +25,8 @@
 "life"
 ],
 "subtaxa":[
-"liverworts",
-"stomatophytes"
+"stomatophytes",
+"liverworts"
 ],
 "popularAncestorPops":[
 "",
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 80,
-80
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

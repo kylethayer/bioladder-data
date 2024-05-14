@@ -6,8 +6,8 @@
 "parentTaxon":"stereospondylomorpha subclade 1",
 "popularSubtaxa":[
 "australerpeton",
-"peltobatrachus",
-"lapillopsis"
+"benthosuchus",
+"peltobatrachus"
 ],
 "exampleMember":"australerpeton",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"australerpeton",
-"stereospondyli"
+"stereospondyli",
+"australerpeton"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"chordate",
 "popularSubtaxa":[
 "lancelet",
-"pikaia",
-"cathaymyrus"
+"cathaymyrus",
+"pikaia"
 ],
 "exampleMember":"pikaia",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 30,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

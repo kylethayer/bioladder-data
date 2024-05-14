@@ -5,9 +5,9 @@
 "name":"Schisandraceae",
 "parentTaxon":"austrobaileyales",
 "popularSubtaxa":[
+"magnolia vine",
 "star anise",
-"kadsura",
-"magnolia vine"
+"kadsura"
 ],
 "exampleMember":"star anise",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"kadsura",
 "magnolia vine",
-"star anise"
+"star anise",
+"kadsura"
 ],
 "popularAncestorPops":[
 40,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 55,
-50,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":""
 }

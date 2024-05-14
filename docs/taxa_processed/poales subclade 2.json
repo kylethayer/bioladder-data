@@ -5,9 +5,9 @@
 "name":"Poales subclade 2",
 "parentTaxon":"poales subclade 1",
 "popularSubtaxa":[
-"grass",
 "corn",
-"asian rice"
+"grass",
+"flagellaria"
 ],
 "exampleMember":"eriocaulaceae",
 "exampleMemberType":"Example Member",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 80,
 80,
-75
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

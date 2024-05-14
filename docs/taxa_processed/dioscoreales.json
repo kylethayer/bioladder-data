@@ -5,9 +5,9 @@
 "name":"Dioscoreales",
 "parentTaxon":"monocot subclade 3",
 "popularSubtaxa":[
-"nartheciaceae",
+"yam",
 "trichopus",
-"yam"
+"nartheciaceae"
 ],
 "exampleMember":"nartheciaceae",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 40,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

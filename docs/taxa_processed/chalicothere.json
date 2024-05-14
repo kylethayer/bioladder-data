@@ -5,8 +5,8 @@
 "name":"Chalicothere",
 "parentTaxon":"tapiromorpha",
 "popularSubtaxa":[
-"moropus",
-"anisodon"
+"anisodon",
+"moropus"
 ],
 "exampleMember":"moropus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-40
-]
+40,
+10
+],
+"popularSubtaxaSameBranch":""
 }

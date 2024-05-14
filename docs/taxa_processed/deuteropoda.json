@@ -32,5 +32,11 @@
 "insect",
 "spider",
 "centipede"
-]
+],
+"popularSubtaxaPops":[
+95,
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

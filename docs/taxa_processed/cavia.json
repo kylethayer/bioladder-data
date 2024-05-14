@@ -5,9 +5,9 @@
 "name":"Cavia",
 "parentTaxon":"caviinae",
 "popularSubtaxa":[
+"guinea pig",
 "brazilian guinea pig",
-"greater guinea pig",
-"guinea pig"
+"greater guinea pig"
 ],
 "exampleMember":"brazilian guinea pig",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"brazilian guinea pig",
+"guinea pig",
 "greater guinea pig",
-"guinea pig"
+"brazilian guinea pig"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 50,
-50,
-70
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

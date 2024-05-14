@@ -5,9 +5,9 @@
 "name":"Oryzinae",
 "parentTaxon":"oryzeae",
 "popularSubtaxa":[
-"cutgrass",
+"asian rice",
 "african rice",
-"asian rice"
+"cutgrass"
 ],
 "exampleMember":"cutgrass",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cutgrass",
-"oryza"
+"oryza",
+"cutgrass"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
+75,
 55,
-75
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

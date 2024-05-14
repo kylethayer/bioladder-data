@@ -6,8 +6,8 @@
 "parentTaxon":"bilateria",
 "popularSubtaxa":[
 "insect",
-"octopus",
-"spider"
+"spider",
+"octopus"
 ],
 "exampleMember":"bryozoa",
 "exampleMemberType":"Earliest Known Member",
@@ -36,5 +36,6 @@
 95,
 80,
 75
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

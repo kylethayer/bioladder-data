@@ -5,9 +5,9 @@
 "name":"Meiolaniidae",
 "parentTaxon":"testudinata subclade 2",
 "popularSubtaxa":[
-"niolamia",
+"meiolania",
 "ninjemys",
-"meiolania"
+"niolamia"
 ],
 "exampleMember":"niolamia",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"meiolania",
 "ninjemys",
-"niolamia"
+"niolamia",
+"meiolania"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

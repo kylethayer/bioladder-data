@@ -6,8 +6,8 @@
 "parentTaxon":"pachycephalosauria",
 "popularSubtaxa":[
 "pachycephalosaurus",
-"prenocephale",
-"homalocephale"
+"homalocephale",
+"prenocephale"
 ],
 "exampleMember":"homalocephale",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"homalocephale",
-"pachycephalosauria subclade 2"
+"pachycephalosauria subclade 2",
+"homalocephale"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

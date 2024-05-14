@@ -5,8 +5,8 @@
 "name":"Burnetiidae subclade 1",
 "parentTaxon":"burnetiidae",
 "popularSubtaxa":[
-"proburnetia",
-"paraburnetia"
+"paraburnetia",
+"proburnetia"
 ],
 "exampleMember":"proburnetia",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

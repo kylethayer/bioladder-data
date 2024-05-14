@@ -5,8 +5,8 @@
 "name":"Gobiconodonta subclade 1",
 "parentTaxon":"gobiconodonta",
 "popularSubtaxa":[
-"repenomamus",
-"gobiconodon"
+"gobiconodon",
+"repenomamus"
 ],
 "exampleMember":"repenomamus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"gobiconodon",
-"repenomamus"
+"repenomamus",
+"gobiconodon"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

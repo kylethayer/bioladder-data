@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"american lion",
-"panthera subclade 4"
+"panthera subclade 4",
+"american lion"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 80,
 70,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

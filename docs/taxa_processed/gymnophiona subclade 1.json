@@ -5,8 +5,8 @@
 "name":"Gymnophiona subclade 1",
 "parentTaxon":"gymnophiona",
 "popularSubtaxa":[
-"rubricacaecilia",
-"caecilian"
+"caecilian",
+"rubricacaecilia"
 ],
 "exampleMember":"rubricacaecilia",
 "exampleMemberType":"Early Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

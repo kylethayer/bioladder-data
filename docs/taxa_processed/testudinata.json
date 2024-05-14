@@ -6,8 +6,8 @@
 "parentTaxon":"pantestudines subclade 3",
 "popularSubtaxa":[
 "turtle",
-"proganochelys",
-"kayentachelys"
+"kayentachelys",
+"proganochelys"
 ],
 "exampleMember":"proganochelys",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"proganochelys",
-"testudinata subclade 1"
+"testudinata subclade 1",
+"proganochelys"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 10,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

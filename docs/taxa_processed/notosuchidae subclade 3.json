@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"adamantinasuchus",
 "pakasuchus",
-"yacarerani"
+"yacarerani",
+"adamantinasuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -35,6 +35,8 @@
 ],
 "popularSubtaxaPops":[
 10,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

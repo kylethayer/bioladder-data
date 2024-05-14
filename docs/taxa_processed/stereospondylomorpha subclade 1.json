@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "archegosaurus",
 "australerpeton",
-"peltobatrachus"
+"benthosuchus"
 ],
 "exampleMember":"archegosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"archegosaurus",
-"stereospondylomorpha subclade 2"
+"stereospondylomorpha subclade 2",
+"archegosaurus"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

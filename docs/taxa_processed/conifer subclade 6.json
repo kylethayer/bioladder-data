@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "common yew",
 "catkin-yews",
-"plum yew"
+"new caledonia yew"
 ],
 "exampleMember":"plum yew",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cephalotaxaceae",
-"taxaceae"
+"taxaceae",
+"cephalotaxaceae"
 ],
 "popularAncestorPops":[
 55,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

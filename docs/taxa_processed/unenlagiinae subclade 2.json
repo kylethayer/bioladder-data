@@ -5,8 +5,8 @@
 "name":"Unenlagiinae subclade 2",
 "parentTaxon":"unenlagiinae",
 "popularSubtaxa":[
-"mahakala",
-"austroraptor"
+"austroraptor",
+"mahakala"
 ],
 "exampleMember":"austroraptor",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"austroraptor",
-"mahakala"
+"mahakala",
+"austroraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

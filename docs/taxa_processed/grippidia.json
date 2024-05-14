@@ -5,8 +5,8 @@
 "name":"Grippidia",
 "parentTaxon":"eoichthyosauria",
 "popularSubtaxa":[
-"grippia",
-"chaohusaurus"
+"chaohusaurus",
+"grippia"
 ],
 "exampleMember":"grippia",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"chaohusaurus",
-"grippia"
+"grippia",
+"chaohusaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -25,8 +25,8 @@
 "subtaxa":[
 "dromaeosauridae subclade 1",
 "pamparaptor",
-"pyroraptor",
-"xiaotingia"
+"xiaotingia",
+"pyroraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -38,5 +38,6 @@
 75,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

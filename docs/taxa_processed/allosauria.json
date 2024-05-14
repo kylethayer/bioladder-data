@@ -6,8 +6,8 @@
 "parentTaxon":"allosauroidea",
 "popularSubtaxa":[
 "allosaurus",
-"carcharodontosaurus",
-"giganotosaurus"
+"giganotosaurus",
+"megaraptor"
 ],
 "exampleMember":"allosaurus",
 "exampleMemberType":"Example Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 65,
-40,
-50
-]
+50,
+30
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"",
 "subtaxa":[
-"crustacean",
-"hexapoda"
+"hexapoda",
+"crustacean"
 ],
 "popularAncestors":[
 "arthropod",
@@ -30,6 +30,12 @@
 "popularSubtaxa":[
 "insect",
 "crustacean",
-"mayfly"
-]
+"jumping bristletails"
+],
+"popularSubtaxaPops":[
+95,
+50,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

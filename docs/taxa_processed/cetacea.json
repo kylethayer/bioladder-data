@@ -6,8 +6,8 @@
 "parentTaxon":"whippomorpha",
 "popularSubtaxa":[
 "blue whale",
-"sperm whale",
-"killer whale"
+"killer whale",
+"pakicetus"
 ],
 "exampleMember":"pakicetus",
 "exampleMemberType":"Earliest Known Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-65,
-85
-]
+85,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

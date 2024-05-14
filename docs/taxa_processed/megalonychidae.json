@@ -6,8 +6,8 @@
 "parentTaxon":"sloth",
 "popularSubtaxa":[
 "two-toed sloth",
-"megalonyx",
-"neocnus"
+"habanocnus",
+"megalonyx"
 ],
 "exampleMember":"neocnus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 60,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Cupressoideae subclade 7",
 "parentTaxon":"cupressoideae subclade 6",
 "popularSubtaxa":[
-"siberian carpet cypress",
-"chinese arborvitae"
+"chinese arborvitae",
+"siberian carpet cypress"
 ],
 "exampleMember":"siberian carpet cypress",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"chinese arborvitae",
-"siberian carpet cypress"
+"siberian carpet cypress",
+"chinese arborvitae"
 ],
 "popularAncestorPops":[
 55,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 55,
 55
-]
+],
+"popularSubtaxaSameBranch":""
 }

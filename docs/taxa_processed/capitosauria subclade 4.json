@@ -6,8 +6,8 @@
 "parentTaxon":"capitosauria subclade 3",
 "popularSubtaxa":[
 "cherninia",
-"paracyclotosaurus",
-"eocyclotosaurus"
+"eocyclotosaurus",
+"paracyclotosaurus"
 ],
 "exampleMember":"cherninia",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

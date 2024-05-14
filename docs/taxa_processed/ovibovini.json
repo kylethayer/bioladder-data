@@ -5,9 +5,9 @@
 "name":"Ovibovini",
 "parentTaxon":"caprinae",
 "popularSubtaxa":[
-"euceratherium",
+"muskox",
 "takin",
-"muskox"
+"euceratherium"
 ],
 "exampleMember":"euceratherium",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"euceratherium",
 "muskox",
-"takin"
+"takin",
+"euceratherium"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+70,
 50,
-70
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

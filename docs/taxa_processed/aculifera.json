@@ -5,9 +5,9 @@
 "name":"Aculifera",
 "parentTaxon":"mollusk",
 "popularSubtaxa":[
+"caudofoveata",
 "chiton",
-"solenogastres",
-"caudofoveata"
+"solenogastres"
 ],
 "exampleMember":"chiton",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aculifera subclade 1",
-"chiton"
+"chiton",
+"aculifera subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

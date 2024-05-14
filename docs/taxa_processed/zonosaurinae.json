@@ -5,8 +5,8 @@
 "name":"Zonosaurinae",
 "parentTaxon":"gerrhosauridae",
 "popularSubtaxa":[
-"madagascar girdled lizard",
-"keeled plated lizard"
+"keeled plated lizard",
+"madagascar girdled lizard"
 ],
 "exampleMember":"madagascar girdled lizard",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"whippomorpha",
 "popularSubtaxa":[
 "hippopotamus",
-"anthracotherium",
-"pygmy hippopotamus"
+"pygmy hippopotamus",
+"anthracotherium"
 ],
 "exampleMember":"anthracotherium",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"anthracotherium",
 "hippopotamus",
-"pygmy hippopotamus"
+"pygmy hippopotamus",
+"anthracotherium"
 ],
 "popularAncestorPops":[
 70,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 70,
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,7 +6,7 @@
 "parentTaxon":"eutracheophytes",
 "popularSubtaxa":[
 "banana",
-"grass",
+"pine",
 "fern"
 ],
 "exampleMember":"psilophyton",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 80,
-80
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

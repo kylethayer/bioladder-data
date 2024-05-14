@@ -5,8 +5,8 @@
 "name":"Terraiguana subclade 1",
 "parentTaxon":"terraiguana",
 "popularSubtaxa":[
-"crotaphytinae",
-"iguana"
+"iguana",
+"crotaphytinae"
 ],
 "exampleMember":"crotaphytinae",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"crotaphytinae",
-"iguana"
+"iguana",
+"crotaphytinae"
 ],
 "popularAncestorPops":[
 50,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-60
-]
+60,
+10
+],
+"popularSubtaxaSameBranch":""
 }

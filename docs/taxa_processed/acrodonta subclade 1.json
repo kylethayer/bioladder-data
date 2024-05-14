@@ -6,8 +6,8 @@
 "parentTaxon":"acrodonta",
 "popularSubtaxa":[
 "agama",
-"rhampholeon",
-"brookesia"
+"brookesia",
+"leiolepis"
 ],
 "exampleMember":"rhampholeon",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

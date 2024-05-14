@@ -6,8 +6,8 @@
 "parentTaxon":"delphinoidea",
 "popularSubtaxa":[
 "narwhal",
-"denebola",
-"beluga whale"
+"beluga whale",
+"denebola"
 ],
 "exampleMember":"denebola",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"delphinapterinae",
-"narwhal"
+"narwhal",
+"delphinapterinae"
 ],
 "popularAncestorPops":[
 60,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 65,
-10,
-60
-]
+60,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

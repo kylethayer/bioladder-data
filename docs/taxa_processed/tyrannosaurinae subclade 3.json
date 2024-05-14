@@ -5,9 +5,9 @@
 "name":"Tyrannosaurinae subclade 3",
 "parentTaxon":"tyrannosaurinae subclade 2",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "lythronax",
-"tyrannosaurus"
+"tarbosaurus"
 ],
 "exampleMember":"lythronax",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lythronax",
-"tyrannosaurinae subclade 4"
+"tyrannosaurinae subclade 4",
+"lythronax"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

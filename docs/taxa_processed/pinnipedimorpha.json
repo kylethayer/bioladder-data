@@ -6,8 +6,8 @@
 "parentTaxon":"arctoidea subclade 1",
 "popularSubtaxa":[
 "walrus",
-"earless seal",
-"eared seal"
+"eared seal",
+"earless seal"
 ],
 "exampleMember":"puijila",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

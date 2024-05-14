@@ -5,9 +5,9 @@
 "name":"Alcelaphinae",
 "parentTaxon":"aegodontia subclade 2",
 "popularSubtaxa":[
-"topi",
+"blue wildebeest",
 "hartebeest",
-"blue wildebeest"
+"topi"
 ],
 "exampleMember":"hirola",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"alcelaphus",
 "connochaetes",
+"alcelaphus",
 "damaliscus",
 "hirola"
 ],
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 60,
-60,
-70
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Caprinae",
 "parentTaxon":"aegodontia subclade 2",
 "popularSubtaxa":[
-"mountain goat",
+"sheep",
 "muskox",
-"sheep"
+"mountain goat"
 ],
 "exampleMember":"serow",
 "exampleMemberType":"First Looked Like",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "caprini",
-"naemorhedini",
-"ovibovini"
+"ovibovini",
+"naemorhedini"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-65,
+90,
 70,
-90
-]
+65
+],
+"popularSubtaxaSameBranch":""
 }

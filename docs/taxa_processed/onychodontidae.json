@@ -5,9 +5,9 @@
 "name":"Onychodontidae",
 "parentTaxon":"sarcopterygii",
 "popularSubtaxa":[
+"grossius",
 "onychodus",
-"strunius",
-"grossius"
+"strunius"
 ],
 "exampleMember":"strunius",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"onychodontidae subclade 1",
-"strunius"
+"strunius",
+"onychodontidae subclade 1"
 ],
 "popularAncestorPops":[
 60,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 10,
-"10",
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Chordate",
 "parentTaxon":"deuterostome",
 "popularSubtaxa":[
-"lancelet",
 "human",
-"dinosaur"
+"frog",
+"lancelet"
 ],
 "exampleMember":"pikaia",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cephalochordata",
-"olfactores"
+"olfactores",
+"cephalochordata"
 ],
 "popularAncestorPops":[
 30,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 100,
-95
-]
+85,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Tyrannosaurinae subclade 1",
 "parentTaxon":"tyrannosaurinae",
 "popularSubtaxa":[
-"zhuchengtyrannus",
-"teratophoneus",
-"tyrannosaurus"
+"tyrannosaurus",
+"bistahieversor",
+"teratophoneus"
 ],
 "exampleMember":"teratophoneus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"teratophoneus",
-"tyrannosaurinae subclade 2"
+"tyrannosaurinae subclade 2",
+"teratophoneus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

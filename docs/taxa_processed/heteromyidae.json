@@ -5,9 +5,9 @@
 "name":"Heteromyidae",
 "parentTaxon":"geomyoidea",
 "popularSubtaxa":[
-"spiny pocket mice",
+"kangaroo mouse",
 "kangaroo rat",
-"kangaroo mouse"
+"pocket mice"
 ],
 "exampleMember":"pocket mice",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
-65
-]
+65,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

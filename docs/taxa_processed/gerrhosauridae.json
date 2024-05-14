@@ -6,8 +6,8 @@
 "parentTaxon":"cordylomorpha",
 "popularSubtaxa":[
 "blue-black plated lizard",
-"madagascar girdled lizard",
-"keeled plated lizard"
+"keeled plated lizard",
+"madagascar girdled lizard"
 ],
 "exampleMember":"madagascar girdled lizard",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gerrhosaurinae",
-"zonosaurinae"
+"zonosaurinae",
+"gerrhosaurinae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

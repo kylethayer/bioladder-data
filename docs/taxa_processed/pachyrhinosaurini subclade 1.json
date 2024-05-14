@@ -6,8 +6,8 @@
 "parentTaxon":"pachyrhinosaurini",
 "popularSubtaxa":[
 "pachyrhinosaurus",
-"einiosaurus",
-"achelousaurus"
+"achelousaurus",
+"einiosaurus"
 ],
 "exampleMember":"einiosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"einiosaurus",
-"pachyrostra"
+"pachyrostra",
+"einiosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Saurischia",
 "parentTaxon":"dinosaur",
 "popularSubtaxa":[
-"brontosaurus",
 "bird",
-"tyrannosaurus"
+"brontosaurus",
+"brachiosaurus"
 ],
 "exampleMember":"alwalkeria",
 "exampleMemberType":"Basal Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"alwalkeria",
+"theropoda",
 "sauropodomorpha",
-"theropoda"
+"alwalkeria"
 ],
 "popularAncestorPops":[
 95,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-80,
 95,
-85
-]
+80,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

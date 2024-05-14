@@ -6,8 +6,8 @@
 "parentTaxon":"seed plants subclade 1",
 "popularSubtaxa":[
 "pine",
-"cycas",
-"redwood"
+"ginkgo",
+"bowenia"
 ],
 "exampleMember":"macroneuropteris",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-65,
-70
-]
+70,
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

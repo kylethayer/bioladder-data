@@ -5,9 +5,9 @@
 "name":"Lacertoidea",
 "parentTaxon":"episquamata",
 "popularSubtaxa":[
-"spectacled lizards",
-"teiidae",
-"lacertidae"
+"amphisbaenia",
+"lacertidae",
+"spectacled lizards"
 ],
 "exampleMember":"spectacled lizards",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lacertibaenia",
-"teiformata"
+"teiformata",
+"lacertibaenia"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

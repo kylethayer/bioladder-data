@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"thoosuchus",
-"trematosaurus"
+"trematosaurus",
+"thoosuchus"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"grass subclade 2",
 "popularSubtaxa":[
 "asian rice",
-"bamboo",
-"wheat"
+"wheat",
+"bamboo"
 ],
 "exampleMember":"ehrharteae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bop clade subclade 1",
-"oryzoideae"
+"oryzoideae",
+"bop clade subclade 1"
 ],
 "popularAncestorPops":[
 80,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 75,
-70,
-75
-]
+75,
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

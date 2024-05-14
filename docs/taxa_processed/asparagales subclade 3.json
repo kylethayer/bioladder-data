@@ -5,9 +5,9 @@
 "name":"Asparagales subclade 3",
 "parentTaxon":"asparagales subclade 1",
 "popularSubtaxa":[
-"ixiolirion",
-"garlic",
-"onion"
+"onion",
+"asparagus",
+"ixiolirion"
 ],
 "exampleMember":"ixiolirion",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"asparagales subclade 4",
-"asparagales subclade 5"
+"asparagales subclade 5",
+"asparagales subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-70,
-80
-]
+80,
+60,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

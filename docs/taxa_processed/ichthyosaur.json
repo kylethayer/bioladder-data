@@ -5,9 +5,9 @@
 "name":"Ichthyosaur",
 "parentTaxon":"eoichthyosauria",
 "popularSubtaxa":[
-"parvinatator",
 "ichthyosaurus",
-"stenopterygius"
+"ophthalmosaurinae",
+"parvinatator"
 ],
 "exampleMember":"parvinatator",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 60,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

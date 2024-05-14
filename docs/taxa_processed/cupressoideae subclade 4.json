@@ -5,8 +5,8 @@
 "name":"Cupressoideae subclade 4",
 "parentTaxon":"cupressoideae subclade 3",
 "popularSubtaxa":[
-"cupressus",
-"juniper"
+"juniper",
+"cupressus"
 ],
 "exampleMember":"cupressus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"cupressus",
-"juniper"
+"juniper",
+"cupressus"
 ],
 "popularAncestorPops":[
 55,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

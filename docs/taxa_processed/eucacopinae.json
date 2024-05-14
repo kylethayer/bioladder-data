@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cacops",
-"eucacopinae subclade 1"
+"eucacopinae subclade 1",
+"cacops"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

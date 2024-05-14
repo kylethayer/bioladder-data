@@ -5,9 +5,9 @@
 "name":"Leporidae",
 "parentTaxon":"lagomorpha",
 "popularSubtaxa":[
-"hare",
+"cottontail rabbit",
 "european rabbit",
-"cottontail rabbit"
+"hare"
 ],
 "exampleMember":"hypolagus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hypolagus",
 "leporinae",
+"hypolagus",
 "palaeolagus"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 75,
-75
-]
+75,
+70
+],
+"popularSubtaxaSameBranch":""
 }

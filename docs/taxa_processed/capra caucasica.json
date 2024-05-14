@@ -5,8 +5,8 @@
 "name":"Capra caucasica",
 "parentTaxon":"capra",
 "popularSubtaxa":[
-"west caucasian tur",
-"east caucasian tur"
+"east caucasian tur",
+"west caucasian tur"
 ],
 "exampleMember":"west caucasian tur",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

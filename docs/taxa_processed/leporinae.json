@@ -5,9 +5,9 @@
 "name":"Leporinae",
 "parentTaxon":"leporidae",
 "popularSubtaxa":[
-"hare",
+"cottontail rabbit",
 "european rabbit",
-"cottontail rabbit"
+"hare"
 ],
 "exampleMember":"hare",
 "exampleMemberType":"Example Member",
@@ -23,15 +23,15 @@
 "life"
 ],
 "subtaxa":[
-"amami rabbit",
 "cottontail rabbit",
 "european rabbit",
 "hare",
 "hispid hare",
-"nuralagus",
 "pygmy rabbit",
 "sumatran striped rabbit",
-"volcano rabbit"
+"volcano rabbit",
+"amami rabbit",
+"nuralagus"
 ],
 "popularAncestorPops":[
 70,
@@ -40,8 +40,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 75,
-75
-]
+75,
+70
+],
+"popularSubtaxaSameBranch":""
 }

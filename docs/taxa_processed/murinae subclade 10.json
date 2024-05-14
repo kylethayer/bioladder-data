@@ -5,9 +5,9 @@
 "name":"Murinae subclade 10",
 "parentTaxon":"murinae subclade 9",
 "popularSubtaxa":[
-"southern multimammate mouse",
+"dalton's mouse",
 "natal multimammate mouse",
-"dalton's mouse"
+"southern multimammate mouse"
 ],
 "exampleMember":"southern multimammate mouse",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dalton's mouse",
-"mastomys"
+"mastomys",
+"dalton's mouse"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

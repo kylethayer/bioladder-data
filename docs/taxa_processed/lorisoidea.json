@@ -5,9 +5,9 @@
 "name":"Lorisoidea",
 "parentTaxon":"lemuriformes",
 "popularSubtaxa":[
+"angwantibo",
 "galago",
-"loris",
-"angwantibo"
+"loris"
 ],
 "exampleMember":"galago",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"galago",
-"lorisidae"
+"lorisidae",
+"galago"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

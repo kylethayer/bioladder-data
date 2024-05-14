@@ -6,8 +6,8 @@
 "parentTaxon":"tyrannosauroidea subclade 3",
 "popularSubtaxa":[
 "tyrannosaurus",
-"appalachiosaurus",
-"alioramus"
+"alioramus",
+"appalachiosaurus"
 ],
 "exampleMember":"appalachiosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"appalachiosaurus",
-"tyrannosauroidea subclade 5"
+"tyrannosauroidea subclade 5",
+"appalachiosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

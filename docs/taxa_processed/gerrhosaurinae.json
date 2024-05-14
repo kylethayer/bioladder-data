@@ -6,8 +6,8 @@
 "parentTaxon":"gerrhosauridae",
 "popularSubtaxa":[
 "blue-black plated lizard",
-"gerrhosaurus",
-"short-legged seps"
+"short-legged seps",
+"gerrhosaurus"
 ],
 "exampleMember":"blue-black plated lizard",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"short-legged seps",
 "blue-black plated lizard",
-"gerrhosaurus",
-"short-legged seps"
+"gerrhosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 50,
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

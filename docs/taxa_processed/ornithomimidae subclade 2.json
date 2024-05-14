@@ -5,8 +5,8 @@
 "name":"Ornithomimidae subclade 2",
 "parentTaxon":"ornithomimidae subclade 1",
 "popularSubtaxa":[
-"struthiomimus",
-"ornithomimus"
+"ornithomimus",
+"struthiomimus"
 ],
 "exampleMember":"struthiomimus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":""
 }

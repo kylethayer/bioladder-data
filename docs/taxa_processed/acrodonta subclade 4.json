@@ -5,8 +5,8 @@
 "name":"Acrodonta subclade 4",
 "parentTaxon":"acrodonta subclade 1",
 "popularSubtaxa":[
-"rhampholeon",
-"brookesia"
+"brookesia",
+"rhampholeon"
 ],
 "exampleMember":"rhampholeon",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

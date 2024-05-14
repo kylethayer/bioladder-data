@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"anchitheriinae",
-"eohippus",
 "equinae",
+"eohippus",
 "eurohippus",
 "protorohippus",
-"sifrhippus"
+"sifrhippus",
+"anchitheriinae"
 ],
 "popularAncestorPops":[
 70,
@@ -40,5 +40,6 @@
 90,
 80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Coatis subclade 1",
 "parentTaxon":"coatis",
 "popularSubtaxa":[
-"white-nosed coati",
-"western mountain coati"
+"western mountain coati",
+"white-nosed coati"
 ],
 "exampleMember":"white-nosed coati",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":""
 }

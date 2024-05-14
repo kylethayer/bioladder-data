@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "guinea pig",
 "paca",
-"common agouti"
+"acouchi"
 ],
 "exampleMember":"paca",
 "exampleMemberType":"Example Member",
@@ -24,9 +24,9 @@
 ],
 "subtaxa":[
 "caviidae",
-"dasyproctidae",
+"paca",
 "dinomyidae",
-"paca"
+"dasyproctidae"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 60,
-50,
-70
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

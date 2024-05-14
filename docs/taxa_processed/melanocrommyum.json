@@ -5,8 +5,8 @@
 "name":"Melanocrommyum",
 "parentTaxon":"allium subclade 3",
 "popularSubtaxa":[
-"black garlic",
-"leek"
+"leek",
+"black garlic"
 ],
 "exampleMember":"black garlic",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"black garlic",
-"leek"
+"leek",
+"black garlic"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

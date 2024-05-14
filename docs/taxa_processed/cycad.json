@@ -5,9 +5,9 @@
 "name":"Cycad",
 "parentTaxon":"acrogymnospermae",
 "popularSubtaxa":[
-"cycas",
 "bowenia",
-"dioon"
+"ceratozamia",
+"cycas"
 ],
 "exampleMember":"macroneuropteris",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

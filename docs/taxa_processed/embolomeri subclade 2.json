@@ -5,9 +5,9 @@
 "name":"Embolomeri subclade 2",
 "parentTaxon":"embolomeri subclade 1",
 "popularSubtaxa":[
+"anthracosaurus",
 "archeria",
-"pholiderpeton",
-"eogyrinus"
+"pholiderpeton"
 ],
 "exampleMember":"archeria",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"pholiderpeton",
 "archeria",
-"embolomeri subclade 3",
-"pholiderpeton"
+"embolomeri subclade 3"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

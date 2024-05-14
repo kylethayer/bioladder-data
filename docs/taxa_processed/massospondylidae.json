@@ -5,9 +5,9 @@
 "name":"Massospondylidae",
 "parentTaxon":"massopoda",
 "popularSubtaxa":[
+"adeopapposaurus",
 "lufengosaurus",
-"massospondylus",
-"adeopapposaurus"
+"massospondylus"
 ],
 "exampleMember":"massospondylus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"adeopapposaurus",
 "lufengosaurus",
-"massospondylus"
+"massospondylus",
+"adeopapposaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

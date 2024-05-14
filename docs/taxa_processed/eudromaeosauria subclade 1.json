@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"deinonychus",
-"eudromaeosauria subclade 2"
+"eudromaeosauria subclade 2",
+"deinonychus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 75,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

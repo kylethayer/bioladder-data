@@ -5,9 +5,9 @@
 "name":"Diprotodontia",
 "parentTaxon":"australidelphia subclade 1",
 "popularSubtaxa":[
-"possum",
+"koala",
 "red kangaroo",
-"koala"
+"possum"
 ],
 "exampleMember":"nimbadon",
 "exampleMemberType":"Early Member",
@@ -24,10 +24,10 @@
 ],
 "subtaxa":[
 "macropodiformes",
-"marsupial lion",
-"nimbadon",
+"vombatiformes",
 "possum",
-"vombatiformes"
+"marsupial lion",
+"nimbadon"
 ],
 "popularAncestorPops":[
 70,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 80,
-80
-]
+80,
+60
+],
+"popularSubtaxaSameBranch":""
 }

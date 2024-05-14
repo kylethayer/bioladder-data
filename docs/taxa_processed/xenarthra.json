@@ -5,9 +5,9 @@
 "name":"Xenarthra",
 "parentTaxon":"exafroplacentalia",
 "popularSubtaxa":[
-"sloth",
+"anteater",
 "armadillo",
-"anteater"
+"sloth"
 ],
 "exampleMember":"neocnus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 70,
 70,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

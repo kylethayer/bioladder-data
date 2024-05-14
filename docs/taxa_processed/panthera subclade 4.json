@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eurasian cave lion",
-"panthera subclade 5"
+"panthera subclade 5",
+"eurasian cave lion"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 80,
 70,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

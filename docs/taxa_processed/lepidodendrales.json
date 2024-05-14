@@ -5,8 +5,8 @@
 "name":"Lepidodendrales",
 "parentTaxon":"lycopodiopsida subclade 4",
 "popularSubtaxa":[
-"sigillaria",
-"lepidodendron"
+"lepidodendron",
+"sigillaria"
 ],
 "exampleMember":"sigillaria",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

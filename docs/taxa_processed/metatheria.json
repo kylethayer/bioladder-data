@@ -5,8 +5,8 @@
 "name":"Metatheria",
 "parentTaxon":"theria",
 "popularSubtaxa":[
-"red kangaroo",
 "koala",
+"opossum",
 "thylacosmilus"
 ],
 "exampleMember":"cladosictis",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-80,
+70,
 40
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

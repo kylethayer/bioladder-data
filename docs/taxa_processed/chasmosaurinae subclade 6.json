@@ -5,8 +5,8 @@
 "name":"Chasmosaurinae subclade 6",
 "parentTaxon":"chasmosaurinae subclade 5",
 "popularSubtaxa":[
-"vagaceratops",
-"kosmoceratops"
+"kosmoceratops",
+"vagaceratops"
 ],
 "exampleMember":"vagaceratops",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

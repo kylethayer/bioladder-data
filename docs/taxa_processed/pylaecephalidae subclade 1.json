@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"eosimops",
-"robertia"
+"robertia",
+"eosimops"
 ],
 "popularAncestorPops":[
 35,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

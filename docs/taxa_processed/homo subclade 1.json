@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"homo rhodesiensis",
 "human",
-"neanderthal"
+"neanderthal",
+"homo rhodesiensis"
 ],
 "popularAncestorPops":[
 50,
@@ -35,6 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-60
-]
+60,
+""
+],
+"popularSubtaxaSameBranch":""
 }

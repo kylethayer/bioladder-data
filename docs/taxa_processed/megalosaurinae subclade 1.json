@@ -5,8 +5,8 @@
 "name":"Megalosaurinae subclade 1",
 "parentTaxon":"megalosaurinae",
 "popularSubtaxa":[
-"torvosaurus",
 "megalosaurus",
+"torvosaurus",
 "wiehenvenator"
 ],
 "exampleMember":"torvosaurus",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

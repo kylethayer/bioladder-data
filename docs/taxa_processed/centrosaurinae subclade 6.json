@@ -5,8 +5,8 @@
 "name":"Centrosaurinae subclade 6",
 "parentTaxon":"centrosaurinae subclade 4",
 "popularSubtaxa":[
-"spinops",
-"centrosaurus"
+"centrosaurus",
+"spinops"
 ],
 "exampleMember":"spinops",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

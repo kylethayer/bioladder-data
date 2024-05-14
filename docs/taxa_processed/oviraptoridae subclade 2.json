@@ -6,8 +6,8 @@
 "parentTaxon":"oviraptoridae",
 "popularSubtaxa":[
 "oviraptor",
-"rinchenia",
-"nemegtomaia"
+"nemegtomaia",
+"citipati"
 ],
 "exampleMember":"oviraptor",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "oviraptor",
-"oviraptoridae subclade 3",
-"oviraptoridae subclade 4"
+"oviraptoridae subclade 4",
+"oviraptoridae subclade 3"
 ],
 "popularAncestorPops":[
 40,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 50,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Brachiosauridae",
 "parentTaxon":"titanosauriformes",
 "popularSubtaxa":[
-"europasaurus",
+"brachiosaurus",
 "giraffatitan",
-"brachiosaurus"
+"europasaurus"
 ],
 "exampleMember":"brachiosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brachiosauridae subclade 1",
 "brachiosaurus",
+"brachiosauridae subclade 1",
 "europasaurus"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 50,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

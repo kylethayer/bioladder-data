@@ -5,9 +5,9 @@
 "name":"Piatnitzkysauridae",
 "parentTaxon":"megalosauroidea",
 "popularSubtaxa":[
-"marshosaurus",
+"piatnitzkysaurus",
 "condorraptor",
-"piatnitzkysaurus"
+"marshosaurus"
 ],
 "exampleMember":"marshosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"marshosaurus",
-"piatnitzkysauridae subclade 1"
+"piatnitzkysauridae subclade 1",
+"marshosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

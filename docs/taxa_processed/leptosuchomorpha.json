@@ -5,8 +5,8 @@
 "name":"Leptosuchomorpha",
 "parentTaxon":"phytosauridae subclade 1",
 "popularSubtaxa":[
-"smilosuchus",
-"mystriosuchus"
+"mystriosuchus",
+"smilosuchus"
 ],
 "exampleMember":"smilosuchus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

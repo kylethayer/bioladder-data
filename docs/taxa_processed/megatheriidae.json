@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hapalops",
-"megatheriina"
+"megatheriina",
+"hapalops"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

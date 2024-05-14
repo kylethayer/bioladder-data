@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"actinocerida",
+"nautilitoidea",
 "discosorida",
 "endocerida",
-"nautilitoidea",
+"actinocerida",
 "orthoceratoidea",
 "plectronoceratoidea"
 ],
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
+55,
 10,
-10,
-55
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dolichuranus",
-"kannemeyeriiformes subclade 4"
+"kannemeyeriiformes subclade 4",
+"dolichuranus"
 ],
 "popularAncestorPops":[
 35,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+30,
 10,
-10,
-30
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

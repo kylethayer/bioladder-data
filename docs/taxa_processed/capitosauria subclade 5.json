@@ -5,8 +5,8 @@
 "name":"Capitosauria subclade 5",
 "parentTaxon":"capitosauria subclade 4",
 "popularSubtaxa":[
-"paracyclotosaurus",
-"eocyclotosaurus"
+"eocyclotosaurus",
+"paracyclotosaurus"
 ],
 "exampleMember":"paracyclotosaurus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

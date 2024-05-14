@@ -6,8 +6,8 @@
 "parentTaxon":"pinnipedimorpha",
 "popularSubtaxa":[
 "walrus",
-"earless seal",
-"eared seal"
+"eared seal",
+"earless seal"
 ],
 "exampleMember":"enaliarctidae",
 "exampleMemberType":"Early Member",
@@ -25,9 +25,9 @@
 "life"
 ],
 "subtaxa":[
+"pinniped subclade 1",
 "earless seal",
-"enaliarctidae",
-"pinniped subclade 1"
+"enaliarctidae"
 ],
 "popularAncestorPops":[
 50,
@@ -39,5 +39,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

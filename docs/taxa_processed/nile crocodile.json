@@ -13,7 +13,7 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Crocodylus_niloticus_in_Lake_Chamo_02.jpg/330px-Crocodylus_niloticus_in_Lake_Chamo_02.jpg",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Nile_crocodile",
 "popularAncestors":[
-"Crocodile",
+"crocodile",
 "amniote",
 "animal",
 "life"
@@ -25,5 +25,6 @@
 95,
 100
 ],
-"popularSubtaxaPops":[]
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Ceratopsia",
 "parentTaxon":"marginocephalia",
 "popularSubtaxa":[
-"yinlong",
+"triceratops",
 "protoceratops",
-"triceratops"
+"yinlong"
 ],
 "exampleMember":"yinlong",
 "exampleMemberType":"Early Member",
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+85,
 30,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

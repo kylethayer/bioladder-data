@@ -6,8 +6,8 @@
 "parentTaxon":"burnetiamorpha subclade 1",
 "popularSubtaxa":[
 "burnetia",
-"proburnetia",
-"paraburnetia"
+"paraburnetia",
+"proburnetia"
 ],
 "exampleMember":"burnetia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"burnetia",
-"burnetiidae subclade 1"
+"burnetiidae subclade 1",
+"burnetia"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Amaryllidaceae sl",
 "parentTaxon":"asparagales subclade 8",
 "popularSubtaxa":[
-"agapanthus",
-"garlic",
-"onion"
+"onion",
+"canada onion",
+"agapanthus"
 ],
 "exampleMember":"agapanthus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"agapanthus",
-"amaryllidaceae sl subclade 1"
+"amaryllidaceae sl subclade 1",
+"agapanthus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-70,
-80
-]
+80,
+50,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

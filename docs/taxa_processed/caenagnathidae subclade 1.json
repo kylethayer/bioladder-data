@@ -6,8 +6,8 @@
 "parentTaxon":"caenagnathidae",
 "popularSubtaxa":[
 "gigantoraptor",
-"hagryphus",
-"elmisaurus"
+"elmisaurus",
+"hagryphus"
 ],
 "exampleMember":"gigantoraptor",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"caenagnathidae subclade 2",
-"gigantoraptor"
+"gigantoraptor",
+"caenagnathidae subclade 2"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 40,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

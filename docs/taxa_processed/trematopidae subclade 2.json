@@ -5,8 +5,8 @@
 "name":"Trematopidae subclade 2",
 "parentTaxon":"trematopidae subclade 1",
 "popularSubtaxa":[
-"phonerpeton",
-"acheloma"
+"acheloma",
+"phonerpeton"
 ],
 "exampleMember":"phonerpeton",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"acheloma",
-"phonerpeton"
+"phonerpeton",
+"acheloma"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

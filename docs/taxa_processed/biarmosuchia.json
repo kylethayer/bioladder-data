@@ -5,8 +5,8 @@
 "name":"Biarmosuchia",
 "parentTaxon":"therapsida",
 "popularSubtaxa":[
-"burnetia",
 "biarmosuchus",
+"burnetia",
 "hipposaurus"
 ],
 "exampleMember":"biarmosuchus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"biarmosuchia subclade 1",
-"biarmosuchus"
+"biarmosuchus",
+"biarmosuchia subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

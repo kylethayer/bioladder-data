@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"ammonoidea",
 "coleoidea",
-"nautiloid"
+"nautiloid",
+"ammonoidea"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 75,
 70,
 55
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

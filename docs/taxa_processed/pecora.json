@@ -5,8 +5,8 @@
 "name":"Pecora",
 "parentTaxon":"ruminantia",
 "popularSubtaxa":[
-"deer",
 "sheep",
+"deer",
 "giraffe"
 ],
 "exampleMember":"leptomeryx",
@@ -26,8 +26,8 @@
 "bovid",
 "deer",
 "giraffoidea",
-"leptomeryx",
 "musk deer",
+"leptomeryx",
 "palaeomerycidae"
 ],
 "popularAncestorPops":[
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
-80,
 90,
+80,
 80
-]
+],
+"popularSubtaxaSameBranch":""
 }

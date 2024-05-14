@@ -5,9 +5,9 @@
 "name":"Alligatorinae",
 "parentTaxon":"alligatoridae",
 "popularSubtaxa":[
-"ceratosuchus",
+"alligator",
 "allognathosuchus",
-"alligator"
+"ceratosuchus"
 ],
 "exampleMember":"ceratosuchus",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

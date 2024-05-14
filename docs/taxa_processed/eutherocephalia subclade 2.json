@@ -5,9 +5,9 @@
 "name":"Eutherocephalia subclade 2",
 "parentTaxon":"eutherocephalia subclade 1",
 "popularSubtaxa":[
-"karenites",
+"ericiolacerta",
 "hofmeyria",
-"viatkosuchus"
+"ictidosuchoides"
 ],
 "exampleMember":"ictidosuchoides",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"baurioidea",
-"eutherocephalia subclade 3"
+"eutherocephalia subclade 3",
+"baurioidea"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

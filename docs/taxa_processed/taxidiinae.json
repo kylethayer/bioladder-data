@@ -5,8 +5,8 @@
 "name":"Taxidiinae",
 "parentTaxon":"mustelidae",
 "popularSubtaxa":[
-"chamitataxus",
-"american badger"
+"american badger",
+"chamitataxus"
 ],
 "exampleMember":"chamitataxus",
 "exampleMemberType":"Early Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-65
-]
+65,
+10
+],
+"popularSubtaxaSameBranch":""
 }

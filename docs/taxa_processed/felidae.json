@@ -6,8 +6,8 @@
 "parentTaxon":"feliformia",
 "popularSubtaxa":[
 "cat",
-"tiger",
-"lion"
+"lion",
+"tiger"
 ],
 "exampleMember":"pseudaelurus",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-"80",
+80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

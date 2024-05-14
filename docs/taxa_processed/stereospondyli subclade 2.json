@@ -5,9 +5,9 @@
 "name":"Stereospondyli subclade 2",
 "parentTaxon":"stereospondyli subclade 1",
 "popularSubtaxa":[
-"lydekkerina",
+"benthosuchus",
 "broomistega",
-"cherninia"
+"lydekkerina"
 ],
 "exampleMember":"lydekkerina",
 "exampleMemberType":"Example Member",
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

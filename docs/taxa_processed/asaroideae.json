@@ -5,8 +5,8 @@
 "name":"Asaroideae",
 "parentTaxon":"aristolochiaceae",
 "popularSubtaxa":[
-"saruma",
-"wild ginger"
+"wild ginger",
+"saruma"
 ],
 "exampleMember":"saruma",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"saruma",
-"wild ginger"
+"wild ginger",
+"saruma"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":""
 }

@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bradysaurus",
-"pareiasaur subclade 1"
+"pareiasaur subclade 1",
+"bradysaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 20,
 20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

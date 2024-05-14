@@ -23,14 +23,14 @@
 "life"
 ],
 "subtaxa":[
-"agile wallaby",
 "black-striped wallaby",
 "parma wallaby",
 "red-necked wallaby",
 "tammar wallaby",
-"toolache wallaby",
 "western brush wallaby",
-"whiptail wallaby"
+"whiptail wallaby",
+"agile wallaby",
+"toolache wallaby"
 ],
 "popularAncestorPops":[
 70,
@@ -42,5 +42,6 @@
 40,
 40,
 40
-]
+],
+"popularSubtaxaSameBranch":""
 }

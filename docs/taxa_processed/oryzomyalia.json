@@ -6,7 +6,7 @@
 "parentTaxon":"sigmodontinae",
 "popularSubtaxa":[
 "abrothrix",
-"hairy-tailed bolo mouse",
+"atlantic forest climbing mouse",
 "bunny rat"
 ],
 "exampleMember":"",
@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"abrothrix",
 "hairy-tailed bolo mouse",
 "phyllotini",
 "rhipidomys",
-"rice rat"
+"rice rat",
+"abrothrix"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

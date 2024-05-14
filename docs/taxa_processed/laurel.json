@@ -5,9 +5,9 @@
 "name":"Laurel",
 "parentTaxon":"laurales subclade 5",
 "popularSubtaxa":[
+"avocado",
 "cinnamon",
-"sassafras",
-"avocado"
+"sassafras"
 ],
 "exampleMember":"cinnamon",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cinnamon",
 "persea",
+"cinnamon",
 "sassafras"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 65,
-55,
-70
-]
+55
+],
+"popularSubtaxaSameBranch":""
 }

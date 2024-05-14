@@ -5,8 +5,8 @@
 "name":"Niviventer",
 "parentTaxon":"murinae subclade 4",
 "popularSubtaxa":[
-"dark-tailed tree rat",
-"chestnut white-bellied rat"
+"chestnut white-bellied rat",
+"dark-tailed tree rat"
 ],
 "exampleMember":"dark-tailed tree rat",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"chestnut white-bellied rat",
-"dark-tailed tree rat"
+"dark-tailed tree rat",
+"chestnut white-bellied rat"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

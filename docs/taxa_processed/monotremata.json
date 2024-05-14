@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"echidna",
-"platypoda"
+"platypoda",
+"echidna"
 ],
 "popularAncestorPops":[
 70,
@@ -34,6 +34,8 @@
 ],
 "popularSubtaxaPops":[
 70,
-50
-]
+50,
+""
+],
+"popularSubtaxaSameBranch":"0,2"
 }

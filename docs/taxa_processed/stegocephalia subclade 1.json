@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 1",
 "parentTaxon":"stegocephalia",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"elginerpeton",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"elginerpeton",
-"stegocephalia subclade 2"
+"stegocephalia subclade 2",
+"elginerpeton"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

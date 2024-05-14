@@ -5,9 +5,9 @@
 "name":"Parareptilia",
 "parentTaxon":"sauropsida",
 "popularSubtaxa":[
-"pareiasaur",
 "mesosaur",
-"bradysaurus"
+"pareiasaur",
+"milleretta"
 ],
 "exampleMember":"milleretta",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hallucicrania",
 "mesosaur",
+"hallucicrania",
 "millerettidae"
 ],
 "popularAncestorPops":[
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 30,
 30,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"eusauropoda subclade 2",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"mamenchisaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

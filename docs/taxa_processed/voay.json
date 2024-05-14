@@ -13,7 +13,7 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Voay.jpg/330px-Voay.jpg",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Voay",
 "popularAncestors":[
-"Crocodile",
+"crocodile",
 "amniote",
 "animal",
 "life"
@@ -25,5 +25,6 @@
 95,
 100
 ],
-"popularSubtaxaPops":[]
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
 }

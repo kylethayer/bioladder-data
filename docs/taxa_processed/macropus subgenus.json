@@ -5,8 +5,8 @@
 "name":"Macropus subgenus",
 "parentTaxon":"macropus",
 "popularSubtaxa":[
-"western grey kangaroo",
-"eastern grey kangaroo"
+"eastern grey kangaroo",
+"western grey kangaroo"
 ],
 "exampleMember":"eastern grey kangaroo",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"eastern grey kangaroo",
-"western grey kangaroo"
+"western grey kangaroo",
+"eastern grey kangaroo"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 75,
 75
-]
+],
+"popularSubtaxaSameBranch":""
 }

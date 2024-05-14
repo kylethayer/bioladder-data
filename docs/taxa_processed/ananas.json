@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"ananas ananassoides",
+"pineapple",
 "ananas bracteatus",
 "ananas lucidus",
-"ananas macrodontes",
-"pineapple"
+"ananas ananassoides",
+"ananas macrodontes"
 ],
 "popularAncestorPops":[
 40,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 75,
+50,
 40
-]
+],
+"popularSubtaxaSameBranch":""
 }

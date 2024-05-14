@@ -5,9 +5,9 @@
 "name":"Bromeliad clade",
 "parentTaxon":"poales",
 "popularSubtaxa":[
+"pineapple",
 "bur-reed",
-"typha",
-"pineapple"
+"typha"
 ],
 "exampleMember":"bur-reed",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+75,
 55,
-50,
-75
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

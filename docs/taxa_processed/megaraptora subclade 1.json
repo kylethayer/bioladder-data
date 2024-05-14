@@ -5,8 +5,8 @@
 "name":"Megaraptora subclade 1",
 "parentTaxon":"megaraptora",
 "popularSubtaxa":[
-"fukuiraptor",
-"australovenator"
+"australovenator",
+"fukuiraptor"
 ],
 "exampleMember":"fukuiraptor",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"australovenator",
-"fukuiraptor"
+"fukuiraptor",
+"australovenator"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

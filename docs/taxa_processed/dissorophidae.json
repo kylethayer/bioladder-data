@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dissorophidae subclade 1",
-"platyhystrix"
+"platyhystrix",
+"dissorophidae subclade 1"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 30,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

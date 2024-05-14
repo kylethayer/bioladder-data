@@ -6,7 +6,7 @@
 "parentTaxon":"primate",
 "popularSubtaxa":[
 "human",
-"chimpanzee",
+"new world monkey",
 "tarsier"
 ],
 "exampleMember":"necrolemur",
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+50,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

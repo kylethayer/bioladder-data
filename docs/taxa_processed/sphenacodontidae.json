@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"ctenorhachis",
-"cutleria",
 "sphenacodontinae",
-"steppesaurus"
+"cutleria",
+"steppesaurus",
+"ctenorhachis"
 ],
 "popularAncestorPops":[
 50,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 30,
-10,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

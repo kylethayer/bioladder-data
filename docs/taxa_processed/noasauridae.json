@@ -5,8 +5,8 @@
 "name":"Noasauridae",
 "parentTaxon":"abelisaur",
 "popularSubtaxa":[
-"masiakasaurus",
 "noasaurus",
+"masiakasaurus",
 "velocisaurus"
 ],
 "exampleMember":"noasaurus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"masiakasaurus",
 "noasaurus",
+"masiakasaurus",
 "velocisaurus"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

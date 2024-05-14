@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "dugong",
 "stellers sea cow",
-"halitherium"
+"eosiren"
 ],
 "exampleMember":"halitherium",
 "exampleMemberType":"Early Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "dugong",
-"halitheriinae",
-"stellers sea cow"
+"stellers sea cow",
+"halitheriinae"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 30,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

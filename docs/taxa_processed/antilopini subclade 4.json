@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

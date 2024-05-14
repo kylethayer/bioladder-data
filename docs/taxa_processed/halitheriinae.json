@@ -5,8 +5,8 @@
 "name":"Halitheriinae",
 "parentTaxon":"dugongidae",
 "popularSubtaxa":[
-"halitherium",
-"eosiren"
+"eosiren",
+"halitherium"
 ],
 "exampleMember":"halitherium",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Wild goat",
 "parentTaxon":"capra",
 "popularSubtaxa":[
+"goat",
 "bezoar ibex",
-"kri-kri",
-"goat"
+"kri-kri"
 ],
 "exampleMember":"bezoar ibex",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"bezoar ibex",
 "goat",
-"kri-kri"
+"kri-kri",
+"bezoar ibex"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

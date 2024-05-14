@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "magnolia",
 "tulip tree",
-"eupomatia"
+"annonaceae"
 ],
 "exampleMember":"myristicaceae",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-55,
 60,
+55,
 40
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

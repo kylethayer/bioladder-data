@@ -6,7 +6,7 @@
 "parentTaxon":"murinae subclade 1",
 "popularSubtaxa":[
 "mouse",
-"woodland thicket rat",
+"afroalpine vlei rat",
 "shrewlike rat"
 ],
 "exampleMember":"shrewlike rat",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"murinae subclade 6",
 "murinae subclade 9",
+"murinae subclade 6",
 "shrewlike rat"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 50,
-50,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

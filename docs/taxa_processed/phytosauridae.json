@@ -6,8 +6,8 @@
 "parentTaxon":"phytosaur subclade 1",
 "popularSubtaxa":[
 "angistorhinus",
-"smilosuchus",
-"machaeroprosopus"
+"machaeroprosopus",
+"mystriosuchus"
 ],
 "exampleMember":"angistorhinus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"angistorhinus",
-"phytosauridae subclade 1"
+"phytosauridae subclade 1",
+"angistorhinus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

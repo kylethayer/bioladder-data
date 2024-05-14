@@ -5,8 +5,8 @@
 "name":"Varanidae",
 "parentTaxon":"varanoidea",
 "popularSubtaxa":[
-"earless monitor lizard",
-"monitor lizard"
+"monitor lizard",
+"earless monitor lizard"
 ],
 "exampleMember":"earless monitor lizard",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"earless monitor lizard",
-"monitor lizard"
+"monitor lizard",
+"earless monitor lizard"
 ],
 "popularAncestorPops":[
 50,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

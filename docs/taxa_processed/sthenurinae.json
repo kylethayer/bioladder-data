@@ -5,9 +5,9 @@
 "name":"Sthenurinae",
 "parentTaxon":"macropodidae",
 "popularSubtaxa":[
+"procoptodon",
 "simosthenurus",
-"sthenurus",
-"procoptodon"
+"sthenurus"
 ],
 "exampleMember":"simosthenurus",
 "exampleMemberType":"Example Member",
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,8 +5,8 @@
 "name":"Lophotrochozoa subclade 1",
 "parentTaxon":"lophotrochozoa",
 "popularSubtaxa":[
-"entoprocta",
-"bryozoa"
+"bryozoa",
+"entoprocta"
 ],
 "exampleMember":"bryozoa",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"bryozoa",
-"entoprocta"
+"entoprocta",
+"bryozoa"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

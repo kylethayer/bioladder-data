@@ -5,9 +5,9 @@
 "name":"Tetanurae",
 "parentTaxon":"averostra",
 "popularSubtaxa":[
-"spinosaurus",
 "bird",
-"tyrannosaurus"
+"allosaurus",
+"spinosaurus"
 ],
 "exampleMember":"cryolophosaurus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"cryolophosaurus",
+"tetanurae subclade 1",
 "sinosaurus",
-"tetanurae subclade 1"
+"cryolophosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-85
-]
+65,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

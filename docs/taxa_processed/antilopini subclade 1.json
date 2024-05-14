@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"gerenuk",
-"springbok"
+"springbok",
+"gerenuk"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

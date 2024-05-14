@@ -5,8 +5,8 @@
 "name":"Pistosauria subclade 1",
 "parentTaxon":"pistosauria",
 "popularSubtaxa":[
-"augustasaurus",
-"plesiosaurs"
+"plesiosaurs",
+"augustasaurus"
 ],
 "exampleMember":"augustasaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"augustasaurus",
-"plesiosaurs"
+"plesiosaurs",
+"augustasaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

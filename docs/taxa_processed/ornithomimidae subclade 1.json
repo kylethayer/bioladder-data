@@ -6,8 +6,8 @@
 "parentTaxon":"ornithomimidae",
 "popularSubtaxa":[
 "gallimimus",
-"struthiomimus",
-"ornithomimus"
+"ornithomimus",
+"struthiomimus"
 ],
 "exampleMember":"gallimimus",
 "exampleMemberType":"Example Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 60,
-10,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

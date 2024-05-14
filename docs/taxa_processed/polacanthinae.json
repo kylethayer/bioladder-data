@@ -6,8 +6,8 @@
 "parentTaxon":"nodosauridae subclade 1",
 "popularSubtaxa":[
 "gargoyleosaurus",
-"polacanthus",
-"gastonia"
+"gastonia",
+"polacanthus"
 ],
 "exampleMember":"gargoyleosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gargoyleosaurus",
-"polacanthinae subclade 1"
+"polacanthinae subclade 1",
+"gargoyleosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"anchisauria",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"aardonyx",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aardonyx",
-"anchisauria subclade 2"
+"anchisauria subclade 2",
+"aardonyx"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

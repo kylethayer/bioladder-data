@@ -5,9 +5,9 @@
 "name":"Antilopinae",
 "parentTaxon":"aegodontia",
 "popularSubtaxa":[
-"springbok",
+"blackbuck",
 "dik-dik",
-"blackbuck"
+"beira"
 ],
 "exampleMember":"beira",
 "exampleMemberType":"Example Member",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 60,
 60,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

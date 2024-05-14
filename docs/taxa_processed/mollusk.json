@@ -5,9 +5,9 @@
 "name":"Mollusk",
 "parentTaxon":"trochozoa subclade 2",
 "popularSubtaxa":[
-"tusk shell",
 "octopus",
-"squid"
+"nautilus",
+"tusk shell"
 ],
 "exampleMember":"kimberella",
 "exampleMemberType":"Earliest Known Member",
@@ -25,8 +25,8 @@
 "life"
 ],
 "subtaxa":[
-"aculifera",
 "conchifera",
+"aculifera",
 "kimberella"
 ],
 "popularAncestorPops":[
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 75,
-70
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

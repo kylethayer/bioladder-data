@@ -6,7 +6,7 @@
 "parentTaxon":"microraptoria",
 "popularSubtaxa":[
 "microraptor",
-"sinornithosaurus",
+"graciliraptor",
 "hesperonychus"
 ],
 "exampleMember":"hesperonychus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hesperonychus",
-"microraptoria subclade 2"
+"microraptoria subclade 2",
+"hesperonychus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

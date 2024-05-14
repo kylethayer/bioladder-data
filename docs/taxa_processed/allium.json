@@ -6,8 +6,8 @@
 "parentTaxon":"allioideae",
 "popularSubtaxa":[
 "onion",
-"canada onion",
-"garlic"
+"leek",
+"canada onion"
 ],
 "exampleMember":"canada onion",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"allium subclade 1",
-"allium subclade 2"
+"allium subclade 2",
+"allium subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-70,
-80
-]
+80,
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

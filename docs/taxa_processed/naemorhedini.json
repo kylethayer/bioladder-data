@@ -6,8 +6,8 @@
 "parentTaxon":"caprinae",
 "popularSubtaxa":[
 "mountain goat",
-"goral",
-"chamois"
+"chamois",
+"goral"
 ],
 "exampleMember":"serow",
 "exampleMemberType":"First Looked Like",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"goral",
 "mountain goat",
+"goral",
 "rupicapra",
 "serow"
 ],
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

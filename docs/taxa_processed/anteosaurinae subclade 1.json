@@ -5,8 +5,8 @@
 "name":"Anteosaurinae subclade 1",
 "parentTaxon":"anteosaurinae",
 "popularSubtaxa":[
-"titanophoneus",
-"anteosaurus"
+"anteosaurus",
+"titanophoneus"
 ],
 "exampleMember":"titanophoneus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Loricata subclade 2",
 "parentTaxon":"loricata subclade 1",
 "popularSubtaxa":[
-"postosuchus",
 "alligator",
-"crocodile"
+"crocodile",
+"postosuchus"
 ],
 "exampleMember":"batrachotomus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"batrachotomus",
-"loricata subclade 3"
+"loricata subclade 3",
+"batrachotomus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 85,
-80
-]
+80,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Zingibereae",
 "parentTaxon":"zingiberoideae",
 "popularSubtaxa":[
-"turmeric",
-"ginger"
+"ginger",
+"turmeric"
 ],
 "exampleMember":"turmeric",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
-65
-]
+65,
+60
+],
+"popularSubtaxaSameBranch":""
 }

@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "walrus",
 "eared seal",
-"odobenidae"
+"imagotaria"
 ],
 "exampleMember":"eared seal",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eared seal",
-"odobenidae"
+"odobenidae",
+"eared seal"
 ],
 "popularAncestorPops":[
 50,
@@ -34,6 +34,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-60
-]
+60,
+""
+],
+"popularSubtaxaSameBranch":"0,2"
 }

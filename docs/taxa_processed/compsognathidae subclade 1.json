@@ -5,8 +5,8 @@
 "name":"Compsognathidae subclade 1",
 "parentTaxon":"compsognathidae",
 "popularSubtaxa":[
-"sinocalliopteryx",
-"huaxiagnathus"
+"huaxiagnathus",
+"sinocalliopteryx"
 ],
 "exampleMember":"sinocalliopteryx",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

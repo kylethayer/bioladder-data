@@ -6,8 +6,8 @@
 "parentTaxon":"bidentalia",
 "popularSubtaxa":[
 "aulacocephalodon",
-"oudenodon",
-"australobarbarus"
+"australobarbarus",
+"geikia"
 ],
 "exampleMember":"aulacocephalodon",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

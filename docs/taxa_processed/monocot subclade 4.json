@@ -6,7 +6,7 @@
 "parentTaxon":"monocot subclade 3",
 "popularSubtaxa":[
 "banana",
-"grass",
+"corn",
 "onion"
 ],
 "exampleMember":"liliales",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"liliales",
-"monocot subclade 5"
+"monocot subclade 5",
+"liliales"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

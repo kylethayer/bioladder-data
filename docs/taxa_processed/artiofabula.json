@@ -6,8 +6,8 @@
 "parentTaxon":"cetartiodactyla",
 "popularSubtaxa":[
 "blue whale",
-"pig",
-"sheep"
+"sheep",
+"pig"
 ],
 "exampleMember":"peccary",
 "exampleMemberType":"Example Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-85,
-90
-]
+90,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

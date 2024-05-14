@@ -5,9 +5,9 @@
 "name":"Bovid",
 "parentTaxon":"pecora",
 "popularSubtaxa":[
+"sheep",
 "cattle",
-"impala",
-"sheep"
+"impala"
 ],
 "exampleMember":"nilgai",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+90,
 85,
-65,
-90
-]
+65
+],
+"popularSubtaxaSameBranch":"0,2"
 }

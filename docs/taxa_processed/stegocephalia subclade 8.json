@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 8",
 "parentTaxon":"stegocephalia subclade 7",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"loxomma",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"loxomma",
-"tetrapod"
+"tetrapod",
+"loxomma"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

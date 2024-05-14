@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"incisivosaurus",
 "oviraptorosauria subclade 1",
+"incisivosaurus",
 "protarchaeopteryx"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+50,
 40,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

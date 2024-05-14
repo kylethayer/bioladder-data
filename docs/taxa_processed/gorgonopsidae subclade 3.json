@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"arctognathus",
-"gorgonopsidae subclade 4"
+"gorgonopsidae subclade 4",
+"arctognathus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

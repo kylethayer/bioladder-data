@@ -5,8 +5,8 @@
 "name":"Chasmosaurinae subclade 10",
 "parentTaxon":"chasmosaurinae subclade 9",
 "popularSubtaxa":[
-"torosaurus",
-"triceratops"
+"triceratops",
+"torosaurus"
 ],
 "exampleMember":"torosaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"torosaurus",
-"triceratops"
+"triceratops",
+"torosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-85
-]
+85,
+10
+],
+"popularSubtaxaSameBranch":""
 }

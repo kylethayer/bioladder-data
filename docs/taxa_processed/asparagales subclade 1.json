@@ -5,9 +5,9 @@
 "name":"Asparagales subclade 1",
 "parentTaxon":"asparagales",
 "popularSubtaxa":[
-"blandfordia",
-"garlic",
-"onion"
+"onion",
+"asparagus",
+"blandfordia"
 ],
 "exampleMember":"boryaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"asparagales subclade 2",
-"asparagales subclade 3"
+"asparagales subclade 3",
+"asparagales subclade 2"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-70,
-80
-]
+80,
+60,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

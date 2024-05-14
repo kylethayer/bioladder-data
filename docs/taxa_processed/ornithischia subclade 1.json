@@ -5,9 +5,9 @@
 "name":"Ornithischia subclade 1",
 "parentTaxon":"ornithischia",
 "popularSubtaxa":[
-"iguanodon",
 "triceratops",
-"stegosaurus"
+"stegosaurus",
+"heterodontosaurus"
 ],
 "exampleMember":"fruitadens",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-75,
 85,
-80
-]
+80,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

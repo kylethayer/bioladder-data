@@ -5,8 +5,8 @@
 "name":"Strepsicerotini subclade 5",
 "parentTaxon":"strepsicerotini subclade 4",
 "popularSubtaxa":[
-"mountain nyala",
 "bongo",
+"mountain nyala",
 "sitatunga"
 ],
 "exampleMember":"mountain nyala",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

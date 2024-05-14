@@ -6,8 +6,8 @@
 "parentTaxon":"varanopidae",
 "popularSubtaxa":[
 "aerosaurus",
-"varanops",
-"watongia"
+"varanodon",
+"varanops"
 ],
 "exampleMember":"aerosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aerosaurus",
-"varanopinae subclade 1"
+"varanopinae subclade 1",
+"aerosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

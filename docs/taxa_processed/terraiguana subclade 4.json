@@ -5,9 +5,9 @@
 "name":"Terraiguana subclade 4",
 "parentTaxon":"terraiguana subclade 3",
 "popularSubtaxa":[
-"liolaemus",
 "curly-tailed lizards",
-"stenocercus"
+"liolaemus",
+"phymaturus"
 ],
 "exampleMember":"liolaemus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

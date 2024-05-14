@@ -6,8 +6,8 @@
 "parentTaxon":"lepidosauria",
 "popularSubtaxa":[
 "tuatara",
-"gephyrosaurus",
-"brachyrhinodon"
+"brachyrhinodon",
+"gephyrosaurus"
 ],
 "exampleMember":"gephyrosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gephyrosaurus",
-"sphenodontia"
+"sphenodontia",
+"gephyrosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 10,
-10,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

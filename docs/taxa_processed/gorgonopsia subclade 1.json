@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cyonosaurus",
-"gorgonopsia subclade 2"
+"gorgonopsia subclade 2",
+"cyonosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Placeriinae subclade 1",
 "parentTaxon":"placeriinae",
 "popularSubtaxa":[
-"placerias",
-"moghreberia"
+"moghreberia",
+"placerias"
 ],
 "exampleMember":"placerias",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"moghreberia",
-"placerias"
+"placerias",
+"moghreberia"
 ],
 "popularAncestorPops":[
 35,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

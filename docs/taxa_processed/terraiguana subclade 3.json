@@ -6,8 +6,8 @@
 "parentTaxon":"terraiguana subclade 2",
 "popularSubtaxa":[
 "chalarodon madagascariensis",
-"liolaemus",
-"curly-tailed lizards"
+"curly-tailed lizards",
+"liolaemus"
 ],
 "exampleMember":"chalarodon madagascariensis",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

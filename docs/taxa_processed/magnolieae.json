@@ -5,8 +5,8 @@
 "name":"Magnolieae",
 "parentTaxon":"magnoliaceae",
 "popularSubtaxa":[
-"kmeria",
 "magnolia",
+"kmeria",
 "manglietia"
 ],
 "exampleMember":"kmeria",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"kmeria",
 "magnolia",
-"manglietia"
+"manglietia",
+"kmeria"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 60,
+40,
 40
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Colosteidae",
 "parentTaxon":"stegocephalia subclade 6",
 "popularSubtaxa":[
-"pholidogaster",
 "colosteus",
-"greererpeton"
+"greererpeton",
+"pholidogaster"
 ],
 "exampleMember":"pholidogaster",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-"10",
+10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

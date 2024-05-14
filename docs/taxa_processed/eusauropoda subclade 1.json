@@ -6,8 +6,8 @@
 "parentTaxon":"eusauropoda",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"barapasaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"barapasaurus",
-"eusauropoda subclade 2"
+"eusauropoda subclade 2",
+"barapasaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

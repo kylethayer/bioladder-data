@@ -6,8 +6,8 @@
 "parentTaxon":"maniraptora",
 "popularSubtaxa":[
 "achillesaurus",
-"haplocheirus",
-"alvarezsauridae subclade 1"
+"albertonykus",
+"haplocheirus"
 ],
 "exampleMember":"haplocheirus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"alvarezsauridae",
-"haplocheirus"
+"haplocheirus",
+"alvarezsauridae"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

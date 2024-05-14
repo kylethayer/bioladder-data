@@ -5,9 +5,9 @@
 "name":"Stahleckeriidae",
 "parentTaxon":"kannemeyeriiformes subclade 6",
 "popularSubtaxa":[
-"zambiasaurus",
-"placerias",
-"stahleckeria"
+"stahleckeria",
+"ischigualastia",
+"moghreberia"
 ],
 "exampleMember":"stahleckeria",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"placeriinae",
-"stahleckeriinae"
+"stahleckeriinae",
+"placeriinae"
 ],
 "popularAncestorPops":[
 35,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+30,
 10,
-10,
-30
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

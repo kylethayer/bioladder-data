@@ -23,13 +23,13 @@
 "life"
 ],
 "subtaxa":[
-"armadillo girdled lizard",
-"blue-spotted girdled lizard",
 "cape grass lizard",
-"cordylus",
+"blue-spotted girdled lizard",
 "false girdled lizard",
-"platysaurus",
 "pseudocordylus",
+"armadillo girdled lizard",
+"cordylus",
+"platysaurus",
 "smaug"
 ],
 "popularAncestorPops":[
@@ -42,5 +42,6 @@
 55,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

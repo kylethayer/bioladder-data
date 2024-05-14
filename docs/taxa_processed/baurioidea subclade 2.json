@@ -5,9 +5,9 @@
 "name":"Baurioidea subclade 2",
 "parentTaxon":"baurioidea subclade 1",
 "popularSubtaxa":[
-"scaloposaurus",
+"ericiolacerta",
 "karenites",
-"microgomphodon"
+"scaloposaurus"
 ],
 "exampleMember":"karenites",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

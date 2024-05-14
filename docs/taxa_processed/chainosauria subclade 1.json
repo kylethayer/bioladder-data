@@ -5,8 +5,8 @@
 "name":"Chainosauria subclade 1",
 "parentTaxon":"chainosauria",
 "popularSubtaxa":[
-"galepus",
-"galechirus"
+"galechirus",
+"galepus"
 ],
 "exampleMember":"galepus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

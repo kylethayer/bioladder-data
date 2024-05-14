@@ -5,9 +5,9 @@
 "name":"Titanosaur",
 "parentTaxon":"somphospondyli",
 "popularSubtaxa":[
-"rinconsaurus",
-"futalognkosaurus",
-"malawisaurus"
+"aeolosaurus",
+"alamosaurus",
+"futalognkosaurus"
 ],
 "exampleMember":"futalognkosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eutitanosauria",
-"titanosaur subclade 1"
+"titanosaur subclade 1",
+"eutitanosauria"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

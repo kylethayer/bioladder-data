@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"duriavenator",
-"megalosaurinae subclade 1"
+"megalosaurinae subclade 1",
+"duriavenator"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

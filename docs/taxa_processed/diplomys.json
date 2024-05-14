@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"colombian soft-furred spiny rat",
-"rufous soft-furred spiny rat"
+"rufous soft-furred spiny rat",
+"colombian soft-furred spiny rat"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

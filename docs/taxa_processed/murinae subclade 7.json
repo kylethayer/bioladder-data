@@ -5,9 +5,9 @@
 "name":"Murinae subclade 7",
 "parentTaxon":"murinae subclade 6",
 "popularSubtaxa":[
-"woodland thicket rat",
+"four-striped grass mouse",
 "namaqua rock rat",
-"four-striped grass mouse"
+"woodland thicket rat"
 ],
 "exampleMember":"namaqua rock rat",
 "exampleMemberType":"Example Member",
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

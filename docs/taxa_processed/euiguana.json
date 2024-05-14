@@ -6,8 +6,8 @@
 "parentTaxon":"iguanoidea",
 "popularSubtaxa":[
 "iguana",
-"eastern casquehead iguana",
-"horned lizard"
+"horned lizard",
+"basiliscus"
 ],
 "exampleMember":"crotaphytinae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"corytophanidae",
-"terraiguana"
+"terraiguana",
+"corytophanidae"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

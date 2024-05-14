@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"aucasaurus",
-"carnotaurus"
+"carnotaurus",
+"aucasaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 40,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

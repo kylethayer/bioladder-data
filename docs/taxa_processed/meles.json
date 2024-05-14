@@ -6,8 +6,8 @@
 "parentTaxon":"melinae",
 "popularSubtaxa":[
 "european badger",
-"japanese badger",
-"asian badger"
+"asian badger",
+"japanese badger"
 ],
 "exampleMember":"european badger",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"asian badger",
 "european badger",
-"japanese badger"
+"japanese badger",
+"asian badger"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 65,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":""
 }

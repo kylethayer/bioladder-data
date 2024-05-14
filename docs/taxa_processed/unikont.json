@@ -6,7 +6,7 @@
 "parentTaxon":"eukaryote",
 "popularSubtaxa":[
 "human",
-"animal",
+"jellyfish",
 "fungus"
 ],
 "exampleMember":"chaos",
@@ -23,8 +23,8 @@
 null
 ],
 "subtaxa":[
-"amoebozoa",
-"opisthokonta"
+"opisthokonta",
+"amoebozoa"
 ],
 "popularAncestorPops":[
 "",
@@ -33,8 +33,9 @@ null
 ""
 ],
 "popularSubtaxaPops":[
-95,
-70,
-100
-]
+100,
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"terraiguana",
 "popularSubtaxa":[
 "horned lizard",
-"chalarodon madagascariensis",
-"liolaemus"
+"california rock lizard",
+"chalarodon madagascariensis"
 ],
 "exampleMember":"horned lizard",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 55,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

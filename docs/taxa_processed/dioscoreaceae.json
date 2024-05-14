@@ -5,9 +5,9 @@
 "name":"Dioscoreaceae",
 "parentTaxon":"dioscoreales subclade 1",
 "popularSubtaxa":[
-"tacca",
+"yam",
 "trichopus",
-"yam"
+"tacca"
 ],
 "exampleMember":"tacca",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"tacca",
+"yam",
 "trichopus",
-"yam"
+"tacca"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 40,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

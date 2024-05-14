@@ -6,8 +6,8 @@
 "parentTaxon":"dinosauriformes",
 "popularSubtaxa":[
 "bird",
-"tyrannosaurus",
-"triceratops"
+"triceratops",
+"brontosaurus"
 ],
 "exampleMember":"alwalkeria",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ornithischia",
-"saurischia"
+"saurischia",
+"ornithischia"
 ],
 "popularAncestorPops":[
 50,
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 95,
 85,
-85
-]
+80
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"arvicolinae",
 "popularSubtaxa":[
 "vole",
-"european water vole",
-"brandt's vole"
+"brandt's vole",
+"european snow vole"
 ],
 "exampleMember":"vole",
 "exampleMemberType":"Example Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"arvicola",
+"vole",
 "brandt's vole",
 "european snow vole",
-"vole"
+"arvicola"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 50,
-50,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

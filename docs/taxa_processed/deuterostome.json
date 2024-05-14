@@ -5,9 +5,9 @@
 "name":"Deuterostome",
 "parentTaxon":"bilateria",
 "popularSubtaxa":[
-"echinoderm",
 "human",
-"dinosaur"
+"frog",
+"echinoderm"
 ],
 "exampleMember":"didazoon",
 "exampleMemberType":"Early Member",
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 100,
-95
-]
+85,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

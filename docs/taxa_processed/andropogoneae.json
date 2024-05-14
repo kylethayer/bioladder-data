@@ -5,8 +5,8 @@
 "name":"Andropogoneae",
 "parentTaxon":"andropogonodae",
 "popularSubtaxa":[
-"sugarcane",
-"corn"
+"corn",
+"sugarcane"
 ],
 "exampleMember":"sugarcane",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-65,
-80
-]
+80,
+65
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Chinchilloidea",
 "parentTaxon":"caviomorpha",
 "popularSubtaxa":[
-"chinchilla rat",
 "chinchilla",
-"plains viscacha"
+"chinchilla rat",
+"mountain viscachas"
 ],
 "exampleMember":"chinchilla rat",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chinchilla rat",
-"chinchillidae"
+"chinchillidae",
+"chinchilla rat"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

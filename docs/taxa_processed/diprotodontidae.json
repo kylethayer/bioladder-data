@@ -24,10 +24,10 @@
 ],
 "subtaxa":[
 "diprotodon",
+"zygomaturinae",
 "euryzygoma",
 "nototherium",
-"pyramios",
-"zygomaturinae"
+"pyramios"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 30,
 20,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

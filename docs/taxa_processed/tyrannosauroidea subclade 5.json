@@ -6,8 +6,8 @@
 "parentTaxon":"tyrannosauroidea subclade 4",
 "popularSubtaxa":[
 "tyrannosaurus",
-"alioramus",
-"albertosaurus"
+"albertosaurus",
+"alioramus"
 ],
 "exampleMember":"alioramus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"alioramus",
-"tyrannosauridae"
+"tyrannosauridae",
+"alioramus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

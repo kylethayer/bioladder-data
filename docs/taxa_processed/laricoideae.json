@@ -5,8 +5,8 @@
 "name":"Laricoideae",
 "parentTaxon":"pinaceae",
 "popularSubtaxa":[
-"cathaya",
 "larch",
+"cathaya",
 "pseudotsuga"
 ],
 "exampleMember":"cathaya",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"cathaya",
 "larch",
-"pseudotsuga"
+"pseudotsuga",
+"cathaya"
 ],
 "popularAncestorPops":[
 55,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 55,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

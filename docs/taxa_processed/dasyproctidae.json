@@ -5,8 +5,8 @@
 "name":"Dasyproctidae",
 "parentTaxon":"cavioidea",
 "popularSubtaxa":[
-"common agouti",
-"acouchi"
+"acouchi",
+"common agouti"
 ],
 "exampleMember":"common agouti",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"acouchi",
-"common agouti"
+"common agouti",
+"acouchi"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

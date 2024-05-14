@@ -5,9 +5,9 @@
 "name":"Proboscidea",
 "parentTaxon":"tethytheria",
 "popularSubtaxa":[
-"mastodon",
+"african elephant",
 "asian elephant",
-"african elephant"
+"mastodon"
 ],
 "exampleMember":"moeritherium",
 "exampleMemberType":"Early Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"moeritherium",
+"proboscidea subclade 1",
 "palaeomastodon",
 "phiomia",
-"proboscidea subclade 1"
+"moeritherium"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-85
-]
+85,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

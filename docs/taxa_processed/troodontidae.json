@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"troodontidae subclade 1",
-"troodontidae subclade 2"
+"troodontidae subclade 2",
+"troodontidae subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

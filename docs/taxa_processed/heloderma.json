@@ -5,9 +5,9 @@
 "name":"Heloderma",
 "parentTaxon":"neoanguimorpha",
 "popularSubtaxa":[
+"gila monster",
 "guatemalan beaded lizard",
-"mexican beaded lizard",
-"gila monster"
+"mexican beaded lizard"
 ],
 "exampleMember":"mexican beaded lizard",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 50,
-50,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

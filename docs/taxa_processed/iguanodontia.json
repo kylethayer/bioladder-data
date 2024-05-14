@@ -6,8 +6,8 @@
 "parentTaxon":"ornithopod subclade 2",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"anabisetia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"anabisetia",
-"iguanodontia subclade 1"
+"iguanodontia subclade 1",
+"anabisetia"
 ],
 "popularAncestorPops":[
 30,
@@ -36,5 +36,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

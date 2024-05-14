@@ -5,9 +5,9 @@
 "name":"Elephantidae subclade 1",
 "parentTaxon":"elephantidae",
 "popularSubtaxa":[
-"mammoth",
+"african elephant",
 "asian elephant",
-"african elephant"
+"mammoth"
 ],
 "exampleMember":"african elephant",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"african elephant",
-"elephantidae subclade 2"
+"elephantidae subclade 2",
+"african elephant"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
-85
-]
+85,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

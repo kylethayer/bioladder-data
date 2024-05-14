@@ -5,9 +5,9 @@
 "name":"Anomodontia",
 "parentTaxon":"neotherapsida",
 "popularSubtaxa":[
-"biseridens",
 "dicynodont",
-"stahleckeria"
+"stahleckeria",
+"biseridens"
 ],
 "exampleMember":"biseridens",
 "exampleMemberType":"Basal Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-"10",
 35,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

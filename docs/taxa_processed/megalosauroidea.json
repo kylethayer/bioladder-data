@@ -5,9 +5,9 @@
 "name":"Megalosauroidea",
 "parentTaxon":"orionides",
 "popularSubtaxa":[
-"piatnitzkysaurus",
 "spinosaurus",
-"megalosaurus"
+"afrovenator",
+"piatnitzkysaurus"
 ],
 "exampleMember":"marshosaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 60,
+20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

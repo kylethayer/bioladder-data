@@ -5,8 +5,8 @@
 "name":"Pantherinae",
 "parentTaxon":"felidae",
 "popularSubtaxa":[
-"tiger",
 "lion",
+"tiger",
 "snow leopard"
 ],
 "exampleMember":"neofelis",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"neofelis",
-"panthera"
+"panthera",
+"neofelis"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-"80",
+80,
 80,
 60
-]
+],
+"popularSubtaxaSameBranch":""
 }

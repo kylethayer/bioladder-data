@@ -6,7 +6,7 @@
 "parentTaxon":"brevirostres",
 "popularSubtaxa":[
 "crocodile",
-"nile crocodile",
+"american crocodile",
 "false gharial"
 ],
 "exampleMember":"trilophosuchus",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 80,
-60
-]
+60,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

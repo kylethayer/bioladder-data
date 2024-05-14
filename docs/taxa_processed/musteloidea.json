@@ -6,8 +6,8 @@
 "parentTaxon":"arctoidea subclade 1",
 "popularSubtaxa":[
 "otter",
-"red panda",
-"skunk"
+"skunk",
+"red panda"
 ],
 "exampleMember":"red panda",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 70,
 70,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

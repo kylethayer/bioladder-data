@@ -6,8 +6,8 @@
 "parentTaxon":"musteloidea subclade 2",
 "popularSubtaxa":[
 "otter",
-"wolverine",
-"american badger"
+"american badger",
+"honey badger"
 ],
 "exampleMember":"chamitataxus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"ekorus",
 "mustelidae subclade 2",
-"taxidiinae"
+"taxidiinae",
+"ekorus"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 70,
 65,
 65
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

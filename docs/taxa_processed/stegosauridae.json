@@ -5,9 +5,9 @@
 "name":"Stegosauridae",
 "parentTaxon":"stegosauria",
 "popularSubtaxa":[
+"stegosaurus",
 "chialingosaurus",
-"kentrosaurus",
-"stegosaurus"
+"kentrosaurus"
 ],
 "exampleMember":"chialingosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chialingosaurus",
-"stegosauria subclade 3"
+"stegosauria subclade 3",
+"chialingosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 10,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

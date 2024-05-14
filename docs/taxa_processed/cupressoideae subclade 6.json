@@ -5,9 +5,9 @@
 "name":"Cupressoideae subclade 6",
 "parentTaxon":"cupressoideae subclade 5",
 "popularSubtaxa":[
-"tetraclinis",
+"chinese arborvitae",
 "siberian carpet cypress",
-"chinese arborvitae"
+"tetraclinis"
 ],
 "exampleMember":"tetraclinis",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 55,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

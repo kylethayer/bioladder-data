@@ -6,7 +6,7 @@
 "parentTaxon":"alvarezsaur",
 "popularSubtaxa":[
 "achillesaurus",
-"alvarezsauridae subclade 1",
+"albertonykus",
 "alvarezsaurus"
 ],
 "exampleMember":"achillesaurus",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"achillesaurus",
 "alvarezsauridae subclade 1",
-"alvarezsaurus"
+"alvarezsaurus",
+"achillesaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

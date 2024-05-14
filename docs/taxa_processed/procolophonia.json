@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "pareiasaur",
 "bradysaurus",
-"nyctiphruretus"
+"hypsognathus"
 ],
 "exampleMember":"nyctiphruretus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 30,
 20,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

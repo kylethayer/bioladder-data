@@ -6,7 +6,7 @@
 "parentTaxon":"monocot subclade 1",
 "popularSubtaxa":[
 "banana",
-"grass",
+"yam",
 "japonolirion"
 ],
 "exampleMember":"japonolirion",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"japonolirion",
-"monocot subclade 3"
+"monocot subclade 3",
+"japonolirion"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 80,
-80
-]
+60,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

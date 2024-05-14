@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"armadillosuchus",
 "baurusuchidae",
-"notosuchidae"
+"notosuchidae",
+"armadillosuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 20,
 20,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

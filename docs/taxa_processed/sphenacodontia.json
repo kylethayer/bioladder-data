@@ -5,9 +5,9 @@
 "name":"Sphenacodontia",
 "parentTaxon":"eupelycosauria",
 "popularSubtaxa":[
-"dimetrodon",
 "human",
-"dog"
+"platypus",
+"dimetrodon"
 ],
 "exampleMember":"haptodus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"haptodus",
-"sphenacodontia subclade 1"
+"sphenacodontia subclade 1",
+"haptodus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 100,
-91
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

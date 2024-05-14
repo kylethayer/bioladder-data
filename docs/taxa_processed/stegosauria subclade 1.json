@@ -5,9 +5,9 @@
 "name":"Stegosauria subclade 1",
 "parentTaxon":"stegosauria",
 "popularSubtaxa":[
-"wuerhosaurus",
+"dacentrurus",
 "hesperosaurus",
-"dacentrurus"
+"wuerhosaurus"
 ],
 "exampleMember":"wuerhosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"stegosauria subclade 2",
-"wuerhosaurus"
+"wuerhosaurus",
+"stegosauria subclade 2"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

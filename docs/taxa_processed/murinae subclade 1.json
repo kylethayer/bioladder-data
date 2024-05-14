@@ -5,9 +5,9 @@
 "name":"Murinae subclade 1",
 "parentTaxon":"murinae",
 "popularSubtaxa":[
-"rat",
 "mouse",
-"woodland thicket rat"
+"rat",
+"afroalpine vlei rat"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"murinae subclade 2",
-"murinae subclade 5"
+"murinae subclade 5",
+"murinae subclade 2"
 ],
 "popularAncestorPops":[
 70,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 85,
-50,
-85
-]
+85,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

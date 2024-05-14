@@ -6,8 +6,8 @@
 "parentTaxon":"trechnotheria",
 "popularSubtaxa":[
 "human",
-"dog",
-"red kangaroo"
+"african elephant",
+"koala"
 ],
 "exampleMember":"cronopio",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cronopio",
-"zatheria"
+"zatheria",
+"cronopio"
 ],
 "popularAncestorPops":[
 70,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+85,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

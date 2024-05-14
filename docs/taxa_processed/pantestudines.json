@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "turtle",
 "plesiosaurs",
-"paraplacodus"
+"cyamodus"
 ],
 "exampleMember":"eunotosaurus",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Phiomorpha",
 "parentTaxon":"hystricognathi",
 "popularSubtaxa":[
-"dassie rat",
+"blesmol",
 "cane rat",
-"blesmol"
+"dassie rat"
 ],
 "exampleMember":"dassie rat",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"blesmol",
 "cane rat",
-"dassie rat"
+"dassie rat",
+"blesmol"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

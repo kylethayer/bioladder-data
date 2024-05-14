@@ -5,9 +5,9 @@
 "name":"Eryopiformes",
 "parentTaxon":"rhachitomi",
 "popularSubtaxa":[
+"archegosaurus",
 "clamorosaurus",
-"sclerocephalus",
-"archegosaurus"
+"eryops"
 ],
 "exampleMember":"clamorosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eryopidae",
-"stereospondylomorpha"
+"stereospondylomorpha",
+"eryopidae"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

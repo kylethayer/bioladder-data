@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"prorastomus",
-"sirenia subclade 1"
+"sirenia subclade 1",
+"prorastomus"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 60,
 50,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

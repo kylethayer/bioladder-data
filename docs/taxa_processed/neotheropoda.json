@@ -5,9 +5,9 @@
 "name":"Neotheropoda",
 "parentTaxon":"theropoda subclade 3",
 "popularSubtaxa":[
-"dilophosaurus",
 "bird",
-"tyrannosaurus"
+"dilophosaurus",
+"spinosaurus"
 ],
 "exampleMember":"coelophysis",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"coelophysis",
-"neotheropoda subclade 1"
+"neotheropoda subclade 1",
+"coelophysis"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-85
-]
+60,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

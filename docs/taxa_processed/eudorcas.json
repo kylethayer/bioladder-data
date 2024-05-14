@@ -5,9 +5,9 @@
 "name":"Eudorcas",
 "parentTaxon":"antilopini subclade 4",
 "popularSubtaxa":[
+"thomson's gazelle",
 "mongalla gazelle",
-"red-fronted gazelle",
-"thomson's gazelle"
+"red-fronted gazelle"
 ],
 "exampleMember":"red-fronted gazelle",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"thomson's gazelle",
 "mongalla gazelle",
-"red-fronted gazelle",
-"thomson's gazelle"
+"red-fronted gazelle"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 50,
-50,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

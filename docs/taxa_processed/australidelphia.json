@@ -5,9 +5,9 @@
 "name":"Australidelphia",
 "parentTaxon":"marsupial",
 "popularSubtaxa":[
-"monito del monte",
+"koala",
 "red kangaroo",
-"koala"
+"monito del monte"
 ],
 "exampleMember":"monito del monte",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 80,
-80
-]
+80,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

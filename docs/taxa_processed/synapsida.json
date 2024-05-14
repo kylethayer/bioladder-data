@@ -5,9 +5,9 @@
 "name":"Synapsida",
 "parentTaxon":"amniote",
 "popularSubtaxa":[
-"dimetrodon",
 "human",
-"dog"
+"platypus",
+"dimetrodon"
 ],
 "exampleMember":"eothyris",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"caseasauria",
-"eupelycosauria"
+"eupelycosauria",
+"caseasauria"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 100,
-91
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

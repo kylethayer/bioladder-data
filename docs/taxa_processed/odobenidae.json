@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"imagotaria",
-"walrus"
+"walrus",
+"imagotaria"
 ],
 "popularAncestorPops":[
 50,
@@ -32,6 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-80
-]
+80,
+""
+],
+"popularSubtaxaSameBranch":""
 }

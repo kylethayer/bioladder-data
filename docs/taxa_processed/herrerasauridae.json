@@ -5,9 +5,9 @@
 "name":"Herrerasauridae",
 "parentTaxon":"theropoda",
 "popularSubtaxa":[
-"staurikosaurus",
 "herrerasaurus",
-"chindesaurus"
+"chindesaurus",
+"staurikosaurus"
 ],
 "exampleMember":"staurikosaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

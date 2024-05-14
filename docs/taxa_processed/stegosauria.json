@@ -6,8 +6,8 @@
 "parentTaxon":"eurypoda",
 "popularSubtaxa":[
 "stegosaurus",
-"huayangosaurus",
-"wuerhosaurus"
+"dacentrurus",
+"huayangosaurus"
 ],
 "exampleMember":"huayangosaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"stegosauridae",
 "huayangosaurus",
 "stegosauria subclade 1",
-"stegosauridae",
 "tuojiangosaurus"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 10,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

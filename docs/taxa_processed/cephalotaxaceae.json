@@ -6,8 +6,8 @@
 "parentTaxon":"conifer subclade 6",
 "popularSubtaxa":[
 "catkin-yews",
-"plum yew",
-"nutmeg yew"
+"nutmeg yew",
+"plum yew"
 ],
 "exampleMember":"plum yew",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"catkin-yews",
 "nutmeg yew",
-"plum yew"
+"plum yew",
+"catkin-yews"
 ],
 "popularAncestorPops":[
 55,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

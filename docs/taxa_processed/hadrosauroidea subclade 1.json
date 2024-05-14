@@ -5,8 +5,8 @@
 "name":"Hadrosauroidea subclade 1",
 "parentTaxon":"hadrosauroidea",
 "popularSubtaxa":[
-"hadrosaurus",
 "edmontosaurus",
+"hadrosaurus",
 "parasaurolophus"
 ],
 "exampleMember":"tethyshadros",
@@ -36,5 +36,6 @@
 60,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

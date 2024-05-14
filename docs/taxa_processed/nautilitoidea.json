@@ -5,9 +5,9 @@
 "name":"Nautilitoidea",
 "parentTaxon":"nautiloid",
 "popularSubtaxa":[
-"oncocerida",
+"nautilus",
 "aturia",
-"nautilus"
+"oncocerida"
 ],
 "exampleMember":"oncocerida",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+55,
 10,
-10,
-55
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

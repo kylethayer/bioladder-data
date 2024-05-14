@@ -5,9 +5,9 @@
 "name":"Macropodiformes",
 "parentTaxon":"diprotodontia",
 "popularSubtaxa":[
-"western grey kangaroo",
-"musky rat-kangaroo",
-"red kangaroo"
+"red kangaroo",
+"eastern grey kangaroo",
+"musky rat-kangaroo"
 ],
 "exampleMember":"potoroo",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hypsiprymnodontidae",
 "macropodidae",
+"hypsiprymnodontidae",
 "potoroidae"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 75,
-40,
-80
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

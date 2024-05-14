@@ -6,8 +6,8 @@
 "parentTaxon":"anchisauria subclade 2",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"antetonitrus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"antetonitrus",
-"sauropods"
+"sauropods",
+"antetonitrus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

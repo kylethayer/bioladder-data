@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"broomistega",
 "muchocephalus",
 "rhineceps",
 "rhinesuchus",
-"uranocentrodon"
+"uranocentrodon",
+"broomistega"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

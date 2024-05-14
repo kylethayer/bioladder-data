@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "llama",
 "vicugna",
-"vicuña"
+"guanaco"
 ],
 "exampleMember":"llama",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 70,
 50,
 40
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

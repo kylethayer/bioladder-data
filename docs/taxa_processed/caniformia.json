@@ -6,8 +6,8 @@
 "parentTaxon":"carnivora",
 "popularSubtaxa":[
 "dog",
-"walrus",
-"bear"
+"bear",
+"walrus"
 ],
 "exampleMember":"bear dog",
 "exampleMemberType":"Early Member",
@@ -25,9 +25,9 @@
 "life"
 ],
 "subtaxa":[
+"canidae",
 "arctoidea",
-"bear dog",
-"canidae"
+"bear dog"
 ],
 "popularAncestorPops":[
 60,
@@ -39,5 +39,6 @@
 91,
 80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

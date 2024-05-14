@@ -5,9 +5,9 @@
 "name":"Asparagales subclade 8",
 "parentTaxon":"asparagales subclade 7",
 "popularSubtaxa":[
-"garlic",
 "onion",
-"asparagus"
+"asparagus",
+"agave"
 ],
 "exampleMember":"agapanthus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 80,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

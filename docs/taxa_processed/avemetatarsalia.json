@@ -5,8 +5,8 @@
 "name":"Avemetatarsalia",
 "parentTaxon":"archosauria",
 "popularSubtaxa":[
-"dinosaur",
 "bird",
+"triceratops",
 "pterosaur"
 ],
 "exampleMember":"scleromochlus",
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-95,
+85,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

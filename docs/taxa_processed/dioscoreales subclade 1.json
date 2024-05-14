@@ -5,9 +5,9 @@
 "name":"Dioscoreales subclade 1",
 "parentTaxon":"dioscoreales",
 "popularSubtaxa":[
-"burmanniaceae",
+"yam",
 "trichopus",
-"yam"
+"burmanniaceae"
 ],
 "exampleMember":"burmanniaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"burmanniaceae",
-"dioscoreaceae"
+"dioscoreaceae",
+"burmanniaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 40,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

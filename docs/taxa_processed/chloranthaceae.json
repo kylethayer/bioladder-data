@@ -5,9 +5,9 @@
 "name":"Chloranthaceae",
 "parentTaxon":"flowering plant subclade 4",
 "popularSubtaxa":[
-"sarcandra",
+"ascarina",
 "hedyosmum",
-"ascarina"
+"sarcandra"
 ],
 "exampleMember":"sarcandra",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"ascarina",
 "hedyosmum",
-"sarcandra"
+"sarcandra",
+"ascarina"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

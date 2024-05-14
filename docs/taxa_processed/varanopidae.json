@@ -5,9 +5,9 @@
 "name":"Varanopidae",
 "parentTaxon":"eupelycosauria",
 "popularSubtaxa":[
+"aerosaurus",
 "archaeovenator",
-"mycterosaurus",
-"aerosaurus"
+"heleosaurus"
 ],
 "exampleMember":"archaeovenator",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"archaeovenator",
 "mycterosaurinae",
+"archaeovenator",
 "varanopinae"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

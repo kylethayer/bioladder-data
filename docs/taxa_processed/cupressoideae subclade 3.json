@@ -6,8 +6,8 @@
 "parentTaxon":"cupressoideae subclade 2",
 "popularSubtaxa":[
 "juniper",
-"incense cedar",
-"siberian carpet cypress"
+"chinese arborvitae",
+"incense cedar"
 ],
 "exampleMember":"cupressus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 55,
 55
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

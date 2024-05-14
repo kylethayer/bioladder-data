@@ -6,7 +6,7 @@
 "parentTaxon":"simian",
 "popularSubtaxa":[
 "human",
-"chimpanzee",
+"gibbon",
 "old world monkey"
 ],
 "exampleMember":"aegyptopithecus",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"aegyptopithecus",
 "ape",
-"old world monkey"
+"old world monkey",
+"aegyptopithecus"
 ],
 "popularAncestorPops":[
 50,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

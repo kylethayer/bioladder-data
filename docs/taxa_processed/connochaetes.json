@@ -5,8 +5,8 @@
 "name":"Connochaetes",
 "parentTaxon":"alcelaphinae",
 "popularSubtaxa":[
-"black wildebeest",
-"blue wildebeest"
+"blue wildebeest",
+"black wildebeest"
 ],
 "exampleMember":"black wildebeest",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"black wildebeest",
-"blue wildebeest"
+"blue wildebeest",
+"black wildebeest"
 ],
 "popularAncestorPops":[
 70,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-70
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":""
 }

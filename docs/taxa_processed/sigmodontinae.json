@@ -6,8 +6,8 @@
 "parentTaxon":"cricetidae",
 "popularSubtaxa":[
 "abrothrix",
-"cotton rat",
-"crab-eating rat"
+"atlantic forest climbing mouse",
+"cotton rat"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

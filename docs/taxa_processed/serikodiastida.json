@@ -5,9 +5,9 @@
 "name":"Serikodiastida",
 "parentTaxon":"tetrapulmonata",
 "popularSubtaxa":[
+"spider",
 "attercopus",
-"idmonarachne",
-"spider"
+"idmonarachne"
 ],
 "exampleMember":"attercopus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"attercopus",
-"serikodiastida subclade 1"
+"serikodiastida subclade 1",
+"attercopus"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 10,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

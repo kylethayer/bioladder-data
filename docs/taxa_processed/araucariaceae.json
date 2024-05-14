@@ -5,9 +5,9 @@
 "name":"Araucariaceae",
 "parentTaxon":"conifer subclade 3",
 "popularSubtaxa":[
-"wollemia",
+"agathis",
 "araucaria",
-"agathis"
+"wollemia"
 ],
 "exampleMember":"wollemia",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"agathis",
 "araucaria",
-"wollemia"
+"wollemia",
+"agathis"
 ],
 "popularAncestorPops":[
 55,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

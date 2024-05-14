@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "land plant",
 "banana",
-"grass"
+"liverworts"
 ],
 "exampleMember":"chlorophyta",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chlorophyta",
-"streptophytina"
+"streptophytina",
+"chlorophyta"
 ],
 "popularAncestorPops":[
 "",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 95,
 80,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

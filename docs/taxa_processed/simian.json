@@ -6,8 +6,8 @@
 "parentTaxon":"haplorhini",
 "popularSubtaxa":[
 "human",
-"chimpanzee",
-"new world monkey"
+"new world monkey",
+"old world monkey"
 ],
 "exampleMember":"aegyptopithecus",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

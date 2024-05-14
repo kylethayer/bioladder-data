@@ -5,9 +5,9 @@
 "name":"Ichthyosauromorpha",
 "parentTaxon":"neodiapsida",
 "popularSubtaxa":[
-"ichthyosaur",
 "ichthyosaurus",
-"stenopterygius"
+"ichthyosaur",
+"hovasaurus"
 ],
 "exampleMember":"hovasaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"hovasaurus",
+"ichthyopterygia",
 "hupehsuchia",
-"ichthyopterygia"
+"hovasaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
-30
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

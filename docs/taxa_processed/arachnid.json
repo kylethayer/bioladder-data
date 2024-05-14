@@ -5,9 +5,9 @@
 "name":"Arachnid",
 "parentTaxon":"chelicerata",
 "popularSubtaxa":[
+"spider",
 "tick",
-"opiliones",
-"spider"
+"opiliones"
 ],
 "exampleMember":"acariformes",
 "exampleMemberType":"Example Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"acariformes",
-"arachnid subclade 1",
 "arachnid subclade 3",
-"parasitiformes"
+"parasitiformes",
+"arachnid subclade 1",
+"acariformes"
 ],
 "popularAncestorPops":[
 50,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 60,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

@@ -30,8 +30,14 @@
 100
 ],
 "popularSubtaxa":[
-"nile crocodile",
-"saltwater crocodile",
+"american crocodile",
+"freshwater crocodile",
 "dwarf crocodile"
-]
+],
+"popularSubtaxaPops":[
+60,
+60,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

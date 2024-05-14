@@ -6,8 +6,8 @@
 "parentTaxon":"biarmosuchia",
 "popularSubtaxa":[
 "burnetia",
-"hipposaurus",
-"herpetoskylax"
+"herpetoskylax",
+"hipposaurus"
 ],
 "exampleMember":"hipposaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

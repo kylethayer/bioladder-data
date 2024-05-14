@@ -5,9 +5,9 @@
 "name":"Saururaceae",
 "parentTaxon":"piperales subclade 1",
 "popularSubtaxa":[
+"lizard's tail",
 "yerba mansa",
-"houttuynia",
-"lizard's tail"
+"houttuynia"
 ],
 "exampleMember":"yerba mansa",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"houttuynia",
 "lizard's tail",
-"yerba mansa"
+"yerba mansa",
+"houttuynia"
 ],
 "popularAncestorPops":[
 40,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 55,
-50,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":""
 }

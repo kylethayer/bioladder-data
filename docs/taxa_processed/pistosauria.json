@@ -5,9 +5,9 @@
 "name":"Pistosauria",
 "parentTaxon":"eosauropterygia",
 "popularSubtaxa":[
-"yunguisaurus",
+"plesiosaurs",
 "pistosaurus",
-"plesiosaurs"
+"yunguisaurus"
 ],
 "exampleMember":"pistosaurus",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 10,
-10,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

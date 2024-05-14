@@ -5,9 +5,9 @@
 "name":"Edopoidea",
 "parentTaxon":"amphibian",
 "popularSubtaxa":[
-"edops",
+"chenoprosopus",
 "cochleosaurus",
-"nigerpeton"
+"edops"
 ],
 "exampleMember":"edops",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

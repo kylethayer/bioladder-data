@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "insectivora subclade 1",
-"nesophontes",
-"solenodon"
+"solenodon",
+"nesophontes"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 70,
-60
-]
+60,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

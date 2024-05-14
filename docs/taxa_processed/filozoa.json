@@ -6,8 +6,8 @@
 "parentTaxon":"holozoa",
 "popularSubtaxa":[
 "human",
-"animal",
-"insect"
+"insect",
+"jellyfish"
 ],
 "exampleMember":"choanoflagellate",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+100,
 95,
-95,
-100
-]
+80
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Chasmosaurinae subclade 9",
 "parentTaxon":"chasmosaurinae subclade 8",
 "popularSubtaxa":[
-"ojoceratops",
+"triceratops",
 "eotriceratops",
-"triceratops"
+"ojoceratops"
 ],
 "exampleMember":"ojoceratops",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Crocodylus",
 "parentTaxon":"crocodile subclade 2",
 "popularSubtaxa":[
-"nile crocodile",
-"saltwater crocodile",
-"american crocodile"
+"american crocodile",
+"freshwater crocodile",
+"nile crocodile"
 ],
 "exampleMember":"nile crocodile",
 "exampleMemberType":"Example Member",
@@ -17,16 +17,16 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Crocodylus",
 "popularAncestors":[
-"Crocodile",
+"crocodile",
 "amniote",
 "animal",
 "life"
 ],
 "subtaxa":[
-"crocodylus subclade 1",
 "crocodylus subclade 2",
+"nile crocodile",
 "crocodylus subclade 5",
-"nile crocodile"
+"crocodylus subclade 1"
 ],
 "popularAncestorPops":[
 80,
@@ -38,5 +38,6 @@
 60,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":""
 }

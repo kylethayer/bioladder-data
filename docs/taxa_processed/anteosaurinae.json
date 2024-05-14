@@ -5,9 +5,9 @@
 "name":"Anteosaurinae",
 "parentTaxon":"anteosauridae",
 "popularSubtaxa":[
+"anteosaurus",
 "sinophoneus",
-"titanophoneus",
-"anteosaurus"
+"titanophoneus"
 ],
 "exampleMember":"sinophoneus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

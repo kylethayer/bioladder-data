@@ -25,8 +25,8 @@
 "subtaxa":[
 "centipede",
 "millipede",
-"pauropoda",
-"symphyla"
+"symphyla",
+"pauropoda"
 ],
 "popularAncestorPops":[
 50,
@@ -38,5 +38,6 @@
 70,
 65,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

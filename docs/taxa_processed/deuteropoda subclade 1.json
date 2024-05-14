@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
 "subtaxa":[
-"deuteropoda subclade 2",
-"deuteropoda subclade 3"
+"deuteropoda subclade 3",
+"deuteropoda subclade 2"
 ],
 "popularAncestors":[
 "arthropod",
@@ -31,5 +31,11 @@
 "insect",
 "spider",
 "centipede"
-]
+],
+"popularSubtaxaPops":[
+95,
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

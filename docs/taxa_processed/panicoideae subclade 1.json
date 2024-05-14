@@ -5,9 +5,9 @@
 "name":"Panicoideae subclade 1",
 "parentTaxon":"panicoideae",
 "popularSubtaxa":[
-"gynerium",
+"corn",
 "sugarcane",
-"corn"
+"gynerium"
 ],
 "exampleMember":"gynerium",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gynerium",
-"panicoideae subclade 2"
+"panicoideae subclade 2",
+"gynerium"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 65,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

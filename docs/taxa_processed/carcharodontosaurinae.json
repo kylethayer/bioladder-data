@@ -5,9 +5,9 @@
 "name":"Carcharodontosaurinae",
 "parentTaxon":"carcharodontosauridae subclade 2",
 "popularSubtaxa":[
+"giganotosaurus",
 "carcharodontosaurus",
-"tyrannotitan",
-"giganotosaurus"
+"tyrannotitan"
 ],
 "exampleMember":"carcharodontosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"carcharodontosaurus",
-"giganotosaurini"
+"giganotosaurini",
+"carcharodontosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 40,
-30,
-50
-]
+30
+],
+"popularSubtaxaSameBranch":"0,2"
 }

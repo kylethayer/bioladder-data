@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"alaskacephale",
-"pachycephalosaurus"
+"pachycephalosaurus",
+"alaskacephale"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

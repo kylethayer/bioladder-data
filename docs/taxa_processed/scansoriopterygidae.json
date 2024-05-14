@@ -5,8 +5,8 @@
 "name":"Scansoriopterygidae",
 "parentTaxon":"paraves",
 "popularSubtaxa":[
-"scansoriopteryx",
-"epidexipteryx"
+"epidexipteryx",
+"scansoriopteryx"
 ],
 "exampleMember":"scansoriopteryx",
 "exampleMemberType":"Early Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"epidexipteryx",
-"scansoriopteryx"
+"scansoriopteryx",
+"epidexipteryx"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

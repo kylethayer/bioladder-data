@@ -5,9 +5,9 @@
 "name":"Dinosauriformes",
 "parentTaxon":"dinosauromorpha",
 "popularSubtaxa":[
-"dinosaur",
 "bird",
-"tyrannosaurus"
+"triceratops",
+"brontosaurus"
 ],
 "exampleMember":"marasuchus",
 "exampleMemberType":"",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-95,
-85
-]
+85,
+80
+],
+"popularSubtaxaSameBranch":"0,2"
 }

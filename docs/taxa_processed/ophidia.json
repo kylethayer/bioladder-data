@@ -5,8 +5,8 @@
 "name":"Ophidia",
 "parentTaxon":"toxicofera",
 "popularSubtaxa":[
-"dinilysia",
-"snake"
+"snake",
+"dinilysia"
 ],
 "exampleMember":"dinilysia",
 "exampleMemberType":"",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"dinilysia",
-"snake"
+"snake",
+"dinilysia"
 ],
 "popularAncestorPops":[
 50,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
-90
-]
+90,
+20
+],
+"popularSubtaxaSameBranch":""
 }

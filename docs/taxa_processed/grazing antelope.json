@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"addax",
+"oryx",
 "hippotragus",
-"oryx"
+"addax"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

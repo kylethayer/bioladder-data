@@ -5,9 +5,9 @@
 "name":"Suchia subclade 1",
 "parentTaxon":"suchia",
 "popularSubtaxa":[
-"revueltosaurus",
 "aetosaurus",
-"typothorax"
+"typothorax",
+"revueltosaurus"
 ],
 "exampleMember":"revueltosaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Parvicursorinae",
 "parentTaxon":"alvarezsauridae subclade 1",
 "popularSubtaxa":[
-"linhenykus",
 "albertonykus",
+"linhenykus",
 "shuvuuia"
 ],
 "exampleMember":"linhenykus",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

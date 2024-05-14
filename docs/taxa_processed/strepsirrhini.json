@@ -6,8 +6,8 @@
 "parentTaxon":"primate",
 "popularSubtaxa":[
 "lemur",
-"galago",
-"loris"
+"angwantibo",
+"galago"
 ],
 "exampleMember":"darwinius",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"darwinius",
-"lemuriformes"
+"lemuriformes",
+"darwinius"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 60,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

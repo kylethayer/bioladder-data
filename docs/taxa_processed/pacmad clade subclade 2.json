@@ -5,9 +5,9 @@
 "name":"Pacmad clade subclade 2",
 "parentTaxon":"pacmad clade subclade 1",
 "popularSubtaxa":[
-"chloridoideae",
 "arundinoideae",
-"micrairoideae"
+"chloridoideae",
+"danthonioideae"
 ],
 "exampleMember":"arundinoideae",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

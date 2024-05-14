@@ -5,9 +5,9 @@
 "name":"Allium subclade 4",
 "parentTaxon":"allium subclade 2",
 "popularSubtaxa":[
-"german garlic",
+"onion",
 "garlic",
-"onion"
+"german garlic"
 ],
 "exampleMember":"allium cyathophorum",
 "exampleMemberType":"Example Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"allium cyathophorum",
+"onion",
 "garlic",
 "german garlic",
-"onion"
+"allium cyathophorum"
 ],
 "popularAncestorPops":[
 40,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
+80,
 70,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

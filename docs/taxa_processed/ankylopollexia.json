@@ -6,8 +6,8 @@
 "parentTaxon":"dryomorpha",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"camptosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"camptosaurus",
-"styracosterna"
+"styracosterna",
+"camptosaurus"
 ],
 "popularAncestorPops":[
 20,
@@ -36,5 +36,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

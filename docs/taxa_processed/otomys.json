@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"afroalpine vlei rat",
 "bush vlei rat",
 "mount elgon vlei rat",
 "sloggett's vlei rat",
-"southern african vlei rat"
+"southern african vlei rat",
+"afroalpine vlei rat"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

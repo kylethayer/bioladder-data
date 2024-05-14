@@ -5,9 +5,9 @@
 "name":"Leptoceratopsidae",
 "parentTaxon":"coronosauria",
 "popularSubtaxa":[
-"cerasinops",
 "leptoceratops",
-"zhuchengceratops"
+"cerasinops",
+"montanoceratops"
 ],
 "exampleMember":"cerasinops",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cerasinops",
-"leptoceratopsidae subclade 1"
+"leptoceratopsidae subclade 1",
+"cerasinops"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

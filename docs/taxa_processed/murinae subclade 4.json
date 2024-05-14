@@ -5,9 +5,9 @@
 "name":"Murinae subclade 4",
 "parentTaxon":"murinae subclade 3",
 "popularSubtaxa":[
-"dark-tailed tree rat",
+"rat",
 "chestnut white-bellied rat",
-"rat"
+"dark-tailed tree rat"
 ],
 "exampleMember":"dark-tailed tree rat",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"niviventer",
-"rat"
+"rat",
+"niviventer"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 50,
-50,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

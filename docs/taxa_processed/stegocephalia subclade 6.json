@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 6",
 "parentTaxon":"stegocephalia subclade 5",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"pholidogaster",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"colosteidae",
-"stegocephalia subclade 7"
+"stegocephalia subclade 7",
+"colosteidae"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

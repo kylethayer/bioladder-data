@@ -6,8 +6,8 @@
 "parentTaxon":"eusauropoda subclade 5",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"haplocanthosaurus",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "diplodocimorpha",
-"haplocanthosaurus",
-"macronaria"
+"macronaria",
+"haplocanthosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

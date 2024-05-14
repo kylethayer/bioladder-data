@@ -6,8 +6,8 @@
 "parentTaxon":"musteloidea subclade 1",
 "popularSubtaxa":[
 "otter",
-"wolverine",
-"raccoon"
+"raccoon",
+"american badger"
 ],
 "exampleMember":"chamitataxus",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 70,
-65,
-70
-]
+70,
+65
+],
+"popularSubtaxaSameBranch":"0,2"
 }

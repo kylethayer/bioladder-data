@@ -6,8 +6,8 @@
 "parentTaxon":"life",
 "popularSubtaxa":[
 "human",
-"bacteria",
-"land plant"
+"land plant",
+"bacteria"
 ],
 "exampleMember":"bacteria",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@ null,
 null
 ],
 "subtaxa":[
-"archaea",
+"eukaryote",
 "bacteria",
-"eukaryote"
+"archaea"
 ],
 "popularAncestorPops":[
 100,
@@ -34,8 +34,9 @@ null
 ""
 ],
 "popularSubtaxaPops":[
+100,
 95,
-70,
-100
-]
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"euungulata",
 "popularSubtaxa":[
 "horse",
-"rhinoceros",
-"donkey"
+"donkey",
+"rhinoceros"
 ],
 "exampleMember":"palaeotherium",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 90,
 80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

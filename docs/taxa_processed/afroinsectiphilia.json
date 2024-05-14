@@ -5,9 +5,9 @@
 "name":"Afroinsectiphilia",
 "parentTaxon":"afrotheria",
 "popularSubtaxa":[
-"tenrec",
+"aardvark",
 "elephant shrew",
-"aardvark"
+"golden mole"
 ],
 "exampleMember":"tenrec",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "aardvark",
-"afrosoricida",
-"elephant shrew"
+"elephant shrew",
+"afrosoricida"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
+60,
 50,
-60
-]
+30
+],
+"popularSubtaxaSameBranch":""
 }

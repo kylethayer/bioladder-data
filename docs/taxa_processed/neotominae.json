@@ -5,9 +5,9 @@
 "name":"Neotominae",
 "parentTaxon":"cricetidae",
 "popularSubtaxa":[
-"alston's brown mouse",
 "pack rat",
-"deer mouse"
+"deer mouse",
+"alston's brown mouse"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"alston's brown mouse",
 "pack rat",
-"reithrodontomyini"
+"reithrodontomyini",
+"alston's brown mouse"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

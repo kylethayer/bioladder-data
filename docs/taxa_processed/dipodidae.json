@@ -5,9 +5,9 @@
 "name":"Dipodidae",
 "parentTaxon":"myomorpha",
 "popularSubtaxa":[
+"jerboa",
 "birch mouse",
-"jumping mouse",
-"jerboa"
+"jumping mouse"
 ],
 "exampleMember":"birch mouse",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"birch mouse",
 "jerboa",
-"jumping mouse"
+"jumping mouse",
+"birch mouse"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 50,
-50,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

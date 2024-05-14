@@ -5,8 +5,8 @@
 "name":"Gorgonopsidae subclade 2",
 "parentTaxon":"gorgonopsidae subclade 1",
 "popularSubtaxa":[
-"rubidgea",
 "lycaenops",
+"rubidgea",
 "arctognathus"
 ],
 "exampleMember":"lycaenops",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gorgonopsidae subclade 3",
-"lycaenops"
+"lycaenops",
+"gorgonopsidae subclade 3"
 ],
 "popularAncestorPops":[
 50,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 20,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

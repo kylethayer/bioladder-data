@@ -5,9 +5,9 @@
 "name":"Murinae subclade 6",
 "parentTaxon":"murinae subclade 5",
 "popularSubtaxa":[
-"woodland thicket rat",
 "afroalpine vlei rat",
-"bush vlei rat"
+"bush vlei rat",
+"four-striped grass mouse"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

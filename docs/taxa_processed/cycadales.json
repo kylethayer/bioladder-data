@@ -5,9 +5,9 @@
 "name":"Cycadales",
 "parentTaxon":"cycad",
 "popularSubtaxa":[
-"cycas",
 "bowenia",
-"dioon"
+"ceratozamia",
+"cycas"
 ],
 "exampleMember":"cycas",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

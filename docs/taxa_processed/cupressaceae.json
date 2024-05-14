@@ -5,9 +5,9 @@
 "name":"Cupressaceae",
 "parentTaxon":"conifer subclade 5",
 "popularSubtaxa":[
-"cunninghamia",
 "redwood",
-"juniper"
+"cunninghamia",
+"taiwania"
 ],
 "exampleMember":"cunninghamia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cunninghamia",
-"cupressaceae subclade 1"
+"cupressaceae subclade 1",
+"cunninghamia"
 ],
 "popularAncestorPops":[
 55,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
-60
-]
+50,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

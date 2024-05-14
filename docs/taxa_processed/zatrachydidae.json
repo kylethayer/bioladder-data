@@ -5,9 +5,9 @@
 "name":"Zatrachydidae",
 "parentTaxon":"rhachitomi subclade 2",
 "popularSubtaxa":[
-"dasyceps",
 "zatrachys",
-"acanthostomatops"
+"acanthostomatops",
+"dasyceps"
 ],
 "exampleMember":"dasyceps",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"acanthostomatops",
+"zatrachys",
 "dasyceps",
-"zatrachys"
+"acanthostomatops"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 30,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

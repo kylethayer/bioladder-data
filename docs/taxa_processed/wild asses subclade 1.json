@@ -5,9 +5,9 @@
 "name":"Wild asses subclade 1",
 "parentTaxon":"wild asses",
 "popularSubtaxa":[
-"kiang",
 "persian onager",
-"turkmenian kulan"
+"turkmenian kulan",
+"kiang"
 ],
 "exampleMember":"kiang",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"kiang",
-"wild asses subclade 2"
+"wild asses subclade 2",
+"kiang"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 50,
-50
-]
+50,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

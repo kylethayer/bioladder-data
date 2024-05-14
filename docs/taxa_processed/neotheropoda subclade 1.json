@@ -5,9 +5,9 @@
 "name":"Neotheropoda subclade 1",
 "parentTaxon":"neotheropoda",
 "popularSubtaxa":[
-"dilophosaurus",
 "bird",
-"tyrannosaurus"
+"dilophosaurus",
+"spinosaurus"
 ],
 "exampleMember":"liliensternus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"liliensternus",
-"neotheropoda subclade 2"
+"neotheropoda subclade 2",
+"liliensternus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-85
-]
+60,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

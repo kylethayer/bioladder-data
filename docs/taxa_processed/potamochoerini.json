@@ -5,8 +5,8 @@
 "name":"Potamochoerini",
 "parentTaxon":"suinae",
 "popularSubtaxa":[
-"giant forest hog",
 "bushpig",
+"giant forest hog",
 "red river hog"
 ],
 "exampleMember":"giant forest hog",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

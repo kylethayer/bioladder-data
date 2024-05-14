@@ -5,9 +5,9 @@
 "name":"Toxicofera subclade 1",
 "parentTaxon":"toxicofera",
 "popularSubtaxa":[
-"mosasaur",
-"monitor lizard",
-"iguana"
+"gila monster",
+"iguana",
+"monitor lizard"
 ],
 "exampleMember":"chinese water dragon",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

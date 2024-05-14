@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"bharal",
-"dwarf blue sheep"
+"dwarf blue sheep",
+"bharal"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

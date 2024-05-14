@@ -5,9 +5,9 @@
 "name":"Rhabdodontidae",
 "parentTaxon":"iguanodontia subclade 1",
 "popularSubtaxa":[
+"muttaburrasaurus",
 "rhabdodon",
-"zalmoxes",
-"muttaburrasaurus"
+"zalmoxes"
 ],
 "exampleMember":"rhabdodon",
 "exampleMemberType":"Example Member",
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,8 +5,8 @@
 "name":"Salientia",
 "parentTaxon":"batrachia",
 "popularSubtaxa":[
-"triadobatrachus",
-"frog"
+"frog",
+"triadobatrachus"
 ],
 "exampleMember":"triadobatrachus",
 "exampleMemberType":"Early Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-85
-]
+85,
+10
+],
+"popularSubtaxaSameBranch":""
 }

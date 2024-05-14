@@ -5,8 +5,8 @@
 "name":"Kogiidae",
 "parentTaxon":"physeteroidea",
 "popularSubtaxa":[
-"pygmy sperm whale",
-"dwarf sperm whale"
+"dwarf sperm whale",
+"pygmy sperm whale"
 ],
 "exampleMember":"dwarf sperm whale",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"dwarf sperm whale",
-"pygmy sperm whale"
+"pygmy sperm whale",
+"dwarf sperm whale"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 20,
 20
-]
+],
+"popularSubtaxaSameBranch":""
 }

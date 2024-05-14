@@ -5,9 +5,9 @@
 "name":"Pareiasaur subclade 1",
 "parentTaxon":"pareiasaur",
 "popularSubtaxa":[
-"bunostegos",
 "pareiasaurus",
-"scutosaurus"
+"scutosaurus",
+"bunostegos"
 ],
 "exampleMember":"bunostegos",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bunostegos",
-"pareiasaur subclade 2"
+"pareiasaur subclade 2",
+"bunostegos"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Macropodinae",
 "parentTaxon":"macropodidae",
 "popularSubtaxa":[
-"western grey kangaroo",
-"tree-kangaroo",
-"red kangaroo"
+"red kangaroo",
+"eastern grey kangaroo",
+"tree-kangaroo"
 ],
 "exampleMember":"protemnodon",
 "exampleMemberType":"Early Member",
@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"dorcopsis",
-"lagorchestes",
 "macropus",
-"protemnodon",
-"tree-kangaroo"
+"tree-kangaroo",
+"lagorchestes",
+"dorcopsis",
+"protemnodon"
 ],
 "popularAncestorPops":[
 70,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 75,
-40,
-80
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Stereospondyli",
 "parentTaxon":"stereospondylomorpha subclade 2",
 "popularSubtaxa":[
-"peltobatrachus",
+"benthosuchus",
 "lapillopsis",
-"lydekkerina"
+"peltobatrachus"
 ],
 "exampleMember":"peltobatrachus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Mustelidae subclade 4",
 "parentTaxon":"mustelidae subclade 3",
 "popularSubtaxa":[
-"wolverine",
 "european badger",
-"japanese badger"
+"wolverine",
+"marten"
 ],
 "exampleMember":"european badger",
 "exampleMemberType":"Example Member",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 65,
 65,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Coronosauria subclade 1",
 "parentTaxon":"coronosauria",
 "popularSubtaxa":[
+"triceratops",
 "protoceratops",
-"graciliceratops",
-"triceratops"
+"graciliceratops"
 ],
 "exampleMember":"graciliceratops",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 30,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

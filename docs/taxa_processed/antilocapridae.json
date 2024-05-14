@@ -5,8 +5,8 @@
 "name":"Antilocapridae",
 "parentTaxon":"giraffoidea",
 "popularSubtaxa":[
-"ramoceros",
 "pronghorn",
+"ramoceros",
 "tetrameryx"
 ],
 "exampleMember":"ramoceros",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 50,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

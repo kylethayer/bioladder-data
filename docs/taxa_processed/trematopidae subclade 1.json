@@ -5,9 +5,9 @@
 "name":"Trematopidae subclade 1",
 "parentTaxon":"trematopidae",
 "popularSubtaxa":[
-"tambachia",
+"acheloma",
 "anconastes",
-"phonerpeton"
+"tambachia"
 ],
 "exampleMember":"tambachia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"anconastes",
 "tambachia",
+"anconastes",
 "trematopidae subclade 2"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

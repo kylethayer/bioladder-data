@@ -30,6 +30,12 @@
 "popularSubtaxa":[
 "spider",
 "horseshoe crab",
-"arachnid"
-]
+"tick"
+],
+"popularSubtaxaPops":[
+80,
+60,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

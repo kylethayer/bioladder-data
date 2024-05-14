@@ -5,9 +5,9 @@
 "name":"Sciuromorpha",
 "parentTaxon":"rodent subclade 1",
 "popularSubtaxa":[
-"horned gopher",
+"dormouse",
 "mountain beaver",
-"dormouse"
+"horned gopher"
 ],
 "exampleMember":"horned gopher",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"mountain beaver",
 "dormouse",
-"horned gopher",
-"mountain beaver"
+"horned gopher"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 60,
-60
-]
+60,
+40
+],
+"popularSubtaxaSameBranch":""
 }

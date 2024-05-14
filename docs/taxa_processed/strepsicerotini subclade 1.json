@@ -5,9 +5,9 @@
 "name":"Strepsicerotini subclade 1",
 "parentTaxon":"strepsicerotini",
 "popularSubtaxa":[
-"nyala",
+"bongo",
 "common eland",
-"greater kudu"
+"nyala"
 ],
 "exampleMember":"nyala",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"nyala",
-"strepsicerotini subclade 2"
+"strepsicerotini subclade 2",
+"nyala"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Saigini",
 "parentTaxon":"antilopinae subclade 1",
 "popularSubtaxa":[
-"tibetan antelope",
-"saiga antelope"
+"saiga antelope",
+"tibetan antelope"
 ],
 "exampleMember":"tibetan antelope",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

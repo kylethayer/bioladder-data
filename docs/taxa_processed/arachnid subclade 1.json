@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"arachnid subclade 2",
-"opiliones"
+"opiliones",
+"arachnid subclade 2"
 ],
 "popularAncestorPops":[
 60,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

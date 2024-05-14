@@ -6,8 +6,8 @@
 "parentTaxon":"ophthalmosauridae",
 "popularSubtaxa":[
 "brachypterygius",
-"platypterygius",
-"caypullisaurus"
+"caypullisaurus",
+"platypterygius"
 ],
 "exampleMember":"brachypterygius",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brachypterygius",
-"platypterygiinae subclade 1"
+"platypterygiinae subclade 1",
+"brachypterygius"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,7 +6,7 @@
 "parentTaxon":"lycophytina subclade 1",
 "popularSubtaxa":[
 "clubmoss",
-"spikemoss",
+"firmoss",
 "quillwort"
 ],
 "exampleMember":"asteroxylon",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"asteroxylon",
-"lycopodiopsida subclade 1"
+"lycopodiopsida subclade 1",
+"asteroxylon"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

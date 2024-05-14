@@ -5,8 +5,8 @@
 "name":"Erinaceidae",
 "parentTaxon":"erinaceomorpha",
 "popularSubtaxa":[
-"gymnure",
-"hedgehog"
+"hedgehog",
+"gymnure"
 ],
 "exampleMember":"hedgehog",
 "exampleMemberType":"Early Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"gymnure",
-"hedgehog"
+"hedgehog",
+"gymnure"
 ],
 "popularAncestorPops":[
 60,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
-70
-]
+70,
+20
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Tyrannosaurinae subclade 2",
 "parentTaxon":"tyrannosaurinae subclade 1",
 "popularSubtaxa":[
-"zhuchengtyrannus",
+"tyrannosaurus",
 "bistahieversor",
-"tyrannosaurus"
+"lythronax"
 ],
 "exampleMember":"bistahieversor",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bistahieversor",
-"tyrannosaurinae subclade 3"
+"tyrannosaurinae subclade 3",
+"bistahieversor"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

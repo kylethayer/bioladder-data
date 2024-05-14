@@ -5,9 +5,9 @@
 "name":"Muridae",
 "parentTaxon":"eumuroida",
 "popularSubtaxa":[
+"mouse",
 "gerbil",
-"rat",
-"mouse"
+"brush-furred mouse"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"deomyinae",
+"murinae",
 "gerbil",
 "maned rat",
-"murinae"
+"deomyinae"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 85,
-85
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"monocot subclade 5",
 "popularSubtaxa":[
 "banana",
-"palm tree",
-"grass"
+"corn",
+"palm tree"
 ],
 "exampleMember":"commelinales",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"arecales",
 "commelinids sublcade 1",
-"poales"
+"poales",
+"arecales"
 ],
 "popularAncestorPops":[
 40,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-70,
-80
-]
+80,
+70
+],
+"popularSubtaxaSameBranch":""
 }

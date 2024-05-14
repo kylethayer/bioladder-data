@@ -13,7 +13,7 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Crocodylus_cataphractus_faux-gavial_d%27Afrique2.JPG/330px-Crocodylus_cataphractus_faux-gavial_d%27Afrique2.JPG",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Slender-snouted_crocodile",
 "popularAncestors":[
-"Crocodile",
+"crocodile",
 "amniote",
 "animal",
 "life"
@@ -25,5 +25,6 @@
 95,
 100
 ],
-"popularSubtaxaPops":[]
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
 }

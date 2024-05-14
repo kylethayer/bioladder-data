@@ -5,8 +5,8 @@
 "name":"Osteolaeminae",
 "parentTaxon":"crocodile subclade 1",
 "popularSubtaxa":[
-"voay",
-"dwarf crocodile"
+"dwarf crocodile",
+"voay"
 ],
 "exampleMember":"voay",
 "exampleMemberType":"Early Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-40
-]
+40,
+10
+],
+"popularSubtaxaSameBranch":""
 }

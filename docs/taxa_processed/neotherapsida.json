@@ -5,9 +5,9 @@
 "name":"Neotherapsida",
 "parentTaxon":"eutherapsida",
 "popularSubtaxa":[
-"dicynodont",
 "human",
-"dog"
+"platypus",
+"dicynodont"
 ],
 "exampleMember":"biseridens",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"anomodontia",
-"theriodont"
+"theriodont",
+"anomodontia"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-35,
 100,
-91
-]
+70,
+35
+],
+"popularSubtaxaSameBranch":"0,1"
 }

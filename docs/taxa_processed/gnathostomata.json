@@ -5,9 +5,9 @@
 "name":"Gnathostomata",
 "parentTaxon":"vertebrate subclade 4",
 "popularSubtaxa":[
-"cartilaginous fish",
 "human",
-"dinosaur"
+"frog",
+"cartilaginous fish"
 ],
 "exampleMember":"coccosteus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"teleostomi",
 "cartilaginous fish",
-"placodermi",
-"teleostomi"
+"placodermi"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 100,
-95
-]
+85,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

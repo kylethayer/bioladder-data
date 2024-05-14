@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dugongidae",
-"manatee"
+"manatee",
+"dugongidae"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 60,
 50,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

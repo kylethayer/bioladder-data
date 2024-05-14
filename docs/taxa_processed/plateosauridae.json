@@ -5,8 +5,8 @@
 "name":"Plateosauridae",
 "parentTaxon":"plateosauria",
 "popularSubtaxa":[
-"unaysaurus",
-"plateosaurus"
+"plateosaurus",
+"unaysaurus"
 ],
 "exampleMember":"unaysaurus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

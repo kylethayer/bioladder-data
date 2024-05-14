@@ -5,9 +5,9 @@
 "name":"Vertebrate subclade 4",
 "parentTaxon":"vertebrate subclade 3",
 "popularSubtaxa":[
-"cartilaginous fish",
 "human",
-"dinosaur"
+"frog",
+"cartilaginous fish"
 ],
 "exampleMember":"hemicyclaspis",
 "exampleMemberType":"Early Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "gnathostomata",
-"osteostraci",
-"pituriaspida"
+"pituriaspida",
+"osteostraci"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 100,
-95
-]
+85,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

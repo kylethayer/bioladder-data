@@ -5,8 +5,8 @@
 "name":"Nautilaceae",
 "parentTaxon":"nautilitoidea",
 "popularSubtaxa":[
-"aturia",
-"nautilus"
+"nautilus",
+"aturia"
 ],
 "exampleMember":"aturia",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"aturia",
-"nautilus"
+"nautilus",
+"aturia"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-55
-]
+55,
+10
+],
+"popularSubtaxaSameBranch":""
 }

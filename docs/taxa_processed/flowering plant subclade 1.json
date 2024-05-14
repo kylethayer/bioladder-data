@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "banana",
 "water lily",
-"grass"
+"magnolia vine"
 ],
 "exampleMember":"water lily",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-65,
 80,
-80
-]
+65,
+55
+],
+"popularSubtaxaSameBranch":"0,2"
 }

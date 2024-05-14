@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "land plant",
 "banana",
-"grass"
+"red algae"
 ],
 "exampleMember":"glaucophyte",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"glaucophyte",
+"viridiplantae",
 "red algae",
-"viridiplantae"
+"glaucophyte"
 ],
 "popularAncestorPops":[
 "",
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 95,
 80,
-80
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

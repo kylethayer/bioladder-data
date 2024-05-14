@@ -5,9 +5,9 @@
 "name":"Strepsicerotini subclade 2",
 "parentTaxon":"strepsicerotini subclade 1",
 "popularSubtaxa":[
+"bongo",
 "common eland",
-"greater kudu",
-"mountain nyala"
+"giant eland"
 ],
 "exampleMember":"common eland",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

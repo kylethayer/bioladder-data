@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bamboo rat",
-"tachyoryctes"
+"tachyoryctes",
+"bamboo rat"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

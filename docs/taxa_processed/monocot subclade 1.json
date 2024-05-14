@@ -6,7 +6,7 @@
 "parentTaxon":"monocot",
 "popularSubtaxa":[
 "banana",
-"grass",
+"yam",
 "alismatid"
 ],
 "exampleMember":"alismatid",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"alismatid",
-"monocot subclade 2"
+"monocot subclade 2",
+"alismatid"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 80,
-80
-]
+60,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

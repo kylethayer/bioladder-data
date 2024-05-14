@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"alticola",
-"red-backed vole"
+"red-backed vole",
+"alticola"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

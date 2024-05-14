@@ -6,8 +6,8 @@
 "parentTaxon":"cynognathia",
 "popularSubtaxa":[
 "diademodon",
-"trirachodon",
-"exaeretodon"
+"exaeretodon",
+"trirachodon"
 ],
 "exampleMember":"diademodon",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Carnotaurinae",
 "parentTaxon":"abelisauridae subclade 2",
 "popularSubtaxa":[
-"rajasaurus",
+"carnotaurus",
 "majungasaurus",
-"carnotaurus"
+"ilokelesia"
 ],
 "exampleMember":"rajasaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+40,
 20,
-40
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

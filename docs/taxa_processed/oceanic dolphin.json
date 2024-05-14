@@ -5,9 +5,9 @@
 "name":"Oceanic dolphin",
 "parentTaxon":"delphinoidea",
 "popularSubtaxa":[
+"killer whale",
 "bottlenose dolphin",
-"common dolphin",
-"killer whale"
+"common dolphin"
 ],
 "exampleMember":"bottlenose dolphin",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"killer whale",
 "bottlenose dolphin",
 "common dolphin",
-"killer whale",
 "pilot whale"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 80,
-70,
-85
-]
+70
+],
+"popularSubtaxaSameBranch":""
 }

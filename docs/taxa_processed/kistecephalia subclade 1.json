@@ -5,8 +5,8 @@
 "name":"Kistecephalia subclade 1",
 "parentTaxon":"kistecephalia",
 "popularSubtaxa":[
-"myosaurus",
-"cistecephalus"
+"cistecephalus",
+"myosaurus"
 ],
 "exampleMember":"myosaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"cistecephalus",
-"myosaurus"
+"myosaurus",
+"cistecephalus"
 ],
 "popularAncestorPops":[
 35,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Murinae subclade 3",
 "parentTaxon":"murinae subclade 2",
 "popularSubtaxa":[
-"red spiny rat",
-"dark-tailed tree rat",
-"rat"
+"rat",
+"chestnut white-bellied rat",
+"red spiny rat"
 ],
 "exampleMember":"red spiny rat",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 50,
-50,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

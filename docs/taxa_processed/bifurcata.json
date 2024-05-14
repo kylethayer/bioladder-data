@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gecko",
-"unidentata"
+"unidentata",
+"gecko"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 90,
 70,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

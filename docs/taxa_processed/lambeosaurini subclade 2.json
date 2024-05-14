@@ -5,8 +5,8 @@
 "name":"Lambeosaurini subclade 2",
 "parentTaxon":"lambeosaurini subclade 1",
 "popularSubtaxa":[
+"amurosaurus",
 "hypacrosaurus",
-"magnapaulia",
 "olorotitan"
 ],
 "exampleMember":"hypacrosaurus",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"hypacrosaurus",
 "lambeosaurini subclade 3",
-"olorotitan"
+"olorotitan",
+"hypacrosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

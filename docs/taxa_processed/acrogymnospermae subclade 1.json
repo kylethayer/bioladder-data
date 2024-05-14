@@ -5,9 +5,9 @@
 "name":"Acrogymnospermae subclade 1",
 "parentTaxon":"acrogymnospermae",
 "popularSubtaxa":[
-"ginkgo",
+"pine",
 "redwood",
-"pine"
+"ginkgo"
 ],
 "exampleMember":"ginkgo",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
+70,
 65,
-70
-]
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

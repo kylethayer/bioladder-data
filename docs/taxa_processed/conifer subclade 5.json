@@ -5,9 +5,9 @@
 "name":"Conifer subclade 5",
 "parentTaxon":"conifer subclade 4",
 "popularSubtaxa":[
-"common yew",
 "redwood",
-"juniper"
+"common yew",
+"catkin-yews"
 ],
 "exampleMember":"plum yew",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"conifer subclade 6",
-"cupressaceae"
+"cupressaceae",
+"conifer subclade 6"
 ],
 "popularAncestorPops":[
 55,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 65,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

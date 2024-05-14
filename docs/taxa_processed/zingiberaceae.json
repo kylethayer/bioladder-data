@@ -5,9 +5,9 @@
 "name":"Zingiberaceae",
 "parentTaxon":"zingiberariae",
 "popularSubtaxa":[
-"burbidgea",
+"ginger",
 "turmeric",
-"ginger"
+"burbidgea"
 ],
 "exampleMember":"burbidgea",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"alpinioideae",
-"zingiberoideae"
+"zingiberoideae",
+"alpinioideae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
+65,
 60,
-65
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

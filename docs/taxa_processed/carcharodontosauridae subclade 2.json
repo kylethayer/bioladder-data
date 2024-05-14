@@ -5,9 +5,9 @@
 "name":"Carcharodontosauridae subclade 2",
 "parentTaxon":"carcharodontosauridae subclade 1",
 "popularSubtaxa":[
+"giganotosaurus",
 "carcharodontosaurus",
-"tyrannotitan",
-"giganotosaurus"
+"tyrannotitan"
 ],
 "exampleMember":"shaochilong",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 40,
-30,
-50
-]
+30
+],
+"popularSubtaxaSameBranch":"0,2"
 }

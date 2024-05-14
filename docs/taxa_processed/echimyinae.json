@@ -6,8 +6,8 @@
 "parentTaxon":"echimyidae",
 "popularSubtaxa":[
 "colombian soft-furred spiny rat",
-"rufous soft-furred spiny rat",
-"red-crested tree rat"
+"red-crested tree rat",
+"rufous soft-furred spiny rat"
 ],
 "exampleMember":"colombian soft-furred spiny rat",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"diplomys",
-"red-crested tree rat"
+"red-crested tree rat",
+"diplomys"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Delphinoidea",
 "parentTaxon":"toothed whale",
 "popularSubtaxa":[
+"killer whale",
 "narwhal",
-"porpoise",
-"killer whale"
+"porpoise"
 ],
 "exampleMember":"kentriodon",
 "exampleMemberType":"Early Member",
@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"kentriodon",
-"monodontidae",
 "oceanic dolphin",
-"odobenocetops",
-"porpoise"
+"monodontidae",
+"porpoise",
+"kentriodon",
+"odobenocetops"
 ],
 "popularAncestorPops":[
 60,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 65,
-60,
-85
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

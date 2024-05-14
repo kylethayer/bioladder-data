@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "olinguito",
 "coatis",
-"white-nosed coati"
+"eastern lowland olingo"
 ],
 "exampleMember":"olinguito",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 40,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

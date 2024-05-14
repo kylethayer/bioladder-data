@@ -6,7 +6,7 @@
 "parentTaxon":"euarchonta",
 "popularSubtaxa":[
 "human",
-"chimpanzee",
+"lemur",
 "colugo"
 ],
 "exampleMember":"plesiadapis",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"primate",
 "colugo",
-"plesiadapiformes",
-"primate"
+"plesiadapiformes"
 ],
 "popularAncestorPops":[
 70,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+60,
 40
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

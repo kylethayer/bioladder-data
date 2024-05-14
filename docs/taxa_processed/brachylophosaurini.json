@@ -5,8 +5,8 @@
 "name":"Brachylophosaurini",
 "parentTaxon":"saurolophinae",
 "popularSubtaxa":[
-"maiasaura",
-"brachylophosaurus"
+"brachylophosaurus",
+"maiasaura"
 ],
 "exampleMember":"maiasaura",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

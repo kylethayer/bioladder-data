@@ -5,9 +5,9 @@
 "name":"Baurioidea subclade 3",
 "parentTaxon":"baurioidea subclade 2",
 "popularSubtaxa":[
+"ericiolacerta",
 "microgomphodon",
-"scaloposaurus",
-"ericiolacerta"
+"scaloposaurus"
 ],
 "exampleMember":"scaloposaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

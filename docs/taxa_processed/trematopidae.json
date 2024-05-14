@@ -5,9 +5,9 @@
 "name":"Trematopidae",
 "parentTaxon":"olsoniformes",
 "popularSubtaxa":[
-"fedexia",
-"tambachia",
-"anconastes"
+"acheloma",
+"anconastes",
+"fedexia"
 ],
 "exampleMember":"fedexia",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

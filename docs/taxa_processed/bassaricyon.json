@@ -6,7 +6,7 @@
 "parentTaxon":"procyonidae subclade 3",
 "popularSubtaxa":[
 "olinguito",
-"western lowland olingo",
+"eastern lowland olingo",
 "northern olingo"
 ],
 "exampleMember":"olinguito",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bassaricyon subclade 1",
-"olinguito"
+"olinguito",
+"bassaricyon subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "corn",
 "sugarcane",
-"chloridoideae"
+"arundinoideae"
 ],
 "exampleMember":"centothecoid clade",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"pacmad clade subclade 2",
-"panicoideae"
+"panicoideae",
+"pacmad clade subclade 2"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 65,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

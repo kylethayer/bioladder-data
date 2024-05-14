@@ -6,8 +6,8 @@
 "parentTaxon":"cetacea subclade 3",
 "popularSubtaxa":[
 "blue whale",
-"sperm whale",
-"killer whale"
+"killer whale",
+"sperm whale"
 ],
 "exampleMember":"basilosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"basilosauridae",
-"cetacea subclade 5"
+"cetacea subclade 5",
+"basilosauridae"
 ],
 "popularAncestorPops":[
 70,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-65,
-85
-]
+85,
+65
+],
+"popularSubtaxaSameBranch":"0,2"
 }

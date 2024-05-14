@@ -5,9 +5,9 @@
 "name":"Muroidea",
 "parentTaxon":"myomorpha",
 "popularSubtaxa":[
-"rat",
 "mouse",
-"malabar spiny dormouse"
+"hamster",
+"bamboo rat"
 ],
 "exampleMember":"malabar spiny dormouse",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-85
-]
+75,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

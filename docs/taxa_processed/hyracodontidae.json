@@ -5,9 +5,9 @@
 "name":"Hyracodontidae",
 "parentTaxon":"rhinocerotoidea subclade 1",
 "popularSubtaxa":[
+"paraceratherium",
 "eggysodon",
-"hyracodon",
-"paraceratherium"
+"hyracodon"
 ],
 "exampleMember":"hyracodon",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"paraceratherium",
 "eggysodon",
-"hyracodon",
-"paraceratherium"
+"hyracodon"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+40,
 10,
-10,
-40
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

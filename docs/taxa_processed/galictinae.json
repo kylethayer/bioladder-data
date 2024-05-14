@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
+"marbled polecat",
 "african striped weasel",
 "galictis",
-"ictonyx",
-"marbled polecat"
+"ictonyx"
 ],
 "popularAncestorPops":[
 50,
@@ -38,5 +38,6 @@
 40,
 30,
 20
-]
+],
+"popularSubtaxaSameBranch":""
 }

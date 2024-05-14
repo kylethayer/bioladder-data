@@ -6,7 +6,7 @@
 "parentTaxon":"flowering plant subclade 3",
 "popularSubtaxa":[
 "banana",
-"grass",
+"yam",
 "ceratophyllum"
 ],
 "exampleMember":"acorus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"flowering plant subclade 6",
-"monocot"
+"monocot",
+"flowering plant subclade 6"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 80,
-80
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

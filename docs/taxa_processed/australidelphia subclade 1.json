@@ -5,9 +5,9 @@
 "name":"Australidelphia subclade 1",
 "parentTaxon":"australidelphia",
 "popularSubtaxa":[
-"marsupial mole",
+"koala",
 "red kangaroo",
-"koala"
+"marsupial mole"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"dasyuromorphia",
 "diprotodontia",
 "marsupial mole",
+"dasyuromorphia",
 "peramelemorphia"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 80,
-80
-]
+80,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

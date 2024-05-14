@@ -6,8 +6,8 @@
 "parentTaxon":"boreoeutheria",
 "popularSubtaxa":[
 "human",
-"rat",
-"chimpanzee"
+"mouse",
+"cottontail rabbit"
 ],
 "exampleMember":"zalambdalestes",
 "exampleMemberType":"Early Member",
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-80
-]
+85,
+75
+],
+"popularSubtaxaSameBranch":"0,2"
 }

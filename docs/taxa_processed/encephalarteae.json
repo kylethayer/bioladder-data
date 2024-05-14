@@ -6,8 +6,8 @@
 "parentTaxon":"encephalartoideae",
 "popularSubtaxa":[
 "encephalartos",
-"macrozamia",
-"lepidozamia"
+"lepidozamia",
+"macrozamia"
 ],
 "exampleMember":"encephalartos",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

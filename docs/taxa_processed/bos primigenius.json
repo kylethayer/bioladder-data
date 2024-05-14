@@ -5,9 +5,9 @@
 "name":"Bos primigenius",
 "parentTaxon":"bos",
 "popularSubtaxa":[
-"aurochs",
 "cattle",
-"zebu"
+"zebu",
+"aurochs"
 ],
 "exampleMember":"aurochs",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"aurochs",
 "cattle",
-"zebu"
+"zebu",
+"aurochs"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 85,
-55
-]
+55,
+10
+],
+"popularSubtaxaSameBranch":""
 }

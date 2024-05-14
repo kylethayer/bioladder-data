@@ -6,8 +6,8 @@
 "parentTaxon":"probainognathia",
 "popularSubtaxa":[
 "human",
-"dog",
-"mammal"
+"koala",
+"platypus"
 ],
 "exampleMember":"oligokyphus",
 "exampleMemberType":"Early Member",
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Venyukovioidea",
 "parentTaxon":"anomodontia subclade 4",
 "popularSubtaxa":[
-"suminia",
 "otsheria",
+"suminia",
 "ulemica"
 ],
 "exampleMember":"suminia",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

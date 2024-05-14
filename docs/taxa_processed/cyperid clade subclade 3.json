@@ -5,9 +5,9 @@
 "name":"Cyperid clade subclade 3",
 "parentTaxon":"cyperid clade subclade 2",
 "popularSubtaxa":[
-"sedge",
+"water chestnut",
 "papyrus sedge",
-"water chestnut"
+"juncaceae"
 ],
 "exampleMember":"juncaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"juncaceae",
-"sedge"
+"sedge",
+"juncaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
+60,
 55,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"eureptilia subclade 1",
 "popularSubtaxa":[
 "captorhinus",
-"labidosaurus",
-"labidosaurikos"
+"labidosaurikos",
+"labidosaurus"
 ],
 "exampleMember":"captorhinus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"captorhinidae subclade 1",
-"captorhinus"
+"captorhinus",
+"captorhinidae subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

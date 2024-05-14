@@ -5,9 +5,9 @@
 "name":"Eutherapsida",
 "parentTaxon":"therapsida",
 "popularSubtaxa":[
-"anteosaur",
 "human",
-"dog"
+"platypus",
+"anteosaur"
 ],
 "exampleMember":"phthinosuchus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dinocephalia",
-"neotherapsida"
+"neotherapsida",
+"dinocephalia"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 100,
-91
-]
+70,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Dvinosauria",
 "parentTaxon":"rhachitomi subclade 1",
 "popularSubtaxa":[
-"neldasaurus",
+"dvinosaurus",
 "isodectes",
-"dvinosaurus"
+"neldasaurus"
 ],
 "exampleMember":"neldasaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

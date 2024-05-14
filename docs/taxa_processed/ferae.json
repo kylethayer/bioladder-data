@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "dog",
 "cat",
-"tiger"
+"pangolin"
 ],
 "exampleMember":"cimolesta",
 "exampleMemberType":"Early Member",
@@ -24,9 +24,9 @@
 ],
 "subtaxa":[
 "carnivora",
+"pangolin",
 "cimolesta",
-"creodonta",
-"pangolin"
+"creodonta"
 ],
 "popularAncestorPops":[
 70,
@@ -37,6 +37,7 @@
 "popularSubtaxaPops":[
 91,
 90,
-80
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"eucynodontia",
 "popularSubtaxa":[
 "human",
-"dog",
-"mammal"
+"koala",
+"platypus"
 ],
 "exampleMember":"lumkuia",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lumkuia",
-"prozostrodontia"
+"prozostrodontia",
+"lumkuia"
 ],
 "popularAncestorPops":[
 50,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"dromaeosauridae subclade 1",
 "popularSubtaxa":[
 "unenlagia",
-"mahakala",
-"austroraptor"
+"austroraptor",
+"buitreraptor"
 ],
 "exampleMember":"unenlagia",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

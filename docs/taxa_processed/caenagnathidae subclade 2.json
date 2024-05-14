@@ -6,8 +6,8 @@
 "parentTaxon":"caenagnathidae subclade 1",
 "popularSubtaxa":[
 "elmisaurus",
-"hagryphus",
-"anzu"
+"anzu",
+"hagryphus"
 ],
 "exampleMember":"hagryphus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

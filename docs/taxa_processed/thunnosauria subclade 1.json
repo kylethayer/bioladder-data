@@ -5,8 +5,8 @@
 "name":"Thunnosauria subclade 1",
 "parentTaxon":"thunnosauria",
 "popularSubtaxa":[
-"stenopterygius",
 "ophthalmosaurinae",
+"stenopterygius",
 "chacaicosaurus"
 ],
 "exampleMember":"stenopterygius",
@@ -36,5 +36,6 @@
 30,
 30,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

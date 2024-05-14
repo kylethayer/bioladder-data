@@ -5,9 +5,9 @@
 "name":"Neoceratosauria",
 "parentTaxon":"ceratosauria",
 "popularSubtaxa":[
+"carnotaurus",
 "ceratosaurus",
-"noasaurus",
-"carnotaurus"
+"noasaurus"
 ],
 "exampleMember":"ceratosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"abelisaur",
-"ceratosaurus"
+"ceratosaurus",
+"abelisaur"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 40,
-20,
-40
-]
+40,
+20
+],
+"popularSubtaxaSameBranch":"0,2"
 }

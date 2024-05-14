@@ -5,9 +5,9 @@
 "name":"Bibos",
 "parentTaxon":"bos",
 "popularSubtaxa":[
+"banteng",
 "gaur",
-"gayal",
-"banteng"
+"gayal"
 ],
 "exampleMember":"gaur",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"banteng",
 "gaur",
-"gayal"
+"gayal",
+"banteng"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

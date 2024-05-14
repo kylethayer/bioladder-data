@@ -6,8 +6,8 @@
 "parentTaxon":"megalosauroidea",
 "popularSubtaxa":[
 "spinosaurus",
-"megalosaurus",
-"afrovenator"
+"afrovenator",
+"baryonyx"
 ],
 "exampleMember":"streptospondylus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"megalosauridae",
 "spinosauridae",
+"megalosauridae",
 "streptospondylus"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 60,
+20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"oryzomyalia",
 "popularSubtaxa":[
 "bunny rat",
-"painted big-eared mouse",
-"darwin's leaf-eared mouse"
+"darwin's leaf-eared mouse",
+"painted big-eared mouse"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"bunny rat",
 "painted big-eared mouse",
 "phyllotis",
-"vesper mouse"
+"vesper mouse",
+"bunny rat"
 ],
 "popularAncestorPops":[
 70,
@@ -38,5 +38,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

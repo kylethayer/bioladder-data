@@ -5,8 +5,8 @@
 "name":"Dicraeosauridae",
 "parentTaxon":"flagellicaudata",
 "popularSubtaxa":[
-"brachytrachelopan",
 "amargasaurus",
+"brachytrachelopan",
 "dicraeosaurus"
 ],
 "exampleMember":"brachytrachelopan",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brachytrachelopan",
-"dicraeosauridae subclade 1"
+"dicraeosauridae subclade 1",
+"brachytrachelopan"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 30,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

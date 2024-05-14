@@ -6,8 +6,8 @@
 "parentTaxon":"ape",
 "popularSubtaxa":[
 "human",
-"orangutan",
-"chimpanzee"
+"gorilla",
+"orangutan"
 ],
 "exampleMember":"pierolapithecus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 100,
 80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

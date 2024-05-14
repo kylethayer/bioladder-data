@@ -5,8 +5,8 @@
 "name":"Ceratosauria subclade 1",
 "parentTaxon":"ceratosauria",
 "popularSubtaxa":[
-"limusaurus",
-"elaphrosaurus"
+"elaphrosaurus",
+"limusaurus"
 ],
 "exampleMember":"limusaurus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

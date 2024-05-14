@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "walrus",
 "otter",
-"skunk"
+"earless seal"
 ],
 "exampleMember":"potamotherium",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"musteloidea",
 "pinnipedimorpha",
+"musteloidea",
 "potamotherium"
 ],
 "popularAncestorPops":[
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 80,
 70,
-70
-]
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

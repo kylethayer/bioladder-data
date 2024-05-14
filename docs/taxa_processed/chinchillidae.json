@@ -6,8 +6,8 @@
 "parentTaxon":"chinchilloidea",
 "popularSubtaxa":[
 "chinchilla",
-"plains viscacha",
-"mountain viscachas"
+"mountain viscachas",
+"plains viscacha"
 ],
 "exampleMember":"chinchilla",
 "exampleMemberType":"Example Member",
@@ -37,5 +37,6 @@
 65,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Vertebrate subclade 1",
 "parentTaxon":"vertebrate",
 "popularSubtaxa":[
-"cartilaginous fish",
 "human",
-"dinosaur"
+"frog",
+"cartilaginous fish"
 ],
 "exampleMember":"arandaspida",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"pteraspidomorphi",
+"vertebrate subclade 2",
 "thelodonti",
-"vertebrate subclade 2"
+"pteraspidomorphi"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 100,
-95
-]
+85,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

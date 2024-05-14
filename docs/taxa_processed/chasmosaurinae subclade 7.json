@@ -5,9 +5,9 @@
 "name":"Chasmosaurinae subclade 7",
 "parentTaxon":"chasmosaurinae subclade 5",
 "popularSubtaxa":[
-"ojoceratops",
+"triceratops",
 "anchiceratops",
-"triceratops"
+"arrhinoceratops"
 ],
 "exampleMember":"anchiceratops",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"anchiceratops",
-"chasmosaurinae subclade 8"
+"chasmosaurinae subclade 8",
+"anchiceratops"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 10,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

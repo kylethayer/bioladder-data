@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"african buffalo",
-"bison",
 "bos",
+"bison",
 "bubalus",
-"pelorovis",
-"saola"
+"african buffalo",
+"saola",
+"pelorovis"
 ],
 "popularAncestorPops":[
 70,
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 85,
+70,
 70
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Glires",
 "parentTaxon":"euarchontoglires",
 "popularSubtaxa":[
-"european rabbit",
+"mouse",
 "cottontail rabbit",
-"rat"
+"guinea pig"
 ],
 "exampleMember":"zalambdalestes",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lagomorpha",
 "rodent",
+"lagomorpha",
 "zalambdalestes"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 75,
-75,
-85
-]
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

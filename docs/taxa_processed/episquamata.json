@@ -6,8 +6,8 @@
 "parentTaxon":"unidentata",
 "popularSubtaxa":[
 "snake",
-"mosasaur",
-"monitor lizard"
+"gila monster",
+"iguana"
 ],
 "exampleMember":"spectacled lizards",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lacertoidea",
-"toxicofera"
+"toxicofera",
+"lacertoidea"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 90,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

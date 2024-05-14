@@ -24,9 +24,9 @@
 ],
 "subtaxa":[
 "arthropod subclade 1",
+"siberion",
 "jianshanopodia",
-"megadictyon",
-"siberion"
+"megadictyon"
 ],
 "popularAncestorPops":[
 40,
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-70,
-80
-]
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

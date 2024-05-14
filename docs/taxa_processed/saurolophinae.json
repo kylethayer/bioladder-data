@@ -5,8 +5,8 @@
 "name":"Saurolophinae",
 "parentTaxon":"saurolophidae",
 "popularSubtaxa":[
-"brachylophosaurus",
 "edmontosaurus",
+"brachylophosaurus",
 "saurolophus"
 ],
 "exampleMember":"maiasaura",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brachylophosaurini",
-"saurolophinae subclade 1"
+"saurolophinae subclade 1",
+"brachylophosaurini"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 60,
+20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

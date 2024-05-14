@@ -5,9 +5,9 @@
 "name":"Gomphodontia subclade 1",
 "parentTaxon":"gomphodontia",
 "popularSubtaxa":[
-"trirachodon",
 "exaeretodon",
-"massetognathus"
+"massetognathus",
+"trirachodon"
 ],
 "exampleMember":"trirachodon",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"traversodontidae",
-"trirachodon"
+"trirachodon",
+"traversodontidae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

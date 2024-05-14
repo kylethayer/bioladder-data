@@ -5,9 +5,9 @@
 "name":"Capra",
 "parentTaxon":"caprini",
 "popularSubtaxa":[
+"goat",
 "markhor",
-"alpine ibex",
-"goat"
+"alpine ibex"
 ],
 "exampleMember":"spanish ibex",
 "exampleMemberType":"Example Member",
@@ -23,14 +23,14 @@
 "life"
 ],
 "subtaxa":[
+"wild goat",
+"markhor",
 "alpine ibex",
 "capra caucasica",
-"markhor",
 "nubian ibex",
 "siberian ibex",
 "spanish ibex",
-"walia ibex",
-"wild goat"
+"walia ibex"
 ],
 "popularAncestorPops":[
 70,
@@ -39,8 +39,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 65,
-60,
-80
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Marsupial",
 "parentTaxon":"metatheria",
 "popularSubtaxa":[
+"koala",
 "red kangaroo",
-"opossum",
-"koala"
+"opossum"
 ],
 "exampleMember":"opossum",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ameridelphia",
-"australidelphia"
+"australidelphia",
+"ameridelphia"
 ],
 "popularAncestorPops":[
 70,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-70,
-80
-]
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

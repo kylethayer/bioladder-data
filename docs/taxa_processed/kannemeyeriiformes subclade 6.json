@@ -5,9 +5,9 @@
 "name":"Kannemeyeriiformes subclade 6",
 "parentTaxon":"kannemeyeriiformes subclade 5",
 "popularSubtaxa":[
-"wadiasaurus",
-"zambiasaurus",
-"stahleckeria"
+"stahleckeria",
+"moghreberia",
+"wadiasaurus"
 ],
 "exampleMember":"wadiasaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+30,
 10,
-10,
-30
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

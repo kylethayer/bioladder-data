@@ -5,9 +5,9 @@
 "name":"Octodontoidea",
 "parentTaxon":"caviomorpha",
 "popularSubtaxa":[
-"coypu",
-"white-tailed olalla rat",
-"hutia"
+"amazon bamboo rat",
+"chilean rock rat",
+"coypu"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -39,5 +39,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Castoridae",
 "parentTaxon":"castorimorpha",
 "popularSubtaxa":[
-"palaeocastor",
+"beaver",
 "giant beaver",
-"beaver"
+"palaeocastor"
 ],
 "exampleMember":"palaeocastor",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+70,
 40,
-70
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Zingiberoideae",
 "parentTaxon":"zingiberaceae",
 "popularSubtaxa":[
-"globba",
+"ginger",
 "turmeric",
-"ginger"
+"globba"
 ],
 "exampleMember":"globba",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"globba",
-"zingibereae"
+"zingibereae",
+"globba"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
+65,
 60,
-65
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

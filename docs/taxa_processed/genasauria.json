@@ -5,9 +5,9 @@
 "name":"Genasauria",
 "parentTaxon":"ornithischia subclade 1",
 "popularSubtaxa":[
-"iguanodon",
 "triceratops",
-"stegosaurus"
+"stegosaurus",
+"iguanodon"
 ],
 "exampleMember":"stormbergia",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-75,
 85,
-80
-]
+80,
+75
+],
+"popularSubtaxaSameBranch":"0,2"
 }

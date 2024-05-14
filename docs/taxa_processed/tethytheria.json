@@ -5,9 +5,9 @@
 "name":"Tethytheria",
 "parentTaxon":"paenungulata",
 "popularSubtaxa":[
-"manatee",
+"african elephant",
 "asian elephant",
-"african elephant"
+"manatee"
 ],
 "exampleMember":"desmostylus",
 "exampleMemberType":"Early Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"arsinoitheriidae",
-"desmostylia",
 "proboscidea",
-"sirenia"
+"sirenia",
+"desmostylia",
+"arsinoitheriidae"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
-85
-]
+85,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

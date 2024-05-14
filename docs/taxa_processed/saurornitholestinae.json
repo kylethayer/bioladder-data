@@ -6,8 +6,8 @@
 "parentTaxon":"eudromaeosauria",
 "popularSubtaxa":[
 "saurornitholestes",
-"bambiraptor",
-"atrociraptor"
+"atrociraptor",
+"bambiraptor"
 ],
 "exampleMember":"saurornitholestes",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"atrociraptor",
+"saurornitholestes",
 "bambiraptor",
-"saurornitholestes"
+"atrociraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

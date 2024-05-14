@@ -5,9 +5,9 @@
 "name":"Pacmad clade",
 "parentTaxon":"grass subclade 2",
 "popularSubtaxa":[
-"aristideae",
+"corn",
 "sugarcane",
-"corn"
+"aristideae"
 ],
 "exampleMember":"aristideae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aristideae",
-"pacmad clade subclade 1"
+"pacmad clade subclade 1",
+"aristideae"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 65,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

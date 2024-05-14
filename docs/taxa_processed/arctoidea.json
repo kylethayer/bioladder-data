@@ -5,8 +5,8 @@
 "name":"Arctoidea",
 "parentTaxon":"caniformia",
 "popularSubtaxa":[
-"walrus",
 "bear",
+"walrus",
 "otter"
 ],
 "exampleMember":"hemicyonidae",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"arctoidea subclade 1",
 "bear",
+"arctoidea subclade 1",
 "hemicyonidae"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 80,
 80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

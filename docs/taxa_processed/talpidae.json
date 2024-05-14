@@ -6,8 +6,8 @@
 "parentTaxon":"insectivora subclade 1",
 "popularSubtaxa":[
 "new world mole",
-"talpini",
-"american shrew mole"
+"american shrew mole",
+"talpini"
 ],
 "exampleMember":"new world mole",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "new world mole",
-"shrew-like mole",
-"talpinae"
+"talpinae",
+"shrew-like mole"
 ],
 "popularAncestorPops":[
 60,
@@ -37,5 +37,6 @@
 60,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

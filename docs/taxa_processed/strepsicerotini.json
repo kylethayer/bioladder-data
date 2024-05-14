@@ -5,9 +5,9 @@
 "name":"Strepsicerotini",
 "parentTaxon":"bovinae",
 "popularSubtaxa":[
+"bongo",
 "lesser kudu",
-"nyala",
-"common eland"
+"nyala"
 ],
 "exampleMember":"lesser kudu",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

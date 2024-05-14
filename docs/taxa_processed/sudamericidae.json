@@ -5,8 +5,8 @@
 "name":"Sudamericidae",
 "parentTaxon":"allotheria",
 "popularSubtaxa":[
-"vintana",
-"patagonia"
+"patagonia",
+"vintana"
 ],
 "exampleMember":"vintana",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

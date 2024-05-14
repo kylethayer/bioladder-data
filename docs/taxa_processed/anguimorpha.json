@@ -5,9 +5,9 @@
 "name":"Anguimorpha",
 "parentTaxon":"toxicofera subclade 1",
 "popularSubtaxa":[
-"mosasaur",
+"gila monster",
 "monitor lizard",
-"gila monster"
+"mosasaur"
 ],
 "exampleMember":"chinese crocodile lizard",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

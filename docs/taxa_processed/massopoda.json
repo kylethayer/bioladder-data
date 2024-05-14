@@ -6,8 +6,8 @@
 "parentTaxon":"plateosauria",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"massospondylus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"massospondylidae",
-"sauropodiformes"
+"sauropodiformes",
+"massospondylidae"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

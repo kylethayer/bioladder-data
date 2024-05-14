@@ -5,9 +5,9 @@
 "name":"Caseasauria",
 "parentTaxon":"synapsida",
 "popularSubtaxa":[
-"eothyris",
-"oedaleops",
-"cotylorhynchus"
+"cotylorhynchus",
+"casea",
+"eothyris"
 ],
 "exampleMember":"eothyris",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

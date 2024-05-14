@@ -6,8 +6,8 @@
 "parentTaxon":"unikont",
 "popularSubtaxa":[
 "human",
-"fungus",
-"animal"
+"jellyfish",
+"fungus"
 ],
 "exampleMember":"nuclearia",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-95,
-70,
-100
-]
+100,
+80,
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

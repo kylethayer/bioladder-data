@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gorgonops",
-"gorgonopsidae subclade 2"
+"gorgonopsidae subclade 2",
+"gorgonops"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 20,
 20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

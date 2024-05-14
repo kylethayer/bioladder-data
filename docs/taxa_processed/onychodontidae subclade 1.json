@@ -5,8 +5,8 @@
 "name":"Onychodontidae subclade 1",
 "parentTaxon":"onychodontidae",
 "popularSubtaxa":[
-"onychodus",
-"grossius"
+"grossius",
+"onychodus"
 ],
 "exampleMember":"grossius",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"grossius",
-"onychodus"
+"onychodus",
+"grossius"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

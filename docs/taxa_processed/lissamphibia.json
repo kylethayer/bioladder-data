@@ -5,8 +5,8 @@
 "name":"Lissamphibia",
 "parentTaxon":"amphibamidae subclade 2",
 "popularSubtaxa":[
-"salamander",
 "frog",
+"salamander",
 "caecilian"
 ],
 "exampleMember":"albanerpeton",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
+60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

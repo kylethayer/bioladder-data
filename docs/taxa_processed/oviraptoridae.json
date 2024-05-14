@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"oviraptoridae subclade 1",
-"oviraptoridae subclade 2"
+"oviraptoridae subclade 2",
+"oviraptoridae subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 50,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

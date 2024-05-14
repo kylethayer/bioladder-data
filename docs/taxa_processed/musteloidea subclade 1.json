@@ -6,8 +6,8 @@
 "parentTaxon":"musteloidea",
 "popularSubtaxa":[
 "otter",
-"skunk",
-"raccoon"
+"raccoon",
+"skunk"
 ],
 "exampleMember":"skunk",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"musteloidea subclade 2",
-"skunk"
+"skunk",
+"musteloidea subclade 2"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 70,
 70,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

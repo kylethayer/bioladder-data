@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cordylomorpha",
-"skink"
+"skink",
+"cordylomorpha"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 60,
 55,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

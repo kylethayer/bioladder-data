@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"orchid subclade 2",
-"vanilloideae"
+"vanilloideae",
+"orchid subclade 2"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 40,
-30,
-70
-]
+30
+],
+"popularSubtaxaSameBranch":"0,2"
 }

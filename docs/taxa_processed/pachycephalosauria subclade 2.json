@@ -6,8 +6,8 @@
 "parentTaxon":"pachycephalosauria subclade 1",
 "popularSubtaxa":[
 "pachycephalosaurus",
-"prenocephale",
-"alaskacephale"
+"alaskacephale",
+"prenocephale"
 ],
 "exampleMember":"prenocephale",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

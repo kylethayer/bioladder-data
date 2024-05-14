@@ -5,9 +5,9 @@
 "name":"Eumaniraptora",
 "parentTaxon":"paraves",
 "popularSubtaxa":[
+"bird",
 "velociraptor",
-"deinonychus",
-"bird"
+"microraptor"
 ],
 "exampleMember":"xiaotingia",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dromaeosauridae",
-"eumaniraptora subclade 1"
+"eumaniraptora subclade 1",
+"dromaeosauridae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+95,
 75,
-60,
-95
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

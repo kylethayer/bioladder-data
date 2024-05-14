@@ -6,8 +6,8 @@
 "parentTaxon":"notosuchia subclade 1",
 "popularSubtaxa":[
 "baurusuchus",
-"simosuchus",
-"notosuchus"
+"notosuchus",
+"simosuchus"
 ],
 "exampleMember":"simosuchus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"notosuchia subclade 3",
-"simosuchus"
+"simosuchus",
+"notosuchia subclade 3"
 ],
 "popularAncestorPops":[
 50,
@@ -34,6 +34,8 @@
 ],
 "popularSubtaxaPops":[
 20,
+20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

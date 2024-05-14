@@ -5,9 +5,9 @@
 "name":"Eupelycosauria",
 "parentTaxon":"synapsida",
 "popularSubtaxa":[
-"dimetrodon",
 "human",
-"dog"
+"platypus",
+"dimetrodon"
 ],
 "exampleMember":"archaeovenator",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 100,
-91
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Suina",
 "parentTaxon":"artiofabula",
 "popularSubtaxa":[
-"peccary",
+"pig",
 "common warthog",
-"pig"
+"peccary"
 ],
 "exampleMember":"peccary",
 "exampleMemberType":"Example Member",
@@ -25,8 +25,8 @@
 "life"
 ],
 "subtaxa":[
-"peccary",
-"suidae"
+"suidae",
+"peccary"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
+85,
 70,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

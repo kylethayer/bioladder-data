@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"onychophora",
-"tactopoda"
+"tactopoda",
+"onychophora"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-70,
-80
-]
+80,
+55
+],
+"popularSubtaxaSameBranch":"0,1"
 }

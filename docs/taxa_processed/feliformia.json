@@ -6,8 +6,8 @@
 "parentTaxon":"carnivora",
 "popularSubtaxa":[
 "cat",
-"tiger",
-"lion"
+"lion",
+"tiger"
 ],
 "exampleMember":"african palm civet",
 "exampleMemberType":"First Looked Like",
@@ -25,8 +25,8 @@
 "life"
 ],
 "subtaxa":[
-"african palm civet",
-"felidae"
+"felidae",
+"african palm civet"
 ],
 "popularAncestorPops":[
 60,
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-"80",
+80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

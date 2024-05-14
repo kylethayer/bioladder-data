@@ -5,9 +5,9 @@
 "name":"Eosauropterygia subclade 1",
 "parentTaxon":"eosauropterygia",
 "popularSubtaxa":[
-"nothosaurus",
-"pachypleurosaur",
-"ceresiosaurus"
+"ceresiosaurus",
+"lariosaurus",
+"pachypleurosaur"
 ],
 "exampleMember":"pachypleurosaur",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"nothosauria",
-"pachypleurosaur"
+"pachypleurosaur",
+"nothosauria"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

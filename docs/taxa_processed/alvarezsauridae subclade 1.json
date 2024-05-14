@@ -5,9 +5,9 @@
 "name":"Alvarezsauridae subclade 1",
 "parentTaxon":"alvarezsauridae",
 "popularSubtaxa":[
+"albertonykus",
 "linhenykus",
-"patagonykus",
-"albertonykus"
+"patagonykus"
 ],
 "exampleMember":"patagonykus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

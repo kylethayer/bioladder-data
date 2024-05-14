@@ -5,8 +5,8 @@
 "name":"Moschopina",
 "parentTaxon":"tapinocephalini",
 "popularSubtaxa":[
-"ulemosaurus",
-"moschops"
+"moschops",
+"ulemosaurus"
 ],
 "exampleMember":"ulemosaurus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

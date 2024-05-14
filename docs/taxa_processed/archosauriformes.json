@@ -5,9 +5,9 @@
 "name":"Archosauriformes",
 "parentTaxon":"archosauromorpha",
 "popularSubtaxa":[
+"bird",
 "alligator",
-"dinosaur",
-"bird"
+"pterosaur"
 ],
 "exampleMember":"proterosuchus",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 95,
-95
-]
+85,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

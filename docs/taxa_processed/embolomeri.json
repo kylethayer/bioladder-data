@@ -5,7 +5,7 @@
 "name":"Embolomeri",
 "parentTaxon":"reptiliomorpha",
 "popularSubtaxa":[
-"archeria",
+"anthracosaurus",
 "eoherpeton",
 "proterogyrinus"
 ],
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"embolomeri subclade 1",
-"eoherpeton"
+"eoherpeton",
+"embolomeri subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

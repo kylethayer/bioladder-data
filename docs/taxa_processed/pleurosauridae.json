@@ -5,9 +5,9 @@
 "name":"Pleurosauridae",
 "parentTaxon":"sphenodontia",
 "popularSubtaxa":[
+"tuatara",
 "palaeopleurosaurus",
-"pleurosaurus",
-"tuatara"
+"pleurosaurus"
 ],
 "exampleMember":"palaeopleurosaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"palaeopleurosaurus",
+"tuatara",
 "pleurosaurus",
-"tuatara"
+"palaeopleurosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 10,
-10,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

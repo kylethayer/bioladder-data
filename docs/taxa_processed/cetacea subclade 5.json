@@ -6,8 +6,8 @@
 "parentTaxon":"cetacea subclade 4",
 "popularSubtaxa":[
 "blue whale",
-"sperm whale",
-"killer whale"
+"killer whale",
+"sperm whale"
 ],
 "exampleMember":"dorudon",
 "exampleMemberType":"Early Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-65,
-85
-]
+85,
+65
+],
+"popularSubtaxaSameBranch":"0,2"
 }

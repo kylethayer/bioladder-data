@@ -6,8 +6,8 @@
 "parentTaxon":"cerapoda",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"hypsilophodon",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hypsilophodon",
 "ornithopod subclade 1",
+"hypsilophodon",
 "orodromeus"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

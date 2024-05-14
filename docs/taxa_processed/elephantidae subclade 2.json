@@ -5,8 +5,8 @@
 "name":"Elephantidae subclade 2",
 "parentTaxon":"elephantidae subclade 1",
 "popularSubtaxa":[
-"mammoth",
-"asian elephant"
+"asian elephant",
+"mammoth"
 ],
 "exampleMember":"mammoth",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
-85
-]
+85,
+60
+],
+"popularSubtaxaSameBranch":""
 }

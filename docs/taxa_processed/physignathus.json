@@ -5,8 +5,8 @@
 "name":"Physignathus",
 "parentTaxon":"acrodonta",
 "popularSubtaxa":[
-"chinese water dragon",
-"australian water dragon"
+"australian water dragon",
+"chinese water dragon"
 ],
 "exampleMember":"chinese water dragon",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 55,
 55
-]
+],
+"popularSubtaxaSameBranch":""
 }

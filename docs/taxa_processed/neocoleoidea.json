@@ -6,8 +6,8 @@
 "parentTaxon":"coleoidea",
 "popularSubtaxa":[
 "octopus",
-"cuttlefish",
-"squid"
+"squid",
+"cuttlefish"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"decapodiformes",
-"octopodiformes"
+"octopodiformes",
+"decapodiformes"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 75,
-60,
-70
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

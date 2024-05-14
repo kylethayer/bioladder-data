@@ -5,8 +5,8 @@
 "name":"Dendrerpetontidae",
 "parentTaxon":"eutemnospondyli",
 "popularSubtaxa":[
-"dendrerpeton",
-"balanerpeton"
+"balanerpeton",
+"dendrerpeton"
 ],
 "exampleMember":"dendrerpeton",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"balanerpeton",
-"dendrerpeton"
+"dendrerpeton",
+"balanerpeton"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

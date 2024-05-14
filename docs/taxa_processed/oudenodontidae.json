@@ -5,8 +5,8 @@
 "name":"Oudenodontidae",
 "parentTaxon":"cryptodontia",
 "popularSubtaxa":[
-"oudenodon",
-"australobarbarus"
+"australobarbarus",
+"oudenodon"
 ],
 "exampleMember":"oudenodon",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"australobarbarus",
-"oudenodon"
+"oudenodon",
+"australobarbarus"
 ],
 "popularAncestorPops":[
 35,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

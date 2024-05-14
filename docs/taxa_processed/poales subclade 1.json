@@ -5,9 +5,9 @@
 "name":"Poales subclade 1",
 "parentTaxon":"poales",
 "popularSubtaxa":[
-"water chestnut",
+"corn",
 "grass",
-"corn"
+"water chestnut"
 ],
 "exampleMember":"mayaca",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cyperid clade",
-"poales subclade 2"
+"poales subclade 2",
+"cyperid clade"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 80,
-80
-]
+80,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

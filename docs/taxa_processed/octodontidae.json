@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"chilean rock rat",
 "coruro",
 "degu",
 "mountain degu",
-"plains viscacha rat"
+"plains viscacha rat",
+"chilean rock rat"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

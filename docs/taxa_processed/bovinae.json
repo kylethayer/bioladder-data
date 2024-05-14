@@ -6,8 +6,8 @@
 "parentTaxon":"bovid",
 "popularSubtaxa":[
 "cattle",
-"nilgai",
-"lesser kudu"
+"bongo",
+"four-horned antelope"
 ],
 "exampleMember":"nilgai",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"boselaphini",
 "bovini",
-"strepsicerotini"
+"strepsicerotini",
+"boselaphini"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

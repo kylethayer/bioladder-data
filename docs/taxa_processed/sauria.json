@@ -5,9 +5,9 @@
 "name":"Sauria",
 "parentTaxon":"neodiapsida",
 "popularSubtaxa":[
+"bird",
 "snake",
-"dinosaur",
-"bird"
+"alligator"
 ],
 "exampleMember":"prolacerta",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-90,
 95,
-95
-]
+90,
+85
+],
+"popularSubtaxaSameBranch":"0,2"
 }

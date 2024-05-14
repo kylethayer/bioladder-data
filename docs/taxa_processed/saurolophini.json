@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"prosaurolophus",
-"saurolophus"
+"saurolophus",
+"prosaurolophus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 20,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

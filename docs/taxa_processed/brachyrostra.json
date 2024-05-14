@@ -5,9 +5,9 @@
 "name":"Brachyrostra",
 "parentTaxon":"carnotaurinae",
 "popularSubtaxa":[
-"ilokelesia",
 "carnotaurus",
-"aucasaurus"
+"aucasaurus",
+"ilokelesia"
 ],
 "exampleMember":"ilokelesia",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 40,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

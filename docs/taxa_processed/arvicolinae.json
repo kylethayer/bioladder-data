@@ -5,9 +5,9 @@
 "name":"Arvicolinae",
 "parentTaxon":"cricetidae",
 "popularSubtaxa":[
-"vole",
 "lemming",
-"muskrat"
+"muskrat",
+"vole"
 ],
 "exampleMember":"northern mole vole",
 "exampleMemberType":"Example Member",
@@ -23,15 +23,15 @@
 "life"
 ],
 "subtaxa":[
-"arvicolini",
-"collared lemming",
 "lemming",
 "muskrat",
-"myodini",
+"arvicolini",
+"collared lemming",
 "northern mole vole",
 "round-tailed muskrat",
 "steppe lemming",
-"tree vole"
+"tree vole",
+"myodini"
 ],
 "popularAncestorPops":[
 70,
@@ -40,8 +40,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 65,
-65
-]
+65,
+60
+],
+"popularSubtaxaSameBranch":""
 }

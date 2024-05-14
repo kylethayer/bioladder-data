@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "land plant",
 "banana",
-"grass"
+"red algae"
 ],
 "exampleMember":"hacrobia",
 "exampleMemberType":"Example Member",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 95,
 80,
-80
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

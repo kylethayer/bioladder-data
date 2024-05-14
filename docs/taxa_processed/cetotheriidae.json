@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"cetotherium",
-"pygmy right whale"
+"pygmy right whale",
+"cetotherium"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

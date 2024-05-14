@@ -5,9 +5,9 @@
 "name":"Giraffoidea",
 "parentTaxon":"pecora",
 "popularSubtaxa":[
+"giraffe",
 "okapi",
-"pronghorn",
-"giraffe"
+"pronghorn"
 ],
 "exampleMember":"climacoceratidae",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"giraffidae",
 "antilocapridae",
-"climacoceratidae",
-"giraffidae"
+"climacoceratidae"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

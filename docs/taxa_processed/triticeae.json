@@ -5,9 +5,9 @@
 "name":"Triticeae",
 "parentTaxon":"triticodae",
 "popularSubtaxa":[
+"wheat",
 "barley",
-"rye",
-"wheat"
+"rye"
 ],
 "exampleMember":"barley",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"barley",
+"wheat",
 "rye",
-"wheat"
+"barley"
 ],
 "popularAncestorPops":[
 80,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+75,
 60,
-60,
-75
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

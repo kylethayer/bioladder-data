@@ -5,9 +5,9 @@
 "name":"Conchifera subclade 1",
 "parentTaxon":"conchifera",
 "popularSubtaxa":[
-"tusk shell",
 "octopus",
-"squid"
+"nautilus",
+"tusk shell"
 ],
 "exampleMember":"bivalvia",
 "exampleMemberType":"Example Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"bivalvia",
 "cephalopod",
+"tusk shell",
 "gastropoda",
-"tusk shell"
+"bivalvia"
 ],
 "popularAncestorPops":[
 50,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 75,
-70
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

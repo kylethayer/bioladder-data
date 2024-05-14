@@ -5,9 +5,9 @@
 "name":"Asparagales subclade 7",
 "parentTaxon":"asparagales subclade 6",
 "popularSubtaxa":[
-"xeronema",
-"garlic",
-"onion"
+"onion",
+"asparagus",
+"xeronema"
 ],
 "exampleMember":"xeronema",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-70,
-80
-]
+80,
+60,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

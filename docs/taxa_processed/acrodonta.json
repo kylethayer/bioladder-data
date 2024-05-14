@@ -5,8 +5,8 @@
 "name":"Acrodonta",
 "parentTaxon":"iguania",
 "popularSubtaxa":[
-"chinese water dragon",
 "australian water dragon",
+"chinese water dragon",
 "agama"
 ],
 "exampleMember":"chinese water dragon",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"acrodonta subclade 1",
-"physignathus"
+"physignathus",
+"acrodonta subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 55,
 55,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

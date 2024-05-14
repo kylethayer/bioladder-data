@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "alligator",
 "crocodile",
-"gracilisuchus"
+"aetosaurus"
 ],
 "exampleMember":"gracilisuchus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"suchia subclade 2",
 "gracilisuchus",
 "suchia subclade 1",
-"suchia subclade 2",
 "turfanosuchus"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 85,
-80
-]
+80,
+20
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Titanosauriformes",
 "parentTaxon":"macronaria subclade 1",
 "popularSubtaxa":[
-"giraffatitan",
 "brachiosaurus",
+"giraffatitan",
 "titanosaur"
 ],
 "exampleMember":"brachiosaurus",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
+50,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

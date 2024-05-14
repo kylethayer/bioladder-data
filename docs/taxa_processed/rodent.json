@@ -5,9 +5,9 @@
 "name":"Rodent",
 "parentTaxon":"glires",
 "popularSubtaxa":[
-"old world porcupine",
-"naked mole-rat",
-"rat"
+"mouse",
+"guinea pig",
+"naked mole-rat"
 ],
 "exampleMember":"gundi",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"rodent subclade 1",
 "hystricomorpha",
-"naked mole-rat",
-"rodent subclade 1"
+"naked mole-rat"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 70,
-60,
-85
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

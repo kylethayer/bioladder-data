@@ -5,8 +5,8 @@
 "name":"Crocodylus subclade 4",
 "parentTaxon":"crocodylus subclade 3",
 "popularSubtaxa":[
-"saltwater crocodile",
 "freshwater crocodile",
+"saltwater crocodile",
 "philippine crocodile"
 ],
 "exampleMember":"saltwater crocodile",
@@ -24,9 +24,9 @@
 ],
 "subtaxa":[
 "freshwater crocodile",
-"new guinea crocodile",
+"saltwater crocodile",
 "philippine crocodile",
-"saltwater crocodile"
+"new guinea crocodile"
 ],
 "popularAncestorPops":[
 80,
@@ -38,5 +38,6 @@
 60,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

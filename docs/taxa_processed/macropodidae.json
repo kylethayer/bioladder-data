@@ -5,9 +5,9 @@
 "name":"Macropodidae",
 "parentTaxon":"macropodiformes",
 "popularSubtaxa":[
-"western grey kangaroo",
-"banded hare-wallaby",
-"red kangaroo"
+"red kangaroo",
+"eastern grey kangaroo",
+"banded hare-wallaby"
 ],
 "exampleMember":"banded hare-wallaby",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"banded hare-wallaby",
 "macropodinae",
+"banded hare-wallaby",
 "sthenurinae"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 75,
-30,
-80
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

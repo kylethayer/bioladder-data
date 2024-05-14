@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"cyrtosia",
+"vanilla",
 "epistephium",
 "eriaxis",
 "galeola",
 "pseudovanilla",
-"vanilla"
+"cyrtosia"
 ],
 "popularAncestorPops":[
 60,
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 30,
-30,
-70
-]
+30
+],
+"popularSubtaxaSameBranch":""
 }

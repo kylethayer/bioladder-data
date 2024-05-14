@@ -6,8 +6,8 @@
 "parentTaxon":"eusauropoda subclade 3",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"cetiosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cetiosaurus",
-"eusauropoda subclade 5"
+"eusauropoda subclade 5",
+"cetiosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Nodosauridae subclade 3",
 "parentTaxon":"nodosauridae subclade 2",
 "popularSubtaxa":[
-"sauropelta",
-"edmontonia"
+"edmontonia",
+"sauropelta"
 ],
 "exampleMember":"sauropelta",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"edmontonia",
-"sauropelta"
+"sauropelta",
+"edmontonia"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

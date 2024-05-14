@@ -6,8 +6,8 @@
 "parentTaxon":"eudromaeosauria subclade 2",
 "popularSubtaxa":[
 "utahraptor",
-"yurgovuchia",
-"dromaeosaurus"
+"dromaeosaurus",
+"yurgovuchia"
 ],
 "exampleMember":"dromaeosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dromaeosaurus",
 "utahraptor",
+"dromaeosaurus",
 "yurgovuchia"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

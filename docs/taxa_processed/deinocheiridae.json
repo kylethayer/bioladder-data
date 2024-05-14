@@ -5,8 +5,8 @@
 "name":"Deinocheiridae",
 "parentTaxon":"ornithomimosauria subclade 4",
 "popularSubtaxa":[
-"beishanlong",
-"deinocheirus"
+"deinocheirus",
+"beishanlong"
 ],
 "exampleMember":"beishanlong",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"beishanlong",
-"deinocheirus"
+"deinocheirus",
+"beishanlong"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

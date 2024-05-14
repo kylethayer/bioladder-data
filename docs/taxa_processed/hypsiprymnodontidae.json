@@ -6,8 +6,8 @@
 "parentTaxon":"macropodiformes",
 "popularSubtaxa":[
 "musky rat-kangaroo",
-"propleopus",
-"ekaltadeta"
+"ekaltadeta",
+"propleopus"
 ],
 "exampleMember":"propleopus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 40,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"argali",
+"sheep",
 "bighorn sheep",
 "dall sheep",
-"sheep",
 "snow sheep",
-"urial"
+"urial",
+"argali"
 ],
 "popularAncestorPops":[
 70,
@@ -38,7 +38,8 @@
 ],
 "popularSubtaxaPops":[
 90,
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

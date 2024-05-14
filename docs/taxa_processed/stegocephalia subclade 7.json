@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 7",
 "parentTaxon":"stegocephalia subclade 6",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"crassigyrinus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"crassigyrinus",
-"stegocephalia subclade 8"
+"stegocephalia subclade 8",
+"crassigyrinus"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

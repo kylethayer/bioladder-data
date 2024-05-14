@@ -5,9 +5,9 @@
 "name":"Panicoideae subclade 2",
 "parentTaxon":"panicoideae subclade 1",
 "popularSubtaxa":[
-"paniceae",
+"corn",
 "sugarcane",
-"corn"
+"paniceae"
 ],
 "exampleMember":"paniceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"paniceae",
-"panicoideae subclade 3"
+"panicoideae subclade 3",
+"paniceae"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 65,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

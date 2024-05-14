@@ -5,9 +5,9 @@
 "name":"Rubidgeini",
 "parentTaxon":"rubidgeinae subclade 2",
 "popularSubtaxa":[
-"dinogorgon",
 "rubidgea",
-"clelandina"
+"clelandina",
+"dinogorgon"
 ],
 "exampleMember":"dinogorgon",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dinogorgon",
-"rubidgeini subclade 1"
+"rubidgeini subclade 1",
+"dinogorgon"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

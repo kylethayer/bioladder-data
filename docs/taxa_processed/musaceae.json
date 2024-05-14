@@ -5,8 +5,8 @@
 "name":"Musaceae",
 "parentTaxon":"zingiberales",
 "popularSubtaxa":[
-"ensete",
-"banana"
+"banana",
+"ensete"
 ],
 "exampleMember":"ensete",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-80
-]
+80,
+30
+],
+"popularSubtaxaSameBranch":""
 }

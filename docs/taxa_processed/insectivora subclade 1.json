@@ -5,8 +5,8 @@
 "name":"Insectivora subclade 1",
 "parentTaxon":"insectivora",
 "popularSubtaxa":[
-"new world mole",
 "hedgehog",
+"new world mole",
 "shrew"
 ],
 "exampleMember":"shrew",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 70,
+60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

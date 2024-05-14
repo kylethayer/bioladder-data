@@ -5,7 +5,7 @@
 "name":"Baurioidea",
 "parentTaxon":"eutherocephalia subclade 2",
 "popularSubtaxa":[
-"karenites",
+"ericiolacerta",
 "ictidosuchoides",
 "regisaurus"
 ],
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"baurioidea subclade 1",
-"ictidosuchoides"
+"ictidosuchoides",
+"baurioidea subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

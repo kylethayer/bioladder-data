@@ -6,8 +6,8 @@
 "parentTaxon":"acrodonta subclade 1",
 "popularSubtaxa":[
 "agama",
-"uromastyx",
-"leiolepis"
+"leiolepis",
+"uromastyx"
 ],
 "exampleMember":"agama",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Strelitziaceae",
 "parentTaxon":"strelitziineae",
 "popularSubtaxa":[
-"ravenala",
-"bird of paradise flower"
+"bird of paradise flower",
+"ravenala"
 ],
 "exampleMember":"ravenala",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
-55
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":""
 }

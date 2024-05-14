@@ -5,9 +5,9 @@
 "name":"Conifer subclade 3",
 "parentTaxon":"conifer subclade 2",
 "popularSubtaxa":[
-"wollemia",
+"agathis",
 "araucaria",
-"agathis"
+"wollemia"
 ],
 "exampleMember":"wollemia",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

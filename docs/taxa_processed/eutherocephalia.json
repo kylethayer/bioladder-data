@@ -6,8 +6,8 @@
 "parentTaxon":"scylacosauria",
 "popularSubtaxa":[
 "annatherapsidus",
-"scylacosuchus",
-"chthonosaurus"
+"chthonosaurus",
+"scylacosuchus"
 ],
 "exampleMember":"scylacosuchus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eutherocephalia subclade 1",
-"scylacosuchus"
+"scylacosuchus",
+"eutherocephalia subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

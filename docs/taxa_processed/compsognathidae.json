@@ -6,8 +6,8 @@
 "parentTaxon":"coelurosauria subclade 1",
 "popularSubtaxa":[
 "compsognathus",
-"sinocalliopteryx",
-"huaxiagnathus"
+"huaxiagnathus",
+"sinocalliopteryx"
 ],
 "exampleMember":"sinocalliopteryx",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"compsognathidae subclade 1",
-"compsognathidae subclade 2"
+"compsognathidae subclade 2",
+"compsognathidae subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

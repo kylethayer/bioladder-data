@@ -5,9 +5,9 @@
 "name":"Sphenacodontinae",
 "parentTaxon":"sphenacodontidae",
 "popularSubtaxa":[
+"dimetrodon",
 "secodontosaurus",
-"cryptovenator",
-"dimetrodon"
+"cryptovenator"
 ],
 "exampleMember":"secodontosaurus",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"cryptovenator",
+"sphenacodontinae subclade 1",
 "secodontosaurus",
-"sphenacodontinae subclade 1"
+"cryptovenator"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 30,
-10,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

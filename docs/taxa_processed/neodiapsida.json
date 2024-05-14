@@ -5,9 +5,9 @@
 "name":"Neodiapsida",
 "parentTaxon":"diapsida",
 "popularSubtaxa":[
-"ichthyosaurus",
-"dinosaur",
-"bird"
+"bird",
+"snake",
+"ichthyosaurus"
 ],
 "exampleMember":"claudiosaurus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"claudiosaurus",
+"sauria",
 "ichthyosauromorpha",
-"sauria"
+"claudiosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-95
-]
+90,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

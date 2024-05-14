@@ -5,9 +5,9 @@
 "name":"Sphenacodontoidea",
 "parentTaxon":"sphenacodontia subclade 1",
 "popularSubtaxa":[
-"dimetrodon",
 "human",
-"dog"
+"platypus",
+"dimetrodon"
 ],
 "exampleMember":"cutleria",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"sphenacodontidae",
-"therapsida"
+"therapsida",
+"sphenacodontidae"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 100,
-91
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

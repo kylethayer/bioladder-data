@@ -5,9 +5,9 @@
 "name":"Laurales subclade 2",
 "parentTaxon":"laurales subclade 1",
 "popularSubtaxa":[
-"siparuna",
+"gomortega",
 "southern sassafras",
-"gomortega"
+"siparuna"
 ],
 "exampleMember":"siparuna",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 50,
-50
-]
+50,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

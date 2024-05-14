@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"ischigualastia",
-"stahleckeria"
+"stahleckeria",
+"ischigualastia"
 ],
 "popularAncestorPops":[
 35,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 30,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,8 +5,8 @@
 "name":"Lorisidae",
 "parentTaxon":"lorisoidea",
 "popularSubtaxa":[
-"loris",
 "angwantibo",
+"loris",
 "potto"
 ],
 "exampleMember":"loris",
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

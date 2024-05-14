@@ -5,9 +5,9 @@
 "name":"Tapinocephalinae",
 "parentTaxon":"tapinocephalidae",
 "popularSubtaxa":[
-"struthiocephalus",
-"ulemosaurus",
-"tapinocephalus"
+"keratocephalus",
+"moschops",
+"struthiocephalus"
 ],
 "exampleMember":"struthiocephalus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

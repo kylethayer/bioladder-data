@@ -6,8 +6,8 @@
 "parentTaxon":"poposauroidea",
 "popularSubtaxa":[
 "poposaurus",
-"lotosaurus",
-"shuvosaurus"
+"shuvosaurus",
+"lotosaurus"
 ],
 "exampleMember":"poposaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"poposauroidea subclade 2",
-"poposaurus"
+"poposaurus",
+"poposauroidea subclade 2"
 ],
 "popularAncestorPops":[
 50,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 30,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

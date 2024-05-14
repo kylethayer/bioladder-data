@@ -5,9 +5,9 @@
 "name":"Neotheropoda subclade 2",
 "parentTaxon":"neotheropoda subclade 1",
 "popularSubtaxa":[
-"dilophosaurus",
 "bird",
-"tyrannosaurus"
+"dilophosaurus",
+"spinosaurus"
 ],
 "exampleMember":"zupaysaurus",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-85
-]
+60,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

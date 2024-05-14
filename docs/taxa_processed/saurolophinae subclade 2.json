@@ -6,8 +6,8 @@
 "parentTaxon":"saurolophinae subclade 1",
 "popularSubtaxa":[
 "saurolophus",
-"kritosaurus",
-"gryposaurus"
+"gryposaurus",
+"kritosaurus"
 ],
 "exampleMember":"kritosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"kritosaurini",
-"saurolophini"
+"saurolophini",
+"kritosaurini"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

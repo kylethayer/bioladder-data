@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "human",
 "neanderthal",
-"homo"
+"homo erectus"
 ],
 "exampleMember":"australopithecus afarensis",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"australopithecus afarensis",
 "homo",
-"paranthropus"
+"paranthropus",
+"australopithecus afarensis"
 ],
 "popularAncestorPops":[
 60,
@@ -37,5 +37,6 @@
 100,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

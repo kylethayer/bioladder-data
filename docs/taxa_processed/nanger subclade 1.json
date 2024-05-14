@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"grant's gazelle",
-"soemmerring's gazelle"
+"soemmerring's gazelle",
+"grant's gazelle"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

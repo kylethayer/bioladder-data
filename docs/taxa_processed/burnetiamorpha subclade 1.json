@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"burnetiidae",
 "lobalopex",
-"lophorhinus"
+"lophorhinus",
+"burnetiidae"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

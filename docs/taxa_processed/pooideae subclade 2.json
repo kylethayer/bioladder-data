@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"lygeum",
-"matgrass"
+"matgrass",
+"lygeum"
 ],
 "popularAncestorPops":[
 80,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 30
-]
+],
+"popularSubtaxaSameBranch":""
 }

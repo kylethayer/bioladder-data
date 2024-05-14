@@ -5,8 +5,8 @@
 "name":"Dactylomyinae",
 "parentTaxon":"echimyidae",
 "popularSubtaxa":[
-"white-tailed olalla rat",
-"amazon bamboo rat"
+"amazon bamboo rat",
+"white-tailed olalla rat"
 ],
 "exampleMember":"white-tailed olalla rat",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"amazon bamboo rat",
-"white-tailed olalla rat"
+"white-tailed olalla rat",
+"amazon bamboo rat"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

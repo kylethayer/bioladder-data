@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"big-headed mole-rat",
-"east african mole-rat"
+"east african mole-rat",
+"big-headed mole-rat"
 ],
 "popularAncestorPops":[
 70,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

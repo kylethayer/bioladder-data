@@ -5,8 +5,8 @@
 "name":"Laurales subclade 3",
 "parentTaxon":"laurales subclade 2",
 "popularSubtaxa":[
-"southern sassafras",
-"gomortega"
+"gomortega",
+"southern sassafras"
 ],
 "exampleMember":"southern sassafras",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"gomortega",
-"southern sassafras"
+"southern sassafras",
+"gomortega"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

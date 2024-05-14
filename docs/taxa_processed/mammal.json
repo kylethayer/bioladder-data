@@ -6,7 +6,7 @@
 "parentTaxon":"mammaliaformes",
 "popularSubtaxa":[
 "human",
-"dog",
+"koala",
 "platypus"
 ],
 "exampleMember":"fruitafossor",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"fruitafossor",
 "holotheria",
-"monotremata"
+"monotremata",
+"fruitafossor"
 ],
 "popularAncestorPops":[
 50,
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

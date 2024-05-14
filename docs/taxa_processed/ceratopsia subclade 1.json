@@ -5,9 +5,9 @@
 "name":"Ceratopsia subclade 1",
 "parentTaxon":"ceratopsia",
 "popularSubtaxa":[
+"triceratops",
 "protoceratops",
-"chaoyangsaurus",
-"triceratops"
+"chaoyangsaurus"
 ],
 "exampleMember":"chaoyangsaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chaoyangsaurus",
-"neoceratopsia"
+"neoceratopsia",
+"chaoyangsaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 30,
-10,
-85
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

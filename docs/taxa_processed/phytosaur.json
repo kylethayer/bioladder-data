@@ -5,9 +5,9 @@
 "name":"Phytosaur",
 "parentTaxon":"crurotarsi",
 "popularSubtaxa":[
+"angistorhinus",
 "diandongosuchus",
-"parasuchus",
-"angistorhinus"
+"parasuchus"
 ],
 "exampleMember":"diandongosuchus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

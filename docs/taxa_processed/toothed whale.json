@@ -5,9 +5,9 @@
 "name":"Toothed whale",
 "parentTaxon":"cetacea subclade 6",
 "popularSubtaxa":[
-"sperm whale",
+"killer whale",
 "narwhal",
-"killer whale"
+"sperm whale"
 ],
 "exampleMember":"aulophyseter",
 "exampleMemberType":"Early Member",
@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"beaked whale",
 "delphinoidea",
-"inioidea",
-"lipotoidea",
 "physeteroidea",
-"platanistoidea"
+"inioidea",
+"platanistoidea",
+"lipotoidea",
+"beaked whale"
 ],
 "popularAncestorPops":[
 70,
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 65,
-65,
-85
-]
+65
+],
+"popularSubtaxaSameBranch":"0,1"
 }

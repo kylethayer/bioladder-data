@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"ajancingenia",
+"nemegtomaia",
 "conchoraptor",
 "jiangxisaurus",
 "machairasaurus",
-"nemegtomaia"
+"ajancingenia"
 ],
 "popularAncestorPops":[
 40,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 20,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

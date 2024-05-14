@@ -6,8 +6,8 @@
 "parentTaxon":"reptiliomorpha",
 "popularSubtaxa":[
 "human",
-"dinosaur",
-"bird"
+"bird",
+"snake"
 ],
 "exampleMember":"westlothiana",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"sauropsida",
 "synapsida",
+"sauropsida",
 "westlothiana"
 ],
 "popularAncestorPops":[
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 100,
 95,
-95
-]
+90
+],
+"popularSubtaxaSameBranch":"0,2"
 }

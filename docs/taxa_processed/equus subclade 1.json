@@ -5,9 +5,9 @@
 "name":"Equus subclade 1",
 "parentTaxon":"equus",
 "popularSubtaxa":[
-"wild asses",
 "donkey",
-"zebra"
+"zebra",
+"persian onager"
 ],
 "exampleMember":"kiang",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 80,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

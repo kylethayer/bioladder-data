@@ -5,8 +5,8 @@
 "name":"Dryosauridae",
 "parentTaxon":"dryomorpha",
 "popularSubtaxa":[
-"callovosaurus",
-"dryosaurus"
+"dryosaurus",
+"callovosaurus"
 ],
 "exampleMember":"callovosaurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"callovosaurus",
-"dryosaurus"
+"dryosaurus",
+"callovosaurus"
 ],
 "popularAncestorPops":[
 20,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

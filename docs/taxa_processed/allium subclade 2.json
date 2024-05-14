@@ -5,8 +5,8 @@
 "name":"Allium subclade 2",
 "parentTaxon":"allium",
 "popularSubtaxa":[
-"garlic",
 "onion",
+"garlic",
 "leek"
 ],
 "exampleMember":"allium victorialis",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"allium subclade 3",
-"allium subclade 4"
+"allium subclade 4",
+"allium subclade 3"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 80,
+70,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

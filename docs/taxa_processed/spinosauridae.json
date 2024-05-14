@@ -5,9 +5,9 @@
 "name":"Spinosauridae",
 "parentTaxon":"megalosauria",
 "popularSubtaxa":[
-"siamosaurus",
+"spinosaurus",
 "baryonyx",
-"spinosaurus"
+"siamosaurus"
 ],
 "exampleMember":"siamosaurus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"spinosaurinae",
 "baryonychinae",
-"siamosaurus",
-"spinosaurinae"
+"siamosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+60,
 20,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,9 +5,9 @@
 "name":"Wild horse",
 "parentTaxon":"equus",
 "popularSubtaxa":[
-"tarpan",
 "horse",
-"przewalski's horse"
+"przewalski's horse",
+"tarpan"
 ],
 "exampleMember":"tarpan",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 90,
-50
-]
+50,
+40
+],
+"popularSubtaxaSameBranch":""
 }

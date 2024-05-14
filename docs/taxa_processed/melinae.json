@@ -6,7 +6,7 @@
 "parentTaxon":"mustelidae subclade 4",
 "popularSubtaxa":[
 "european badger",
-"japanese badger",
+"asian badger",
 "hog badger"
 ],
 "exampleMember":"european badger",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hog badger",
-"meles"
+"meles",
+"hog badger"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 65,
 60,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

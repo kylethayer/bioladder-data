@@ -13,10 +13,10 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Tactopoda",
 "subtaxa":[
 "arthropod",
+"tardigrade",
 "hallucigenia",
 "ovatiovermis",
-"paucipodia",
-"tardigrade"
+"paucipodia"
 ],
 "popularAncestors":[
 "protostomia",
@@ -34,5 +34,11 @@
 "insect",
 "spider",
 "tardigrade"
-]
+],
+"popularSubtaxaPops":[
+95,
+80,
+55
+],
+"popularSubtaxaSameBranch":"0,1"
 }

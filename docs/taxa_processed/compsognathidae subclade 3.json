@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"compsognathidae subclade 4",
-"compsognathus"
+"compsognathus",
+"compsognathidae subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

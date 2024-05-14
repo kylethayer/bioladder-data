@@ -5,9 +5,9 @@
 "name":"Gymnophiona",
 "parentTaxon":"lissamphibia",
 "popularSubtaxa":[
+"caecilian",
 "eocaecilia",
-"rubricacaecilia",
-"caecilian"
+"rubricacaecilia"
 ],
 "exampleMember":"eocaecilia",
 "exampleMemberType":"Earliest Known Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eocaecilia",
-"gymnophiona subclade 1"
+"gymnophiona subclade 1",
+"eocaecilia"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 10,
-10,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

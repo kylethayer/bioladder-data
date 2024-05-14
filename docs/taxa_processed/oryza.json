@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"african rice",
 "asian rice",
+"african rice",
 "oryza australiensis",
 "oryza rufipogon"
 ],
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+75,
 55,
-30,
-75
-]
+30
+],
+"popularSubtaxaSameBranch":""
 }

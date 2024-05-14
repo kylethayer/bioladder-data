@@ -6,8 +6,8 @@
 "parentTaxon":"neoichthyosauria subclade 1",
 "popularSubtaxa":[
 "ichthyosaurus",
-"stenopterygius",
-"ophthalmosaurinae"
+"ophthalmosaurinae",
+"stenopterygius"
 ],
 "exampleMember":"ichthyosaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 60,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Delphinapterinae",
 "parentTaxon":"monodontidae",
 "popularSubtaxa":[
-"denebola",
-"beluga whale"
+"beluga whale",
+"denebola"
 ],
 "exampleMember":"denebola",
 "exampleMemberType":"Early Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-60
-]
+60,
+10
+],
+"popularSubtaxaSameBranch":""
 }

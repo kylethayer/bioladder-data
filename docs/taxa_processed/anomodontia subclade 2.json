@@ -5,8 +5,8 @@
 "name":"Anomodontia subclade 2",
 "parentTaxon":"anomodontia subclade 1",
 "popularSubtaxa":[
-"tiarajudens",
-"anomocephalus"
+"anomocephalus",
+"tiarajudens"
 ],
 "exampleMember":"tiarajudens",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

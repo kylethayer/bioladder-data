@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"anoa",
-"tamaraw",
 "water buffalo",
-"wild water buffalo"
+"wild water buffalo",
+"tamaraw",
+"anoa"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 55,
-50,
-70
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

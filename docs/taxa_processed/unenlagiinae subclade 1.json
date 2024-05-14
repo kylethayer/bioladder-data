@@ -6,8 +6,8 @@
 "parentTaxon":"unenlagiinae",
 "popularSubtaxa":[
 "unenlagia",
-"rahonavis",
-"buitreraptor"
+"buitreraptor",
+"rahonavis"
 ],
 "exampleMember":"unenlagia",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"buitreraptor",
+"unenlagia",
 "rahonavis",
-"unenlagia"
+"buitreraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -37,5 +37,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

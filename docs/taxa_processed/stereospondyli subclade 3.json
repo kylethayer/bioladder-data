@@ -5,8 +5,8 @@
 "name":"Stereospondyli subclade 3",
 "parentTaxon":"stereospondyli subclade 2",
 "popularSubtaxa":[
-"cherninia",
 "benthosuchus",
+"cherninia",
 "thoosuchus"
 ],
 "exampleMember":"benthosuchus",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

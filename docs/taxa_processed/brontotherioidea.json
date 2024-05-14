@@ -6,8 +6,8 @@
 "parentTaxon":"hippomorpha",
 "popularSubtaxa":[
 "embolotherium",
-"lambdotherium",
-"eotitanops"
+"eotitanops",
+"lambdotherium"
 ],
 "exampleMember":"lambdotherium",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brontotheriidae",
-"lambdotherium"
+"lambdotherium",
+"brontotheriidae"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

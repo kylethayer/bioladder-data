@@ -5,9 +5,9 @@
 "name":"Whippomorpha",
 "parentTaxon":"cetruminantia",
 "popularSubtaxa":[
-"hippopotamus",
 "blue whale",
-"killer whale"
+"killer whale",
+"hippopotamus"
 ],
 "exampleMember":"indohyus",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 90,
-85
-]
+85,
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

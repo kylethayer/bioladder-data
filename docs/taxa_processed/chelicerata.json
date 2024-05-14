@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "spider",
 "horseshoe crab",
-"arachnid"
+"tick"
 ],
 "exampleMember":"eurypterida",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 60,
-60,
-80
-]
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

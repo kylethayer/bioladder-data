@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"babirusa",
-"phacochoerini",
 "pig",
+"phacochoerini",
 "potamochoerini",
-"pygmy hog"
+"pygmy hog",
+"babirusa"
 ],
 "popularAncestorPops":[
 70,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
+85,
 70,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

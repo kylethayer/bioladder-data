@@ -5,8 +5,8 @@
 "name":"Myomorpha",
 "parentTaxon":"rodent subclade 2",
 "popularSubtaxa":[
-"rat",
 "mouse",
+"hamster",
 "jerboa"
 ],
 "exampleMember":"birch mouse",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dipodidae",
-"muroidea"
+"muroidea",
+"dipodidae"
 ],
 "popularAncestorPops":[
 70,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 85,
-85,
+75,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

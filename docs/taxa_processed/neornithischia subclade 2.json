@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "triceratops",
 "iguanodon",
-"hadrosaurus"
+"edmontosaurus"
 ],
 "exampleMember":"othnielosaurus",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 75,
-60,
-85
-]
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

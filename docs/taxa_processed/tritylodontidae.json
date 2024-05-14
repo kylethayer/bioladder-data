@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"oligokyphus",
-"tritylodon"
+"tritylodon",
+"oligokyphus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

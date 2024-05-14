@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "american crocodile",
-"cuban crocodile",
 "morelet's crocodile",
+"cuban crocodile",
 "orinoco crocodile"
 ],
 "popularAncestorPops":[
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 60,
-40,
-50
-]
+50,
+40
+],
+"popularSubtaxaSameBranch":""
 }

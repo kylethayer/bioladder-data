@@ -5,8 +5,8 @@
 "name":"Uropygids",
 "parentTaxon":"pedipalpi",
 "popularSubtaxa":[
-"thelyphonida",
-"schizomida"
+"schizomida",
+"thelyphonida"
 ],
 "exampleMember":"thelyphonida",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

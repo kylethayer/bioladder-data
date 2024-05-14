@@ -5,9 +5,9 @@
 "name":"Eumuroida",
 "parentTaxon":"muroidea",
 "popularSubtaxa":[
+"mouse",
 "hamster",
-"rat",
-"mouse"
+"climbing mice"
 ],
 "exampleMember":"mouse-like hamster",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"muridae",
 "cricetidae",
 "mouse-like hamster",
-"muridae",
 "nesomyidae"
 ],
 "popularAncestorPops":[
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-75,
 85,
-85
-]
+75,
+50
+],
+"popularSubtaxaSameBranch":""
 }

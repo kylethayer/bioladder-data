@@ -5,8 +5,8 @@
 "name":"Eutitanosauria",
 "parentTaxon":"titanosaur",
 "popularSubtaxa":[
-"rinconsaurus",
-"opisthocoelicaudia",
+"aeolosaurus",
+"alamosaurus",
 "rapetosaurus"
 ],
 "exampleMember":"rapetosaurus",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"eutitanosauria subclade 1",
 "eutitanosauria subclade 2",
-"rapetosaurus"
+"rapetosaurus",
+"eutitanosauria subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

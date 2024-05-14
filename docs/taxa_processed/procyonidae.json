@@ -5,9 +5,9 @@
 "name":"Procyonidae",
 "parentTaxon":"musteloidea subclade 2",
 "popularSubtaxa":[
-"kinkajou",
+"raccoon",
 "olinguito",
-"raccoon"
+"kinkajou"
 ],
 "exampleMember":"chapalmalania",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"chapalmalania",
+"procyonidae subclade 1",
 "kinkajou",
-"procyonidae subclade 1"
+"chapalmalania"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
+70,
 50,
-70
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

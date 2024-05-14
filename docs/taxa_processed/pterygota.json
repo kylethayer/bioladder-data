@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Pterygota",
 "subtaxa":[
-"neoptera",
-"palaeoptera"
+"palaeoptera",
+"neoptera"
 ],
 "popularAncestors":[
 "insect",
@@ -31,5 +31,11 @@
 "mayfly",
 "diaphanopterodea",
 "mazothairos"
-]
+],
+"popularSubtaxaPops":[
+50,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Dromomerycinae",
 "parentTaxon":"palaeomerycidae",
 "popularSubtaxa":[
-"procranioceras",
-"dromomeryx"
+"dromomeryx",
+"procranioceras"
 ],
 "exampleMember":"dromomeryx",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

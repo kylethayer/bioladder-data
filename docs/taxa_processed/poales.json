@@ -5,9 +5,9 @@
 "name":"Poales",
 "parentTaxon":"commelinids",
 "popularSubtaxa":[
+"corn",
 "pineapple",
-"grass",
-"corn"
+"water chestnut"
 ],
 "exampleMember":"bur-reed",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bromeliad clade",
-"poales subclade 1"
+"poales subclade 1",
+"bromeliad clade"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-75,
 80,
-80
-]
+75,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

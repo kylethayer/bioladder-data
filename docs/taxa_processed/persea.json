@@ -5,9 +5,9 @@
 "name":"Persea",
 "parentTaxon":"laurel",
 "popularSubtaxa":[
+"avocado",
 "large-flowered bay tree",
-"eriodaphne",
-"avocado"
+"eriodaphne"
 ],
 "exampleMember":"large-flowered bay tree",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "avocado",
-"eriodaphne",
-"large-flowered bay tree"
+"large-flowered bay tree",
+"eriodaphne"
 ],
 "popularAncestorPops":[
 55,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 55,
-10,
-70
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

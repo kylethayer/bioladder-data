@@ -5,8 +5,8 @@
 "name":"Oviraptoridae subclade 3",
 "parentTaxon":"oviraptoridae subclade 2",
 "popularSubtaxa":[
-"rinchenia",
-"citipati"
+"citipati",
+"rinchenia"
 ],
 "exampleMember":"rinchenia",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"citipati",
-"rinchenia"
+"rinchenia",
+"citipati"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

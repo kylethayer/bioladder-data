@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"bop clade",
-"pacmad clade"
+"pacmad clade",
+"bop clade"
 ],
 "popularAncestorPops":[
 80,
@@ -36,5 +36,6 @@
 80,
 75,
 75
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

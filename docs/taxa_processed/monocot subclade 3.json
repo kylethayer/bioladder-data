@@ -6,8 +6,8 @@
 "parentTaxon":"monocot subclade 2",
 "popularSubtaxa":[
 "banana",
-"yam",
-"grass"
+"onion",
+"yam"
 ],
 "exampleMember":"pandanales",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dioscoreales",
 "monocot subclade 4",
+"dioscoreales",
 "pandanales"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 80,
 80,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

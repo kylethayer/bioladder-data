@@ -5,9 +5,9 @@
 "name":"Commelinids sublcade 1",
 "parentTaxon":"commelinids",
 "popularSubtaxa":[
-"turmeric",
+"banana",
 "ginger",
-"banana"
+"bird of paradise flower"
 ],
 "exampleMember":"commelinales",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"commelinales",
-"zingiberales"
+"zingiberales",
+"commelinales"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
+80,
 65,
-80
-]
+55
+],
+"popularSubtaxaSameBranch":"0,2"
 }

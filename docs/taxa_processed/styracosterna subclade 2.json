@@ -6,8 +6,8 @@
 "parentTaxon":"styracosterna subclade 1",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"lanzhousaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

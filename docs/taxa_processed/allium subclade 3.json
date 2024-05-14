@@ -5,9 +5,9 @@
 "name":"Allium subclade 3",
 "parentTaxon":"allium subclade 2",
 "popularSubtaxa":[
-"pink lily leek",
+"leek",
 "black garlic",
-"leek"
+"pink lily leek"
 ],
 "exampleMember":"allium victorialis",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"allium victorialis",
 "melanocrommyum",
-"pink lily leek"
+"pink lily leek",
+"allium victorialis"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 50,
-50,
-60
-]
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

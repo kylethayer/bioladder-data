@@ -6,8 +6,8 @@
 "parentTaxon":"centrosaurinae subclade 3",
 "popularSubtaxa":[
 "pachyrhinosaurus",
-"sinoceratops",
-"einiosaurus"
+"einiosaurus",
+"sinoceratops"
 ],
 "exampleMember":"sinoceratops",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,9 +5,9 @@
 "name":"Caviinae",
 "parentTaxon":"caviidae",
 "popularSubtaxa":[
+"guinea pig",
 "galea",
-"microcavia",
-"guinea pig"
+"microcavia"
 ],
 "exampleMember":"galea",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 50,
-50,
-70
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

@@ -5,8 +5,8 @@
 "name":"Taxaceae",
 "parentTaxon":"conifer subclade 6",
 "popularSubtaxa":[
-"new caledonia yew",
-"common yew"
+"common yew",
+"new caledonia yew"
 ],
 "exampleMember":"new caledonia yew",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":""
 }

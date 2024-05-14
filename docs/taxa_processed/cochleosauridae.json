@@ -5,9 +5,9 @@
 "name":"Cochleosauridae",
 "parentTaxon":"edopoidea",
 "popularSubtaxa":[
+"chenoprosopus",
 "cochleosaurus",
-"nigerpeton",
-"chenoprosopus"
+"nigerpeton"
 ],
 "exampleMember":"cochleosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cochleosauridae subclade 1",
-"cochleosaurus"
+"cochleosaurus",
+"cochleosauridae subclade 1"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

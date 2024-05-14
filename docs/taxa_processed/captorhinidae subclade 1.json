@@ -5,8 +5,8 @@
 "name":"Captorhinidae subclade 1",
 "parentTaxon":"captorhinidae",
 "popularSubtaxa":[
-"labidosaurus",
-"labidosaurikos"
+"labidosaurikos",
+"labidosaurus"
 ],
 "exampleMember":"labidosaurus",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

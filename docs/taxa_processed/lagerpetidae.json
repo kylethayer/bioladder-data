@@ -5,9 +5,9 @@
 "name":"Lagerpetidae",
 "parentTaxon":"dinosauromorpha",
 "popularSubtaxa":[
-"lagerpeton",
 "dromomeron",
-"ixalerpeton"
+"ixalerpeton",
+"lagerpeton"
 ],
 "exampleMember":"lagerpeton",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

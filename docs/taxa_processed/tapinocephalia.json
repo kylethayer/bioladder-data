@@ -5,9 +5,9 @@
 "name":"Tapinocephalia",
 "parentTaxon":"dinocephalia",
 "popularSubtaxa":[
+"keratocephalus",
 "styracocephalus",
-"tapinocaninus",
-"struthiocephalus"
+"tapinocaninus"
 ],
 "exampleMember":"styracocephalus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Crocodylomorpha subclade 1",
 "parentTaxon":"crocodylomorpha",
 "popularSubtaxa":[
-"gharial",
 "alligator",
-"crocodile"
+"crocodile",
+"gharial"
 ],
 "exampleMember":"dibothrosuchus",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

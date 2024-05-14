@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"brachyrhinodon",
-"pleurosauridae"
+"pleurosauridae",
+"brachyrhinodon"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+50,
 10,
-10,
-50
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

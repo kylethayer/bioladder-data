@@ -6,8 +6,8 @@
 "parentTaxon":"ceratopsidae",
 "popularSubtaxa":[
 "pachyrhinosaurus",
-"diabloceratops",
-"styracosaurus"
+"avaceratops",
+"diabloceratops"
 ],
 "exampleMember":"diabloceratops",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

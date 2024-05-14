@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"coastal topi",
-"common tsessebe",
+"topi",
 "korrigum",
-"topi"
+"coastal topi",
+"common tsessebe"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 60,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

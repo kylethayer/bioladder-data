@@ -5,8 +5,8 @@
 "name":"Borhyaenoidea",
 "parentTaxon":"sparassodonta",
 "popularSubtaxa":[
-"prothylacynus",
-"thylacosmilus"
+"thylacosmilus",
+"prothylacynus"
 ],
 "exampleMember":"prothylacynus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"prothylacynus",
-"thylacosmilus"
+"thylacosmilus",
+"prothylacynus"
 ],
 "popularAncestorPops":[
 70,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-40
-]
+40,
+10
+],
+"popularSubtaxaSameBranch":""
 }

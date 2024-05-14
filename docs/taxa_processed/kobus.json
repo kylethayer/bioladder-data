@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"kob",
+"waterbuck",
 "lechwe",
 "nile lechwe",
 "puku",
-"waterbuck"
+"kob"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 60,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

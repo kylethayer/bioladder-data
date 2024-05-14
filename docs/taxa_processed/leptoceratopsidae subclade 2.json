@@ -6,8 +6,8 @@
 "parentTaxon":"leptoceratopsidae subclade 1",
 "popularSubtaxa":[
 "leptoceratops",
-"zhuchengceratops",
-"prenoceratops"
+"prenoceratops",
+"udanoceratops"
 ],
 "exampleMember":"prenoceratops",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

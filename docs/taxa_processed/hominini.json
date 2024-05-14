@@ -6,8 +6,8 @@
 "parentTaxon":"homininae",
 "popularSubtaxa":[
 "human",
-"neanderthal",
-"chimpanzee"
+"chimpanzee",
+"homo erectus"
 ],
 "exampleMember":"sahelanthropus tchadensis",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chimpanzee",
 "hominina",
+"chimpanzee",
 "sahelanthropus tchadensis"
 ],
 "popularAncestorPops":[
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-60,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

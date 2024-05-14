@@ -6,7 +6,7 @@
 "parentTaxon":"mustelidae",
 "popularSubtaxa":[
 "otter",
-"wolverine",
+"european badger",
 "honey badger"
 ],
 "exampleMember":"honey badger",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"honey badger",
-"mustelidae subclade 3"
+"mustelidae subclade 3",
+"honey badger"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 70,
 65,
 65
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

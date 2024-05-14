@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"mustelinae",
-"otter"
+"otter",
+"mustelinae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 70,
 65,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

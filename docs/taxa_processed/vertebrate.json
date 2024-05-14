@@ -5,9 +5,9 @@
 "name":"Vertebrate",
 "parentTaxon":"craniata",
 "popularSubtaxa":[
-"lamprey",
 "human",
-"dinosaur"
+"frog",
+"lamprey"
 ],
 "exampleMember":"jamoytius",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"conodont",
+"vertebrate subclade 1",
 "hyperoartia",
-"vertebrate subclade 1"
+"conodont"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 100,
-95
-]
+85,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

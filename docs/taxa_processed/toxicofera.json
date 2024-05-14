@@ -6,8 +6,8 @@
 "parentTaxon":"episquamata",
 "popularSubtaxa":[
 "snake",
-"mosasaur",
-"monitor lizard"
+"gila monster",
+"iguana"
 ],
 "exampleMember":"chinese water dragon",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 90,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

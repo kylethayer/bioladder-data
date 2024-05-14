@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"euthycarcinoidea",
-"mandibulata subclade 1"
+"mandibulata subclade 1",
+"euthycarcinoidea"
 ],
 "popularAncestorPops":[
 50,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-50,
-70
-]
+70,
+65
+],
+"popularSubtaxaSameBranch":"0,2"
 }

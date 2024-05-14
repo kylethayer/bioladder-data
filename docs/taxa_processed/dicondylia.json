@@ -31,5 +31,11 @@
 "mayfly",
 "diaphanopterodea",
 "mazothairos"
-]
+],
+"popularSubtaxaPops":[
+50,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

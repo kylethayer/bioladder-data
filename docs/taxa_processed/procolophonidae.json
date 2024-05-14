@@ -5,7 +5,7 @@
 "name":"Procolophonidae",
 "parentTaxon":"procolophonoidea",
 "popularSubtaxa":[
-"sclerosaurus",
+"hypsognathus",
 "leptopleuron",
 "procolophon"
 ],
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"leptopleuroninae",
-"procolophon"
+"procolophon",
+"leptopleuroninae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

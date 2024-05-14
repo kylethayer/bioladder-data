@@ -6,8 +6,8 @@
 "parentTaxon":"aegodontia",
 "popularSubtaxa":[
 "duiker",
-"reedbuck",
-"waterbuck"
+"waterbuck",
+"reedbuck"
 ],
 "exampleMember":"duiker",
 "exampleMemberType":"Example Member",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 60,
-50,
-60
-]
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

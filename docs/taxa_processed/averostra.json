@@ -5,9 +5,9 @@
 "name":"Averostra",
 "parentTaxon":"neotheropoda subclade 3",
 "popularSubtaxa":[
-"ceratosaurus",
 "bird",
-"tyrannosaurus"
+"spinosaurus",
+"carnotaurus"
 ],
 "exampleMember":"limusaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ceratosauria",
-"tetanurae"
+"tetanurae",
+"ceratosauria"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 95,
-85
-]
+60,
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

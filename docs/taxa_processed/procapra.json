@@ -5,8 +5,8 @@
 "name":"Procapra",
 "parentTaxon":"antilopini",
 "popularSubtaxa":[
-"mongolian gazelle",
 "goa",
+"mongolian gazelle",
 "przewalski's gazelle"
 ],
 "exampleMember":"mongolian gazelle",
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

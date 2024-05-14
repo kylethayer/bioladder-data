@@ -5,9 +5,9 @@
 "name":"Macropus",
 "parentTaxon":"macropodinae",
 "popularSubtaxa":[
-"western grey kangaroo",
+"red kangaroo",
 "eastern grey kangaroo",
-"red kangaroo"
+"western grey kangaroo"
 ],
 "exampleMember":"eastern grey kangaroo",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"osphranter",
 "macropus subgenus",
-"notamacropus",
-"osphranter"
+"notamacropus"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 75,
-75,
-80
-]
+75
+],
+"popularSubtaxaSameBranch":"0,2"
 }

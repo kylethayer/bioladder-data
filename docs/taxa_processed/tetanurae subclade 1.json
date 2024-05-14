@@ -5,9 +5,9 @@
 "name":"Tetanurae subclade 1",
 "parentTaxon":"tetanurae",
 "popularSubtaxa":[
-"spinosaurus",
 "bird",
-"tyrannosaurus"
+"allosaurus",
+"spinosaurus"
 ],
 "exampleMember":"monolophosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"monolophosaurus",
-"orionides"
+"orionides",
+"monolophosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 95,
-85
-]
+65,
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

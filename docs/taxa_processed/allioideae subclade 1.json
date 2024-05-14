@@ -5,9 +5,9 @@
 "name":"Allioideae subclade 1",
 "parentTaxon":"allioideae",
 "popularSubtaxa":[
-"tulbaghieae",
 "gilliesieae",
-"leucocorynae"
+"leucocorynae",
+"tulbaghieae"
 ],
 "exampleMember":"tulbaghieae",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 30,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

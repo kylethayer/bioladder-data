@@ -5,9 +5,9 @@
 "name":"Stereospondylomorpha",
 "parentTaxon":"eryopiformes",
 "popularSubtaxa":[
-"sclerocephalus",
 "archegosaurus",
-"australerpeton"
+"australerpeton",
+"sclerocephalus"
 ],
 "exampleMember":"sclerocephalus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

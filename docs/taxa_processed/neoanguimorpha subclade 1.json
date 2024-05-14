@@ -5,8 +5,8 @@
 "name":"Neoanguimorpha subclade 1",
 "parentTaxon":"neoanguimorpha",
 "popularSubtaxa":[
-"knob-scaled lizard",
 "american legless lizard",
+"knob-scaled lizard",
 "anguidae"
 ],
 "exampleMember":"knob-scaled lizard",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"anguioidea",
-"knob-scaled lizard"
+"knob-scaled lizard",
+"anguioidea"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 50,
 50,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

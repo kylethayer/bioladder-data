@@ -5,9 +5,9 @@
 "name":"Deomyinae",
 "parentTaxon":"muridae",
 "popularSubtaxa":[
-"spiny mouse",
 "brush-furred mouse",
-"rudd's mouse"
+"rudd's mouse",
+"spiny mouse"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"brush-furred mouse",
 "rudd's mouse",
-"spiny mouse"
+"spiny mouse",
+"brush-furred mouse"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

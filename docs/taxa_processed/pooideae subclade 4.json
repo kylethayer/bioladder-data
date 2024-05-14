@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"meliceae",
-"pooideae subclade 5"
+"pooideae subclade 5",
+"meliceae"
 ],
 "popularAncestorPops":[
 80,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
+75,
 60,
-75
-]
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

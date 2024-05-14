@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"byronosaurus",
+"troodontidae subclade 3",
 "jinfengopteryx",
 "mei",
 "sinornithoides",
-"troodontidae subclade 3",
-"xixiasaurus"
+"xixiasaurus",
+"byronosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -37,8 +37,9 @@
 100
 ],
 "popularSubtaxaPops":[
+20,
 10,
-10,
-20
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

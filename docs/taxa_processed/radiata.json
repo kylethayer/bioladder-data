@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "jellyfish",
 "ctenophora",
-"cnidaria"
+"anthozoa"
 ],
 "exampleMember":"tribrachidium",
 "exampleMemberType":"Early Member",
@@ -35,6 +35,8 @@
 ],
 "popularSubtaxaPops":[
 80,
-30
-]
+30,
+""
+],
+"popularSubtaxaSameBranch":"0,2"
 }

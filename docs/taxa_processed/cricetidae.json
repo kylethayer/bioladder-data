@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"arvicolinae",
 "hamster",
+"arvicolinae",
 "neotominae",
 "sigmodontinae",
 "tylomyinae"
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
-65,
 75,
+65,
 65
-]
+],
+"popularSubtaxaSameBranch":""
 }

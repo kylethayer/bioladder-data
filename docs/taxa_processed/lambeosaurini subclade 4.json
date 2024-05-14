@@ -5,8 +5,8 @@
 "name":"Lambeosaurini subclade 4",
 "parentTaxon":"lambeosaurini subclade 3",
 "popularSubtaxa":[
-"velafrons",
-"amurosaurus"
+"amurosaurus",
+"velafrons"
 ],
 "exampleMember":"velafrons",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"amurosaurus",
-"velafrons"
+"velafrons",
+"amurosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

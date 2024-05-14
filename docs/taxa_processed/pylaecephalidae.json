@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"diictodon",
-"pylaecephalidae subclade 1"
+"pylaecephalidae subclade 1",
+"diictodon"
 ],
 "popularAncestorPops":[
 35,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

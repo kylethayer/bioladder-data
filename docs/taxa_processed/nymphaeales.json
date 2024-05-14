@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"cabombaceae",
+"water lily",
 "trithuria",
-"water lily"
+"cabombaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 65,
+50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

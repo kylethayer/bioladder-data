@@ -5,9 +5,9 @@
 "name":"Kistecephalia",
 "parentTaxon":"diictodontia",
 "popularSubtaxa":[
+"cistecephalus",
 "dicynodontoides",
-"myosaurus",
-"cistecephalus"
+"myosaurus"
 ],
 "exampleMember":"dicynodontoides",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

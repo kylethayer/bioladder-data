@@ -5,9 +5,9 @@
 "name":"Tapinocephalini",
 "parentTaxon":"tapinocephalinae",
 "popularSubtaxa":[
-"ulemosaurus",
-"tapinocephalus",
-"keratocephalus"
+"keratocephalus",
+"moschops",
+"tapinocephalus"
 ],
 "exampleMember":"ulemosaurus",
 "exampleMemberType":"Example Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

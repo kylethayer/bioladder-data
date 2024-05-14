@@ -6,8 +6,8 @@
 "parentTaxon":"eutheriodontia",
 "popularSubtaxa":[
 "human",
-"dog",
-"mammal"
+"koala",
+"platypus"
 ],
 "exampleMember":"charassognathus",
 "exampleMemberType":"Earliest Known Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"charassognathus",
-"eucynodontia"
+"eucynodontia",
+"charassognathus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
+80,
 70
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

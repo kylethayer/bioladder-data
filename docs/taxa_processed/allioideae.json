@@ -5,9 +5,9 @@
 "name":"Allioideae",
 "parentTaxon":"amaryllidaceae sl subclade 1",
 "popularSubtaxa":[
-"garlic",
 "onion",
-"tulbaghieae"
+"canada onion",
+"gilliesieae"
 ],
 "exampleMember":"tulbaghieae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"allioideae subclade 1",
-"allium"
+"allium",
+"allioideae subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-70,
 80,
+50,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

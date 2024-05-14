@@ -5,8 +5,8 @@
 "name":"Placodontia subclade 1",
 "parentTaxon":"placodontia",
 "popularSubtaxa":[
-"placodus",
 "cyamodus",
+"placodus",
 "psephoderma"
 ],
 "exampleMember":"placodus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"cyamodontoidea",
-"placodus"
+"placodus",
+"cyamodontoidea"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

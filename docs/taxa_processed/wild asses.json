@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "donkey",
 "persian onager",
-"turkmenian kulan"
+"somali wild ass"
 ],
 "exampleMember":"kiang",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"wild asses subclade 1",
-"wild asses subclade 3"
+"wild asses subclade 3",
+"wild asses subclade 1"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

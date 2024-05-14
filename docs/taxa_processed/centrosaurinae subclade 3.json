@@ -6,8 +6,8 @@
 "parentTaxon":"centrosaurinae subclade 2",
 "popularSubtaxa":[
 "pachyrhinosaurus",
-"styracosaurus",
-"spinops"
+"centrosaurus",
+"rubeosaurus"
 ],
 "exampleMember":"rubeosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"centrosaurinae subclade 4",
-"pachyrhinosaurini"
+"pachyrhinosaurini",
+"centrosaurinae subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

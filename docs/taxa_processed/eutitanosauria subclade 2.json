@@ -5,9 +5,9 @@
 "name":"Eutitanosauria subclade 2",
 "parentTaxon":"eutitanosauria",
 "popularSubtaxa":[
-"opisthocoelicaudia",
-"saltasaurinae",
-"isisaurus"
+"alamosaurus",
+"isisaurus",
+"opisthocoelicaudia"
 ],
 "exampleMember":"isisaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"opisthocoelicaudiinae",
-"saltasaurinae"
+"saltasaurinae",
+"opisthocoelicaudiinae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

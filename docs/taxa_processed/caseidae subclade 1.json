@@ -5,8 +5,8 @@
 "name":"Caseidae subclade 1",
 "parentTaxon":"caseidae",
 "popularSubtaxa":[
-"ennatosaurus",
-"cotylorhynchus"
+"cotylorhynchus",
+"ennatosaurus"
 ],
 "exampleMember":"ennatosaurus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

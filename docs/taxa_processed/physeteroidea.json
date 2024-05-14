@@ -6,8 +6,8 @@
 "parentTaxon":"toothed whale",
 "popularSubtaxa":[
 "sperm whale",
-"pygmy sperm whale",
-"dwarf sperm whale"
+"dwarf sperm whale",
+"pygmy sperm whale"
 ],
 "exampleMember":"aulophyseter",
 "exampleMemberType":"Early Member",
@@ -23,12 +23,12 @@
 "life"
 ],
 "subtaxa":[
-"aulophyseter",
-"brygmophyseter",
-"kogiidae",
-"livyatan melvillei",
 "physeteridae",
-"zygophyseter"
+"kogiidae",
+"brygmophyseter",
+"livyatan melvillei",
+"zygophyseter",
+"aulophyseter"
 ],
 "popularAncestorPops":[
 60,
@@ -40,5 +40,6 @@
 65,
 20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

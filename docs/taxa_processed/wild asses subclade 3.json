@@ -5,8 +5,8 @@
 "name":"Wild asses subclade 3",
 "parentTaxon":"wild asses",
 "popularSubtaxa":[
-"somali wild ass",
-"donkey"
+"donkey",
+"somali wild ass"
 ],
 "exampleMember":"somali wild ass",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":""
 }

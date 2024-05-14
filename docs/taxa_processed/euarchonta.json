@@ -6,7 +6,7 @@
 "parentTaxon":"euarchontoglires",
 "popularSubtaxa":[
 "human",
-"chimpanzee",
+"lemur",
 "treeshrew"
 ],
 "exampleMember":"plesiadapis",
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

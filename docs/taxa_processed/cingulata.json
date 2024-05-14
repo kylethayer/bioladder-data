@@ -5,9 +5,9 @@
 "name":"Cingulata",
 "parentTaxon":"xenarthra",
 "popularSubtaxa":[
+"armadillo",
 "glyptodon",
-"holmesina",
-"armadillo"
+"holmesina"
 ],
 "exampleMember":"glyptodon",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+70,
 20,
-10,
-70
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

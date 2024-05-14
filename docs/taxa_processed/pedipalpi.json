@@ -6,8 +6,8 @@
 "parentTaxon":"schizotarsata",
 "popularSubtaxa":[
 "amblypygi",
-"thelyphonida",
-"schizomida"
+"schizomida",
+"thelyphonida"
 ],
 "exampleMember":"amblypygi",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"amblypygi",
-"uropygids"
+"uropygids",
+"amblypygi"
 ],
 "popularAncestorPops":[
 60,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

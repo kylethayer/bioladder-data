@@ -6,8 +6,8 @@
 "parentTaxon":"styracosterna subclade 2",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"iguanodon",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hadrosauroidea",
-"iguanodontidae"
+"iguanodontidae",
+"hadrosauroidea"
 ],
 "popularAncestorPops":[
 20,
@@ -36,5 +36,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

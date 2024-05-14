@@ -23,13 +23,13 @@
 "life"
 ],
 "subtaxa":[
-"arabian tahr",
-"barbary sheep",
+"ovis",
 "capra",
+"barbary sheep",
 "himalayan tahr",
 "nilgiri tahr",
-"ovis",
-"pseudois"
+"pseudois",
+"arabian tahr"
 ],
 "popularAncestorPops":[
 70,
@@ -38,8 +38,9 @@
 100
 ],
 "popularSubtaxaPops":[
-80,
 90,
+80,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

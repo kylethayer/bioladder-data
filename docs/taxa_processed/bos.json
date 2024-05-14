@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "cattle",
 "domestic yak",
-"gaur"
+"banteng"
 ],
 "exampleMember":"aurochs",
 "exampleMemberType":"Early Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"bibos",
 "bos primigenius",
+"poephagus",
 "kouprey",
-"poephagus"
+"bibos"
 ],
 "popularAncestorPops":[
 70,
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 85,
-50,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":""
 }

@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "beaver",
 "gopher",
-"kangaroo rat"
+"kangaroo mouse"
 ],
 "exampleMember":"palaeocastor",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"castoridae",
-"geomorpha"
+"geomorpha",
+"castoridae"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 70,
 70,
 65
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

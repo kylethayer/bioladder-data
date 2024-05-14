@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"alpaca",
-"vicuña"
+"vicuña",
+"alpaca"
 ],
 "popularAncestorPops":[
 70,
@@ -32,6 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-40
-]
+40,
+""
+],
+"popularSubtaxaSameBranch":""
 }

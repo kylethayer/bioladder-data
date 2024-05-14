@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"wolverine",
 "marten",
-"tayra",
-"wolverine"
+"tayra"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 65,
 50,
 20
-]
+],
+"popularSubtaxaSameBranch":""
 }

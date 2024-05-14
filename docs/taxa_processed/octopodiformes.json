@@ -5,9 +5,9 @@
 "name":"Octopodiformes",
 "parentTaxon":"neocoleoidea",
 "popularSubtaxa":[
-"trachyteuthis",
+"octopus",
 "vampire squid",
-"octopus"
+"trachyteuthis"
 ],
 "exampleMember":"trachyteuthis",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "octopus",
-"trachyteuthis",
-"vampire squid"
+"vampire squid",
+"trachyteuthis"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+75,
 40,
-75
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

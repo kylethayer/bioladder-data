@@ -6,8 +6,8 @@
 "parentTaxon":"theria",
 "popularSubtaxa":[
 "human",
-"dog",
-"asian elephant"
+"african elephant",
+"anteater"
 ],
 "exampleMember":"juramaia",
 "exampleMemberType":"Earliest Known Member",
@@ -25,8 +25,8 @@
 "life"
 ],
 "subtaxa":[
-"afrotheria",
 "exafroplacentalia",
+"afrotheria",
 "juramaia"
 ],
 "popularAncestorPops":[
@@ -37,7 +37,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-91,
-85
-]
+85,
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

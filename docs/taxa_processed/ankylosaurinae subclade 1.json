@@ -5,8 +5,8 @@
 "name":"Ankylosaurinae subclade 1",
 "parentTaxon":"ankylosaurinae",
 "popularSubtaxa":[
-"euoplocephalus",
-"ankylosaurus"
+"ankylosaurus",
+"euoplocephalus"
 ],
 "exampleMember":"euoplocephalus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-70
-]
+70,
+10
+],
+"popularSubtaxaSameBranch":""
 }

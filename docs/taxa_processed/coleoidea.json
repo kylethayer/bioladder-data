@@ -6,8 +6,8 @@
 "parentTaxon":"cephalopod",
 "popularSubtaxa":[
 "octopus",
-"cuttlefish",
-"squid"
+"squid",
+"cuttlefish"
 ],
 "exampleMember":"belemnoidea",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"belemnoidea",
-"neocoleoidea"
+"neocoleoidea",
+"belemnoidea"
 ],
 "popularAncestorPops":[
 40,
@@ -34,7 +34,8 @@
 ],
 "popularSubtaxaPops":[
 75,
-60,
-70
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
 }

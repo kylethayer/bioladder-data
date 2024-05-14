@@ -5,9 +5,9 @@
 "name":"Testudinata subclade 1",
 "parentTaxon":"testudinata",
 "popularSubtaxa":[
+"turtle",
 "kayentachelys",
-"niolamia",
-"turtle"
+"meiolania"
 ],
 "exampleMember":"kayentachelys",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"kayentachelys",
-"testudinata subclade 2"
+"testudinata subclade 2",
+"kayentachelys"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 10,
-10,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

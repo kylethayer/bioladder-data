@@ -5,8 +5,8 @@
 "name":"Bassaricyon subclade 2",
 "parentTaxon":"bassaricyon subclade 1",
 "popularSubtaxa":[
-"western lowland olingo",
-"eastern lowland olingo"
+"eastern lowland olingo",
+"western lowland olingo"
 ],
 "exampleMember":"western lowland olingo",
 "exampleMemberType":"Example Member",
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":""
 }

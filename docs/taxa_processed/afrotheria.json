@@ -5,9 +5,9 @@
 "name":"Afrotheria",
 "parentTaxon":"placentalia",
 "popularSubtaxa":[
-"asian elephant",
+"african elephant",
 "aardvark",
-"african elephant"
+"elephant shrew"
 ],
 "exampleMember":"ocepeia",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"paenungulata",
 "afroinsectiphilia",
-"ocepeia",
-"paenungulata"
+"ocepeia"
 ],
 "popularAncestorPops":[
 70,
@@ -36,6 +36,7 @@
 "popularSubtaxaPops":[
 85,
 60,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

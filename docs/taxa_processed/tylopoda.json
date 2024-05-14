@@ -5,9 +5,9 @@
 "name":"Tylopoda",
 "parentTaxon":"cetartiodactyla",
 "popularSubtaxa":[
+"camel",
 "llama",
-"vicugna",
-"camel"
+"vicugna"
 ],
 "exampleMember":"agriochoerus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"agriochoerus",
 "camelinae",
+"agriochoerus",
 "merycoidodontidae",
 "xiphodontidae"
 ],
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 70,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

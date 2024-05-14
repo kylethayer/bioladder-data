@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"akidnognathidae subclade 1",
-"annatherapsidus"
+"annatherapsidus",
+"akidnognathidae subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

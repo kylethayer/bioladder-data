@@ -6,8 +6,8 @@
 "parentTaxon":"eureptilia",
 "popularSubtaxa":[
 "captorhinus",
-"paleothyris",
-"labidosaurus"
+"labidosaurikos",
+"paleothyris"
 ],
 "exampleMember":"paleothyris",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"captorhinidae",
-"paleothyris"
+"paleothyris",
+"captorhinidae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

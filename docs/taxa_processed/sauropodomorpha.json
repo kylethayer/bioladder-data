@@ -6,8 +6,8 @@
 "parentTaxon":"saurischia",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"saturnalia",
 "exampleMemberType":"Basal Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"saturnalia",
-"sauropodomorpha subclade 1"
+"sauropodomorpha subclade 1",
+"saturnalia"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

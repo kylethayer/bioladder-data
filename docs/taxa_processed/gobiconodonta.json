@@ -5,9 +5,9 @@
 "name":"Gobiconodonta",
 "parentTaxon":"holotheria",
 "popularSubtaxa":[
-"spinolestes",
+"gobiconodon",
 "repenomamus",
-"gobiconodon"
+"spinolestes"
 ],
 "exampleMember":"repenomamus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gobiconodonta subclade 1",
-"spinolestes"
+"spinolestes",
+"gobiconodonta subclade 1"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

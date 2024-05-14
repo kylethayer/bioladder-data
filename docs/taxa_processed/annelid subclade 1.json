@@ -5,8 +5,8 @@
 "name":"Annelid subclade 1",
 "parentTaxon":"annelid",
 "popularSubtaxa":[
-"echiura",
 "clitellata",
+"echiura",
 "siboglinidae"
 ],
 "exampleMember":"echiura",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

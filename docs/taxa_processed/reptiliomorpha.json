@@ -6,8 +6,8 @@
 "parentTaxon":"tetrapod",
 "popularSubtaxa":[
 "human",
-"dinosaur",
-"bird"
+"bird",
+"snake"
 ],
 "exampleMember":"eoherpeton",
 "exampleMemberType":"Early Member",
@@ -35,6 +35,7 @@
 "popularSubtaxaPops":[
 100,
 95,
-95
-]
+90
+],
+"popularSubtaxaSameBranch":"0,2"
 }

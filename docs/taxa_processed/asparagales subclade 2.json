@@ -6,8 +6,8 @@
 "parentTaxon":"asparagales subclade 1",
 "popularSubtaxa":[
 "blandfordia",
-"boryaceae",
-"asteliaceae"
+"asteliaceae",
+"boryaceae"
 ],
 "exampleMember":"boryaceae",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"boryaceae",
-"hypoxidaceae sl"
+"hypoxidaceae sl",
+"boryaceae"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 30,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

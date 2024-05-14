@@ -5,9 +5,9 @@
 "name":"Strepsicerotini subclade 4",
 "parentTaxon":"strepsicerotini subclade 2",
 "popularSubtaxa":[
+"bongo",
 "greater kudu",
-"mountain nyala",
-"bongo"
+"mountain nyala"
 ],
 "exampleMember":"greater kudu",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"greater kudu",
-"strepsicerotini subclade 5"
+"strepsicerotini subclade 5",
+"greater kudu"
 ],
 "popularAncestorPops":[
 70,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

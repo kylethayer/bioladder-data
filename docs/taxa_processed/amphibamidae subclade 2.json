@@ -5,8 +5,8 @@
 "name":"Amphibamidae subclade 2",
 "parentTaxon":"amphibamidae subclade 1",
 "popularSubtaxa":[
-"salamander",
 "frog",
+"salamander",
 "caecilian"
 ],
 "exampleMember":"gerobatrachus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gerobatrachus",
-"lissamphibia"
+"lissamphibia",
+"gerobatrachus"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
 85,
+60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

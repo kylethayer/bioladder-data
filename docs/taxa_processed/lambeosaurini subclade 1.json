@@ -5,9 +5,9 @@
 "name":"Lambeosaurini subclade 1",
 "parentTaxon":"lambeosaurini",
 "popularSubtaxa":[
+"amurosaurus",
 "corythosaurus",
-"hypacrosaurus",
-"magnapaulia"
+"hypacrosaurus"
 ],
 "exampleMember":"corythosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"corythosaurus",
-"lambeosaurini subclade 2"
+"lambeosaurini subclade 2",
+"corythosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

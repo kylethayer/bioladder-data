@@ -5,9 +5,9 @@
 "name":"Procolophonia subclade 1",
 "parentTaxon":"procolophonia",
 "popularSubtaxa":[
+"hypsognathus",
 "nyctiphruretus",
-"owenetta",
-"sclerosaurus"
+"owenetta"
 ],
 "exampleMember":"nyctiphruretus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"nyctiphruretus",
-"procolophonoidea"
+"procolophonoidea",
+"nyctiphruretus"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,8 +5,8 @@
 "name":"Phacochoerus",
 "parentTaxon":"phacochoerini",
 "popularSubtaxa":[
-"desert warthog",
-"common warthog"
+"common warthog",
+"desert warthog"
 ],
 "exampleMember":"desert warthog",
 "exampleMemberType":"Example Member",
@@ -34,7 +34,8 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
-70
-]
+70,
+60
+],
+"popularSubtaxaSameBranch":""
 }

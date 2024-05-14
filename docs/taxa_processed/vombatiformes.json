@@ -5,9 +5,9 @@
 "name":"Vombatiformes",
 "parentTaxon":"diprotodontia",
 "popularSubtaxa":[
+"koala",
 "wombat",
-"diprotodon",
-"koala"
+"diprotodon"
 ],
 "exampleMember":"koala",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"diprotodontoidea",
 "koala",
-"wombat"
+"wombat",
+"diprotodontoidea"
 ],
 "popularAncestorPops":[
 70,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 60,
-30,
-80
-]
+30
+],
+"popularSubtaxaSameBranch":""
 }

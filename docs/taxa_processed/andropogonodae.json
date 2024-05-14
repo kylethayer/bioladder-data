@@ -5,9 +5,9 @@
 "name":"Andropogonodae",
 "parentTaxon":"panicoideae subclade 3",
 "popularSubtaxa":[
-"arundinelleae",
+"corn",
 "sugarcane",
-"corn"
+"arundinelleae"
 ],
 "exampleMember":"arundinelleae",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
+80,
 65,
-80
-]
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -5,8 +5,8 @@
 "name":"Poposauroidea",
 "parentTaxon":"paracrocodylomorpha",
 "popularSubtaxa":[
-"arizonasaurus",
 "poposaurus",
+"arizonasaurus",
 "shuvosaurus"
 ],
 "exampleMember":"qianosuchus",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ctenosauriscidae",
 "poposauroidea subclade 1",
+"ctenosauriscidae",
 "qianosuchus"
 ],
 "popularAncestorPops":[
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 30,
+20,
 20
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

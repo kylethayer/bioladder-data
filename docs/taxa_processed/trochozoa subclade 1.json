@@ -5,9 +5,9 @@
 "name":"Trochozoa subclade 1",
 "parentTaxon":"trochozoa",
 "popularSubtaxa":[
-"mollusk",
 "octopus",
-"squid"
+"nautilus",
+"tusk shell"
 ],
 "exampleMember":"sipuncula",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"annelid",
-"trochozoa subclade 2"
+"trochozoa subclade 2",
+"annelid"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 75,
-70
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

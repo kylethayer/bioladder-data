@@ -5,9 +5,9 @@
 "name":"Olfactores",
 "parentTaxon":"chordate",
 "popularSubtaxa":[
-"hagfish",
 "human",
-"dinosaur"
+"frog",
+"hagfish"
 ],
 "exampleMember":"haikouella",
 "exampleMemberType":"Early Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 100,
-95
-]
+85,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

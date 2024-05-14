@@ -5,9 +5,9 @@
 "name":"Parasitiformes",
 "parentTaxon":"arachnid",
 "popularSubtaxa":[
+"tick",
 "holothyrida",
-"mesostigmata",
-"tick"
+"mesostigmata"
 ],
 "exampleMember":"holothyrida",
 "exampleMemberType":"Example Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"tick",
 "holothyrida",
-"mesostigmata",
-"tick"
+"mesostigmata"
 ],
 "popularAncestorPops":[
 60,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 10,
-10,
-60
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

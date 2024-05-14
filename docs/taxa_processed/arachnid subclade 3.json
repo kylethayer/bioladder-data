@@ -5,9 +5,9 @@
 "name":"Arachnid subclade 3",
 "parentTaxon":"arachnid",
 "popularSubtaxa":[
+"spider",
 "pseudoscorpion",
-"scorpion",
-"spider"
+"scorpion"
 ],
 "exampleMember":"pseudoscorpion",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+80,
 50,
-50,
-80
-]
+50
+],
+"popularSubtaxaSameBranch":""
 }

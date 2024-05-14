@@ -5,9 +5,9 @@
 "name":"Lepidosauromorpha subclade 1",
 "parentTaxon":"lepidosauromorpha",
 "popularSubtaxa":[
-"tuatara",
 "snake",
-"gecko"
+"gecko",
+"tuatara"
 ],
 "exampleMember":"gephyrosaurus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"kuehneosauridae",
-"lepidosauria"
+"lepidosauria",
+"kuehneosauridae"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 90,
-70
-]
+70,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

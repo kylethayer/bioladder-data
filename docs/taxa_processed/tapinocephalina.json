@@ -5,8 +5,8 @@
 "name":"Tapinocephalina",
 "parentTaxon":"tapinocephalini",
 "popularSubtaxa":[
-"tapinocephalus",
-"keratocephalus"
+"keratocephalus",
+"tapinocephalus"
 ],
 "exampleMember":"tapinocephalus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"keratocephalus",
-"tapinocephalus"
+"tapinocephalus",
+"keratocephalus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

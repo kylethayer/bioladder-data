@@ -6,8 +6,8 @@
 "parentTaxon":"thunnosauria subclade 1",
 "popularSubtaxa":[
 "ophthalmosaurinae",
-"chacaicosaurus",
-"brachypterygius"
+"brachypterygius",
+"chacaicosaurus"
 ],
 "exampleMember":"chacaicosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"chacaicosaurus",
-"ophthalmosauridae"
+"ophthalmosauridae",
+"chacaicosaurus"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 30,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

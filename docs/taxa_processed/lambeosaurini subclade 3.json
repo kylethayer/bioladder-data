@@ -5,9 +5,9 @@
 "name":"Lambeosaurini subclade 3",
 "parentTaxon":"lambeosaurini subclade 2",
 "popularSubtaxa":[
+"amurosaurus",
 "magnapaulia",
-"velafrons",
-"amurosaurus"
+"velafrons"
 ],
 "exampleMember":"magnapaulia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"lambeosaurini subclade 4",
-"magnapaulia"
+"magnapaulia",
+"lambeosaurini subclade 4"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

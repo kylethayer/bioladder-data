@@ -5,8 +5,8 @@
 "name":"Spalacidae",
 "parentTaxon":"muroidea",
 "popularSubtaxa":[
-"blind mole rats",
 "bamboo rat",
+"blind mole rats",
 "zokor"
 ],
 "exampleMember":"zokor",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"zokor",
 "blind mole rats",
-"rhizomyinae",
-"zokor"
+"rhizomyinae"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

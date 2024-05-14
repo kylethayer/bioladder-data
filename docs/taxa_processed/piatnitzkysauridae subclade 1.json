@@ -5,8 +5,8 @@
 "name":"Piatnitzkysauridae subclade 1",
 "parentTaxon":"piatnitzkysauridae",
 "popularSubtaxa":[
-"condorraptor",
-"piatnitzkysaurus"
+"piatnitzkysaurus",
+"condorraptor"
 ],
 "exampleMember":"condorraptor",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"condorraptor",
-"piatnitzkysaurus"
+"piatnitzkysaurus",
+"condorraptor"
 ],
 "popularAncestorPops":[
 40,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

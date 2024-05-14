@@ -5,9 +5,9 @@
 "name":"Maniraptoriformes",
 "parentTaxon":"coelurosauria subclade 1",
 "popularSubtaxa":[
+"bird",
 "velociraptor",
-"gallimimus",
-"bird"
+"gallimimus"
 ],
 "exampleMember":"nqwebasaurus",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+95,
 75,
-60,
-95
-]
+60
+],
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
-"erlikosaurus",
+"therizinosaurus",
 "nothronychus",
 "segnosaurus",
 "suzhousaurus",
-"therizinosaurus"
+"erlikosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -36,8 +36,9 @@
 100
 ],
 "popularSubtaxaPops":[
+40,
 10,
-10,
-40
-]
+10
+],
+"popularSubtaxaSameBranch":""
 }

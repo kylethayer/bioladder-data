@@ -5,9 +5,9 @@
 "name":"Aristolochiaceae",
 "parentTaxon":"piperales",
 "popularSubtaxa":[
-"prosopanche",
 "aristolochia",
-"wild ginger"
+"wild ginger",
+"hydnora"
 ],
 "exampleMember":"aristolochia",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"aristolochia",
 "asaroideae",
+"aristolochia",
 "hydnoroideae",
 "lactoris"
 ],
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 55,
-55
-]
+55,
+50
+],
+"popularSubtaxaSameBranch":""
 }

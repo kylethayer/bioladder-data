@@ -12,9 +12,9 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Palaeodictyoptera",
 "subtaxa":[
-"diaphanopterodea",
 "mazothairos",
-"megasecoptera"
+"megasecoptera",
+"diaphanopterodea"
 ],
 "popularAncestors":[
 "insect",
@@ -32,5 +32,11 @@
 "diaphanopterodea",
 "mazothairos",
 "megasecoptera"
-]
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":""
 }

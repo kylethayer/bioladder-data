@@ -5,8 +5,8 @@
 "name":"Poephagus",
 "parentTaxon":"bos",
 "popularSubtaxa":[
-"wild yak",
-"domestic yak"
+"domestic yak",
+"wild yak"
 ],
 "exampleMember":"wild yak",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
-80
-]
+80,
+60
+],
+"popularSubtaxaSameBranch":""
 }

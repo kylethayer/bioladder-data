@@ -5,8 +5,8 @@
 "name":"Carcharodontosauria",
 "parentTaxon":"allosauria",
 "popularSubtaxa":[
-"carcharodontosaurus",
 "giganotosaurus",
+"carcharodontosaurus",
 "megaraptor"
 ],
 "exampleMember":"deltadromeus",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
 50,
+40,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

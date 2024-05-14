@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"microcycas",
-"zamia"
+"zamia",
+"microcycas"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

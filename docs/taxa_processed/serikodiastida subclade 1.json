@@ -5,8 +5,8 @@
 "name":"Serikodiastida subclade 1",
 "parentTaxon":"serikodiastida",
 "popularSubtaxa":[
-"idmonarachne",
-"spider"
+"spider",
+"idmonarachne"
 ],
 "exampleMember":"idmonarachne",
 "exampleMemberType":"Early Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"idmonarachne",
-"spider"
+"spider",
+"idmonarachne"
 ],
 "popularAncestorPops":[
 60,
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-80
-]
+80,
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"homo subclade 3",
 "homo floresiensis",
-"homo habilis",
-"homo subclade 3"
+"homo habilis"
 ],
 "popularAncestorPops":[
 60,
@@ -37,5 +37,6 @@
 100,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

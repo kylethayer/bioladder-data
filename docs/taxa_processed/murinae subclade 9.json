@@ -6,7 +6,7 @@
 "parentTaxon":"murinae subclade 5",
 "popularSubtaxa":[
 "mouse",
-"southern multimammate mouse",
+"dalton's mouse",
 "natal multimammate mouse"
 ],
 "exampleMember":"mouse",
@@ -36,5 +36,6 @@
 85,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -5,9 +5,9 @@
 "name":"Sarcopterygii",
 "parentTaxon":"bony fish",
 "popularSubtaxa":[
-"lungfish",
 "human",
-"dinosaur"
+"frog",
+"lungfish"
 ],
 "exampleMember":"strunius",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"actinistia",
+"rhipidistia",
 "onychodontidae",
-"rhipidistia"
+"actinistia"
 ],
 "popularAncestorPops":[
 60,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 100,
-95
-]
+85,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

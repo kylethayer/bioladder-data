@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ferret-badger",
-"mustelidae subclade 6"
+"mustelidae subclade 6",
+"ferret-badger"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 70,
 65,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

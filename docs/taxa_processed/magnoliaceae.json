@@ -5,9 +5,9 @@
 "name":"Magnoliaceae",
 "parentTaxon":"magnoliales subclade 1",
 "popularSubtaxa":[
+"magnolia",
 "tulip tree",
-"michelia",
-"magnolia"
+"michelia"
 ],
 "exampleMember":"tulip tree",
 "exampleMemberType":"Example Member",
@@ -24,8 +24,8 @@
 ],
 "subtaxa":[
 "magnolieae",
-"michelia",
-"tulip tree"
+"tulip tree",
+"michelia"
 ],
 "popularAncestorPops":[
 40,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
+60,
 55,
-40,
-60
-]
+40
+],
+"popularSubtaxaSameBranch":""
 }

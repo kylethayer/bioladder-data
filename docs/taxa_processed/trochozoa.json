@@ -5,9 +5,9 @@
 "name":"Trochozoa",
 "parentTaxon":"lophotrochozoa",
 "popularSubtaxa":[
-"mollusk",
 "octopus",
-"squid"
+"nautilus",
+"tusk shell"
 ],
 "exampleMember":"nemertea",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"nemertea",
-"trochozoa subclade 1"
+"trochozoa subclade 1",
+"nemertea"
 ],
 "popularAncestorPops":[
 40,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 75,
-70
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }

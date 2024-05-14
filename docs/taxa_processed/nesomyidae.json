@@ -5,9 +5,9 @@
 "name":"Nesomyidae",
 "parentTaxon":"eumuroida",
 "popularSubtaxa":[
-"pouched rat",
 "climbing mice",
-"malagasy rats and mice"
+"malagasy rats and mice",
+"pouched rat"
 ],
 "exampleMember":"",
 "exampleMemberType":"",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"climbing mice",
 "malagasy rats and mice",
-"pouched rat"
+"pouched rat",
+"climbing mice"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

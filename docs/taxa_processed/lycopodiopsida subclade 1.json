@@ -6,7 +6,7 @@
 "parentTaxon":"lycopodiopsida",
 "popularSubtaxa":[
 "clubmoss",
-"spikemoss",
+"firmoss",
 "quillwort"
 ],
 "exampleMember":"baragwanathia",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"baragwanathia",
-"lycopodiopsida subclade 2"
+"lycopodiopsida subclade 2",
+"baragwanathia"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

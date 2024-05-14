@@ -5,8 +5,8 @@
 "name":"Stegosauria subclade 2",
 "parentTaxon":"stegosauria subclade 1",
 "popularSubtaxa":[
-"hesperosaurus",
-"dacentrurus"
+"dacentrurus",
+"hesperosaurus"
 ],
 "exampleMember":"dacentrurus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"dacentrurus",
-"hesperosaurus"
+"hesperosaurus",
+"dacentrurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

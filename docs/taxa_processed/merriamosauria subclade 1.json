@@ -5,9 +5,9 @@
 "name":"Merriamosauria subclade 1",
 "parentTaxon":"merriamosauria",
 "popularSubtaxa":[
-"shastasaurus",
 "ichthyosaurus",
-"stenopterygius"
+"ophthalmosaurinae",
+"shastasaurus"
 ],
 "exampleMember":"shastasaurus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 60,
-30
-]
+30,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

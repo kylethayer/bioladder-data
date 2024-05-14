@@ -6,8 +6,8 @@
 "parentTaxon":"mustelidae subclade 2",
 "popularSubtaxa":[
 "otter",
-"wolverine",
-"european badger"
+"european badger",
+"wolverine"
 ],
 "exampleMember":"european badger",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"mustelidae subclade 4",
-"mustelidae subclade 5"
+"mustelidae subclade 5",
+"mustelidae subclade 4"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 70,
 65,
 65
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

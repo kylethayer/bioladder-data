@@ -6,8 +6,8 @@
 "parentTaxon":"neoichthyosauria",
 "popularSubtaxa":[
 "ichthyosaurus",
-"stenopterygius",
-"ophthalmosaurinae"
+"ophthalmosaurinae",
+"stenopterygius"
 ],
 "exampleMember":"eurhinosaurus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"leptonectidae",
-"thunnosauria"
+"thunnosauria",
+"leptonectidae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 60,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

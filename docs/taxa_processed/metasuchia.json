@@ -5,9 +5,9 @@
 "name":"Metasuchia",
 "parentTaxon":"mesoeucrocodylia",
 "popularSubtaxa":[
-"gharial",
 "alligator",
-"crocodile"
+"crocodile",
+"gharial"
 ],
 "exampleMember":"anatosuchus",
 "exampleMemberType":"Early Member",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"anatosuchus",
 "metasuchia subclade 1",
-"notosuchia"
+"notosuchia",
+"anatosuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
 85,
-80
-]
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
 }

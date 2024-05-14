@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gorilla",
 "hominini",
+"gorilla",
 "pierolapithecus"
 ],
 "popularAncestorPops":[
@@ -37,5 +37,6 @@
 100,
 80,
 80
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

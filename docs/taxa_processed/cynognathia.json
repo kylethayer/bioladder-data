@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "cynognathus",
 "diademodon",
-"trirachodon"
+"exaeretodon"
 ],
 "exampleMember":"cynognathus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

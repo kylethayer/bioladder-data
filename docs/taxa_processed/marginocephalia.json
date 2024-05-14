@@ -5,9 +5,9 @@
 "name":"Marginocephalia",
 "parentTaxon":"cerapoda",
 "popularSubtaxa":[
+"triceratops",
 "pachycephalosaurus",
-"protoceratops",
-"triceratops"
+"protoceratops"
 ],
 "exampleMember":"yinlong",
 "exampleMemberType":"Early Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 50,
-30,
-85
-]
+30
+],
+"popularSubtaxaSameBranch":"0,2"
 }

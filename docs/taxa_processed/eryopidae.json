@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
-"clamorosaurus",
 "eryops",
-"onchiodon"
+"onchiodon",
+"clamorosaurus"
 ],
 "popularAncestorPops":[
 70,
@@ -37,5 +37,6 @@
 10,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

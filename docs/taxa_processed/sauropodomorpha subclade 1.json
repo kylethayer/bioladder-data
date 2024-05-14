@@ -6,8 +6,8 @@
 "parentTaxon":"sauropodomorpha",
 "popularSubtaxa":[
 "brontosaurus",
-"diplodocus",
-"brachiosaurus"
+"brachiosaurus",
+"diplodocus"
 ],
 "exampleMember":"pantydraco",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"pantydraco",
-"sauropodomorpha subclade 2"
+"sauropodomorpha subclade 2",
+"pantydraco"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 80,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

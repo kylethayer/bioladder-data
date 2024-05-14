@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"homo subclade 2",
 "homo erectus",
-"homo ergaster",
-"homo subclade 2"
+"homo ergaster"
 ],
 "popularAncestorPops":[
 50,
@@ -37,5 +37,6 @@
 100,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

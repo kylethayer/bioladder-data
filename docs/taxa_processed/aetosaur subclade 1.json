@@ -6,8 +6,8 @@
 "parentTaxon":"aetosaur",
 "popularSubtaxa":[
 "typothorax",
-"longosuchus",
-"desmatosuchus"
+"desmatosuchus",
+"longosuchus"
 ],
 "exampleMember":"typothorax",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"desmatosuchinae",
-"typothoracisinae"
+"typothoracisinae",
+"desmatosuchinae"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

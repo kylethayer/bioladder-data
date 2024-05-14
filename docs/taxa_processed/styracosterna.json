@@ -6,8 +6,8 @@
 "parentTaxon":"ankylopollexia",
 "popularSubtaxa":[
 "iguanodon",
-"hadrosaurus",
-"edmontosaurus"
+"edmontosaurus",
+"hadrosaurus"
 ],
 "exampleMember":"hippodraco",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"hippodraco",
-"styracosterna subclade 1"
+"styracosterna subclade 1",
+"hippodraco"
 ],
 "popularAncestorPops":[
 20,
@@ -36,5 +36,6 @@
 75,
 60,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

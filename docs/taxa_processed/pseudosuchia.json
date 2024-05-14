@@ -5,9 +5,9 @@
 "name":"Pseudosuchia",
 "parentTaxon":"archosauria",
 "popularSubtaxa":[
-"ornithosuchus",
 "alligator",
-"crocodile"
+"crocodile",
+"ornithosuchus"
 ],
 "exampleMember":"ornithosuchus",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ornithosuchidae",
-"suchia"
+"suchia",
+"ornithosuchidae"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-20,
 85,
-80
-]
+80,
+20
+],
+"popularSubtaxaSameBranch":"0,1"
 }

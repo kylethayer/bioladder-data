@@ -5,8 +5,8 @@
 "name":"Caviomorpha",
 "parentTaxon":"hystricognathi",
 "popularSubtaxa":[
-"new world porcupine",
 "guinea pig",
+"new world porcupine",
 "chinchilla"
 ],
 "exampleMember":"paca",
@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"new world porcupine",
 "cavioidea",
 "chinchilloidea",
-"new world porcupine",
 "octodontoidea"
 ],
 "popularAncestorPops":[
@@ -38,5 +38,6 @@
 70,
 70,
 65
-]
+],
+"popularSubtaxaSameBranch":""
 }

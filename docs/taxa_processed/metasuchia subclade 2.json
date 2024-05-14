@@ -6,7 +6,7 @@
 "parentTaxon":"metasuchia subclade 1",
 "popularSubtaxa":[
 "mahajangasuchus",
-"uberabasuchus",
+"kaprosuchus",
 "montealtosuchus"
 ],
 "exampleMember":"mahajangasuchus",
@@ -36,5 +36,6 @@
 20,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

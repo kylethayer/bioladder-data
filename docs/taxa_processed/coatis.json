@@ -5,9 +5,9 @@
 "name":"Coatis",
 "parentTaxon":"procyonidae subclade 3",
 "popularSubtaxa":[
-"white-nosed coati",
 "south american coati",
-"western mountain coati"
+"western mountain coati",
+"white-nosed coati"
 ],
 "exampleMember":"south american coati",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"coatis subclade 1",
-"south american coati"
+"south american coati",
+"coatis subclade 1"
 ],
 "popularAncestorPops":[
 50,
@@ -36,5 +36,6 @@
 30,
 30,
 30
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

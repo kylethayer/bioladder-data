@@ -5,9 +5,9 @@
 "name":"Tapiromorpha",
 "parentTaxon":"odd-toed ungulate",
 "popularSubtaxa":[
-"anisodon",
+"rhinoceros",
 "tapir",
-"rhinoceros"
+"anisodon"
 ],
 "exampleMember":"moropus",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-40,
+80,
 60,
-80
-]
+40
+],
+"popularSubtaxaSameBranch":"0,1"
 }

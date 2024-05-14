@@ -5,9 +5,9 @@
 "name":"Notosuchidae subclade 1",
 "parentTaxon":"notosuchidae",
 "popularSubtaxa":[
+"adamantinasuchus",
 "comahuesuchus",
-"mariliasuchus",
-"adamantinasuchus"
+"mariliasuchus"
 ],
 "exampleMember":"comahuesuchus",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"comahuesuchus",
-"notosuchidae subclade 2"
+"notosuchidae subclade 2",
+"comahuesuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,6 +34,8 @@
 ],
 "popularSubtaxaPops":[
 10,
+10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"arganaceras",
-"elginia",
 "pareiasaurus",
-"scutosaurus"
+"scutosaurus",
+"elginia",
+"arganaceras"
 ],
 "popularAncestorPops":[
 50,
@@ -36,7 +36,8 @@
 ],
 "popularSubtaxaPops":[
 20,
-10,
-20
-]
+20,
+10
+],
+"popularSubtaxaSameBranch":""
 }

@@ -6,8 +6,8 @@
 "parentTaxon":"catarrhini",
 "popularSubtaxa":[
 "human",
-"gibbon",
-"chimpanzee"
+"orangutan",
+"gibbon"
 ],
 "exampleMember":"proconsul",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"gibbon",
 "hominidae",
+"gibbon",
 "proconsul"
 ],
 "popularAncestorPops":[
@@ -35,7 +35,8 @@
 ],
 "popularSubtaxaPops":[
 100,
-80,
+70,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,1"
 }

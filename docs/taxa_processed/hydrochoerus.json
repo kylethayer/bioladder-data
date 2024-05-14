@@ -5,8 +5,8 @@
 "name":"Hydrochoerus",
 "parentTaxon":"hydrochoerinae",
 "popularSubtaxa":[
-"lesser capybara",
-"capybara"
+"capybara",
+"lesser capybara"
 ],
 "exampleMember":"lesser capybara",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-65
-]
+65,
+50
+],
+"popularSubtaxaSameBranch":""
 }

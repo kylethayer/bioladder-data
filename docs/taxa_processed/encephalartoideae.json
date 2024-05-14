@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "dioon",
 "encephalartos",
-"macrozamia"
+"lepidozamia"
 ],
 "exampleMember":"dioon",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"dioon",
-"encephalarteae"
+"encephalarteae",
+"dioon"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 50,
 50
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

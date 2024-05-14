@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "human",
 "land plant",
-"animal"
+"fungus"
 ],
 "exampleMember":"excavata",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@ null,
 null
 ],
 "subtaxa":[
-"bikonta",
-"unikont"
+"unikont",
+"bikonta"
 ],
 "popularAncestorPops":[
 50,
@@ -33,8 +33,9 @@ null
 ""
 ],
 "popularSubtaxaPops":[
+100,
 95,
-95,
-100
-]
+70
+],
+"popularSubtaxaSameBranch":"0,2"
 }

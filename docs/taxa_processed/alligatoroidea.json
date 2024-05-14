@@ -23,9 +23,9 @@
 "life"
 ],
 "subtaxa":[
+"globidonta",
 "baryphracta",
-"deinosuchus",
-"globidonta"
+"deinosuchus"
 ],
 "popularAncestorPops":[
 50,
@@ -34,8 +34,9 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
 85,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

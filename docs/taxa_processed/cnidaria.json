@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"anthozoa",
-"jellyfish"
+"jellyfish",
+"anthozoa"
 ],
 "popularAncestorPops":[
 95,
@@ -32,6 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-80
-]
+80,
+""
+],
+"popularSubtaxaSameBranch":""
 }

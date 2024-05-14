@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "pachycephalosaurus",
 "goyocephale",
-"prenocephale"
+"homalocephale"
 ],
 "exampleMember":"goyocephale",
 "exampleMemberType":"Early Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"goyocephale",
-"pachycephalosauria subclade 1"
+"pachycephalosauria subclade 1",
+"goyocephale"
 ],
 "popularAncestorPops":[
 40,
@@ -36,5 +36,6 @@
 50,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

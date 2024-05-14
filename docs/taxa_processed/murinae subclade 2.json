@@ -5,9 +5,9 @@
 "name":"Murinae subclade 2",
 "parentTaxon":"murinae subclade 1",
 "popularSubtaxa":[
+"rat",
 "eurasian harvest mouse",
-"red spiny rat",
-"rat"
+"red spiny rat"
 ],
 "exampleMember":"eurasian harvest mouse",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"eurasian harvest mouse",
-"murinae subclade 3"
+"murinae subclade 3",
+"eurasian harvest mouse"
 ],
 "popularAncestorPops":[
 70,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
+85,
 50,
-50,
-85
-]
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

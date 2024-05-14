@@ -5,9 +5,9 @@
 "name":"Stegocephalia subclade 4",
 "parentTaxon":"stegocephalia subclade 3",
 "popularSubtaxa":[
-"frog",
 "human",
-"dinosaur"
+"bird",
+"frog"
 ],
 "exampleMember":"ichthyostega",
 "exampleMemberType":"Example Member",
@@ -23,8 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"ichthyostega",
-"stegocephalia subclade 5"
+"stegocephalia subclade 5",
+"ichthyostega"
 ],
 "popularAncestorPops":[
 60,
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-85,
 100,
-95
-]
+95,
+85
+],
+"popularSubtaxaSameBranch":"0,1"
 }

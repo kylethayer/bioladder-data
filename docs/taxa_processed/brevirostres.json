@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "alligator",
 "crocodile",
-"nile crocodile"
+"american crocodile"
 ],
 "exampleMember":"deinosuchus",
 "exampleMemberType":"Early Member",
@@ -36,5 +36,6 @@
 85,
 80,
 60
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

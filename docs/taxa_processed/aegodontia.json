@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "sheep",
 "impala",
-"duiker"
+"blackbuck"
 ],
 "exampleMember":"impala",
 "exampleMemberType":"Example Member",
@@ -23,10 +23,10 @@
 "life"
 ],
 "subtaxa":[
-"aegodontia subclade 1",
 "aegodontia subclade 2",
+"impala",
 "antilopinae",
-"impala"
+"aegodontia subclade 1"
 ],
 "popularAncestorPops":[
 70,
@@ -35,8 +35,9 @@
 100
 ],
 "popularSubtaxaPops":[
-60,
+90,
 65,
-90
-]
+60
+],
+"popularSubtaxaSameBranch":""
 }

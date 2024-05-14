@@ -5,8 +5,8 @@
 "name":"Sloth",
 "parentTaxon":"pilosa",
 "popularSubtaxa":[
-"two-toed sloth",
 "three-toed sloth",
+"two-toed sloth",
 "megatherium"
 ],
 "exampleMember":"neocnus",
@@ -23,11 +23,11 @@
 "life"
 ],
 "subtaxa":[
+"three-toed sloth",
 "megalonychidae",
 "megatheriidae",
-"mylodontidae",
 "nothrotheriidae",
-"three-toed sloth"
+"mylodontidae"
 ],
 "popularAncestorPops":[
 70,
@@ -39,5 +39,6 @@
 60,
 60,
 50
-]
+],
+"popularSubtaxaSameBranch":""
 }

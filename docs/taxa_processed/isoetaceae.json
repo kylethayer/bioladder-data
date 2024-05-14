@@ -5,8 +5,8 @@
 "name":"Isoetaceae",
 "parentTaxon":"isoetales",
 "popularSubtaxa":[
-"tomiostrobus",
-"quillwort"
+"quillwort",
+"tomiostrobus"
 ],
 "exampleMember":"tomiostrobus",
 "exampleMemberType":"Example Member",
@@ -32,7 +32,8 @@
 100
 ],
 "popularSubtaxaPops":[
-10,
-50
-]
+50,
+10
+],
+"popularSubtaxaSameBranch":""
 }

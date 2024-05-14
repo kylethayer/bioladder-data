@@ -6,7 +6,7 @@
 "parentTaxon":"eudromaeosauria subclade 2",
 "popularSubtaxa":[
 "velociraptor",
-"tsaagan",
+"adasaurus",
 "linheraptor"
 ],
 "exampleMember":"velociraptor",
@@ -36,5 +36,6 @@
 75,
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":"0,2"
 }

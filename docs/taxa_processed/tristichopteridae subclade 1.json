@@ -5,8 +5,8 @@
 "name":"Tristichopteridae subclade 1",
 "parentTaxon":"tristichopteridae",
 "popularSubtaxa":[
-"jarvikina",
-"eusthenodon"
+"eusthenodon",
+"jarvikina"
 ],
 "exampleMember":"jarvikina",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"eusthenodon",
-"jarvikina"
+"jarvikina",
+"eusthenodon"
 ],
 "popularAncestorPops":[
 60,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

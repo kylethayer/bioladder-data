@@ -5,8 +5,8 @@
 "name":"Tyrannosaurinae subclade 5",
 "parentTaxon":"tyrannosaurinae subclade 4",
 "popularSubtaxa":[
-"zhuchengtyrannus",
-"tarbosaurus"
+"tarbosaurus",
+"zhuchengtyrannus"
 ],
 "exampleMember":"zhuchengtyrannus",
 "exampleMemberType":"Example Member",
@@ -22,8 +22,8 @@
 "life"
 ],
 "subtaxa":[
-"tarbosaurus",
-"zhuchengtyrannus"
+"zhuchengtyrannus",
+"tarbosaurus"
 ],
 "popularAncestorPops":[
 40,
@@ -34,5 +34,6 @@
 "popularSubtaxaPops":[
 10,
 10
-]
+],
+"popularSubtaxaSameBranch":""
 }

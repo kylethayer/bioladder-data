@@ -6,8 +6,8 @@
 "parentTaxon":"",
 "popularSubtaxa":[
 "human",
-"virus",
-"land plant"
+"bacteria",
+"virus"
 ],
 "exampleMember":"bacteria",
 "exampleMemberType":"Example Member",
@@ -24,18 +24,19 @@ null
 ],
 "subtaxa":[
 "cellular life",
-"viroid",
-"virus"
+"virus",
+"viroid"
 ],
 "popularAncestorPops":[
-100,
-"",
-"",
-""
+50,
+50,
+95,
+100
 ],
 "popularSubtaxaPops":[
-95,
+100,
 70,
-100
-]
+70
+],
+"popularSubtaxaSameBranch":"0,1"
 }

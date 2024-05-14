@@ -5,9 +5,9 @@
 "name":"Conchifera",
 "parentTaxon":"mollusk",
 "popularSubtaxa":[
-"tusk shell",
 "octopus",
-"squid"
+"nautilus",
+"tusk shell"
 ],
 "exampleMember":"monoplacophora",
 "exampleMemberType":"Example Member",
@@ -33,8 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-30,
 75,
-70
-]
+55,
+30
+],
+"popularSubtaxaSameBranch":"0,1"
 }
