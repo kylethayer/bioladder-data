@@ -1,0 +1,36 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Vicissicaudata",
+"parentTaxon":"artiopoda subclade 2",
+"exampleMember":"sidneyia",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unranked",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Vicissicaudata",
+"subtaxa":[
+"sidneyia"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"sidneyia"
+],
+"popularSubtaxaPops":[
+10
+],
+"popularSubtaxaSameBranch":""
+}

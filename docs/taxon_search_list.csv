@@ -14,6 +14,7 @@ Abrothrix,,,50
 Acamptonectes,,,10
 Acanthodes,,,
 Acanthodii,"[""Spiny sharks""]",,
+Acanthomeridion,,,10
 Acanthostachys,,,30
 Acanthostega,,,10
 Acanthostomatops,,,10
@@ -280,6 +281,8 @@ Arthropod subclade 2,,,
 Arthropod subclade 3,,,
 Arthropod,,Arthropoda,50
 Artiofabula,,,
+Artiopoda subclade 1,,,
+Artiopoda subclade 2,,,
 artiopoda,,,
 Arundinelleae,,,10
 Arundinoideae,,,10
@@ -340,6 +343,7 @@ Babirusa,"[""deer-pig""]",,50
 Bacteria,,,70
 Bagaceratops,,,10
 Baiji,"[""Chinese river dolphin"", ""Yangtze River dolphin""]",Lipotes vexillifer,20
+Bailongia,,,10
 Balaenidae,,,
 Balaenoptera,,,
 Balanerpeton,,,10
@@ -2524,6 +2528,7 @@ Repenomamus,,,10
 Reptiliomorpha,,,
 Restiid clade,,,
 Restionaceae,,,10
+Retifacies,,,10
 Revueltosaurus,,,10
 Rhabdodon,,,10
 Rhabdodontidae,,,
@@ -2680,6 +2685,7 @@ Siberion,,,10
 Siboglinidae,"[""beard worms""]",,10
 Sichuanosuchus,,,10
 Side-blotched lizard,,Uta,50
+Sidneyia,,,10
 Sifrhippus,,,10
 Sigillaria,,,10
 Sigmodontalia,,,
@@ -2986,6 +2992,7 @@ Tribrachidium,,,
 Triceratops,,,85
 Trichopus,,,40
 Trigonotarbida,,,10
+Trilobitomorpha,,,
 Trilobozoa,,,
 Trilophosaurus,,,
 Trilophosuchus,,,10
@@ -3100,6 +3107,7 @@ Vertebrate,,,50
 Vesper mouse,,Calomys,50
 Vetulicolia,,,
 Viatkosuchus,,,10
+Vicissicaudata,,,
 Vicugna,,,50
 Vicuña,,Vicugna vicugna,40
 Vincelestes,,,

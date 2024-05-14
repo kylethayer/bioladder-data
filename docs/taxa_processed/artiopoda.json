@@ -4,14 +4,15 @@
 "extinct":true,
 "name":"artiopoda",
 "parentTaxon":"deuteropoda subclade 4",
-"exampleMember":"",
-"exampleMemberType":"Early Member",
+"exampleMember":"squamacula",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Unranked",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Artiopoda",
 "subtaxa":[
+"artiopoda subclade 1",
 "squamacula"
 ],
 "popularAncestors":[
@@ -27,10 +28,14 @@
 100
 ],
 "popularSubtaxa":[
+"acanthomeridion",
+"bailongia",
 "squamacula"
 ],
 "popularSubtaxaPops":[
+10,
+10,
 10
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,1"
 }

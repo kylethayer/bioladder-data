@@ -1,0 +1,36 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Trilobitomorpha",
+"parentTaxon":"artiopoda subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"subtaxa":[
+"retifacies"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"retifacies"
+],
+"popularSubtaxaPops":[
+10
+],
+"popularSubtaxaSameBranch":""
+}
