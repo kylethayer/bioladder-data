@@ -49,6 +49,29 @@ taxaForSaving = {}
 taxaFiles = os.listdir("docs/taxa_processed")
 
 
+def getMaxThisOrSubtaxaPopularity(taxonInfo):
+    taxonMaxPopularity = -100
+    if("popularity" in taxonInfo and taxonInfo["popularity"] != '' and taxonInfo["popularity"] != None 
+        and taxonInfo["popularity"] > taxonMaxPopularity):
+        taxonMaxPopularity = taxonInfo["popularity"]
+    
+    if("popularSubtaxa" in taxonInfo):
+        for popSubtaxon in taxonInfo["popularSubtaxa"]:
+            if("popularity" in taxaInfo[popSubtaxon] and taxaInfo[popSubtaxon]["popularity"] != '' and taxaInfo[popSubtaxon]["popularity"] != None 
+               and taxaInfo[popSubtaxon]["popularity"] > taxonMaxPopularity):
+                taxonMaxPopularity = taxaInfo[popSubtaxon]["popularity"]
+
+    return taxonMaxPopularity
+ 
+
+def subtaxonSortKey(subtaxonName):
+    subtaxonInfo = taxaInfo[subtaxonName]
+    primarySortKey = - getMaxThisOrSubtaxaPopularity(subtaxonInfo)
+    secondarySortKey = - len(subtaxonInfo)
+    tertiarySortKey = subtaxonName.lower()
+
+    return (primarySortKey, secondarySortKey, tertiarySortKey)
+
 counter = 0
 for taxonFile in taxaFiles:
     if(counter % 1000 == 0):
@@ -59,9 +82,10 @@ for taxonFile in taxaFiles:
     taxonInfo = json.loads(f.read())
     taxaInfo[taxonInfo["name"].lower()] = taxonInfo 
     if taxonInfo.get("needs_to_be_processed"):
+
         taxaForProcessing[taxonInfo["name"].lower()] = True
         # for initial needs_to_be_processed, add children and parent
-        if("parentTaxon" in taxonInfo):
+        if("parentTaxon" in taxonInfo and taxonInfo["parentTaxon"] != ''):
             taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
         if("subtaxa" in taxonInfo):
             for subtaxonName in taxonInfo["subtaxa"]:
@@ -83,9 +107,15 @@ for taxonName in taxaInfo:
         if(potentialSubtaxonInfo["parentTaxon"].lower() == taxonName.lower()):
             subtaxa.append(potentialSubtaxonName.lower())
 
-    if "subtaxa" not in taxonInfo or sorted(taxonInfo["subtaxa"]) != sorted(subtaxa):
-        print("**Updating subtaxa for " + taxonName + " (" + str(subtaxa) + ")")
-        taxonInfo["subtaxa"] = subtaxa
+    sortedSubtaxa = sorted(subtaxa, key=subtaxonSortKey)
+
+    # TODO: ADD PROPER SORT (popularity of self and ancestors, then num pop ancestors, then alphabetic)
+    ## Also, update sort at end of processing step below
+    if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"] != sortedSubtaxa:
+        print("**Updating subtaxa for " + taxonName + " (" + str(sortedSubtaxa) + ")")
+        taxonInfo["subtaxa"] = sortedSubtaxa
+
+        print("--- adding to processing list '" + taxonName.lower() + "' since subtaxa updated 1")
         taxaForProcessing[taxonName.lower()] = True
         taxaForSaving[taxonName.lower()] = True
 
@@ -114,6 +144,7 @@ def getPopularity(taxonName):
         return ""
     return taxonPopularity
 
+# Process Taxa until none left
 while len(taxaForProcessing.keys())> 0:
     taxonName = list(taxaForProcessing.keys())[0]
     print("processing taxon: " + taxonName)
@@ -185,7 +216,7 @@ while len(taxaForProcessing.keys())> 0:
 
         if("subtaxa" in taxonInfo):
             for subtaxonName in taxonInfo["subtaxa"]:
-                print(" --- adding to processing list " + subtaxonName.lower() + " (since "+ taxonName +" no popularAncestors, now are)")
+                print(" --- adding to processing list '" + subtaxonName.lower() + "' (since "+ taxonName +" no popularAncestors, now are)")
                 print(" ---  - " + str(taxonInfo["popularAncestors"]))
                 print(" ---  - " + str(taxonInfo["popularAncestorPops"]))
                 taxaForProcessing[subtaxonName.lower()] = True
@@ -206,7 +237,7 @@ while len(taxaForProcessing.keys())> 0:
 
         if("subtaxa" in taxonInfo):
             for subtaxonName in taxonInfo["subtaxa"]:
-                print(" --- adding to processing list " + subtaxonName.lower())
+                print(" --- adding to processing list '" + subtaxonName.lower() + "'")
                 taxaForProcessing[subtaxonName.lower()] = True
 
 
@@ -251,6 +282,7 @@ while len(taxaForProcessing.keys())> 0:
         #sort possible popSubtaxa to get most popular entry
         if(len(possiblePopSubtaxa) > 0):
             #print("presorted: " + str(possiblePopSubtaxa))
+            #TODO: ADD SECONDARY SORT to make deterministic and prevent random switching up
             possiblePopSubtaxa = sorted(possiblePopSubtaxa, key=lambda x: x['relative_popularity'], reverse=True)
             #print("sorted: " + str(possiblePopSubtaxa))
 
@@ -275,9 +307,9 @@ while len(taxaForProcessing.keys())> 0:
         
         # mark parent as needing update if there was a change
 
-        if(taxonInfo["parentTaxon"]):
-            print(" --- adding to processing list " + taxonInfo["parentTaxon"].lower())
-            taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+        if(taxonInfo["parentTaxon"] and taxonInfo["parentTaxon"] != ''):
+            print(" --- adding to processing list '" + taxonInfo["parentTaxon"].lower() + "'")
+            taxaForProcessing[taxonInfo["parent Taxon"].lower()] = True
     if(set(newPopSubtaxa) != set(taxonInfo["popularSubtaxa"])):
         print("updated " + taxonInfo["name"] + "--------------")
         print(" popsubtaxa was " + str(taxonInfo["popularSubtaxa"]))
@@ -287,9 +319,20 @@ while len(taxaForProcessing.keys())> 0:
         
         # mark parent as needing update if there was a change
 
-        if(taxonInfo["parentTaxon"]):
-            print(" --- adding to processing list " + taxonInfo["parentTaxon"].lower())
+        if(taxonInfo["parentTaxon"] and taxonInfo["parentTaxon"] != ''):
+            print(" --- adding to processing list '" + taxonInfo["parentTaxon"].lower() + ' (parent taxon)')
             taxaForProcessing[taxonInfo["parentTaxon"].lower()] = True
+    # resort subtaxa
+    sortedSubtaxa = sorted(taxonInfo["subtaxa"], key=subtaxonSortKey)
+
+    # (popularity of self and ancestors, then num pop ancestors, then alphabetic)
+    ## Also, update sort at end of processing step below
+    if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"] != sortedSubtaxa:
+        print("**Updating subtaxa for " + taxonName + " (" + str(sortedSubtaxa) + ")")
+        taxonInfo["subtaxa"] = sortedSubtaxa
+        print("--- adding to processing list '" + taxonName.lower() + "' since subtaxa updated 2")
+        taxaForProcessing[taxonName.lower()] = True
+        taxaForSaving[taxonName.lower()] = True
 
 
     # We are done processing this taxon, mark as complete
