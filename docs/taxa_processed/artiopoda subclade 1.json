@@ -13,8 +13,7 @@
 "wikipediaPage":"",
 "subtaxa":[
 "acanthomeridion",
-"artiopoda subclade 2",
-"bailongia"
+"artiopoda subclade 2"
 ],
 "popularAncestors":[
 "arthropod",
@@ -38,5 +37,5 @@
 10,
 10
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,2"
 }

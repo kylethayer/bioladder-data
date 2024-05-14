@@ -12,6 +12,7 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Artiopoda",
 "subtaxa":[
+"bailongia",
 "trilobitomorpha",
 "vicissicaudata"
 ],
@@ -28,14 +29,14 @@
 100
 ],
 "popularSubtaxa":[
+"bailongia",
 "retifacies",
-"sidneyia",
-"trilobitomorpha"
+"sidneyia"
 ],
 "popularSubtaxaPops":[
 10,
 10,
-null
+10
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }
