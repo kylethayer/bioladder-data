@@ -2,18 +2,18 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Artiopoda subclade 1",
-"parentTaxon":"artiopoda",
-"exampleMember":"acanthomeridion",
-"exampleMemberType":"Example Member",
-"taxonomicRank":"Unnamed Clade",
+"name":"Trilobitomorpha subclade 2",
+"parentTaxon":"trilobitomorpha subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"",
 "subtaxa":[
-"artiopoda subclade 2",
-"acanthomeridion"
+"nektaspida",
+"xandarellida"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,14 +28,12 @@
 100
 ],
 "popularSubtaxa":[
-"trilobite",
-"acanthomeridion",
-"aglaspis"
+"nektaspida",
+"xandarellida"
 ],
 "popularSubtaxaPops":[
-50,
-10,
-10
+null,
+null
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

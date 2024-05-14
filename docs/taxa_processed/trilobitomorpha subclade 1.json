@@ -1,19 +1,19 @@
 {
 "description":"",
 "popularity":null,
-"extinct":false,
-"name":"Deuteropoda subclade 4",
-"parentTaxon":"deuteropoda subclade 3",
-"exampleMember":"squamacula",
-"exampleMemberType":"Early Member",
+"extinct":true,
+"name":"Trilobitomorpha subclade 1",
+"parentTaxon":"trilobitomorpha",
+"exampleMember":"",
+"exampleMemberType":"",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Deuteropoda",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
 "subtaxa":[
-"deuteropoda subclade 5",
-"artiopoda"
+"trilobitomorpha subclade 3",
+"trilobitomorpha subclade 2"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,14 +28,14 @@
 100
 ],
 "popularSubtaxa":[
-"insect",
-"centipede",
-"trilobite"
+"trilobite",
+"kwanyinaspis",
+"conciliterga"
 ],
 "popularSubtaxaPops":[
-95,
-70,
-50
+50,
+10,
+null
 ],
 "popularSubtaxaSameBranch":"0,1"
 }

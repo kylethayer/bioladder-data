@@ -114,7 +114,7 @@ for taxonName in taxaInfo:
 
     ## Also, update sort at end of processing step below
     if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"] != sortedSubtaxa:
-        print("**Updating subtaxa for " + taxonName + " ( was "+str(taxonInfo["subtaxa"])+ " now " + str(sortedSubtaxa) + ")")
+        print("**Updating subtaxa for " + taxonName + " ( was "+(str(taxonInfo["subtaxa"]) if "subtaxa" in taxonInfo else "''")+ " now " + str(sortedSubtaxa) + ")")
         taxonInfo["subtaxa"] = sortedSubtaxa
 
         print("--- adding to processing list '" + taxonName.lower() + "' since subtaxa updated 1")

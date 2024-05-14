@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Nektaspida",
+"parentTaxon":"trilobitomorpha subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nektaspida",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

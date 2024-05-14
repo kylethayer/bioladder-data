@@ -747,6 +747,7 @@ Concavenator,,,10
 Conchifera subclade 1,,,
 Conchifera,,,
 Conchoraptor,,,10
+Conciliterga,,,
 Condorraptor,,,10
 Conifer subclade 1,,,
 Conifer subclade 2,,,
@@ -1568,6 +1569,7 @@ Kritosaurus,,,10
 Kubanochoerus,,,10
 Kuehneosauridae,,,20
 Kutchicetus,,,10
+Kwanyinaspis,,,10
 Kylinxia,,,10
 Labidosaurikos,,,10
 Labidosaurus,,,10
@@ -1946,6 +1948,7 @@ Neanderthal,"[""Neandertals""]",,60
 Necrolemur,,,10
 Necrolestes,,,
 Neimongosaurus,,,10
+Nektaspida,,,
 Neldasaurus,,,10
 Nematoida,,,10
 Nemegtbaatar,,,10
@@ -2998,6 +3001,11 @@ Tribrachidium,,,
 Triceratops,,,85
 Trichopus,,,40
 Trigonotarbida,,,10
+Trilobite,,Trilobita,50
+Trilobitomorpha subclade 1,,,
+Trilobitomorpha subclade 2,,,
+Trilobitomorpha subclade 3,,,
+Trilobitomorpha subclade 4,,,
 Trilobitomorpha,,,
 Trilobozoa,,,
 Trilophosaurus,,,
@@ -3172,6 +3180,7 @@ Wolverine,"[""Glutton"", ""Carcajou"", ""Skunk bear"", ""Quickhatch""]",Gulo gul
 Wombat,,Vombatidae,60
 Woodland thicket rat,,Grammomys dolichurus,50
 Wuerhosaurus,,,10
+Xandarellida,,,
 Xenarthra,,,
 Xenotosuchus,,,10
 Xenoturbella,,Xenoturbellida,

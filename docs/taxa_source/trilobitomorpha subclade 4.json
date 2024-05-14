@@ -2,13 +2,13 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Vicissicaudata subclade 1",
-"parentTaxon":"vicissicaudata",
-"exampleMember":"cheloniellon",
+"name":"Trilobitomorpha subclade 4",
+"parentTaxon":"trilobitomorpha subclade 3",
+"exampleMember":"kwanyinaspis",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Vicissicaudata"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha"
 }
