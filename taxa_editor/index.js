@@ -20,24 +20,27 @@ function init(){
     document.getElementById("subtaxon_name_input").onkeyup = UpdateCreateSubTaxonName
 }
 
-const socketUrl = "ws://"+ location.host +"/terminal"
-let webSocket = new WebSocket(socketUrl)
-
-webSocket.onmessage = (event) => {
-    console.log("socket message received", event)
-    const msg = JSON.parse(event.data)
-    if(msg.type == "success"){
-        document.getElementById("processOutput").innerText = 
-            "Successfully connected to server"
-    } else if(msg.type == "cl"){
-        outputDiv = document.getElementById("processOutput")
-        outputDiv.innerText += msg.line
-        outputDiv.scrollTop = outputDiv.scrollHeight;
-    }
+function connectToProcessWebsocket(){
+    const socketUrl = "ws://"+ location.host +"/terminal"
+    let webSocket = new WebSocket(socketUrl)
     
+    webSocket.onmessage = (event) => {
+        console.log("socket message received", event)
+        const msg = JSON.parse(event.data)
+        if(msg.type == "success"){
+            document.getElementById("processOutput").innerText = 
+                "Successfully connected to server"
+        } else if(msg.type == "cl"){
+            outputDiv = document.getElementById("processOutput")
+            outputDiv.innerText += msg.line
+            outputDiv.scrollTop = outputDiv.scrollHeight;
+        }
+    }
 }
 
+
 function processTaxa(){
+    connectToProcessWebsocket()
     document.getElementById("processOutput").innerText = ""
     fetch("/processTaxa", {
         method: "POST"
@@ -45,6 +48,7 @@ function processTaxa(){
 }
 
 function auditTaxa(){
+    connectToProcessWebsocket()
     document.getElementById("processOutput").innerText = ""
     fetch("/auditTaxa", {
         method: "POST"

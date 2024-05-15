@@ -1,7 +1,7 @@
 {
 "description":"",
 "popularity":50,
-"extinct":false,
+"extinct":true,
 "name":"Megatherium",
 "parentTaxon":"megatheriina",
 "exampleMember":"",
