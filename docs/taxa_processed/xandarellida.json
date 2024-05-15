@@ -4,14 +4,17 @@
 "extinct":true,
 "name":"Xandarellida",
 "parentTaxon":"trilobitomorpha subclade 2",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"cindarella",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"",
-"subtaxa":[],
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"subtaxa":[
+"xandarellida subclade 1",
+"cindarella"
+],
 "popularAncestors":[
 "arthropod",
 "animal",
@@ -24,7 +27,15 @@
 50,
 100
 ],
-"popularSubtaxa":[],
-"popularSubtaxaPops":[],
-"popularSubtaxaSameBranch":""
+"popularSubtaxa":[
+"cindarella",
+"luohuilinella",
+"phytophilaspis"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
 }

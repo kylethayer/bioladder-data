@@ -4,8 +4,8 @@
 "extinct":true,
 "name":"Trilobitomorpha subclade 3",
 "parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"kuamaia",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
@@ -29,13 +29,13 @@
 ],
 "popularSubtaxa":[
 "trilobite",
-"kwanyinaspis",
-"conciliterga"
+"helmetia",
+"kwanyinaspis"
 ],
 "popularSubtaxaPops":[
 50,
 10,
-null
+10
 ],
-"popularSubtaxaSameBranch":"0,1"
+"popularSubtaxaSameBranch":"0,2"
 }

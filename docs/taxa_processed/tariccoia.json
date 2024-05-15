@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Tariccoia",
+"parentTaxon":"nektaspida subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tariccoia_arrusensis.jpg/330px-Tariccoia_arrusensis.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Tariccoia",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

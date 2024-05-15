@@ -4,14 +4,17 @@
 "extinct":true,
 "name":"Conciliterga",
 "parentTaxon":"trilobitomorpha subclade 3",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"kuamaia",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"",
-"subtaxa":[],
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"subtaxa":[
+"conciliterga subclade 1",
+"conciliterga subclade 2"
+],
 "popularAncestors":[
 "arthropod",
 "animal",
@@ -24,7 +27,15 @@
 50,
 100
 ],
-"popularSubtaxa":[],
-"popularSubtaxaPops":[],
-"popularSubtaxaSameBranch":""
+"popularSubtaxa":[
+"helmetia",
+"kuamaia",
+"saperion"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
 }

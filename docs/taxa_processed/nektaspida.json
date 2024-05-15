@@ -4,14 +4,18 @@
 "extinct":true,
 "name":"Nektaspida",
 "parentTaxon":"trilobitomorpha subclade 2",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"buenaspis",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Order",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Nektaspida",
-"subtaxa":[],
+"subtaxa":[
+"nektaspida subclade 1",
+"nektaspida subclade 2",
+"buenaspis"
+],
 "popularAncestors":[
 "arthropod",
 "animal",
@@ -24,7 +28,15 @@
 50,
 100
 ],
-"popularSubtaxa":[],
-"popularSubtaxaPops":[],
+"popularSubtaxa":[
+"buenaspis",
+"misszhouia",
+"soomaspis"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
 "popularSubtaxaSameBranch":""
 }

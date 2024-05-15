@@ -491,6 +491,7 @@ Brush-furred mouse,,Lophuromys,50
 Brygmophyseter,,,
 Bryozoa,"[""Polyzoa"", ""Ectoprocta"", ""moss animals""]",,10
 Bubalus,,,
+Buenaspis,,,10
 Buitreraptor,,,10
 Bunny rat,,Reithrodon auritus,50
 Bunostegos,,,10
@@ -694,6 +695,7 @@ Chuniaoae,,,
 Cimolesta,,,
 Cimolodonta,,,
 Cimolomys,,,10
+Cindarella,,,10
 Cingulata,,,
 Cinnamon,,Cinnamomum,65
 Cistecephalus,,,10
@@ -747,6 +749,8 @@ Concavenator,,,10
 Conchifera subclade 1,,,
 Conchifera,,,
 Conchoraptor,,,10
+Conciliterga subclade 1,,,
+Conciliterga subclade 2,,,
 Conciliterga,,,
 Condorraptor,,,10
 Conifer subclade 1,,,
@@ -1358,6 +1362,7 @@ Hedyosmum,,,50
 Heleosaurus,,,10
 Heliconia,"[""lobster-claws"", ""wild plantains"", ""false bird-of-paradise""]",,30
 Helmeted iguana,,,50
+Helmetia,,,10
 Heloderma,,,
 Hemichordate,,Hemichordata,
 Hemicyclaspis,,,
@@ -1566,6 +1571,7 @@ Kouprey,,,50
 Kri-kri,,Capra aegagrus cretica,50
 Kritosaurini,,,
 Kritosaurus,,,10
+Kuamaia,,,10
 Kubanochoerus,,,10
 Kuehneosauridae,,,20
 Kutchicetus,,,10
@@ -1682,6 +1688,7 @@ Loxomma,,,10
 Lufengosaurus,,,10
 Lumkuia,,,10
 Lungfish,,Dipnoi,50
+Luohuilinella,,,10
 Luperosuchus,,,10
 Lycaenops,,,20
 Lycophytina subclade 1,,,
@@ -1845,6 +1852,7 @@ Millerosaurus,,,10
 Millipede,,Diplopoda,65
 Minmi,,,10
 Minotaurasaurus,,,10
+Misszhouia,,,10
 Mixosauria,,,
 Mixosaurus,,,10
 Moeritherium,,,10
@@ -1937,6 +1945,7 @@ Nanger subclade 1,,,
 Nanger,,,
 Nankangia,,,10
 Nanshiungosaurus,,,10
+Naraoia,,,10
 Nartheciaceae,,,10
 Narwhal,,Monodon,65
 Natal multimammate mouse,,Mastomys natalensis,50
@@ -1948,6 +1957,8 @@ Neanderthal,"[""Neandertals""]",,60
 Necrolemur,,,10
 Necrolestes,,,
 Neimongosaurus,,,10
+Nektaspida subclade 1,,,
+Nektaspida subclade 2,,,
 Nektaspida,,,
 Neldasaurus,,,10
 Nematoida,,,10
@@ -2303,6 +2314,7 @@ Phymaturus,,,50
 Physeteridae,,,
 Physeteroidea,,,
 Physignathus,,,
+Phytophilaspis,,,10
 Phytosaur subclade 1,,,
 Phytosaur,,,
 Phytosauridae subclade 1,,,
@@ -2606,6 +2618,7 @@ Saltwater crocodile,"[""estuarine crocodile"", ""Indo-Pacific crocodile"", ""mar
 Samotherium,,,10
 Sand lizard,,,50
 Saola,,Pseudoryx nghetinhensis,50
+Saperion,,,10
 Sar supergroup,,,
 Sarcandra,,,50
 Sarcopterygii,,,
@@ -2704,6 +2717,7 @@ Silphedosuchus,,,10
 Simian,,"Simiiformes, Anthropoidea",50
 Simosthenurus,,,10
 Simosuchus,,,20
+Sinoburius,,,10
 Sinocalliopteryx,,,10
 Sinoceratops,,,10
 Sinokannemeyeria,,,10
@@ -2738,6 +2752,7 @@ Solifugae,"[""camel spiders"", ""wind scorpions"", ""sun spiders"", ""solifuges"
 Somali wild ass,,Equus africanus somaliensis,50
 Somphospondyli,,,
 Sonorasaurus,,,10
+Soomaspis,,,10
 South american coati,"[""Ring-tailed coati""]",Nasua nasua,30
 South asian river dolphin,,Platanista gangetica,20
 Southern african vlei rat,,Otomys irroratus,50
@@ -2886,6 +2901,7 @@ Tapir,,Tapirus,60
 Tapiromorpha,,,
 Tarbosaurus,,,10
 Tardigrade,"[""Waterbear"", ""Moss piglet""]",,55
+Tariccoia,,,10
 Tarpan,,Equus ferus ferus,40
 Tarphycerida,,,
 Tarsier,,,30
@@ -2896,6 +2912,7 @@ Taxidiinae,,,
 Taxodioideae,,,10
 Tayra,,Eira barbara,20
 Tecophilaeaceae,,,10
+Tegopelte,,,10
 Tehuelchesaurus,,,10
 Teiformata,,,
 Teiidae,"[""Whiptails"", ""Racerunners""]",,10
@@ -3180,6 +3197,10 @@ Wolverine,"[""Glutton"", ""Carcajou"", ""Skunk bear"", ""Quickhatch""]",Gulo gul
 Wombat,,Vombatidae,60
 Woodland thicket rat,,Grammomys dolichurus,50
 Wuerhosaurus,,,10
+Xandarella,,,10
+Xandarellida subclade 1,,,
+Xandarellida subclade 2,,,
+Xandarellida subclade 3,,,
 Xandarellida,,,
 Xenarthra,,,
 Xenotosuchus,,,10

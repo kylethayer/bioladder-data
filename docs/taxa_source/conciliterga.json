@@ -4,11 +4,11 @@
 "extinct":true,
 "name":"Conciliterga",
 "parentTaxon":"trilobitomorpha subclade 3",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"kuamaia",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":""
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha"
 }

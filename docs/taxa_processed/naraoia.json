@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Naraoia",
+"parentTaxon":"nektaspida subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Naraoia_spinosa.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Naraoia",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

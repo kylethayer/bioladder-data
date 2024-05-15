@@ -2,13 +2,13 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Trilobitomorpha subclade 3",
-"parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"kuamaia",
+"name":"Nektaspida subclade 2",
+"parentTaxon":"nektaspida",
+"exampleMember":"naraoia",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nektaspida"
 }

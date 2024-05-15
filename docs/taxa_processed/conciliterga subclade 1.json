@@ -2,9 +2,9 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Trilobitomorpha subclade 2",
-"parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"buenaspis",
+"name":"Conciliterga subclade 1",
+"parentTaxon":"conciliterga",
+"exampleMember":"kuamaia",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
 "subtaxa":[
-"nektaspida",
-"xandarellida"
+"helmetia",
+"kuamaia"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,14 +28,12 @@
 100
 ],
 "popularSubtaxa":[
-"buenaspis",
-"cindarella",
-"luohuilinella"
+"helmetia",
+"kuamaia"
 ],
 "popularSubtaxaPops":[
 10,
-10,
 10
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

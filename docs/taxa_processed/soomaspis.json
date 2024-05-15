@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Soomaspis",
+"parentTaxon":"nektaspida subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Soomaspis_drawing.pdf/page1-330px-Soomaspis_drawing.pdf.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Soomaspis",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

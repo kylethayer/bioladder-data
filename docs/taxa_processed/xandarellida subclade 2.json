@@ -2,9 +2,9 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Trilobitomorpha subclade 2",
-"parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"buenaspis",
+"name":"Xandarellida subclade 2",
+"parentTaxon":"xandarellida subclade 1",
+"exampleMember":"sinoburius",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
 "subtaxa":[
-"nektaspida",
-"xandarellida"
+"xandarellida subclade 3",
+"sinoburius"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,9 +28,9 @@
 100
 ],
 "popularSubtaxa":[
-"buenaspis",
-"cindarella",
-"luohuilinella"
+"phytophilaspis",
+"sinoburius",
+"xandarella"
 ],
 "popularSubtaxaPops":[
 10,

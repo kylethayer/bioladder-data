@@ -2,18 +2,18 @@
 "description":"",
 "popularity":null,
 "extinct":true,
-"name":"Trilobitomorpha subclade 2",
-"parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"buenaspis",
+"name":"Nektaspida subclade 1",
+"parentTaxon":"nektaspida",
+"exampleMember":"tariccoia",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nektaspida",
 "subtaxa":[
-"nektaspida",
-"xandarellida"
+"soomaspis",
+"tariccoia"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,14 +28,12 @@
 100
 ],
 "popularSubtaxa":[
-"buenaspis",
-"cindarella",
-"luohuilinella"
+"soomaspis",
+"tariccoia"
 ],
 "popularSubtaxaPops":[
 10,
-10,
 10
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

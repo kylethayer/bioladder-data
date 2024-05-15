@@ -4,11 +4,11 @@
 "extinct":true,
 "name":"Trilobitomorpha subclade 2",
 "parentTaxon":"trilobitomorpha subclade 1",
-"exampleMember":"",
-"exampleMemberType":"",
-"taxonomicRank":"",
+"exampleMember":"buenaspis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":""
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha"
 }
