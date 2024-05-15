@@ -12,8 +12,8 @@
 "wikipediaImg":"",
 "wikipediaPage":"",
 "subtaxa":[
-"acanthomeridion",
-"artiopoda subclade 2"
+"artiopoda subclade 2",
+"acanthomeridion"
 ],
 "popularAncestors":[
 "arthropod",
@@ -28,12 +28,12 @@
 100
 ],
 "popularSubtaxa":[
+"trilobite",
 "acanthomeridion",
-"bailongia",
-"retifacies"
+"aglaspis"
 ],
 "popularSubtaxaPops":[
-10,
+50,
 10,
 10
 ],

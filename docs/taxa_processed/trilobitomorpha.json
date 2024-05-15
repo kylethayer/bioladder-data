@@ -4,14 +4,15 @@
 "extinct":true,
 "name":"Trilobitomorpha",
 "parentTaxon":"artiopoda subclade 2",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"retifacies",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
 "subtaxa":[
+"trilobitomorpha subclade 1",
 "retifacies"
 ],
 "popularAncestors":[
@@ -27,10 +28,14 @@
 100
 ],
 "popularSubtaxa":[
+"trilobite",
+"kwanyinaspis",
 "retifacies"
 ],
 "popularSubtaxaPops":[
+50,
+10,
 10
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,1"
 }

@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Kodymirus",
+"parentTaxon":"vicissicaudata subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kodymirus_Reconstruction.jpg/330px-Kodymirus_Reconstruction.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Kodymirus",
+"subtaxa":[],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

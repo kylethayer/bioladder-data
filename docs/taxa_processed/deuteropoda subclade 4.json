@@ -30,12 +30,12 @@
 "popularSubtaxa":[
 "insect",
 "centipede",
-"millipede"
+"trilobite"
 ],
 "popularSubtaxaPops":[
 95,
 70,
-65
+50
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":"0,1"
 }

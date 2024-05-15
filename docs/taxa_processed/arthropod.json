@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "insect",
 "spider",
-"centipede"
+"horseshoe crab"
 ],
 "exampleMember":"megadictyon",
 "exampleMemberType":"Early Member",
@@ -37,7 +37,7 @@
 "popularSubtaxaPops":[
 95,
 80,
-70
+60
 ],
 "popularSubtaxaSameBranch":"0,2"
 }

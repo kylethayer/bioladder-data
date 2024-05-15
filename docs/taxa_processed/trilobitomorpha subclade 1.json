@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Trilobitomorpha subclade 1",
+"parentTaxon":"trilobitomorpha",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"subtaxa":[
+"trilobitomorpha subclade 3",
+"trilobitomorpha subclade 2"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"trilobite",
+"kwanyinaspis",
+"conciliterga"
+],
+"popularSubtaxaPops":[
+50,
+10,
+null
+],
+"popularSubtaxaSameBranch":"0,1"
+}

@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Trilobitomorpha subclade 4",
+"parentTaxon":"trilobitomorpha subclade 3",
+"exampleMember":"kwanyinaspis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobitomorpha",
+"subtaxa":[
+"trilobite",
+"kwanyinaspis"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"trilobite",
+"kwanyinaspis"
+],
+"popularSubtaxaPops":[
+50,
+10
+],
+"popularSubtaxaSameBranch":""
+}

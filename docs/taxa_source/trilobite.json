@@ -1,0 +1,14 @@
+{
+"description":"",
+"popularity":50,
+"extinct":true,
+"name":"Trilobite",
+"parentTaxon":"trilobitomorpha subclade 4",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Class",
+"scientificName":"Trilobita",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Triarthrus_NT_edited.png/330px-Triarthrus_NT_edited.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Trilobite"
+}

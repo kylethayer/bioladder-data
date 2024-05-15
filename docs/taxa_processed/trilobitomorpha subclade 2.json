@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Trilobitomorpha subclade 2",
+"parentTaxon":"trilobitomorpha subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"",
+"subtaxa":[
+"nektaspida",
+"xandarellida"
+],
+"popularAncestors":[
+"arthropod",
+"animal",
+"cellular life",
+"life"
+],
+"popularAncestorPops":[
+50,
+95,
+50,
+100
+],
+"popularSubtaxa":[
+"nektaspida",
+"xandarellida"
+],
+"popularSubtaxaPops":[
+null,
+null
+],
+"popularSubtaxaSameBranch":""
+}

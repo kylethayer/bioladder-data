@@ -66,8 +66,11 @@ def getMaxThisOrSubtaxaPopularity(taxonInfo):
 
 def subtaxonSortKey(subtaxonName):
     subtaxonInfo = taxaInfo[subtaxonName]
+    # primary sort: max popularity in this branch
     primarySortKey = - getMaxThisOrSubtaxaPopularity(subtaxonInfo)
-    secondarySortKey = - len(subtaxonInfo)
+    #secondary sort: how many popular subtaxa (which maxes out at 3, but at least gives us a sense of if there is more down that path)
+    secondarySortKey = - len(subtaxonInfo["popularSubtaxa"]) if "popularSubtaxa" in subtaxonInfo else 0
+    #tertiary sort: name
     tertiarySortKey = subtaxonName.lower()
 
     return (primarySortKey, secondarySortKey, tertiarySortKey)
@@ -109,10 +112,9 @@ for taxonName in taxaInfo:
 
     sortedSubtaxa = sorted(subtaxa, key=subtaxonSortKey)
 
-    # TODO: ADD PROPER SORT (popularity of self and ancestors, then num pop ancestors, then alphabetic)
     ## Also, update sort at end of processing step below
     if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"] != sortedSubtaxa:
-        print("**Updating subtaxa for " + taxonName + " (" + str(sortedSubtaxa) + ")")
+        print("**Updating subtaxa for " + taxonName + " ( was "+(str(taxonInfo["subtaxa"]) if "subtaxa" in taxonInfo else "''")+ " now " + str(sortedSubtaxa) + ")")
         taxonInfo["subtaxa"] = sortedSubtaxa
 
         print("--- adding to processing list '" + taxonName.lower() + "' since subtaxa updated 1")
@@ -380,7 +382,7 @@ while len(taxaForProcessing.keys())> 0:
     # (popularity of self and ancestors, then num pop ancestors, then alphabetic)
     ## Also, update sort at end of processing step below
     if "subtaxa" not in taxonInfo or taxonInfo["subtaxa"] != sortedSubtaxa:
-        print("**Updating subtaxa for " + taxonName + " (" + str(sortedSubtaxa) + ")")
+        print("**Updating subtaxa for " + taxonName + " ( was "+str(taxonInfo["subtaxa"])+ " now " + str(sortedSubtaxa) + ")")
         taxonInfo["subtaxa"] = sortedSubtaxa
         print("--- adding to processing list '" + taxonName.lower() + "' since subtaxa updated 2")
         taxaForProcessing[taxonName.lower()] = True
