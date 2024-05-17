@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Orthoceratoidea",
 "parentTaxon":"nautiloid",
@@ -9,6 +9,6 @@
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
-"wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Orthoceras_%28Maroc%29.JPG/330px-Orthoceras_%28Maroc%29.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Orthoceratoidea"
 }

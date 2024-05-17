@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Plectronoceratoidea",
 "parentTaxon":"nautiloid",
@@ -9,6 +9,6 @@
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
-"wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Nautiloid"
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Plectronoceras.png/330px-Plectronoceras.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Plectronoceratoidea"
 }
