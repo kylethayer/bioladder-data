@@ -1,14 +1,14 @@
 {
 "description":"",
-"popularity":null,
+"popularity":50,
 "extinct":false,
-"name":"Nematoida",
-"parentTaxon":"ecdysozoa",
-"exampleMember":"nematomorpha",
-"exampleMemberType":"Example Member",
+"name":"Nematomorpha",
+"parentTaxon":"nematoida",
+"exampleMember":"",
+"exampleMemberType":"",
 "taxonomicRank":"Clade",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paragordius_tricuspidatus.jpeg/330px-Paragordius_tricuspidatus.jpeg",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Nematoida"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nematomorpha"
 }
