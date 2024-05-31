@@ -1,0 +1,17 @@
+{
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Roundworms",
+"parentTaxon":"nematoida",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Phylum",
+"scientificName":"Nematoda",
+"otherNames":[
+"Nematode",
+"Eelworms"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/6/6a/CelegansGoldsteinLabUNC.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nematode"
+}

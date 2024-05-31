@@ -1977,7 +1977,8 @@ Nektaspida subclade 1,,,
 Nektaspida subclade 2,,,
 Nektaspida,,,
 Neldasaurus,,,10
-Nematoida,,,10
+Nematoida,,,
+Nematomorpha,,,50
 Nemegtbaatar,,,10
 Nemegtomaia,,,20
 Nemertea,"[""ribbon worms"", ""proboscis worms""]",,10
@@ -2608,6 +2609,7 @@ Rodhocetus,,,20
 Romeriida,,,
 Rorqual,,Balaenopteridae,
 Round-tailed muskrat,,Neofiber alleni,50
+Roundworms,"[""Nematode"", ""Eelworms""]",Nematoda,55
 Royal antelope,,Neotragus pygmaeus,50
 Rubeosaurus,,,10
 Rubidgea,,,20

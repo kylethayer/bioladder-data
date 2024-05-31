@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Nautiloid",
 "parentTaxon":"cephalopod",
@@ -9,8 +9,8 @@
 "actinocerida",
 "discosorida"
 ],
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"plectronoceratoidea",
+"exampleMemberType":"Early Member",
 "taxonomicRank":"Subclass",
 "scientificName":"Nautiloidea",
 "otherNames":[],

@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Tarphycerida",
 "parentTaxon":"nautilitoidea",
@@ -10,7 +10,7 @@
 "taxonomicRank":"Order",
 "scientificName":"",
 "otherNames":[],
-"wikipediaImg":"",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aphetoceras_americanum.jpg/330px-Aphetoceras_americanum.jpg",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Tarphycerida",
 "popularAncestors":[
 "cephalopod",
