@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Herpestoidea",
+"parentTaxon":"viverroidea",
+"exampleMember":"eupleridae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Herpestoidea",
+"subtaxa":[
+"herpestoidea subclade 2",
+"herpestoidea subclade 1"
+],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"hyena",
+"mongoose",
+"eupleridae"
+],
+"popularSubtaxaPops":[
+65,
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
+}

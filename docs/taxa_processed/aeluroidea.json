@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Aeluroidea",
+"parentTaxon":"feliformia",
+"exampleMember":"african palm civet",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aeluroidea",
+"subtaxa":[
+"aeluroidea subclade 1",
+"african palm civet"
+],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"cat",
+"hyena",
+"african palm civet"
+],
+"popularSubtaxaPops":[
+90,
+65,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
+}

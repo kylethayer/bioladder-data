@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":50,
 "extinct":false,
 "name":"African palm civet",
-"parentTaxon":"feliformia",
+"parentTaxon":"aeluroidea",
 "popularSubtaxa":[],
 "exampleMember":"",
 "exampleMemberType":"",

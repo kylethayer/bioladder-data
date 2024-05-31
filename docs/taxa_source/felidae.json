@@ -1,9 +1,9 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Felidae",
-"parentTaxon":"feliformia",
+"parentTaxon":"feloidea subclade 1",
 "exampleMember":"pseudaelurus",
 "exampleMemberType":"Early Member",
 "taxonomicRank":"Family",

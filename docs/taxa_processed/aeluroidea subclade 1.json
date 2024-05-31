@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Aeluroidea subclade 1",
+"parentTaxon":"aeluroidea",
+"exampleMember":"asiatic linsang",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Aeluroidea",
+"subtaxa":[
+"feloidea",
+"viverroidea"
+],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"cat",
+"hyena",
+"mongoose"
+],
+"popularSubtaxaPops":[
+90,
+65,
+60
+],
+"popularSubtaxaSameBranch":"0,2"
+}

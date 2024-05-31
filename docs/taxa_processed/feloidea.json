@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Feloidea",
+"parentTaxon":"aeluroidea subclade 1",
+"exampleMember":"asiatic linsang",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Subfamily",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Feloidea",
+"subtaxa":[
+"feloidea subclade 1",
+"asiatic linsang"
+],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"cat",
+"lion",
+"asiatic linsang"
+],
+"popularSubtaxaPops":[
+90,
+80,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
+}

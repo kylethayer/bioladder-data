@@ -1,0 +1,16 @@
+{
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Hyena",
+"parentTaxon":"herpestoidea subclade 2",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Hyaenidae",
+"otherNames":[
+"hyaenas"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hyaena_maculata_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-%28white_background%29.jpg/330px-Hyaena_maculata_-_1818-1842_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-%28white_background%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Hyena"
+}

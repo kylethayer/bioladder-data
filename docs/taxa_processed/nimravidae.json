@@ -1,0 +1,43 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Nimravidae",
+"parentTaxon":"feliformia",
+"exampleMember":"maofelis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
+"false saber-toothed cats"
+],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Nimravidae",
+"subtaxa":[
+"nimravidae subclade 1",
+"maofelis"
+],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"dinictis",
+"hoplophoneus",
+"maofelis"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
+}

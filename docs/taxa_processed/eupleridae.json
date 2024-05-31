@@ -1,0 +1,34 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Eupleridae",
+"parentTaxon":"herpestoidea subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
+"euplerids",
+"Malagasy mongooses",
+"Malagasy carnivorans"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cryptoprocta_Ferox.JPG/330px-Cryptoprocta_Ferox.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Eupleridae",
+"subtaxa":[],
+"popularAncestors":[
+"feliformia",
+"carnivora",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

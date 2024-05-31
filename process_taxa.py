@@ -303,7 +303,7 @@ while len(taxaForProcessing.keys())> 0:
             #print("sorted: " + str(possiblePopSubtaxa))
 
             newPopSubtaxon = possiblePopSubtaxa.pop(0)
-            #print("newPopSubtaxon 1: " + str(newPopSubtaxon))
+            #print("newPopSubtaxon "+ str(i) +": " + str(newPopSubtaxon))
 
             newPopSubtaxaInfo.append(newPopSubtaxon)
 
@@ -311,7 +311,7 @@ while len(taxaForProcessing.keys())> 0:
             for popSubtaxon in possiblePopSubtaxa:
                 if(popSubtaxon['branch'] == newPopSubtaxon['branch']):
                     popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
-                    # further weight against any other popular subtaxon that was in the same branch within the inheretid popular descendents
+                    # further weight against any other popular subtaxon that was in the same branch within the inherited popular descendants
                     if(popSubtaxon["name"].lower() in newPopSubtaxon['branchBuddies']):
                         popSubtaxon['relative_popularity'] *= WeightAgainstBranchFraction
 

@@ -2,35 +2,35 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Felidae",
-"parentTaxon":"feloidea subclade 1",
-"popularSubtaxa":[
-"cat",
-"lion",
-"tiger"
-],
-"exampleMember":"pseudaelurus",
-"exampleMemberType":"Early Member",
-"taxonomicRank":"Family",
+"name":"Feloidea subclade 1",
+"parentTaxon":"feloidea",
+"exampleMember":"barbourofelis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Felidae",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Feliformia",
+"subtaxa":[
+"felidae",
+"barbourofelis"
+],
 "popularAncestors":[
 "feliformia",
 "carnivora",
 "animal",
 "life"
 ],
-"subtaxa":[
-"felinae",
-"pantherinae"
-],
 "popularAncestorPops":[
 50,
 60,
 95,
 100
+],
+"popularSubtaxa":[
+"cat",
+"lion",
+"tiger"
 ],
 "popularSubtaxaPops":[
 90,

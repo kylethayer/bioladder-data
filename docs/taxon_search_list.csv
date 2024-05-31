@@ -48,6 +48,8 @@ Aegodontia,,,
 Aegyptocetus,,,
 Aegyptopithecus,,,
 Aelurognathus,,,10
+Aeluroidea subclade 1,,,
+Aeluroidea,,,
 Aelurosaurus,,,10
 Aeolosaurus,,,10
 Aepycamelus,,,10
@@ -58,7 +60,7 @@ Aetosaur,,Aetosauria,
 Aetosaurus,,,20
 African buffalo,,Syncerus caffer,70
 African elephant,,Loxodonta,85
-African palm civet,,Nandiniidae,
+African palm civet,,Nandiniidae,50
 African rice,,,55
 African striped weasel,,Poecilogale albinucha,30
 Afroalpine vlei rat,,Otomys orestes,50
@@ -296,6 +298,7 @@ Ascarina,,,50
 Asian badger,,Meles leucurus,60
 Asian elephant,,Elephas maximus,85
 Asian rice,,Oryza sativa,75
+Asiatic linsang,,Prionodon,50
 Asparagaceae sl subclade 1,,,
 Asparagaceae sl subclade 2,,,
 Asparagaceae sl subclade 3,,,
@@ -359,6 +362,7 @@ Banteng,,,50
 Baragwanathia,,,10
 Barapasaurus,,,10
 Barbary sheep,,Ammotragus lervia,50
+Barbourofelis,,,10
 Barley,,,60
 Barosaurus,,,10
 Baryonychinae,,,
@@ -937,8 +941,10 @@ Dilong,,Dilong paradoxus,10
 Dilophosauridae,,,
 Dilophosaurus,,,60
 Dimetrodon,,,60
+Dinictis,,,10
 Dinilysia,,,20
 Dinocephalia,,,
+Dinocrocuta,,,10
 Dinodontosaurus,,,10
 Dinogorgon,,,10
 Dinomyidae,,,
@@ -1134,6 +1140,7 @@ Eunotosaurus,,,10
 Euoplocephalus,,,10
 Eupelycosauria,,,
 Euphyllophytes,,,
+Eupleridae,"[""euplerids"", ""Malagasy mongooses"", ""Malagasy carnivorans""]",,50
 Eupomatia,,,40
 Eurasian cave lion,,Panthera leo spelaea,30
 Eurasian harvest mouse,,Micromys minutus,50
@@ -1186,6 +1193,8 @@ Felidae,,,
 Feliformia,"[""Feloidea""]",,50
 Felinae,,,
 Felis,,,
+Feloidea subclade 1,,,
+Feloidea,,,
 Fengzhengia,,,10
 Ferae,,,
 Fereuungulata,,,
@@ -1368,6 +1377,9 @@ Hemichordate,,Hemichordata,
 Hemicyclaspis,,,
 Hemicyonidae,"[""Hemicyoninae"", ""dog-bear""]",,
 Hernandiaceae,,,10
+Herpestoidea subclade 1,,,
+Herpestoidea subclade 2,,,
+Herpestoidea,,,
 Herpetoskylax,,,10
 Herrerasauridae subclade 1,,,
 Herrerasauridae,,,
@@ -1421,6 +1433,7 @@ Homo subclade 3,,,
 Homo,,,50
 Honanotherium,,,
 Honey badger,,Mellivora,65
+Hoplophoneus,,,10
 Horned gopher,,,40
 Horned lizard,,,55
 Horneophyton,,,10
@@ -1444,6 +1457,7 @@ Hydnora,,,50
 Hydnoroideae,,,
 Hydrochoerinae,,,
 Hydrochoerus,,,
+Hyena,"[""hyaenas""]",Hyaenidae,65
 Hygroryza,,,30
 Hylonomus,,,
 Hypacrosaurus,,,10
@@ -1753,6 +1767,7 @@ Manidens,,,10
 Maniraptora,,,
 Maniraptoriformes,,,
 Mantellisaurus,,,10
+Maofelis,,,10
 Mapusaurus,,,10
 Mara,,Dolichotis,50
 Marantaceae,,,10
@@ -1860,6 +1875,7 @@ Moghreberia,,,10
 Mollusk,"[""Mollusc""]",Mollusca,50
 Mongalla gazelle,,Eudorcas albonotata,50
 Mongolian gazelle,,Procapra gutturosa,50
+Mongoose,,Herpestidae,60
 Monimiaceae,,,10
 Monito del monte,,Dromiciops,40
 Monitor lizard,,,60
@@ -2014,6 +2030,9 @@ Nile lechwe,,,50
 Nilgai,,Boselaphus tragocamelus,50
 Nilgiri tahr,"[""Nilgiri ibex""]",Nilgiritragus hylocrius,50
 Nimbadon,,,10
+Nimravidae subclade 1,,,
+Nimravidae,"[""false saber-toothed cats""]",,
+Nimravinae,,,
 Ninjemys,,,10
 Niolamia,,,10
 Niviventer,,,
@@ -2386,6 +2405,7 @@ Poeae,,,10
 Poebrotherium,,,10
 Poephagus,,,
 Pogonieae,,,10
+Pogonodon,,,10
 Polacanthinae subclade 1,,,
 Polacanthinae,,,
 Polacanthus,,,10
@@ -3149,6 +3169,8 @@ Viridiplantae,,Chloroplastida,
 Viroid,,,40
 Virus,,,70
 Vivaxosaurus,,,10
+Viverridae,,,
+Viverroidea,,,
 Voay,,,10
 Volcano rabbit,,Romerolagus,50
 Vole,,Microtus,60
