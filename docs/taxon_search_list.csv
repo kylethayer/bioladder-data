@@ -183,6 +183,7 @@ Anconastes,,,10
 Andropogoneae,,,
 Andropogonodae,,,
 Anelytropsis,,,30
+Angel insects,,Zoraptera,50
 Angistorhinus,,,10
 Anguidae,,,10
 Anguimorpha,,,
@@ -820,6 +821,7 @@ Cryolophosaurus,,,
 Cryptodontia,,,
 Cryptovenator,,,10
 Ctenodactyloidea,,,
+Ctenolepisma,,,30
 Ctenophora,"[""Comb jellies""]",,30
 Ctenorhachis,,,10
 Ctenosauriscidae,,,
@@ -871,6 +873,7 @@ Dama gazelle,"[""Addra gazelle"", ""Mhorr gazelle""]",Nanger dama,50
 Damaliscus lunatus,,,
 Damaliscus pygargus,,,
 Damaliscus,,,
+Damselflies,,Zygoptera,50
 Danthonioideae,,,10
 Dark-tailed tree rat,,Niviventer cremoriventer,50
 Darwin's leaf-eared mouse,,,50
@@ -925,6 +928,7 @@ Dicondylia,,,
 Dicraeosauridae subclade 1,,,
 Dicraeosauridae,,,
 Dicraeosaurus,,,10
+Dictyoptera,,,
 Dicynodon,,,10
 Dicynodont subclade 1,,,
 Dicynodont subclade 2,,,
@@ -985,6 +989,7 @@ Dorudon,,,20
 Dorudontinae,,,
 Doryanthes,,,30
 Dracovenator,,,10
+Dragonfly,,Anisoptera,65
 Dromaeosauridae subclade 1,,,
 Dromaeosauridae subclade 2,,,
 Dromaeosauridae,,,
@@ -1011,6 +1016,7 @@ Dwarf sperm whale,,Kogia sima,20
 Eared seal,,Otariidae,60
 Earless monitor lizard,,Lanthanotus borneensis,50
 Earless seal,"[""True seal""]",Phocidae,60
+Earwig,,Dermaptera,60
 East african mole-rat,,Tachyoryctes splendens,50
 East caucasian tur,,Capra caucasica cylindricornis,50
 Eastern casquehead iguana,,Laemanctus longipes,50
@@ -1062,7 +1068,7 @@ Endocerida,,,10
 Endothiodon,,,10
 Ennatosaurus,,,10
 Ensete,,,30
-Entognatha,,,10
+Entognatha,,,30
 Entoprocta,,,10
 Eoabelisaurus,,,10
 Eocaecilia,,,10
@@ -1089,6 +1095,8 @@ Eotriceratops,,,10
 Epanterias,,,10
 Epidendroideae,,,10
 Epidexipteryx,,,10
+Epiophlebia,,,
+Epiprocta,,,
 Episquamata,,,
 Epistephium,,,30
 Equidae,,,
@@ -1181,6 +1189,7 @@ Eutitanosauria subclade 2,,,
 Eutitanosauria,,,
 Eutracheophytes,,,
 Euungulata,,,20
+Euzygentoma,,,
 Exaeretodon,,,10
 Exafroplacentalia,,,
 Excalibosaurus,,,10
@@ -1203,6 +1212,7 @@ Ferreira's spiny tree rat,,Mesomys hispidus,50
 Ferret-badger,,Melogale,30
 Filozoa,,,
 Fir,,Abies,60
+Firebrat,,Thermobia domestica,50
 Firmoss,,Huperziaceae,50
 Flagellaria,,,30
 Flagellicaudata,,,
@@ -1395,6 +1405,7 @@ Heterodontosaurus,,,30
 Heteromyidae subclade 1,,,
 Heteromyidae,,,
 Hexapoda,,,
+Himalayan relict dragonfly,,Epiophlebia laidlawi,50
 Himalayan tahr,,Hemitragus jemlahicus,50
 Hipparion,,,10
 Hipparionini,,,
@@ -1475,6 +1486,7 @@ Hyracodontidae,,,
 Hyrax,,Hyracoidea,50
 Hystricognathi,,,
 Hystricomorpha,,,
+Icebugs,"[""ice crawlers""]",Grylloblattidae,50
 Ichthyolestes,,,10
 Ichthyopterygia,,,
 Ichthyosaur,,"Ichthyosauria, Ichthyopterygia",50
@@ -1523,6 +1535,7 @@ Jaguar,,Panthera onca,60
 Jamoytius,,,10
 Janjucetus,,,10
 Japanese badger,,Meles anakuma,60
+Japanese relict dragonfly,,Epiophlebia superstes,50
 Japonolirion,,,40
 Jarvikina,,,10
 Jellyfish,,Medusozoa,80
@@ -1647,7 +1660,9 @@ Lepidodendron,,,10
 Lepidosauria,,,
 Lepidosauromorpha subclade 1,,,
 Lepidosauromorpha,,,
+Lepidotrix,,,10
 Lepidozamia,,,50
+Lepismatidae,,,
 Leporidae,,,
 Leporinae,,,
 Leptocardii,,,
@@ -1750,6 +1765,7 @@ Mahajangasuchus,,,20
 Mahakala,,,10
 Maiacetus,,,10
 Maiasaura,,,10
+Maindroniidae,,,10
 Majungasaurus,,,20
 Malabar spiny dormouse,,Platacanthomys lasiurus,50
 Malagasy rats and mice,,Nesomyinae,50
@@ -1767,6 +1783,7 @@ Manidens,,,10
 Maniraptora,,,
 Maniraptoriformes,,,
 Mantellisaurus,,,10
+Mantophasmatidae,"[""gladiators"", ""rock crawlers"", ""heelwalkers"", ""mantophasmids"", ""mantos""]",,30
 Maofelis,,,10
 Mapusaurus,,,10
 Mara,,Dolichotis,50
@@ -1807,6 +1824,7 @@ Megalosaurinae subclade 1,,,
 Megalosaurinae,,,
 Megalosauroidea,,,
 Megalosaurus,,,20
+Meganeura,,,20
 Megaphylla,,,
 Megaraptor,,,30
 Megaraptora subclade 1,,,
@@ -2015,6 +2033,7 @@ Neovenatoridae subclade 1,,,
 Neovenatoridae subclade 2,,,
 Neovenatoridae subclade 3,,,
 Neovenatoridae,,,
+Neozygentoma,,,
 Nesomyidae,,,
 Nesophontes,,,10
 New caledonia yew,"[""Southern Yew""]",Austrotaxus,50
@@ -2023,6 +2042,7 @@ New world harvest mouse,,Reithrodontomys,50
 New world mole,,Scalopinae,60
 New world monkey,,Platyrrhini,50
 New world porcupine,,Erethizontidae,70
+Nicoletiidae,,,30
 Nigerpeton,,,10
 Nigersaurus,,,10
 Night lizard,,,50
@@ -2086,6 +2106,7 @@ Octopus,,Octopoda,75
 Odd-toed ungulate,,Perissodactyla,30
 Odobenidae,,,
 Odobenocetops,,,10
+Odonata,,,
 Odonatoptera,,,
 Odontochelys,,,10
 Oedaleops,,,10
@@ -2150,6 +2171,7 @@ Ornithosuchidae,,,
 Ornithosuchus,,,20
 Orodromeus,,,10
 Orthoceratoidea,,,
+Orthoptera,,,
 Oryx,,,60
 Oryza australiensis,,,30
 Oryza rufipogon,"[""brownbeard rice"", ""wild rice"", ""red rice""]",,30
@@ -2233,6 +2255,7 @@ Panicoideae subclade 2,,,
 Panicoideae subclade 3,,,
 Panicoideae,,,
 Panochthus,,,10
+Panodonata,,,
 Pantelosaurus,,,10
 Pantestudines subclade 1,,,
 Pantestudines subclade 2,,,
@@ -2287,7 +2310,7 @@ Patagonykus,,,10
 Patagosaurus,,,10
 Patranomodon,,,10
 Paucipodia,,,10
-Pauropoda,,,10
+Pauropoda,,,30
 Peccary,"[""javelina"", ""skunk pig""]",Tayassuidae,50
 Pecora,,,
 Pederpes,,,10
@@ -2412,6 +2435,13 @@ Polacanthinae,,,
 Polacanthus,,,10
 Polonosuchus,,,10
 Polydactylous,,,10
+Polyneoptera subclade 1,,,
+Polyneoptera subclade 2,,,
+Polyneoptera subclade 3,,,
+Polyneoptera subclade 4,,,
+Polyneoptera subclade 5,,,
+Polyneoptera subclade 6,,,
+Polyneoptera subclade 7,,,
 Polyneoptera,,,
 Polysporangiophyte subclade 1,,,
 Polysporangiophyte,,,
@@ -2736,6 +2766,7 @@ Sigmodontalia,,,
 Sigmodontinae,,,
 Silky anteater,"[""Pygmy anteater""]",Cyclopedidae,30
 Silphedosuchus,,,10
+Silverfish,,Lepisma saccharinum,55
 Simian,,"Simiiformes, Anthropoidea",50
 Simosthenurus,,,10
 Simosuchus,,,20
@@ -2856,9 +2887,11 @@ Stereospondylomorpha,,,
 Steropodontidae,,,
 Sthenurinae,,,
 Sthenurus,,,10
+Stick insects,"[""stick-bugs"", ""walkingsticks"", ""stick animals"", ""bug sticks""]",Phasmatodea,60
 Stipeae,,,10
 Stomatophytes subclade 1,,,
 Stomatophytes,,,
+Stoneflies,,Plecoptera,50
 Stormbergia,,,10
 Stratiotosuchus,,,10
 Strelitziaceae,,,
@@ -2895,7 +2928,7 @@ Suminia,,,10
 Sunnyodon,,,10
 Suzhousaurus,,,10
 Sycosaurus,,,10
-Symphyla,"[""Garden centipedes"", ""Pseudocentipedes""]",,50
+Symphyla,"[""Garden centipedes"", ""Pseudocentipedes""]",,40
 Synapsida,,,
 Syodon,,,10
 Syodontinae,,,
@@ -2928,6 +2961,7 @@ Tarpan,,Equus ferus ferus,40
 Tarphycerida,,,
 Tarsier,,,30
 Tarsiiformes,,,
+Tarsophlebiidae,,,10
 Tawa,,,10
 Taxaceae,,,
 Taxidiinae,,,
@@ -3038,6 +3072,7 @@ Triadobatrachus,,,10
 Tribosphenida,,,
 Tribrachidium,,,
 Triceratops,,,85
+Tricholepidion,,,30
 Trichopus,,,40
 Trigonotarbida,,,10
 Trilobite,,Trilobita,50
@@ -3189,6 +3224,7 @@ Water lily,,Nymphaeaceae,65
 Waterbuck,,,60
 Watongia,,,10
 Weasel,,Mustela,65
+Webspinners,"[""footspinners""]",Embioptera,50
 West caucasian tur,,Capra caucasica caucasica,50
 Western brush wallaby,,Macropus irma,40
 Western grey kangaroo,,Macropus fuliginosus,75

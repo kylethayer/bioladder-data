@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Polyneoptera subclade 7",
+"parentTaxon":"polyneoptera subclade 5",
+"exampleMember":"webspinners",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"subtaxa":[
+"stick insects",
+"webspinners"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"stick insects",
+"webspinners"
+],
+"popularSubtaxaPops":[
+60,
+50
+],
+"popularSubtaxaSameBranch":""
+}

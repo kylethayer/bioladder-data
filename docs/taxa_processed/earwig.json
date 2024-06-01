@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Earwig",
+"parentTaxon":"polyneoptera subclade 1",
+"exampleMember":"angel insects",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Order",
+"scientificName":"Dermaptera",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Earwig_on_white_background.jpg/330px-Earwig_on_white_background.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Earwig",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

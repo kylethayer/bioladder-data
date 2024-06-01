@@ -4,16 +4,16 @@
 "extinct":false,
 "name":"Neoptera",
 "parentTaxon":"pterygota",
-"exampleMember":"",
-"exampleMemberType":"",
-"taxonomicRank":"",
+"exampleMember":"angel insects",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraclass",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Neoptera",
 "subtaxa":[
-"eumetabola",
-"polyneoptera"
+"polyneoptera",
+"eumetabola"
 ],
 "popularAncestors":[
 "insect",
@@ -28,12 +28,14 @@
 100
 ],
 "popularSubtaxa":[
-"eumetabola",
-"polyneoptera"
+"earwig",
+"stick insects",
+"angel insects"
 ],
 "popularSubtaxaPops":[
-null,
-null
+60,
+60,
+50
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,2"
 }

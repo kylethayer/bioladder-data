@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Himalayan relict dragonfly",
+"parentTaxon":"epiophlebia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Epiophlebia laidlawi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/EpiophlebiaLarva_2.jpg/330px-EpiophlebiaLarva_2.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Epiophlebia_laidlawi",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

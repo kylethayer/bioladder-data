@@ -1,0 +1,16 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Icebugs",
+"parentTaxon":"polyneoptera subclade 6",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Grylloblattidae",
+"otherNames":[
+"ice crawlers"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grylloblattidae_%28cropped%29.jpg/330px-Grylloblattidae_%28cropped%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Grylloblattidae"
+}

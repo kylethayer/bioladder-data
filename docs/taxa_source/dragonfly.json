@@ -1,0 +1,14 @@
+{
+"description":"",
+"popularity":65,
+"extinct":false,
+"name":"Dragonfly",
+"parentTaxon":"epiprocta",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Infraorder",
+"scientificName":"Anisoptera",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gemeine_Heidelibelle_%28Sympetrum_vulgatum%29_4.jpg/330px-Gemeine_Heidelibelle_%28Sympetrum_vulgatum%29_4.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Dragonfly"
+}

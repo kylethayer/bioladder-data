@@ -4,8 +4,8 @@
 "extinct":false,
 "name":"Dicondylia",
 "parentTaxon":"insect",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"tricholepidion",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Unranked",
 "scientificName":"",
 "otherNames":[],
@@ -28,14 +28,14 @@
 100
 ],
 "popularSubtaxa":[
-"mayfly",
-"diaphanopterodea",
-"mazothairos"
+"dragonfly",
+"earwig",
+"silverfish"
 ],
 "popularSubtaxaPops":[
-50,
-10,
-10
+65,
+60,
+55
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":"0,1"
 }

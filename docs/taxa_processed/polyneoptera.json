@@ -4,14 +4,17 @@
 "extinct":false,
 "name":"Polyneoptera",
 "parentTaxon":"neoptera",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"angel insects",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Cohort",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
-"subtaxa":[],
+"subtaxa":[
+"polyneoptera subclade 2",
+"polyneoptera subclade 1"
+],
 "popularAncestors":[
 "insect",
 "arthropod",
@@ -24,7 +27,15 @@
 95,
 100
 ],
-"popularSubtaxa":[],
-"popularSubtaxaPops":[],
-"popularSubtaxaSameBranch":""
+"popularSubtaxa":[
+"earwig",
+"stick insects",
+"angel insects"
+],
+"popularSubtaxaPops":[
+60,
+60,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
 }

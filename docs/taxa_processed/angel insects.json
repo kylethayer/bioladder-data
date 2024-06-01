@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Angel insects",
+"parentTaxon":"polyneoptera subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Zoraptera",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Zorotypus_guineensis_%28white_background%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Zoraptera",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Polyneoptera subclade 4",
+"parentTaxon":"polyneoptera subclade 3",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"subtaxa":[
+"polyneoptera subclade 5",
+"dictyoptera"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"stick insects",
+"icebugs",
+"webspinners"
+],
+"popularSubtaxaPops":[
+60,
+50,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
+}

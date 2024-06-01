@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Polyneoptera subclade 6",
+"parentTaxon":"polyneoptera subclade 5",
+"exampleMember":"mantophasmatidae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"subtaxa":[
+"icebugs",
+"mantophasmatidae"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"icebugs",
+"mantophasmatidae"
+],
+"popularSubtaxaPops":[
+50,
+30
+],
+"popularSubtaxaSameBranch":""
+}

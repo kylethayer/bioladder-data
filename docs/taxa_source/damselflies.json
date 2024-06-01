@@ -1,0 +1,14 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Damselflies",
+"parentTaxon":"odonata",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Suborder",
+"scientificName":"Zygoptera",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg/330px-Beautiful_demoiselle_%28Calopteryx_virgo%29_male_3.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Damselfly"
+}

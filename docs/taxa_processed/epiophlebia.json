@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Epiophlebia",
+"parentTaxon":"epiprocta",
+"exampleMember":"japanese relict dragonfly",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Genus",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Epiophlebia",
+"subtaxa":[
+"himalayan relict dragonfly",
+"japanese relict dragonfly"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"himalayan relict dragonfly",
+"japanese relict dragonfly"
+],
+"popularSubtaxaPops":[
+50,
+50
+],
+"popularSubtaxaSameBranch":""
+}

@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Epiprocta",
+"parentTaxon":"odonata",
+"exampleMember":"japanese relict dragonfly",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Suborder",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Epiprocta",
+"subtaxa":[
+"dragonfly",
+"epiophlebia"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"dragonfly",
+"himalayan relict dragonfly",
+"japanese relict dragonfly"
+],
+"popularSubtaxaPops":[
+65,
+50,
+50
+],
+"popularSubtaxaSameBranch":"0,2"
+}

@@ -6,8 +6,8 @@
 "parentTaxon":"pancrustacea",
 "popularSubtaxa":[
 "insect",
-"jumping bristletails",
-"mayfly"
+"dragonfly",
+"entognatha"
 ],
 "exampleMember":"entognatha",
 "exampleMemberType":"Example Member",
@@ -34,8 +34,8 @@
 ],
 "popularSubtaxaPops":[
 95,
-50,
-50
+65,
+30
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"0,1"
 }

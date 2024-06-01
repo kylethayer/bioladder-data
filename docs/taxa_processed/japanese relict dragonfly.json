@@ -1,0 +1,30 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Japanese relict dragonfly",
+"parentTaxon":"epiophlebia",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Epiophlebia superstes",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Epiophlebia_superstes_by_OpenCage.jpg/330px-Epiophlebia_superstes_by_OpenCage.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Epiophlebia_superstes",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

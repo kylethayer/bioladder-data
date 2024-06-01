@@ -1,0 +1,39 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Polyneoptera subclade 1",
+"parentTaxon":"polyneoptera",
+"exampleMember":"angel insects",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"subtaxa":[
+"earwig",
+"angel insects"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"earwig",
+"angel insects"
+],
+"popularSubtaxaPops":[
+60,
+50
+],
+"popularSubtaxaSameBranch":""
+}

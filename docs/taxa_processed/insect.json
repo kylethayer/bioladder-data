@@ -5,9 +5,9 @@
 "name":"Insect",
 "parentTaxon":"hexapoda",
 "popularSubtaxa":[
-"jumping bristletails",
-"mayfly",
-"diaphanopterodea"
+"dragonfly",
+"silverfish",
+"jumping bristletails"
 ],
 "exampleMember":"jumping bristletails",
 "exampleMemberType":"Early Member",
@@ -33,9 +33,9 @@
 100
 ],
 "popularSubtaxaPops":[
-50,
-50,
-10
+65,
+55,
+50
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":"0,1"
 }

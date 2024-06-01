@@ -29,13 +29,13 @@
 ],
 "popularSubtaxa":[
 "insect",
-"crustacean",
-"jumping bristletails"
+"dragonfly",
+"crustacean"
 ],
 "popularSubtaxaPops":[
 95,
-50,
+65,
 50
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":"0,1"
 }

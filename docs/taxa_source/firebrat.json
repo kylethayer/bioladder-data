@@ -1,0 +1,14 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Firebrat",
+"parentTaxon":"lepismatidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Thermobia domestica",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Firebrat_%28Thermobia_domestica%29.jpg/330px-Firebrat_%28Thermobia_domestica%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Firebrat"
+}

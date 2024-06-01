@@ -1,0 +1,14 @@
+{
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Silverfish",
+"parentTaxon":"lepismatidae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Lepisma saccharinum",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LepismaSaccharina.jpg/330px-LepismaSaccharina.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Silverfish"
+}

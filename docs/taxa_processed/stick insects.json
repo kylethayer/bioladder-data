@@ -1,0 +1,35 @@
+{
+"description":"",
+"popularity":60,
+"extinct":false,
+"name":"Stick insects",
+"parentTaxon":"polyneoptera subclade 7",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Order",
+"scientificName":"Phasmatodea",
+"otherNames":[
+"stick-bugs",
+"walkingsticks",
+"stick animals",
+"bug sticks"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/201412_stick_insect.png/330px-201412_stick_insect.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Phasmatodea",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

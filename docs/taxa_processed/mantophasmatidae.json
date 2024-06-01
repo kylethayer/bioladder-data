@@ -1,0 +1,36 @@
+{
+"description":"",
+"popularity":30,
+"extinct":false,
+"name":"Mantophasmatidae",
+"parentTaxon":"polyneoptera subclade 6",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"",
+"otherNames":[
+"gladiators",
+"rock crawlers",
+"heelwalkers",
+"mantophasmids",
+"mantos"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mantophasma_zephyra_Zompro_et_al_2002.jpg/330px-Mantophasma_zephyra_Zompro_et_al_2002.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mantophasmatidae",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

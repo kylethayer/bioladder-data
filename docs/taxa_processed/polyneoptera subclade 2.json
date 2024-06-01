@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Polyneoptera subclade 2",
+"parentTaxon":"polyneoptera",
+"exampleMember":"stoneflies",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"subtaxa":[
+"polyneoptera subclade 3",
+"stoneflies"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"stick insects",
+"icebugs",
+"stoneflies"
+],
+"popularSubtaxaPops":[
+60,
+50,
+50
+],
+"popularSubtaxaSameBranch":"0,1"
+}
