@@ -5,7 +5,7 @@
 "name":"Insect",
 "parentTaxon":"hexapoda",
 "popularSubtaxa":[
-"dragonfly",
+"grasshopper",
 "silverfish",
 "jumping bristletails"
 ],
@@ -33,7 +33,7 @@
 100
 ],
 "popularSubtaxaPops":[
-65,
+70,
 55,
 50
 ],

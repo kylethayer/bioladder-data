@@ -2,18 +2,18 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"pterygota",
-"parentTaxon":"dicondylia",
-"exampleMember":"mazothairos",
-"exampleMemberType":"Early Member",
-"taxonomicRank":"Subclass",
+"name":"Acrididea",
+"parentTaxon":"caelifera",
+"exampleMember":"tetrigidae",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Infraorder",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Pterygota",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Acrididea",
 "subtaxa":[
-"neoptera",
-"palaeoptera"
+"grasshopper",
+"tetrigidae"
 ],
 "popularAncestors":[
 "insect",
@@ -29,13 +29,11 @@
 ],
 "popularSubtaxa":[
 "grasshopper",
-"dragonfly",
-"earwig"
+"tetrigidae"
 ],
 "popularSubtaxaPops":[
 70,
-65,
-60
+40
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

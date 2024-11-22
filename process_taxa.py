@@ -160,6 +160,7 @@ while len(taxaForProcessing.keys())> 0:
     # where we will save our newly updated info
     popAncestorNames = [None, None, None, None]
     popAncestorPops = [None, None, None, None]
+    popAncestorPopsActual = [None, None, None, None]
     
     parentTaxon = taxonInfo["parentTaxon"]
     if(parentTaxon and parentTaxon != ""):

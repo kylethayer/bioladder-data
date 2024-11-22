@@ -4,14 +4,15 @@
 "extinct":false,
 "name":"Orthoptera",
 "parentTaxon":"polyneoptera subclade 3",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"pygmy mole cricket",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Orthoptera",
 "subtaxa":[
+"caelifera",
 "ensifera"
 ],
 "popularAncestors":[
@@ -27,14 +28,14 @@
 100
 ],
 "popularSubtaxa":[
+"grasshopper",
 "katydid",
-"true crickets",
-"dune crickets"
+"true crickets"
 ],
 "popularSubtaxaPops":[
+70,
 60,
-55,
-50
+55
 ],
 "popularSubtaxaSameBranch":"0,2"
 }

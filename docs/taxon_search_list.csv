@@ -24,6 +24,7 @@ Achelousaurus,,,10
 Achillesaurus,,,10
 Acorus,,,40
 Acouchi,,,50
+Acrididea,,,
 Acrocanthosaurus,,,10
 Acrodonta subclade 1,,,
 Acrodonta subclade 2,,,
@@ -516,6 +517,7 @@ Cabombaceae,,,
 Cacomistle,,Bassariscus sumichrasti,30
 Cacops,,,10
 Caecilian,,Apoda,50
+Caelifera,,,
 Caenagnathasia,,,10
 Caenagnathidae subclade 1,,,
 Caenagnathidae subclade 2,,,
@@ -1336,6 +1338,7 @@ Grass subclade 1,,,
 Grass subclade 2,,,
 Grass,,Poaceae,80
 Grasshopper mouse,,,50
+Grasshopper,,Acridomorpha,70
 Gray whale,,Eschrichtius,60
 Grazing antelope,,Hippotraginae,55
 Greater guinea pig,,,50
@@ -1901,6 +1904,7 @@ Mixosauria,,,
 Mixosaurus,,,10
 Moeritherium,,,10
 Moghreberia,,,10
+Mogoplistidae,,,
 Mollusk,"[""Mollusc""]",Mollusca,50
 Mongalla gazelle,,Eudorcas albonotata,50
 Mongolian gazelle,,Procapra gutturosa,50
@@ -2120,6 +2124,7 @@ Odobenocetops,,,10
 Odonata,,,
 Odonatoptera,,,
 Odontochelys,,,10
+Oecanthidae,,,
 Oedaleops,,,10
 Ojoceratops,,,10
 Okapi,,Okapia johnstoni,50
@@ -2344,6 +2349,7 @@ Petrolacosaurus,,,10
 Phacochoerini,,,
 Phacochoerus,"[""Warthog""]",,
 Phaenospermateae,,,10
+Phalangopsidae,,,
 Phalarodon,,,10
 Phalarodontinae,,,
 Pharoideae,,,30
@@ -2557,6 +2563,7 @@ Puku,,,50
 Pumiliopareia,,,10
 Pygmy hippopotamus,,Choeropsis,50
 Pygmy hog,,,50
+Pygmy mole cricket,,Tridactyloidea,50
 Pygmy rabbit,,Brachylagus,50
 Pygmy right whale,,Caperea,50
 Pygmy sperm whale,,Kogia breviceps,20
@@ -3015,6 +3022,7 @@ Tetrameryx,,,10
 Tetrapod,,,50
 Tetrapodomorpha,,,
 Tetrapulmonata,,,
+Tetrigidae,"[""groundhoppers"", "" pygmy grasshoppers"", "" pygmy devils""]",,40
 Tettigoniidea,,,
 Thecodontosaurus,,,10
 Thelodonti,,,
@@ -3090,6 +3098,7 @@ Tribrachidium,,,
 Triceratops,,,85
 Tricholepidion,,,30
 Trichopus,,,40
+Trigonidiidae,,,
 Trigonotarbida,,,10
 Trilobite,,Trilobita,50
 Trilobitomorpha subclade 1,,,

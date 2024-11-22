@@ -2,13 +2,13 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Orthoptera",
-"parentTaxon":"polyneoptera subclade 3",
+"name":"Caelifera",
+"parentTaxon":"orthoptera",
 "exampleMember":"pygmy mole cricket",
 "exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Orthoptera"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caelifera"
 }

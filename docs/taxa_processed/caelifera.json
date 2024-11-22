@@ -2,18 +2,18 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Polyneoptera subclade 3",
-"parentTaxon":"polyneoptera subclade 2",
-"exampleMember":"",
-"exampleMemberType":"",
+"name":"Caelifera",
+"parentTaxon":"orthoptera",
+"exampleMember":"pygmy mole cricket",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Caelifera",
 "subtaxa":[
-"orthoptera",
-"polyneoptera subclade 4"
+"acrididea",
+"pygmy mole cricket"
 ],
 "popularAncestors":[
 "insect",
@@ -29,13 +29,13 @@
 ],
 "popularSubtaxa":[
 "grasshopper",
-"katydid",
-"stick insects"
+"pygmy mole cricket",
+"tetrigidae"
 ],
 "popularSubtaxaPops":[
 70,
-60,
-60
+50,
+40
 ],
-"popularSubtaxaSameBranch":"0,1"
+"popularSubtaxaSameBranch":"0,2"
 }
