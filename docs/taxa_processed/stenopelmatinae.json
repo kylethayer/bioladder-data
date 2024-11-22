@@ -2,18 +2,19 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Polyneoptera subclade 2",
-"parentTaxon":"polyneoptera",
-"exampleMember":"stoneflies",
+"name":"Stenopelmatinae",
+"parentTaxon":"stenopelmatoidea",
+"exampleMember":"jerusalem cricket",
 "exampleMemberType":"Example Member",
-"taxonomicRank":"",
+"taxonomicRank":"Subfamily",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stenopelmatinae",
 "subtaxa":[
-"polyneoptera subclade 3",
-"stoneflies"
+"jerusalem cricket",
+"sia",
+"maxentius"
 ],
 "popularAncestors":[
 "insect",
@@ -28,14 +29,14 @@
 100
 ],
 "popularSubtaxa":[
-"katydid",
-"stick insects",
-"stoneflies"
+"jerusalem cricket",
+"sia",
+"maxentius"
 ],
 "popularSubtaxaPops":[
-60,
-60,
-50
+50,
+40,
+30
 ],
-"popularSubtaxaSameBranch":"0,1"
+"popularSubtaxaSameBranch":""
 }

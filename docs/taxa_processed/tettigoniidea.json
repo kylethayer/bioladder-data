@@ -4,14 +4,15 @@
 "extinct":false,
 "name":"Tettigoniidea",
 "parentTaxon":"ensifera subclade 1",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"katydid",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Tettigoniidea",
 "subtaxa":[
+"katydid",
 "stenopelmatoidea",
 "grigs"
 ],
@@ -28,14 +29,14 @@
 100
 ],
 "popularSubtaxa":[
+"katydid",
 "wētā",
-"grigs",
-"stenopelmatoidea"
+"grigs"
 ],
 "popularSubtaxaPops":[
-56,
-50,
-null
+60,
+55,
+50
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

@@ -1,0 +1,32 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Jerusalem cricket",
+"parentTaxon":"stenopelmatinae",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Tribe",
+"scientificName":"Stenopelmatini",
+"otherNames":[
+"potato bug"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jerusalemcricket.jpg/330px-Jerusalemcricket.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Jerusalem_cricket",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

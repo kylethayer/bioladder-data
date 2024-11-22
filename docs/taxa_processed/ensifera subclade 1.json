@@ -4,8 +4,8 @@
 "extinct":false,
 "name":"Ensifera subclade 1",
 "parentTaxon":"ensifera",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"dune crickets",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Unnamed Clade",
 "scientificName":"",
 "otherNames":[],
@@ -14,8 +14,7 @@
 "subtaxa":[
 "tettigoniidea",
 "dune crickets",
-"rhaphidophoridae",
-"rhaphidophoroidea"
+"rhaphidophoridae"
 ],
 "popularAncestors":[
 "insect",
@@ -30,12 +29,12 @@
 100
 ],
 "popularSubtaxa":[
-"wētā",
+"katydid",
 "dune crickets",
 "rhaphidophoridae"
 ],
 "popularSubtaxaPops":[
-56,
+60,
 50,
 40
 ],

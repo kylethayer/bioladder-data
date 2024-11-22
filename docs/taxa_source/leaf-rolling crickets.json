@@ -1,0 +1,16 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Leaf-rolling crickets",
+"parentTaxon":"stenopelmatoidea",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Gryllacrididae",
+"otherNames":[
+"raspy crickets"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Camptonotus_carolinensis_224571459.jpg/330px-Camptonotus_carolinensis_224571459.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Gryllacrididae"
+}
