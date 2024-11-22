@@ -2,18 +2,17 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Polyneoptera subclade 3",
-"parentTaxon":"polyneoptera subclade 2",
+"name":"Stenopelmatoidea",
+"parentTaxon":"tettigoniidea",
 "exampleMember":"",
 "exampleMemberType":"",
-"taxonomicRank":"",
+"taxonomicRank":"Superfamily",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Polyneoptera",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Stenopelmatoidea",
 "subtaxa":[
-"polyneoptera subclade 4",
-"orthoptera"
+"wētā"
 ],
 "popularAncestors":[
 "insect",
@@ -28,14 +27,10 @@
 100
 ],
 "popularSubtaxa":[
-"stick insects",
-"wētā",
-"true crickets"
+"wētā"
 ],
 "popularSubtaxaPops":[
-60,
-56,
-55
+56
 ],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxaSameBranch":""
 }

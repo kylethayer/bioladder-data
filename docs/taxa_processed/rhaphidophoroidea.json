@@ -2,18 +2,16 @@
 "description":"",
 "popularity":null,
 "extinct":false,
-"name":"Orthoptera",
-"parentTaxon":"polyneoptera subclade 3",
+"name":"Rhaphidophoroidea",
+"parentTaxon":"ensifera subclade 1",
 "exampleMember":"",
 "exampleMemberType":"",
 "taxonomicRank":"",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"https://en.wikipedia.org/wiki/Orthoptera",
-"subtaxa":[
-"ensifera"
-],
+"wikipediaPage":"https://en.wikipedia.org/wiki/Rhaphidophoridae",
+"subtaxa":[],
 "popularAncestors":[
 "insect",
 "arthropod",
@@ -26,15 +24,7 @@
 95,
 100
 ],
-"popularSubtaxa":[
-"wētā",
-"true crickets",
-"dune crickets"
-],
-"popularSubtaxaPops":[
-56,
-55,
-50
-],
-"popularSubtaxaSameBranch":"0,2"
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
 }

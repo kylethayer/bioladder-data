@@ -1006,6 +1006,7 @@ Dubreuillosaurus,,,10
 Dugong,,Dugong dugon,50
 Dugongidae,,,
 Duiker,,Cephalophinae,60
+Dune crickets,"[""splay-footed crickets""]",Schizodactyloidea,50
 Duriavenator,,,10
 Dvinosauria,,,
 Dvinosauroidea,,,
@@ -1042,6 +1043,7 @@ Einiosaurus,,,10
 Ekaltadeta,,,10
 Ekorus,,,
 Elaphrosaurus,,,10
+Elcanidae,,,10
 Elephant shrew,,Macroscelidea,50
 Elephantida,,,
 Elephantidae subclade 1,,,
@@ -1068,6 +1070,8 @@ Endocerida,,,10
 Endothiodon,,,10
 Ennatosaurus,,,10
 Ensete,,,30
+Ensifera subclade 1,,,
+Ensifera,,,
 Entognatha,,,30
 Entoprocta,,,10
 Eoabelisaurus,,,10
@@ -1336,9 +1340,11 @@ Grazing antelope,,Hippotraginae,55
 Greater guinea pig,,,50
 Greater kudu,,,50
 Greererpeton,,,10
+Grigs,,Prophalangopsidae,50
 Grippia,,,10
 Grippidia,,,
 Grossius,,,10
+Grylloidea,"[""crickets""]",,
 Gryposaurus,,,10
 Gualicho,,,10
 Guanaco,,Lama guanicoe,40
@@ -2610,6 +2616,8 @@ Rhachitomi subclade 1,,,
 Rhachitomi subclade 2,,,
 Rhachitomi,,,
 Rhampholeon,,,10
+Rhaphidophoridae,"[""cave crickets"", ""camel crickets"", ""spider crickets"", "" criders"", "" sprickets"", ""sand treaders"", ""jumping w\u0113t\u0101"", ""cave w\u0113t\u0101""]",,40
+Rhaphidophoroidea,,,
 Rhineceps,,,10
 Rhinesuchidae,,,
 Rhinesuchus,,,10
@@ -2874,6 +2882,7 @@ Stegosauridae,,,
 Stegosaurus,,,80
 Stellers sea cow,,Hydrodamalis gigas,30
 Stenocercus,,,50
+Stenopelmatoidea,,,
 Stenopterygius,,,30
 Steppe lemming,"[""Steppe vole""]",Lagurus lagurus,50
 Steppesaurus,,,10
@@ -3000,6 +3009,7 @@ Tetrameryx,,,10
 Tetrapod,,,50
 Tetrapodomorpha,,,
 Tetrapulmonata,,,
+Tettigoniidea,,,
 Thecodontosaurus,,,10
 Thelodonti,,,
 Thelyphonida,"[""whip scorpions"", ""vinegaroons""]",,10
@@ -3104,6 +3114,7 @@ Troodontidae subclade 3,,,
 Troodontidae,,,
 Tropidurinae,,,
 Tropidurus,,,50
+True crickets,,Gryllidae,55
 Tsaagan,,,10
 Tsuga,"[""hemlock""]",,50
 Tuatara,,Sphenodon,50
@@ -3257,6 +3268,7 @@ Wolverine,"[""Glutton"", ""Carcajou"", ""Skunk bear"", ""Quickhatch""]",Gulo gul
 Wombat,,Vombatidae,60
 Woodland thicket rat,,Grammomys dolichurus,50
 Wuerhosaurus,,,10
+Wētā,"[""king crickets""]",Anostostomatidae,56
 Xandarella,,,10
 Xandarellida subclade 1,,,
 Xandarellida subclade 2,,,

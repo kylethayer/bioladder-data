@@ -1,0 +1,32 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Dune crickets",
+"parentTaxon":"ensifera subclade 1",
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Family",
+"scientificName":"Schizodactyloidea",
+"otherNames":[
+"splay-footed crickets"
+],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schizodactylus_monstrosus_Rajasthan.jpg/330px-Schizodactylus_monstrosus_Rajasthan.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Schizodactylidae",
+"subtaxa":[],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

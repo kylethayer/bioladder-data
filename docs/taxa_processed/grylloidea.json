@@ -1,0 +1,38 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Grylloidea",
+"parentTaxon":"ensifera",
+"exampleMember":"true crickets",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Superfamily",
+"scientificName":"",
+"otherNames":[
+"crickets"
+],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Grylloidea",
+"subtaxa":[
+"true crickets"
+],
+"popularAncestors":[
+"insect",
+"arthropod",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+95,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"true crickets"
+],
+"popularSubtaxaPops":[
+55
+],
+"popularSubtaxaSameBranch":""
+}
