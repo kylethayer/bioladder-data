@@ -24,7 +24,7 @@ def home():
 
 @app.route("/index.js")
 def indexjs():
-    f = open("./index.js")
+    f = open("./index.js", encoding="utf-8")
     return Response(f.read(), mimetype='text/javascript')
 
 @app.route("/getTaxon")
@@ -33,7 +33,7 @@ def getTaxon():
     lowCaseTaxonName = taxonName.lower()
     try:
         print("loading " + "../docs/taxa_source/" + lowCaseTaxonName + ".json")
-        f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json")
+        f = open("../docs/taxa_source/" + lowCaseTaxonName + ".json", encoding="utf-8")
         return jsonify(json.loads(f.read()))
     except Exception as e:
         return jsonify({"error": str(e), "taxonName": lowCaseTaxonName})
@@ -44,7 +44,7 @@ def getProcessedTaxon():
     lowCaseTaxonName = taxonName.lower()
     try:
         print("loading " + "../docs/taxa_processed/" + lowCaseTaxonName + ".json")
-        f = open("../docs/taxa_processed/" + lowCaseTaxonName + ".json")
+        f = open("../docs/taxa_processed/" + lowCaseTaxonName + ".json", encoding="utf-8")
         return jsonify(json.loads(f.read()))
     except Exception as e:
         return jsonify({"error": str(e), "taxonName": lowCaseTaxonName})
@@ -73,12 +73,13 @@ def terminal(ws):
     global terminalWs
 
     terminalWs = ws
-    terminalWs.send(json.dumps({"type": "success"}))
-    while True:
-        data = ws.receive()
-        if data == 'close':
-            break
-        ws.send(data)
+    if(terminalWs != False):
+        terminalWs.send(json.dumps({"type": "success"}))
+        while True:
+            data = ws.receive()
+            if data == 'close':
+                break
+            ws.send(data)
 
 
 loop = None

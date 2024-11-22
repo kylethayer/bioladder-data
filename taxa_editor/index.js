@@ -2,7 +2,7 @@ let currentTaxon
 
 
 function isTaxonNameValid(taxonName){
-    return /^[-_\w\s'ñ]+$/.test(taxonName)
+    return /^[-_\w\s'ñēā]+$/.test(taxonName)
 }
 
 function init(){
