@@ -29,5 +29,8 @@
 "popularSubtaxa":[],
 "popularSubtaxaPops":[],
 "popularSubtaxaSameBranch":"",
-"additionalParentTaxa":[]
+"additionalParentTaxa":[],
+"additionalSubTaxa":[
+"human"
+]
 }

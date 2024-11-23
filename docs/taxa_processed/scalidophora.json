@@ -32,5 +32,6 @@
 "popularSubtaxaPops":[
 null
 ],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"",
+"additionalSubTaxa":[]
 }
