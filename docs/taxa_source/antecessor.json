@@ -1,14 +1,15 @@
 {
 "description":"",
-"popularity":"",
+"popularity":10,
 "extinct":true,
-"name":"Homo antecessor",
-"parentTaxon":"homo subclade 2",
+"name":"Antecessor",
+"parentTaxon":"erectus subclade 2",
+"additionalParentTaxa":[],
 "exampleMember":"",
-"exampleMemberType":"None",
+"exampleMemberType":"",
 "taxonomicRank":"Species",
-"scientificName":"",
+"scientificName":"Homo Antecessor",
 "otherNames":[],
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg/330px-Em_-_Homo_antecessor_child_model_-_2_%28cropped%29.jpg",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Homo_antecessor"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_antecessor"
 }

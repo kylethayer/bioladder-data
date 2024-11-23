@@ -1,0 +1,31 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Peking man",
+"parentTaxon":"erectus subclade 4",
+"additionalParentTaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Homo erectus pekinensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Homo_erectus_pekinensis_-_archeaeological.png",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Peking_Man",
+"subtaxa":[],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

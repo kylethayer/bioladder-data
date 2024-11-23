@@ -1,0 +1,31 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Floresiensis",
+"parentTaxon":"erectus subclade 3",
+"additionalParentTaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Homo floresiensis",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Homo_floresiensis_v_2-0.jpg/330px-Homo_floresiensis_v_2-0.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_floresiensis",
+"subtaxa":[],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

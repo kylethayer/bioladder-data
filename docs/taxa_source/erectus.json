@@ -1,14 +1,15 @@
 {
 "description":"",
 "popularity":50,
-"extinct":true,
-"name":"Homo erectus",
-"parentTaxon":"homo subclade 3",
+"extinct":false,
+"name":"Erectus",
+"parentTaxon":"homo",
+"additionalParentTaxa":[],
 "exampleMember":"",
-"exampleMemberType":"None",
+"exampleMemberType":"",
 "taxonomicRank":"Species",
-"scientificName":"",
+"scientificName":"Homo Erectus",
 "otherNames":[],
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg/330px-Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Homo_erectus"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_erectus"
 }

@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "human",
 "neanderthal",
-"homo erectus"
+"erectus"
 ],
 "exampleMember":"australopithecus afarensis",
 "exampleMemberType":"Early Member",
@@ -38,5 +38,5 @@
 60,
 50
 ],
-"popularSubtaxaSameBranch":"0,1"
+"popularSubtaxaSameBranch":""
 }

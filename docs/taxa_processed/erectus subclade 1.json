@@ -1,0 +1,42 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Erectus subclade 1",
+"parentTaxon":"erectus",
+"additionalParentTaxa":[],
+"exampleMember":"naledi",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg",
+"subtaxa":[
+"heidelbergensis",
+"naledi"
+],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"human",
+"neanderthal",
+"naledi"
+],
+"popularSubtaxaPops":[
+100,
+60,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
+}

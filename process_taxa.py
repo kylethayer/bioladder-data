@@ -57,7 +57,7 @@ def getMaxThisOrSubtaxaPopularity(taxonInfo):
     
     if("popularSubtaxa" in taxonInfo):
         for popSubtaxon in taxonInfo["popularSubtaxa"]:
-            if("popularity" in taxaInfo[popSubtaxon] and taxaInfo[popSubtaxon]["popularity"] != '' and taxaInfo[popSubtaxon]["popularity"] != None 
+            if(popSubtaxon in taxaInfo and "popularity" in taxaInfo[popSubtaxon] and taxaInfo[popSubtaxon]["popularity"] != '' and taxaInfo[popSubtaxon]["popularity"] != None 
                and taxaInfo[popSubtaxon]["popularity"] > taxonMaxPopularity):
                 taxonMaxPopularity = taxaInfo[popSubtaxon]["popularity"]
 

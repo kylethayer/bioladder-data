@@ -3,7 +3,7 @@
 "popularity":100,
 "extinct":false,
 "name":"Human",
-"parentTaxon":"homo subclade 1",
+"parentTaxon":"heidelbergensis",
 "popularSubtaxa":[],
 "exampleMember":"",
 "exampleMemberType":"None",
@@ -13,15 +13,15 @@
 "wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/330px-Akha_cropped_hires.JPG",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Human",
 "popularAncestors":[
+"erectus",
 "homo",
-"ape",
 "animal",
 "life"
 ],
 "subtaxa":[],
 "popularAncestorPops":[
 50,
-60,
+50,
 95,
 100
 ],

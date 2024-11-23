@@ -1,0 +1,42 @@
+{
+"description":"",
+"popularity":50,
+"extinct":false,
+"name":"Erectus",
+"parentTaxon":"homo",
+"additionalParentTaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Homo Erectus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg/330px-Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_erectus",
+"subtaxa":[
+"erectus subclade 1",
+"erectus subclade 2"
+],
+"popularAncestors":[
+"homo",
+"ape",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+60,
+95,
+100
+],
+"popularSubtaxa":[
+"human",
+"neanderthal",
+"antecessor"
+],
+"popularSubtaxaPops":[
+100,
+60,
+10
+],
+"popularSubtaxaSameBranch":"0,1"
+}

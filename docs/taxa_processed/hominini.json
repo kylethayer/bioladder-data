@@ -7,7 +7,7 @@
 "popularSubtaxa":[
 "human",
 "chimpanzee",
-"homo erectus"
+"neanderthal"
 ],
 "exampleMember":"sahelanthropus tchadensis",
 "exampleMemberType":"Early Member",
@@ -36,7 +36,7 @@
 "popularSubtaxaPops":[
 100,
 80,
-50
+60
 ],
 "popularSubtaxaSameBranch":"0,2"
 }

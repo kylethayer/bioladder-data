@@ -2,13 +2,14 @@
 "description":"",
 "popularity":50,
 "extinct":false,
-"name":"Homo",
+"name":"homo",
 "parentTaxon":"hominina subclade 1",
-"exampleMember":"homo habilis",
-"exampleMemberType":"Earliest Known Member",
-"taxonomicRank":"Genus",
-"scientificName":"",
+"additionalParentTaxa":[],
+"exampleMember":"habilis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Species",
+"scientificName":"Homo Erectus",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Homo"
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_erectus"
 }

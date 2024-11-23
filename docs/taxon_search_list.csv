@@ -212,6 +212,7 @@ Anomodontia subclade 3,,,
 Anomodontia subclade 4,,,
 Anomodontia,,,
 Anteater,,Vermilingua,70
+Antecessor,,Homo Antecessor,10
 Antennacanthopodia,,,10
 Anteosaur,,Anteosauria,30
 Anteosauridae,,,
@@ -904,6 +905,7 @@ Demandasaurus,,,10
 Dendrerpeton,,,10
 Dendrerpetontidae,,,
 Denebola,,,10
+Denisovan,,Homo Denisovan,10
 Deomyinae,,,
 Desert rat-kangaroo,,Caloprymnus campestris,30
 Desert warthog,,Phacochoerus aethiopicus,60
@@ -1113,6 +1115,11 @@ Equini,,,
 Equoidea,,,
 Equus subclade 1,,,
 Equus,,,40
+Erectus subclade 1,,,
+Erectus subclade 2,,,
+Erectus subclade 3,,,
+Erectus subclade 4,,,
+Erectus,,Homo Erectus,50
 Eriaxis,,,30
 Ericiolacerta,,,10
 Ericiolacertidae,,,
@@ -1224,6 +1231,7 @@ Firebrat,,Thermobia domestica,50
 Firmoss,,Huperziaceae,50
 Flagellaria,,,30
 Flagellicaudata,,,
+Floresiensis,,Homo floresiensis,10
 Florida mouse,,,50
 Flowering plant subclade 1,,,
 Flowering plant subclade 2,,,
@@ -1362,6 +1370,7 @@ Gymnophiona,,,
 Gymnure,"[""hairy hedgehog"", ""moonrat""]",Galericinae,20
 Gynerium,,,10
 Habanocnus,,,10
+Habilis,,Homo habilis,
 Hacrobia,"[""Cryptomonads-haptophytes assemblage""]",,
 Hadrosaurid,"[""duck-billed dinosaurs""]",Hadrosauridae,40
 Hadrosauriformes,,,
@@ -1389,6 +1398,7 @@ Harpymimus,,,10
 Hartebeest,,Alcelaphus buselaphus,60
 Hedgehog,,Erinaceinae,70
 Hedyosmum,,,50
+Heidelbergensis,,Homo heidelbergensis,
 Heleosaurus,,,10
 Heliconia,"[""lobster-claws"", ""wild plantains"", ""false bird-of-paradise""]",,30
 Helmeted iguana,,,50
@@ -1443,16 +1453,7 @@ Hominina subclade 1,,,
 Hominina,,,
 Homininae,,,
 Hominini,,,
-Homo antecessor,,,
-Homo erectus,,,50
-Homo ergaster,,,
-Homo floresiensis,"[""\""Flores Man\"""", ""nicknamed \""hobbit\""""]",,20
-Homo habilis,,,
-Homo rhodesiensis,,,
-Homo subclade 1,,,
-Homo subclade 2,,,
-Homo subclade 3,,,
-Homo,,,50
+homo,,Homo Erectus,50
 Honanotherium,,,
 Honey badger,,Mellivora,65
 Hoplophoneus,,,10
@@ -1549,6 +1550,7 @@ Japanese badger,,Meles anakuma,60
 Japanese relict dragonfly,,Epiophlebia superstes,50
 Japonolirion,,,40
 Jarvikina,,,10
+Java man,,Homo erectus erectus,10
 Jellyfish,,Medusozoa,80
 Jerboa,,,60
 Jerusalem cricket,"[""potato bug""]",Stenopelmatini,50
@@ -1990,6 +1992,7 @@ Myrmecophagidae,,,
 Mystriosuchus,,,10
 Naemorhedini,,,
 Naked mole-rat,"[""sand puppy"", ""desert mole rat""]",Heterocephalus glaber,60
+Naledi,,Homo Naledi,10
 Namaqua rock rat,,Aethomys namaquensis,50
 Nanger subclade 1,,,
 Nanger,,,
@@ -2334,6 +2337,7 @@ Pederpes,,,10
 Pedipalpi,,,
 Pegomastax,,,10
 Peirosauridae,,,
+Peking man,,Homo erectus pekinensis,10
 Pelecanimimus,,,10
 Pelorovis,,,10
 Peltobatrachus,,,10

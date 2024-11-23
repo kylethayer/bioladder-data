@@ -3,7 +3,7 @@
 "popularity":100,
 "extinct":false,
 "name":"Human",
-"parentTaxon":"homo subclade 1",
+"parentTaxon":"heidelbergensis",
 "additionalParentTaxa":[
 "denisovan",
 "neanderthal"

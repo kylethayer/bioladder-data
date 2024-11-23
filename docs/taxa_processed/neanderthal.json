@@ -1,9 +1,9 @@
 {
 "description":"Neanderthals are closely related to modern humans, differing in DNA by only 0.3%, just twice the variability across contemporary humans. Remains left by Neanderthals include bones and stone tools, which are found from western Europe to central Asia.",
 "popularity":60,
-"extinct":true,
+"extinct":false,
 "name":"Neanderthal",
-"parentTaxon":"homo subclade 1",
+"parentTaxon":"heidelbergensis",
 "exampleMember":"",
 "exampleMemberType":"",
 "taxonomicRank":"Species",
@@ -16,17 +16,18 @@
 "subtaxa":[],
 "popularAncestorPops":[
 50,
-60,
+50,
 95,
 100
 ],
 "popularAncestors":[
+"erectus",
 "homo",
-"ape",
 "animal",
 "life"
 ],
 "popularSubtaxa":[],
 "popularSubtaxaPops":[],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"",
+"additionalParentTaxa":[]
 }

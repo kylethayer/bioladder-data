@@ -2,20 +2,20 @@
 "description":"",
 "popularity":50,
 "extinct":false,
-"name":"Homo",
+"name":"homo",
 "parentTaxon":"hominina subclade 1",
 "popularSubtaxa":[
 "human",
 "neanderthal",
-"homo erectus"
+"erectus"
 ],
-"exampleMember":"homo habilis",
-"exampleMemberType":"Earliest Known Member",
-"taxonomicRank":"Genus",
-"scientificName":"",
+"exampleMember":"habilis",
+"exampleMemberType":"Early Member",
+"taxonomicRank":"Species",
+"scientificName":"Homo Erectus",
 "otherNames":[],
 "wikipediaImg":"",
-"wikipediaPage":"http://en.wikipedia.org/wiki/Homo",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_erectus",
 "popularAncestors":[
 "ape",
 "mammal",
@@ -23,9 +23,8 @@
 "life"
 ],
 "subtaxa":[
-"homo subclade 3",
-"homo floresiensis",
-"homo habilis"
+"erectus",
+"habilis"
 ],
 "popularAncestorPops":[
 60,
@@ -38,5 +37,6 @@
 60,
 50
 ],
-"popularSubtaxaSameBranch":"0,1"
+"popularSubtaxaSameBranch":"",
+"additionalParentTaxa":[]
 }

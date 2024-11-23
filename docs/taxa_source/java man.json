@@ -1,0 +1,15 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Java man",
+"parentTaxon":"erectus subclade 4",
+"additionalParentTaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Subspecies",
+"scientificName":"Homo erectus erectus",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_American_Museum_journal_%28c1900-%281918%29%29_%2817537510424%29.jpg/330px-The_American_Museum_journal_%28c1900-%281918%29%29_%2817537510424%29.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Java_Man"
+}

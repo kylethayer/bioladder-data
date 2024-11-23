@@ -1,0 +1,31 @@
+{
+"description":"",
+"popularity":10,
+"extinct":true,
+"name":"Naledi",
+"parentTaxon":"erectus subclade 1",
+"additionalParentTaxa":[],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"Homo Naledi",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Homo_naledi_facial_reconstruction.jpg/330px-Homo_naledi_facial_reconstruction.jpg",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Homo_naledi",
+"subtaxa":[],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[],
+"popularSubtaxaPops":[],
+"popularSubtaxaSameBranch":""
+}

@@ -1,0 +1,42 @@
+{
+"description":"",
+"popularity":null,
+"extinct":true,
+"name":"Erectus subclade 3",
+"parentTaxon":"erectus subclade 2",
+"additionalParentTaxa":[],
+"exampleMember":"floresiensis",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg",
+"subtaxa":[
+"erectus subclade 4",
+"floresiensis"
+],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"floresiensis",
+"java man",
+"peking man"
+],
+"popularSubtaxaPops":[
+10,
+10,
+10
+],
+"popularSubtaxaSameBranch":"0,2"
+}
