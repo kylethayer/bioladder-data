@@ -122,6 +122,17 @@ async function loadTaxon(taxonName){
     document.getElementById("parentTaxon_input").value=resultJSON.parentTaxon
     document.getElementById("parentTaxon_link").setAttribute("href", "#"+ resultJSON.parentTaxon)
     document.getElementById("parentTaxon_link").innerText = resultJSON.parentTaxon
+    document.getElementById("additionalParentTaxa_input").value = resultJSON.additionalParentTaxa ? resultJSON.additionalParentTaxa : ""
+    if(resultJSON.additionalParentTaxa && resultJSON.additionalParentTaxa.length > 0){
+        // make a href's for each entry (by index)
+        document.getElementById("additionalParentTaxa_links").innerHTML = 
+        resultJSON.additionalParentTaxa.map((value, index) => `<a href="#" id="additionalTaxon_link_${index}"></a>`).join(", ")
+        // fill in link attributes
+        resultJSON.additionalParentTaxa.map((additionalParentTaxon, index) => {
+            document.getElementById(`additionalTaxon_link_${index}`).setAttribute("href", "#"+ additionalParentTaxon)
+            document.getElementById(`additionalTaxon_link_${index}`).innerText = additionalParentTaxon
+        })
+    }
     document.getElementById("description_input").value=resultJSON.description
     document.getElementById("taxonomicRank_input").value=resultJSON.taxonomicRank
     document.getElementById("taxonomicRank_rawval").innerText=resultJSON.taxonomicRank
@@ -157,6 +168,8 @@ function clearAndDisplayEditor(taxonName){
     document.getElementById("parentTaxon_input").value= (new URLSearchParams(window.location.search)).get("parentTaxon")? (new URLSearchParams(window.location.search)).get("parentTaxon") : null
     document.getElementById("parentTaxon_link").setAttribute("href", null)
     document.getElementById("parentTaxon_link").innerText = null
+    document.getElementById("additionalParentTaxa_input").value = null
+    document.getElementById("additionalParentTaxa_links").innerHTML = ""
     document.getElementById("description_input").value=null
     document.getElementById("taxonomicRank_input").value=""
     document.getElementById("taxonomicRank_rawval").innerText=null
@@ -247,6 +260,10 @@ async function saveTaxon(){
         extinct: document.getElementById("extinct_input").checked,
         name: trim(document.getElementById("name_input").value),
         parentTaxon: trim(document.getElementById("parentTaxon_input").value.toLowerCase()),
+        additionalParentTaxa: document.getElementById("additionalParentTaxa_input").value
+            .split(",")
+            .map(value => trim(value).toLowerCase())
+            .filter(value => value), // remove blanks
         exampleMember: trim(document.getElementById("exampleMember_input").value.toLowerCase()),
         exampleMemberType: exampleMemberType,
         taxonomicRank: taxonomicRank,

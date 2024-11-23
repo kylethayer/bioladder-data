@@ -4,6 +4,10 @@
 "extinct":false,
 "name":"Human",
 "parentTaxon":"homo subclade 1",
+"additionalParentTaxa":[
+"denisovan",
+"neanderthal"
+],
 "exampleMember":"",
 "exampleMemberType":"None",
 "taxonomicRank":"Species",

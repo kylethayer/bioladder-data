@@ -26,5 +26,9 @@
 100
 ],
 "popularSubtaxaPops":[],
-"popularSubtaxaSameBranch":""
+"popularSubtaxaSameBranch":"",
+"additionalParentTaxa":[
+"denisovan",
+"neanderthal"
+]
 }

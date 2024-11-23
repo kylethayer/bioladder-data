@@ -4,6 +4,7 @@
 "extinct":false,
 "name":"Homo subclade 1",
 "parentTaxon":"homo subclade 2",
+"additionalParentTaxa":[],
 "exampleMember":"neanderthal",
 "exampleMemberType":"Earliest Known Member",
 "taxonomicRank":"Unnamed Clade",
