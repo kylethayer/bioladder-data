@@ -4,14 +4,17 @@
 "extinct":true,
 "name":"Euthycarcinoidea",
 "parentTaxon":"mandibulata",
-"exampleMember":"",
-"exampleMemberType":"",
+"exampleMember":"apankura",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Order",
 "scientificName":"",
 "otherNames":[],
 "wikipediaImg":"",
 "wikipediaPage":"https://en.wikipedia.org/wiki/Euthycarcinoidea",
-"subtaxa":[],
+"subtaxa":[
+"apankura",
+"sottyxerxes"
+],
 "popularAncestors":[
 "arthropod",
 "animal",
@@ -24,7 +27,13 @@
 50,
 100
 ],
-"popularSubtaxa":[],
-"popularSubtaxaPops":[],
+"popularSubtaxa":[
+"apankura",
+"sottyxerxes"
+],
+"popularSubtaxaPops":[
+10,
+10
+],
 "popularSubtaxaSameBranch":""
 }
