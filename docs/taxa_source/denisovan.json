@@ -3,7 +3,7 @@
 "popularity":10,
 "extinct":false,
 "name":"Denisovan",
-"parentTaxon":"heidelbergensis",
+"parentTaxon":"heidelbergensis subclade 1",
 "additionalParentTaxa":[],
 "exampleMember":"",
 "exampleMemberType":"",

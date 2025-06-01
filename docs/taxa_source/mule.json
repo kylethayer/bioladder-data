@@ -1,0 +1,17 @@
+{
+"description":"",
+"popularity":55,
+"extinct":false,
+"name":"Mule",
+"parentTaxon":"donkey",
+"additionalParentTaxa":[
+"horse"
+],
+"exampleMember":"",
+"exampleMemberType":"",
+"taxonomicRank":"Species",
+"scientificName":"E. africanus asinus♂ × E. ferus caballus♀",
+"otherNames":[],
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/09.Moriles_Mula.JPG/330px-09.Moriles_Mula.JPG",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Mule"
+}

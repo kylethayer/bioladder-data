@@ -3,7 +3,7 @@
 "popularity":60,
 "extinct":false,
 "name":"Neanderthal",
-"parentTaxon":"heidelbergensis",
+"parentTaxon":"heidelbergensis subclade 1",
 "additionalParentTaxa":[],
 "exampleMember":"",
 "exampleMemberType":"",

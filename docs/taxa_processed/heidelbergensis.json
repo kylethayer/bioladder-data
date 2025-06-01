@@ -14,8 +14,7 @@
 "wikipediaPage":"https://en.wikipedia.org/wiki/Homo_heidelbergensis",
 "subtaxa":[
 "human",
-"neanderthal",
-"denisovan"
+"heidelbergensis subclade 1"
 ],
 "popularAncestors":[
 "erectus",
@@ -39,6 +38,6 @@
 60,
 10
 ],
-"popularSubtaxaSameBranch":"",
+"popularSubtaxaSameBranch":"0,2",
 "additionalSubTaxa":[]
 }

@@ -1,0 +1,41 @@
+{
+"description":"",
+"popularity":null,
+"extinct":false,
+"name":"Heidelbergensis subclade 1",
+"parentTaxon":"heidelbergensis",
+"additionalParentTaxa":[],
+"exampleMember":"neanderthal",
+"exampleMemberType":"Example Member",
+"taxonomicRank":"Unnamed Clade",
+"scientificName":"",
+"otherNames":[],
+"wikipediaImg":"",
+"wikipediaPage":"https://en.wikipedia.org/wiki/Human_evolution#/media/File:Homo_lineage_2017update.svg",
+"subtaxa":[
+"neanderthal",
+"denisovan"
+],
+"additionalSubTaxa":[],
+"popularAncestors":[
+"erectus",
+"homo",
+"animal",
+"life"
+],
+"popularAncestorPops":[
+50,
+50,
+95,
+100
+],
+"popularSubtaxa":[
+"neanderthal",
+"denisovan"
+],
+"popularSubtaxaPops":[
+60,
+10
+],
+"popularSubtaxaSameBranch":""
+}

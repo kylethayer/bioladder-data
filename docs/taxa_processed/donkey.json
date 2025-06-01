@@ -4,7 +4,9 @@
 "extinct":false,
 "name":"Donkey",
 "parentTaxon":"wild asses subclade 3",
-"popularSubtaxa":[],
+"popularSubtaxa":[
+"mule"
+],
 "exampleMember":"",
 "exampleMemberType":"",
 "taxonomicRank":"Subspecies",
@@ -20,14 +22,18 @@
 "animal",
 "life"
 ],
-"subtaxa":[],
+"subtaxa":[
+"mule"
+],
 "popularAncestorPops":[
 50,
 70,
 95,
 100
 ],
-"popularSubtaxaPops":[],
+"popularSubtaxaPops":[
+55
+],
 "wiki_broken_img_checked":true,
 "popularSubtaxaSameBranch":"",
 "additionalSubTaxa":[]
