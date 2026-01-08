@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Ardipithecus",
 "parentTaxon":"hominina",
@@ -10,7 +10,7 @@
 "taxonomicRank":"Genus",
 "scientificName":"",
 "otherNames":[],
-"wikipediaImg":"https://upload.wikimedia.org/wikipedia/en/6/64/Ardipithecus_ramidus%2C_artistic_reconstruction.jpg",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nut_cracking_Ardipithecus.png/330px-Nut_cracking_Ardipithecus.png",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Ardipithecus",
 "popularAncestors":[
 "ape",

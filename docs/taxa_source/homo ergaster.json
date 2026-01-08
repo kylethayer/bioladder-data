@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":true,
 "name":"Homo ergaster",
 "parentTaxon":"homo subclade 3",
@@ -9,6 +9,6 @@
 "taxonomicRank":"Species",
 "scientificName":"",
 "otherNames":[],
-"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Homo_ergaster.jpg/330px-Homo_ergaster.jpg",
+"wikipediaImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Homo_ergaster_reconstruction%2C_American_Museum_of_Natural_History.jpg/330px-Homo_ergaster_reconstruction%2C_American_Museum_of_Natural_History.jpg",
 "wikipediaPage":"http://en.wikipedia.org/wiki/Homo_ergaster"
 }

@@ -1,6 +1,6 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Homininae",
 "parentTaxon":"hominidae",
@@ -9,8 +9,8 @@
 "chimpanzee",
 "gorilla"
 ],
-"exampleMember":"pierolapithecus",
-"exampleMemberType":"Earliest Known Member",
+"exampleMember":"dryopithecus",
+"exampleMemberType":"Example Member",
 "taxonomicRank":"Subfamily",
 "scientificName":"",
 "otherNames":[],
@@ -25,6 +25,7 @@
 "subtaxa":[
 "hominini",
 "gorilla",
+"dryopithecus",
 "pierolapithecus"
 ],
 "popularAncestorPops":[
