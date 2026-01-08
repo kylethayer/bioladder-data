@@ -1,10 +1,10 @@
 {
 "description":"",
-"popularity":"",
+"popularity":null,
 "extinct":false,
 "name":"Hominidae",
 "parentTaxon":"ape",
-"exampleMember":"pierolapithecus",
+"exampleMember":"dryopithecus",
 "exampleMemberType":"Early Member",
 "taxonomicRank":"Family",
 "scientificName":"",
